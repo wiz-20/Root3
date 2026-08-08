@@ -41,10 +41,53 @@ ENTITY_NAMES = {
 
 NUMERIC_FIELDS = ["revenue", "cost_of_sales", "trade_receivables", "trade_payables", "inventory"]
 
+# The fiscal year actually covered by the report content, as stated in each company's
+# extraction notes - NOT the year in the filename (those can mismatch: e.g. MTN's AFS
+# filename is dated March 2025 but the statements are for FY2024; Gold Fields/AngloGold/
+# Valterra have no year in their filename at all, so fiscal_year_detected is blank there).
+# This is the trustworthy column to filter/group on.
+CONTENT_FISCAL_YEAR = {
+    "angloamerican": 2025,
+    "angloashanti": 2025,
+    "aspen": 2025,
+    "bhp": 2025,
+    "bid": 2025,
+    "bidvest group": 2025,
+    "clicks": 2025,
+    "glencore": 2025,
+    "gold fields": 2025,
+    "mtn": 2024,
+    "naspe": 2026,
+    "nepi": 2025,
+    "out": 2025,
+    "pepkor": 2025,
+    "prosus": 2026,
+    "sanlam": 2023,
+    "shaftesbury": 2025,
+    "shoprite": 2025,
+    "valterra": 2024,
+    "vodacom": 2026,
+}
+
+# Most companies in this set report FY2025 or FY2026; anything older is flagged so it
+# can't be silently used at full confidence in a gap ranking alongside current peers.
+CURRENT_FY_THRESHOLD = 2025
+
+
+def vintage_flag(fiscal_year):
+    if fiscal_year is None:
+        return "unknown - verify fiscal year before use"
+    if fiscal_year >= CURRENT_FY_THRESHOLD:
+        return "current"
+    return f"STALE (FY{fiscal_year} vs. most peers FY2025/2026) - needs team decision on confidence weighting"
+
+
 FIELD_ORDER = [
     "entity_name",
     "source_file",
+    "fiscal_year",
     "fiscal_year_detected",
+    "data_vintage_flag",
     "currency",
     "fx_rate_to_zar",
     "fx_rate_date",
@@ -97,10 +140,13 @@ def main():
         currency = figures.get("currency", "")
         rate = rates.get(currency)
 
+        fiscal_year = CONTENT_FISCAL_YEAR.get(folder)
         row = {
             "entity_name": ENTITY_NAMES.get(folder, folder),
             "source_file": audit.get("chosen_file", ""),
+            "fiscal_year": fiscal_year,
             "fiscal_year_detected": audit.get("year_detected", ""),
+            "data_vintage_flag": vintage_flag(fiscal_year),
             "file_selection_flag": audit.get("flag", ""),
             "currency": currency,
             "fx_rate_to_zar": rate,

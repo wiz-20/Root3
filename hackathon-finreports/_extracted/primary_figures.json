@@ -11,7 +11,7 @@
   "bidvest group":   {"currency": "ZAR", "revenue": null,      "cost_of_sales": null,     "trade_receivables": 205.745571,"trade_payables": 14.128060,"inventory": null},
   "clicks":          {"currency": "ZAR", "revenue": 51426.992, "cost_of_sales": 36428.426,"trade_receivables": 3139.516, "trade_payables": 10912.537,"inventory": 7818.704},
   "glencore":        {"currency": "USD", "revenue": 247535,    "cost_of_sales": 241672,   "trade_receivables": 23826,   "trade_payables": 35614,   "inventory": 33955},
-  "gold fields":     {"currency": "USD", "revenue": 4500.7,    "cost_of_sales": 2747.0,   "trade_receivables": 251.4,   "trade_payables": 643.9,   "inventory": 1079.8},
+  "gold fields":     {"currency": "USD", "revenue": 8751.3,    "cost_of_sales": 3680.8,   "trade_receivables": 380.7,   "trade_payables": 908.1,   "inventory": 1156.0},
   "mtn":             {"currency": "ZAR", "revenue": 188001,    "cost_of_sales": null,     "trade_receivables": 34304,   "trade_payables": 57942,   "inventory": 1213},
   "naspe":           {"currency": "USD", "revenue": 10848,     "cost_of_sales": null,     "trade_receivables": 608,     "trade_payables": 1170,    "inventory": 347},
   "nepi":            {"currency": "EUR", "revenue": 624.348,   "cost_of_sales": null,     "trade_receivables": 113.533, "trade_payables": 179.289, "inventory": null},

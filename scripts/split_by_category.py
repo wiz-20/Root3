@@ -24,7 +24,10 @@ ROOT = Path(__file__).resolve().parent.parent
 EXTRACTED_DIR = ROOT / "hackathon-finreports" / "_extracted"
 MASTER = EXTRACTED_DIR / "financials_extracted.csv"
 
-COMMON = ["entity_name", "source_file", "fiscal_year_detected", "currency", "fx_rate_to_zar", "page_ref", "file_selection_flag"]
+COMMON = [
+    "entity_name", "source_file", "fiscal_year", "fiscal_year_detected", "data_vintage_flag",
+    "currency", "fx_rate_to_zar", "page_ref", "file_selection_flag",
+]
 
 CATEGORY_1 = COMMON + [
     "revenue_zar_m", "revenue_m", "revenue",

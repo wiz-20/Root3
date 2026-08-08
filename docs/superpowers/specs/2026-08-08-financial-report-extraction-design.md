@@ -86,6 +86,25 @@ One row per company:
 
 Output columns added to `financials_extracted.csv`: `currency`, `fx_rate_to_zar`, `fx_rate_date`, and `{field}_m` / `{field}_zar_m` pairs for the five core numeric fields.
 
+### Step 5 — Data quality corrections (post-review)
+
+A team review of the first pass caught one genuine bug and surfaced two decisions:
+
+**Bug fixed:** Gold Fields' file-selection regex (`\bafr\b`) never matched `AFR2025.pdf` / `AFR2024.pdf` because regex word-boundaries don't split a letter directly followed by a digit (both count as `\w`) - `"AFR2025"` has no boundary between `R` and `2`. This silently fell back to an undated file that turned out to be FY2023 content, so Gold Fields' revenue was reported at roughly half its real FY2025 size (USD 4,500.7m vs. the actual USD 8,751.3m). Fixed in `extract_financials.py`'s `normalize()` by inserting a space at letter/digit boundaries before pattern matching. Re-running file selection across all 20 companies confirmed this was the *only* company affected (the only folder with a bare `LETTERS<year>` filename pattern); Gold Fields was re-extracted from the corrected `AFR2025.pdf` and the new revenue figure (USD 8,751.3m) was independently cross-checked against a known-correct reference value - exact match.
+
+**Decision needed, not a bug — `cost_of_sales` is null for 10/20 companies:** Anglo American, BHP, The Bidvest Group, MTN, Naspers, NEPI Rockcastle, OUTsurance, Sanlam, Shaftesbury Capital, Vodacom. This tracks sector, not extraction quality: 2 insurers (OUTsurance, Sanlam) and 2 REITs (NEPI, Shaftesbury) structurally have no COGS line; 2 telcos (MTN, Vodacom) and 1 tech/e-commerce group (Naspers) report cost breakdowns instead of a single COGS figure; Bidvest's row is Company-level (holding company, no trading costs); Anglo American and BHP are miners that disclose cost *components* (employee costs, third-party commodity purchases, consumables, logistics, royalties, D&A) rather than one "cost of sales" total. **Recommendation:** for Pillar 1 (Transactional Banking) modeling, use **total operating costs** (sum of disclosed cost components, already captured in each row's free-text `cost_of_sales`/`operating_expenses` fields) as the proxy for these 10, rather than treating them as zero or excluding them from the pillar. This is a modeling decision for the team to sign off on, not something this extraction step should decide unilaterally - and it's a legitimate methodology talking point ("we detected and handled sector-driven reporting differences") rather than a limitation to bury.
+
+**Housekeeping - fiscal year backfill:** `fiscal_year_detected` (parsed from the filename) was blank for AngloGold Ashanti, Gold Fields (now fixed), and Valterra Platinum, because none of their filenames contain a usable year. Added a `fiscal_year` column derived from the actual report content instead (stated fiscal year-end in each company's extraction notes), plus a `data_vintage_flag` column that flags any company whose content fiscal year is older than FY2025 as `STALE` rather than letting it blend in silently:
+
+| Company | Content fiscal year | Vintage |
+|---|---|---|
+| MTN Group | FY2024 | STALE — AFS-labeled file available is a year older than the Integrated Report also in the folder; picked per the team's "prefer AFS" rule, but flagged since peers are FY2025/2026 |
+| Sanlam | FY2023 | STALE — 2 years old vs. peers |
+| Valterra Platinum | FY2024 | STALE — FY2025 AFS not present in the folder |
+| All other 17 companies | FY2025 or FY2026 | current |
+
+The team should decide whether STALE rows go into the gap ranking at full confidence, get an asterisk, or get down-weighted - this column exists so that decision can't be skipped by accident.
+
 ## Out of scope (for this step)
 
 - Fully automated LLM-API extraction (no key available/needed — agent does the reading).

@@ -103,8 +103,15 @@ def sort_key(path: Path) -> tuple:
 
 
 def normalize(filename: str) -> str:
-    """Turn separators into spaces so word-boundary regexes work across Foo_AFS.pdf, Foo-AFS.pdf, etc."""
-    return re.sub(r"[-_]+", " ", filename)
+    """Turn separators into spaces so word-boundary regexes work across Foo_AFS.pdf, Foo-AFS.pdf, AFR2025.pdf, etc.
+
+    Two passes: explicit separators (-, _) become spaces, then a letter/digit boundary
+    (e.g. "AFR2025" -> "AFR 2025") is inserted - \\b alone doesn't split these since digits
+    and letters are both \\w characters, so "AFR2025" has no regex word boundary at all
+    between "R" and "2". Without this, AFR2025.pdf silently fails to match \\bafr\\b.
+    """
+    spaced = re.sub(r"[-_]+", " ", filename)
+    return re.sub(r"(?<=[A-Za-z])(?=[0-9])|(?<=[0-9])(?=[A-Za-z])", " ", spaced)
 
 
 def select_file(folder: Path) -> tuple[Path, str, int | None, str]:
