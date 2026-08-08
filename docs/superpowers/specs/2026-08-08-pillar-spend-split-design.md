@@ -1,6 +1,6 @@
 # Syn Bank Product Pillar Spend Split — Design
 
-**Date:** 2026-08-08
+**Date:** 2026-08-08 (revised 2026-08-08 — narrowed from 5 to 3 pillars per team decision)
 **Status:** Approved
 **Context:** Syn Bank Share of Wallet Intelligence Engine (see `PLAN.md`). This is the first piece of PLAN.md Section 5 Step 4, "Internal wallet share build" — it defines how Syn Bank's three internal datasets get mapped into the product-pillar taxonomy that the wallet model will later compare against externally-estimated Total Wallet, pillar by pillar.
 
@@ -10,17 +10,15 @@ We have three internal datasets (`transactional_banking.csv`, `cross_border_paym
 
 ## Pillar Taxonomy
 
-Five pillars, chosen to mirror Syn Bank's own product pillars so internal capture and external wallet estimates line up 1:1 later:
+Three pillars — scoped deliberately to only the parts of the wallet where Syn Bank has internal data to measure a share from. The project's core question is "what share does Syn Bank hold, and where's the gap," which only computes for pillars with a real internal numerator. (An earlier 5-pillar draft included Lending/DCM and IB/Advisory as zero-signal placeholders; the team cut them rather than model an internal share of zero.)
 
-| Pillar | Internal source | External signal (used in a later step) |
-|---|---|---|
-| Transactional Banking / Cash Management | `transactional_banking.csv` | revenue size |
-| Trade Finance | `trade_finance.csv` | inventory + cost of sales |
-| FX / Global Markets | `cross_border_payments.csv` | foreign revenue % |
-| Lending / Debt Capital Markets | none | debt schedules + SENS bond issuances |
-| Investment Banking / Advisory | none | SENS announcements (rights issues, M&A, capital raising) |
+| Pillar | Syn Bank data to use | External/company financial data to look for | Purpose |
+|---|---|---|---|
+| 1. Transactional Banking | `transactional_banking.csv` — transaction values, payment/collection activity, transaction frequency, inbound/outbound flows | Revenue, cost of sales, operating expenses, cash flow from operations, trade receivables, trade payables | Estimate the scale of the client's day-to-day payment and collection activity |
+| 2. Trade & Working Capital | `trade_finance.csv` — letters of credit, guarantees, export collections, trade values, tenor, import/export direction | Inventory, COGS, trade receivables, trade payables, imports/exports, working-capital movements, disclosed trade facilities/guarantees/LCs | Estimate the client's trade-finance and working-capital requirement |
+| 3. Foreign / Cross-Border | `cross_border_payments.csv` — cross-border payment value, currency pair, direction, counterparty country, corridor, transaction frequency | Foreign revenue, foreign operating costs, geographic revenue, foreign-currency assets/liabilities, FX gains/losses, disclosed currency exposure, imports/exports | Estimate the client's international/foreign-currency banking activity |
 
-Lending/DCM and IB/Advisory have **no internal data by construction** — Syn Bank's transaction data structurally cannot see these product lines for competitor-held facilities. Rather than omit them, every client gets a row for all 5 pillars, with the two data-free pillars carrying `internal_spend_zar = 0` and `has_internal_signal = False`. This makes the gap explicit and keeps the pillar set consistent for later joins against the external wallet estimate (which *will* have signal for all 5).
+Every pillar has real internal signal by construction — no placeholder rows, no zero-signal flag needed.
 
 ## Time Window
 
@@ -54,11 +52,10 @@ def build_pillar_rows(df: pd.DataFrame, pillar_name: str, amount_col: str) -> pd
         .rename(columns={amount_col: "internal_spend_zar"})
     )
     grouped["pillar"] = pillar_name
-    grouped["has_internal_signal"] = True
     return grouped
 ```
 
-Called once per source dataset with the right `pillar_name` and `amount_col`, then concatenated. Two placeholder rows per client (Lending/DCM, IB/Advisory) are unioned in afterward with `internal_spend_zar = 0.0` and `has_internal_signal = False`, using the same `entity_id, entity_name, sector` keys pulled from the entity list already validated in notebook Section 4.
+Called once per source dataset with the right `pillar_name` and `amount_col`, then concatenated — no placeholder rows needed since all three pillars have real data.
 
 **Result — `pillar_spend_long`:**
 
@@ -67,11 +64,10 @@ Called once per source dataset with the right `pillar_name` and `amount_col`, th
 | `entity_id` | str | |
 | `entity_name` | str | |
 | `sector` | str | |
-| `pillar` | str | one of the 5 pillar names above |
+| `pillar` | str | one of the 3 pillar names above |
 | `internal_spend_zar` | float | gross flow, trailing 12 months |
-| `has_internal_signal` | bool | False only for Lending/DCM and IB/Advisory |
 
-This is the single source of truth. All downstream views (wide table, charts) derive from it rather than recomputing.
+This is the single source of truth. All downstream views (wide form, charts) derive from it rather than recomputing.
 
 ## Pivot — Wide Form (display/export)
 
@@ -90,7 +86,7 @@ for col in pillar_cols:
     )
 ```
 
-`pillar_spend_wide` is one row per client, one column per pillar, plus a total and a per-pillar `pct_of_total` (the client's captured-wallet mix — e.g. "82% transactional, 12% trade finance, 6% FX, 0% lending, 0% IB"). This is the table that later joins against the external Total Wallet estimate, pillar-for-pillar, to compute the gap.
+`pillar_spend_wide` is one row per client, one column per pillar, plus a total and a per-pillar `pct_of_total` (the client's captured-wallet mix — e.g. "82% transactional, 12% trade & working capital, 6% foreign/cross-border"). This is the table that later joins against the external Total Wallet estimate, pillar-for-pillar, to compute the gap.
 
 ## Where This Lives
 
@@ -111,4 +107,4 @@ This renumbers everything after it in `wallet_engine.ipynb` by one (the PLAN.md 
 
 - Trailing-12-month window (2025-07 to 2026-06) is used as "current" wallet share; this discards 2 years of history that could show trend but keeps the snapshot time-consistent with external evidence.
 - Gross flow (not net) is treated as the wallet-size proxy, consistent with how banks earn fees on both directions of a flow.
-- Lending/DCM and IB/Advisory pillars have zero internal signal by construction — Syn Bank's data cannot see competitor-held facilities in these product lines. This is a structural gap in the numerator, not a data quality issue, and should be called out explicitly wherever the pillar mix is presented (dashboard, briefing notes) so a 0% share in these two pillars isn't misread as "no lending/IB need" rather than "no internal visibility."
+- **Scope decision:** the wallet-share comparison (internal capture vs. external Total Wallet) is limited to the three pillars where Syn Bank has internal data — Transactional Banking, Trade & Working Capital, Foreign/Cross-Border. Lending/Debt Capital Markets and Investment Banking/Advisory are explicitly out of scope for the *share* calculation: Syn Bank's transaction data has no visibility into competitor-held facilities in those product lines, so there is no internal numerator to compute a share from. Any lending or IB/advisory opportunity signal (debt schedules, SENS bond issuances, M&A announcements) should be surfaced separately in the external research / briefing-note layer, not folded into the 3-pillar gap ranking. This should be stated plainly in the methodology appendix so reviewers don't read the 3-pillar scope as "Syn Bank has no lending or IB exposure" rather than "the model doesn't attempt to measure it."
