@@ -1,0 +1,6412 @@
+Source: Bidcorp-2025-AFS.pdf
+Total relevant pages extracted: 47
+================================================================================
+
+--- PAGE 8 (matched: context) ---
+Audit and risk committee report
+This is the report of the group audit and risk committee (committee or GARC) appointed for the financial 
+year ended June 30 2025, in compliance with the Companies Act and in terms of the JSE Listings 
+Requirements.
+The committee has a board-approved charter which is aligned with the aforementioned legislation and 
+regulations, and is reviewed and adopted biennially, most recently approved at the board meeting held 
+on August 27 2024. The charter is in line with the recommendations as set out in King IVTM. Copies are 
+available from the company secretariat on request or can be downloaded from the group website.
+The committee has discharged its responsibilities as mandated by the board and its statutory duties in 
+compliance with the Companies Act.
+Under the single chairmanship of Mrs H Wiseman for the group, with the dual chairmanship of 
+Mrs H Wiseman and Mr TJ Brown for divisional audit and risk committees (DARCs), the board is 
+satisfied that this committee makes a strong contribution to the overall governance and oversight role 
+provided to the group.
+Membership
+This committee was constituted by a shareholders’ special resolution passed on April 4 2016. 
+The committee, as per its charter, must comprise a minimum of three (3) members, all of whom, 
+including the chairman, must be independent non-executive directors.
+The appointment of committee members for the financial year ended June 30 2025 was approved by 
+shareholders’ resolution at the annual general meeting held on October 31 2024.
+The committee members comprise Mrs H Wiseman (chairman), Mesdames T Abdool-Samad and 
+KR Moloko, and Messrs PC Baloyi and NG Payne. Committee membership therefore includes five (5) 
+independent non-executive directors, thus exceeding charter and statutory requirements.
+The shareholders will be requested to approve the appointment of the chairman and members to the 
+committee for the 2026 financial year at the annual general meeting scheduled for Thursday, 
+October 30 2025.
+The committee members are all financially literate. The board considers the membership of the committee 
+adequate and sufficiently qualified to perform the duties in line with the charter and Companies Act 
+requirements. The committee, its chairman and members are assessed annually. A brief profile of each 
+committee member can be viewed on the board of directors’ CVs included in the 2025 annual 
+reporting suite.
+The committee’s work is supported by five (5) DARCs. These DARCs play a vital role in the risk and 
+assurance oversight of the five (5) reporting segments being Australasia, United Kingdom, Europe, 
+Emerging Markets, and Corporate Services. Findings from these five (5) DARCs are reported to the 
+committee quarterly (bi-annually for Corporate Services).
+The Australasia, United Kingdom, and Corporate Services DARCs are chaired by Mrs H Wiseman, who 
+also chairs this committee. Mr TJ Brown performs the role of independent external adviser, member of 
+the Australasia, United Kingdom, and Corporate Services DARCs, and chairman of the Europe and 
+Emerging Markets DARCs. Mr DE Cleasby, Bidcorp CFO, is also a member of all the DARCs. 
+The committee was satisfied with the membership structure and effectiveness of the DARCs as well as 
+the escalation of critical issues from the DARCs to the GARC.
+Each business within the group presents at the respective geographically defined quarterly DARC 
+meetings, which are also attended by group management and internal audit representatives, as well as 
+the external auditors. There is a standing invitation to all GARC members wishing to attend DARC and 
+other related meetings.
+Purpose
+The purpose of the committee is to:
+• assist the board in discharging its duties relating to the safeguarding of assets, the operation 
+of adequate systems, control and reporting processes, and the preparation of accurate reporting and 
+financial statements in compliance with the applicable legal requirements and accounting standards;
+• oversee the suitability, appointment, independence and performance of the external auditors, and their 
+objectivity and professional scepticism in conducting a robust audit;
+• oversee the activities of, and ensure coordination between, the internal and external audit;
+• oversee information and technology to achieve integration of people, technologies, information, and 
+processes, as well as ensure business resilience, and ethical and responsible use of data and 
+technology;
+• provide a forum for discussing financial, enterprise-wide, market, regulatory, tax compliance, safety, 
+and other risks and control issues, and monitor controls designed to minimise these risks;
+• oversee the reasonableness of insurance coverage for the group;
+• review the Bidcorp annual integrated report, in conjunction with the environmental, social and ethics 
+committee, including the consolidated and separate financial statements, the interim report, and any 
+other public reports or announcements containing financial information;
+• receive and deal with any complaints concerning internal audit, the accounting practices, or the 
+content and audit of the annual financial statements and related matters;
+• review fraud and whistleblowing reports from across the group and monitor and assess the 
+effectiveness of remedial actions, in conjunction with the environment, social and ethics 
+committee; and
+• regularly review the committee’s charter and annually review its output to report on the effectiveness 
+of the committee to the board.
+6
+BIDCORP I CONSOLIDATED ANNUAL FINANCIAL STATEMENTS 2025
+
+--- PAGE 9 (matched: receivables_payables) ---
+Attendance
+The names of the members who were in office during the period under review and the committee 
+meetings attended by each of the members are as follows:
+Q4 F2024
+Q4 F2024
+Q1 F2025
+Q2 F2025
+Q3 F2025
+Q4 F2025
+Q4 F2025
+August 20
+August 22 November 11 February 20
+May 15
+August 19
+August 21
+Members
+2024
+2024
+2024
+2025
+2025
+2025
+2025
+H Wiseman 
+(chairman)
+^
+^
+^
+^
+^
+^
+^
+T Abdool-Samad
+^
+^
+^
+^
+^
+^
+^
+PC Baloyi
+^
+^
+^
+^
+^
+^
+^
+KR Moloko
+^
+^
+^
+A
+^
+^
+^
+NG Payne
+^
+^
+^
+^
+^
+^
+^
+^ Attended in person, by video conference, or by teleconference.
+A Apologies.
+The chief executive officer, chief financial officer, senior external audit partner, group internal audit 
+manager, and DARC members attend committee meetings as permanent invitees and have unrestricted 
+access to the GARC chairman and members in relation to any matter falling within the committee’s remit.
+Closed sessions are arranged for committee members to engage independently with internal audit, 
+external audit, and finance management at the year-end committee meetings.
+Duties carried out
+The committee has successfully performed its duties during the financial year under review. In the 
+fulfilment of these duties, the major areas of focus were reviewing accounting for new business 
+acquisitions, assessing the carrying value of property, goodwill, intangibles; assessing the valuation of put 
+option liabilities; assessing the recoverability of trade receivables, valuation of inventory, customer and 
+supplier rebates, taxation, treatment of share-based payments, as well as other matters requiring 
+significant judgement. The chairman held regular meetings with senior management, the internal audit 
+function, and the external auditors to discuss specific matters arising during the year.
+The committee continued to be appraised of the progress of investigations by the Hong Kong and Chinese 
+authorities and avenues for recovery of losses incurred in the Miumi fraud uncovered in the Miumi division of 
+Angliss Greater China in late June 2021. Appropriate actions continue to be taken against the perpetrators in 
+accordance with Bidcorp’s fraud prevention, anti-bribery and corruption policy. 
+The committee assessed risks associated with management override of controls; the ability of the group 
+to continue as a going concern, review of related-party transactions, the overall presentation of the 
+financial information to shareholders, engagement with and review of the application of JSE proactive 
+monitoring, and other pronouncements to group reporting, as well as the review of the 2025 annual 
+reporting suite. The committee reviewed the risks including food quality and safety, data security and 
+stability, and business continuity risks, that could materially impact the ability of the group to deliver 
+against its objectives and the related mitigation plans, providing feedback where appropriate.
+The committee, in conjunction with the environmental, social and ethics committee, monitored 
+developments during the year in sustainability reporting as well as the trends in sustainability disclosure 
+requirements adopted around the world, particularly in the UK, Europe and Australia. The DARCs 
+continued to monitor the ESG metrics tabled by each business at the quarterly DARC meetings, which 
+are then aggregated to form the sustainability disclosures in the 2025 annual reporting suite, and are 
+reviewed and approved by this committee and the environmental, social and ethics committee.
+The committee confirms the following statutory and delegated duties were adequately addressed and 
+sets out the results below:
+Financial statements and accounting practices
+The committee:
+• confirmed, based on management’s review, that the consolidated and separate Bidcorp company 
+financial statements were prepared on a going-concern basis;
+• examined the consolidated and separate financial statements, and other financial information made 
+public, prior to their approval by the board;
+• considered accounting treatments, significant or unusual transactions, and accounting judgements;
+• considered the appropriateness of accounting policies and any changes made in the year;
+• considered any legal and tax matters that could materially affect the financial statements;
+• met separately with management, external audit, and internal audit, and satisfied themselves that no material 
+control weaknesses exist; and
+• notes that no formal complaints were received relating to the group’s accounting practices, internal 
+audit, external audit, internal financial controls, and related matters.
+External audit
+The committee:
+• recommended the appointment of PricewaterhouseCoopers Inc (PwC) as Bidcorp’s external auditors 
+and Mr L de Wet as the independent and accredited auditor, to the shareholders for appointment for 
+the financial year ended June 30 2025, of the group and company, and ensured that the 
+appointments comply with legal and regulatory requirements for the appointment of an audit firm and 
+designated auditor;
+• approved the external audit engagement letter, the audit plan, and the budgeted audit fees payable 
+to the external auditors;
+• determined the nature and extent of all non-audit services provided by the independent auditors and 
+pre-approved all non-audit services undertaken;
+• obtained assurances from the independent auditor that adequate accounting records were being 
+maintained; and
+• confirmed that no reportable irregularities were identified or reported by the independent auditor under 
+the Auditing Profession Act.
+7
+BIDCORP I CONSOLIDATED ANNUAL FINANCIAL STATEMENTS 2025
+Audit and risk committee report continued
+
+--- PAGE 10 (matched: context) ---
+Audit and risk committee report continued
+Independence of external auditors, PwC
+The committee:
+• reviewed representations made by PwC to the committee;
+• confirmed that the auditor did not, except as external auditors or in rendering permitted non-audit 
+services, receive any remuneration or other benefit from the group;
+• confirmed the auditors’ independence was not impaired by any consultancy, advisory, or other work 
+undertaken; and
+• considered the criteria specified for independence by the Independent Regulatory Board for Auditors 
+and international regulatory bodies and found no cause for concern or doubt of the independence 
+of the external auditors, PwC.
+Internal control and internal audit
+The committee:
+• approved the annual internal audit plans as an appropriate risk-based audit approach for the year 
+under review;
+• evaluated and was satisfied with the independence, effectiveness, and performance of the internal 
+audit function;
+• considered the reports of the internal auditors on the group’s systems of internal controls including 
+financial controls, business risk management and information technology risk management, and 
+maintenance of effective internal control systems;
+• reviewed issues raised by internal audit and the adequacy of corrective action taken by management 
+in response thereto;
+• reviewed incidences of fraud where they have arisen including investigating causes, assessing 
+weaknesses in internal controls, and monitoring and assessing the effectiveness, of remedial action 
+taken;
+• reviewed and considered the approach adopted by executive management to assess the state of the 
+financial control environment, obtaining a body of evidence to support their signed positive attestation 
+to the JSE confirming the robustness of the financial control environment; and
+• concluded the opinion recommended to the board at yearend that there were no material breakdowns 
+in internal controls.
+Risk management
+The committee:
+• reviewed the group’s risk tolerance and risk appetite;
+• reviewed the group’s policies and approach to risk management and found them to be sound;
+• considered all material risks to which the group is exposed, ensuring that the requisite risk 
+management culture, policies, and systems are functioning effectively to mitigate these risks;
+• confirmed that management is accountable to the board for implementing and monitoring the 
+processes of risk management and integrating this into day-to-day activities. These processes are 
+confirmed on an ongoing basis through the completion of the quarterly management representation 
+letters signed and submitted to the respective DARC;
+• performed ongoing monitoring of the enterprise-wide risk assessment process to ensure risks and 
+opportunities were adequately identified, evaluated, and managed at the appropriate level in each 
+business, and that the individual and joint impact of risks identified on the group was considered;
+• assessed the group’s approach to managing and mitigating IT risks including cybersecurity, data 
+protection, business continuity, and disaster recovery across the decentralised businesses that are 
+responsible for managing their independent IT environments. The committee has commenced 
+oversight of the group’s evolving adoption of generative artificial intelligence, including understanding 
+of current initiatives and learnings. The committee will oversee management’s assessment of material 
+risks and opportunities as adoption matures;
+• reviewed legal matters that could have a material impact on the group, as well as considering the 
+adequacy and effectiveness of the group’s procedures to ensure compliance with legal, tax, and 
+regulatory responsibilities;
+• monitored the group’s insurance coverage and deemed it adequate; and
+• considered reports provided by management, internal assurance providers, and the independent 
+auditors regarding compliance with legal, tax, and regulatory requirements and found Bidcorp’s 
+processes to be sound and effective.
+Regulatory compliance
+The committee obtained confirmation from management that they have identified and addressed the 
+significant in-country legislative, regulatory, and taxation requirements and that they ensure that all 
+information and/or data is secured and protected. The committee assessed the group’s application of the 
+OECD Pillar II global minimum tax rules in the jurisdictions in which it operates.
+Combined assurance
+The committee reviewed the plans and reports of the external and internal auditors, as well as other 
+assurance providers including management, and concluded that these were adequate to address all 
+significant financial risks facing the business.
+Chief financial officer (CFO) and finance function
+The committee:
+• considered the appropriateness of the experience and expertise of the CFO and concluded that this 
+is appropriate;
+• considered the expertise, resources, and experience of the group-wide finance function and concluded 
+that these are appropriate; and
+• concluded that it is satisfied the appropriate reporting procedures are in place and operating effectively.
+8
+BIDCORP I CONSOLIDATED ANNUAL FINANCIAL STATEMENTS 2025
+
+--- PAGE 26 (matched: context) ---
+We communicate with the directors regarding, among other matters, the planned scope and timing 
+of the audit and significant audit findings, including any significant deficiencies in internal control that 
+we identify during our audit.
+We also provide the directors with a statement that we have complied with relevant ethical requirements 
+regarding independence, and to communicate with them all relationships and other matters that may 
+reasonably be thought to bear on our independence, and where applicable, actions taken to eliminate 
+threats or safeguards applied.
+From the matters communicated with the directors, we determine those matters that were of most 
+significance in the audit of the consolidated and separate financial statements of the current period and 
+are therefore the key audit matters. We describe these matters in our auditor’s report unless law 
+or regulation precludes public disclosure about the matter or when, in extremely rare circumstances, 
+we determine that a matter should not be communicated in our report because the adverse 
+consequences of doing so would reasonably be expected to outweigh the public interest benefits 
+of such communication.
+Report on other legal and regulatory requirements
+Audit tenure
+In terms of the IRBA Rule published in Government Gazette Number 39475 dated 4 December 2015, 
+we report that PricewaterhouseCoopers Inc. has been the auditor of Bid Corporation Limited for 7 years.
+PricewaterhouseCoopers Inc.
+Director: L de Wet
+Registered Auditor
+Johannesburg, South Africa
+26 August 2025
+24
+BIDCORP I CONSOLIDATED ANNUAL FINANCIAL STATEMENTS 2025
+Independent auditor’s report continued
+
+--- PAGE 27 (matched: fx_exposure, receivables_payables) ---
+Consolidated statement of profit or loss
+for the year ended June 30
+Consolidated statement of 
+other comprehensive income
+for the year ended June 30
+Note
+2025
+R’000
+2024
+R’000
+Revenue
+4.1
+ 235 591 182
+225 905 337
+Cost of revenue
+ (177 918 144)
+(171 444 523)
+Gross profit
+ 57 673 038
+54 460 814
+Operating expenses
+4.2
+ (44 720 465)
+(42 284 017)
+Sales and distribution costs
+ (36 383 722)
+(34 342 428)
+Administration costs
+ (8 124 314)
+(7 637 925)
+Impairment of trade receivables
+ (159 750)
+(182 086)
+Other costs
+ (52 679)
+(121 578)
+Trading profit
+ 12 952 573
+12 176 797
+Share-based payment expense
+11.1
+ (338 702)
+(304 294)
+Acquisition costs
+8.1
+ (38 261)
+(24 577)
+Capital items
+4.2
+ (427 997)
+(43 710)
+Operating profit
+ 12 147 613
+11 804 216
+Net finance costs
+ (1 118 323)
+(1 037 597)
+Finance income
+10.2
+ 295 837 
+324 310
+Finance charges
+10.2
+ (1 414 160)
+(1 361 907)
+Share of profit from associates and jointly controlled entities 
+ 108 192 
+128 443
+Monetary gain arising from hyperinflation
+13
+ 27 583 
+14 622
+Profit before taxation
+ 11 165 065
+10 909 684
+Taxation
+5.1
+ (2 950 829)
+(2 850 584)
+Profit for the year
+ 8 214 236
+8 059 100
+Attributable to
+Shareholders of the company
+ 8 174 172 
+8 010 072
+Non-controlling interests
+ 40 064 
+49 028
+ 8 214 236
+8 059 100
+Basic earnings per share (cents)
+6.1
+ 2 435,3 
+2 392,6
+Diluted basic earnings per share (cents)
+6.2
+ 2 426,7 
+2 383,4
+Headline earnings per share (cents)
+6.3
+ 2 562,7 
+2 405,5
+Diluted headline earnings per share (cents)
+6.3
+ 2 553,7 
+2 396,3
+Dividends per share (cents)
+1 160,0
+1 090,0
+2025
+R’000
+2024
+R’000
+Profit for the year
+ 8 214 236 
+ 8 059 100 
+Other comprehensive income net of taxation
+862 005
+ (1 879 308)
+Items that may be classified subsequently
+to profit or loss
+Movement in foreign currency translation reserve 
+including hyperinflation effects
+ 848 768
+ (1 880 006)
+Items that will not be reclassified subsequently
+to profit or loss
+Defined benefit obligations
+ 13 237 
+ 698 
+Gain on remeasurement of defined benefit obligations
+ 9 916 
+ 1 593 
+Deferred taxation relief (charge)
+ 3 321 
+ (895)
+Total comprehensive income for the year
+ 9 076 241 
+ 6 179 792 
+Attributable to
+Shareholders of the company
+ 9 030 256 
+ 6 192 617 
+Non-controlling interest
+ 45 985 
+ (12 825)
+ 9 076 241 
+ 6 179 792 
+25
+BIDCORP I CONSOLIDATED ANNUAL FINANCIAL STATEMENTS 2025
+
+--- PAGE 28 (matched: inventory_working_capital, receivables_payables) ---
+Note
+2025
+R’000
+2024
+R’000
+Assets
+Non-current assets
+ 64 657 901
+55 412 934
+Property, plant and equipment
+7.1
+ 31 079 812 
+25 968 336
+Intangible assets
+7.2
+ 1 161 884 
+956 226
+Right-of-use lease assets
+7.3
+ 7 034 532 
+6 232 942
+Goodwill
+8.3
+ 22 616 998 
+19 473 908
+Deferred taxation assets
+5.2
+ 1 601 364 
+1 619 173
+Interest in associates
+9.1
+ 382 326 
+260 959
+Investments and loans
+9.2
+ 255 135 
+302 158
+Investment in jointly controlled entities
+9.3
+ 520 246 
+575 314
+Defined benefit pension assets
+11.3
+ 5 604 
+23 918
+Current assets
+56 306 922
+52 254 775
+Inventories
+7.4
+ 19 262 680 
+17 007 694
+Trade and other receivables
+7.5
+ 25 275 650 
+23 524 599
+Cash and cash equivalents
+ 11 768 592 
+11 722 482
+Total assets
+ 120 964 823
+107 667 709
+Equity and liabilities
+Capital and reserves
+ 47 672 671
+42 524 366
+Capital and reserves attributable to shareholders 
+of the company
+12.1
+ 47 295 388 
+42 190 148
+Non-controlling interests
+12.1
+ 377 283 
+334 218
+Non-current liabilities
+30 293 484
+22 855 346
+Deferred taxation liabilities
+5.2
+ 1 887 589 
+1 434 666
+Long-term borrowings
+10.3
+ 14 461 050 
+8 731 219
+Long-term right-of-use lease liabilities
+10.4
+6 845 534
+6 224 757
+Long-term puttable non-controlling interest liabilities
+10.5
+ 5 694 778 
+5 221 784
+Long-term vendors for acquisition
+ 512 370 
+439 386
+Post-retirement obligations
+11.3
+ 43 491 
+42 272
+Long-term provisions
+7.7
+ 848 672 
+761 262
+Current liabilities
+42 998 668
+42 287 997
+Trade and other payables
+7.6
+ 36 389 836 
+33 261 750
+Short-term provisions
+7.7
+ 426 625 
+505 607
+Short-term puttable non-controlling interest liabilities
+10.5
+ 415 752 
+271 718
+Short-term vendors for acquisition
+ 410 445 
+96 529
+Taxation
+5.3
+ 456 191 
+753 930
+Short-term right-of-use lease liabilities
+10.4
+1 397 944
+1 356 803
+Short-term borrowings
+10.3
+ 3 501 875 
+6 041 660
+Total equity and liabilities
+ 120 964 823
+107 667 709
+Net asset value per share (cents)
+ 14 038 
+12 579
+Net tangible asset value per share (cents)
+ 6 980 
+6 488
+Note
+2025
+R’000
+2024
+R’000
+Cash flows from operating activities
+ 8 210 526
+6 941 221
+Cash generated by operations
+4.4
+ 15 768 523 
+ 13 779 988 
+Finance income received
+10.2
+ 290 971 
+ 313 707 
+Finance charges paid
+10.2
+ (1 263 603)
+ (1 112 473)
+Taxation paid
+5.3
+ (2 803 668)
+ (2 602 108)
+Dividends paid
+12.2
+ (3 781 697)
+ (3 437 893)
+Cash flows from investment activities
+ (8 782 307)
+(6 457 038)
+Additions to property, plant and equipment
+7.1
+ (6 230 666)
+ (5 752 011)
+Additions to intangible assets
+7.2
+ (207 221)
+ (199 176)
+Proceeds on disposal of property, plant and equipment
+ 189 986 
+ 185 941 
+Proceeds on disposal of intangible assets
+ 1 095 
+ 7 085 
+Acquisition of businesses and subsidiaries
+8.1
+ (2 459 727)
+ (384 084)
+Proceeds on disposal of businesses
+ 159 479 
+ 29 980 
+(Advances to) receipts from associates
+ (63 142)
+ 9 121 
+Payments made to jointly controlled entities
+–
+ (7 165)
+Investments acquired
+ (51 151)
+ (210 335)
+Proceeds on disposal of investments
+ 41 842 
+ 32 567 
+Payments made to vendors for acquisition1
+ (162 802)
+ (168 961)
+Cash flows from financing activities
+494 545
+(720 697)
+Borrowings raised
+10.3
+11 602 463
+6 818 110
+Borrowings repaid
+10.3
+ (9 336 437)
+(5 897 487)
+Right-of-use lease liability payments 
+(including lease incentives)
+ (1 503 874)
+(1 540 376)
+Payments made to puttable non-controlling interests
+10.5
+ (146 023)
+(71 904)
+Payments to non-controlling interests
+ (121 587)
+(29 040)
+Movement in cash and cash equivalents
+ (77 236)
+(236 514)
+Cash and cash equivalents at beginning of year
+ 11 559 188
+12 224 633
+Effects of exchange rate fluctuations on cash and cash 
+equivalents
+ 258 084 
+(443 538)
+Hyperinflation effect on cash and cash equivalents
+ 27 583 
+14 607
+Cash and cash equivalents (including bank overdrafts) 
+at end of the year
+ 11 767 619
+11 559 188
+Cash and cash equivalents comprise:
+Cash and cash equivalents
+ 11 768 592 
+11 722 482
+Bank overdrafts included in short-term portion of borrowings
+ (973)
+(163 294)
+ 11 767 619
+11 559 188
+1 Payments made to vendors for acquisition were in line with their at acquisition date fair values. 
+Consolidated statement of cash flows
+for the year ended June 30
+Consolidated statement of financial position
+for the year ended June 30
+26
+BIDCORP I CONSOLIDATED ANNUAL FINANCIAL STATEMENTS 2025
+
+--- PAGE 29 (matched: fx_exposure) ---
+2025
+R’000
+2024
+R’000
+Equity attributable to shareholders of the company
+ 47 295 388 
+42 190 148
+Stated capital
+ 6 107 666
+5 428 016
+Treasury shares
+ (101 476)
+226 899
+Balance at beginning of the year
+ 226 899 
+(134 001)
+Shares disposed of in terms of share incentive plans
+ 351 275 
+360 900
+Shares issued during the year
+ (679 650)
+–
+Foreign currency translation reserve
+ 11 928 592
+11 083 099
+Balance at beginning of the year
+ 11 083 099 
+12 900 124
+Arising during the year including hyperinflation effects
+ 842 847 
+(1 818 153)
+Realisation of reserve on foreign subsidiaries
+ 2 646 
+1 128
+Equity-settled share-based payment reserve
+ 825 833 
+624 265
+Balance at beginning of year
+ 624 265 
+971 889
+Arising during the year
+ 305 142 
+266 557
+Deferred tax recognised directly in reserve
+ 25 908 
+12 034
+Utilisation during the year
+ (351 275)
+(845 714)
+Transfer from retained earnings
+ 221 793 
+219 499
+Retained earnings
+ 28 534 773
+24 827 869
+Balance at beginning of the year
+ 24 827 869 
+ 20 644 550 
+Attributable profit
+ 8 174 172 
+ 8 010 072 
+Remeasurement of defined benefit obligations during the year
+ 13 237 
+ 698 
+Remeasurement of puttable non-controlling interest liabilities
+ (209 219)
+ (158 921)
+Dividends paid
+ (3 781 697)
+ (3 437 893)
+Change in shareholding with non-controlling interests
+ (265 150)
+ (10 010)
+Transfer to foreign currency translation reserve
+ (2 646)
+ (1 128)
+Transfer to equity-settled share-based payment reserve
+ (221 793)
+ (219 499)
+2025
+R’000
+2024
+R’000
+Equity attributable to non-controlling interests 
+of the company
+ 377 283
+334 218
+Balance at beginning of the year
+ 334 218 
+384 043
+Total comprehensive income
+ 45 985 
+(12 825)
+Attributable profit
+ 40 064 
+49 028
+Movement in foreign currency translation reserve
+ 5 921 
+(61 853)
+Dividends paid
+ (30 395)
+(25 697)
+Changes in shareholding
+ 108 019 
+(11 303)
+Transfer to puttable non-controlling interest liability (refer note 10.5)
+ (80 544)
+–
+Total equity
+ 47 672 671
+42 524 366
+Consolidated statement of changes in equity
+for the year ended June 30
+27
+BIDCORP I CONSOLIDATED ANNUAL FINANCIAL STATEMENTS 2025
+
+--- PAGE 30 (matched: inventory_working_capital, receivables_payables) ---
+28
+BIDCORP I CONSOLIDATED ANNUAL FINANCIAL STATEMENTS 2025
+1.
+Basis of preparation
+2.
+Basis of consolidation
+2.1
+Business combinations
+2.2
+Foreign operations
+3.
+Accounting estimates, judgements and fair values
+3.1
+Accounting judgements and determination of fair 
+values in applying the group’s accounting policies
+4.
+Operational performance
+4.1
+Revenue
+4.2
+Operating profit
+4.3
+Segmental operational performance
+4.4
+Cash generated by operations
+5.
+Taxation
+5.1
+Income taxation
+5.2
+Deferred taxation
+5.3
+Taxation paid
+6.
+Basic, diluted and headline earnings per share
+6.1
+Basic earnings per share
+6.2
+Diluted basic earnings per share
+6.3
+Headline earnings per share
+7.
+Net operating assets
+7.1
+Property, plant and equipment
+7.2
+Intangible assets
+7.3
+Right-of-use lease assets (RoU lease assets)
+7.4
+Inventories
+7.5
+Trade and other receivables
+7.6
+Trade and other payables
+7.7
+Provisions
+7.8
+Segmental assets and liabilities
+8.
+Acquisitions, disposals and goodwill
+8.1
+Acquisitions
+8.2
+Disposals of businesses
+8.3
+Goodwill
+9.
+Investments
+9.1
+Interest in associates
+9.2
+Investments and loans
+9.3
+Investment in jointly controlled entities
+10.
+Financial risk management and net debt
+10.1
+Financial risk management
+10.2
+Net finance costs
+10.3
+Borrowings
+10.4
+Right-of-use lease liabilities (RoU lease liabilities)
+10.5
+Puttable non-controlling interest liabilities
+11.
+Staff remuneration
+11.1
+Share-based payments
+11.2
+Remuneration of directors
+11.3
+Post-retirement obligations
+12.
+Equity, distributions and group information
+12.1
+Capital and reserves attributable to shareholders 
+of the company
+12.2
+Dividends paid
+12.3
+Group composition
+12.4
+Related parties
+12.5
+Commitments and capital management
+12.6
+Contingent liabilities
+12.7
+Subsequent events
+12.8
+Going concern
+13.
+Hyperinflation accounting
+14.
+Accounting standards and interpretations
+not effective at June 30 2025
+Notes to the consolidated financial statements
+for the year ended June 30
+
+--- PAGE 31 (matched: context) ---
+29
+BIDCORP I CONSOLIDATED ANNUAL FINANCIAL STATEMENTS 2025
+1. 
+Basis of preparation
+The consolidated and separate financial statements have been prepared in accordance with IFRS Accounting 
+Standards (IFRS®) and International Accounting Standards (IAS) as issued by the International Accounting 
+Standards Board (IASB) and Interpretations as issued by the IFRS Interpretations Committee (IFRIC), and 
+comply with the South African Institute of Chartered Accountants (SAICA) Financial Reporting Guides as 
+issued by the Accounting Practices Committee (APC), Financial Reporting Pronouncements (as issued) by 
+the Financial Reporting Standards Council (FRSC), the Johannesburg Stock Exchange (JSE) Listings 
+Requirements and the requirements of the South African Companies Act, No 71 of 2008 (as amended) 
+(Companies Act). The group’s activities are guided by the best practice and governance principles as set 
+out in the King IV Report on Corporate Governance for South Africa 2016 (King IVTM*).
+The preparation of the consolidated and separate financial statements requires management to make 
+judgements, estimates and assumptions that affect the application of policies and reported amounts of assets 
+and liabilities, income, and expenses. The information given is comprehensive and presented in a responsible 
+manner. Internal financial controls have been put in place to ensure that material information relating to the 
+group’s subsidiaries to effectively prepare the consolidated and separate annual financial statements. 
+The group operates in an established control environment, which is documented and regularly reviewed.
+Although estimates and associated assumptions are based on historical experience and various other factors 
+that are believed to be reasonable under the circumstances (the results of which form the basis of making the 
+judgements about carrying values of assets and liabilities that are not readily apparent from other sources), 
+the actual outcome may differ from these estimates. The estimates and underlying assumptions are reviewed 
+on an ongoing basis. Revisions to accounting estimates are recognised in the year in which the estimate is 
+revised, if the revision affects only that year, or in the year of the revision and future years if the revision affects 
+both current and future years.
+Judgements made in the application of IFRS that had an effect on the financial statements and estimates with 
+a risk of adjustment in the next year are set out in note 3.1. The consolidated financial statements as at and 
+for the year ended June 30 2025 comprise the company, its subsidiaries and equity accounted investees 
+(together referred to as the group or consolidated and separately separate or company).
+The accounting policies have been applied consistently to all years presented in the consolidated and 
+separate financial statements. The accounting policies are the same for the consolidated and separate 
+financial statements, unless specifically stated otherwise. The financial statements are presented in 
+South African rand, which is the group’s presentation currency. All financial information has been rounded 
+to the nearest thousand unless stated otherwise.
+A number of new pronouncements and/or interpretations were effective from July 1 2024. These had no 
+material effect on the group’s or company’s financial statements.
+The financial statements have been prepared on the historical cost basis adjusted for the effects of inflation 
+where entities operate in hyperinflationary economies and for certain financial instruments that have been 
+measured at fair value, where applicable.
+For the year ended June 30 2025, the Türkiye lira and Argentine peso is hyperinflationary. Accordingly, the 
+statement of profit or loss, statement of cash flows and statement of financial position for our Türkiye and 
+Argentinian subsidiaries using the Türkiye lira and Argentine peso respectively as their functional currency 
+have been expressed in terms of the local currency at the reporting date (June 30 2025).
+The consolidated and separate financial statements were approved by the board of directors on 
+August 26 2025.
+2. 
+Basis of consolidation
+The consolidated financial statements include the financial statements of the company and its 
+subsidiaries. Subsidiaries are entities controlled by the group. Control is achieved when the company 
+has the power over an investee, is exposed to or has rights to variable returns from its involvement with 
+an investee and has the ability to use its power to affect its returns.
+The group and company reassess whether or not it controls an investee if facts and circumstances 
+indicate that there are changes to one or more of these three elements. When the company has less 
+than a majority of the voting rights of an investee, it considers that it has power over the investee when 
+the voting rights are sufficient to give it the practical ability to direct the relevant activities of the 
+investee unilaterally.
+The group and company consider all relevant facts and circumstances in assessing whether or not the 
+company’s voting rights in an investee are sufficient to give it power, including the size of the company’s 
+holding of voting rights relative to the size and dispersion of holdings of the other vote holders; potential 
+voting rights held by the company, other vote holders or other parties; rights arising from other contractual 
+arrangements; and any additional facts and circumstances that indicate that the company has, or does 
+not have, the current ability to direct the relevant activities at the time that decisions need to be made, 
+including voting patterns at previous shareholders’ meetings.
+Consolidation of a subsidiary begins when the company obtains control over the subsidiary and ceases 
+when the company loses control of the subsidiary. Specifically, the results of subsidiaries acquired or 
+disposed of during the year are included in the consolidated statement of profit or loss from the date the 
+company gains control until the date when the company ceases to control the subsidiary. Where 
+necessary, adjustments are made to the financial statements of subsidiaries to bring the accounting 
+policies used in line with the group’s significant accounting policies.
+All intra-group assets and liabilities, equity, income, expenses and cash flows relating to transactions 
+between the members of the group are eliminated on consolidation. 
+Changes in the group’s interests in subsidiaries that do not result in a loss of control are accounted for as 
+equity transactions. The carrying amount of the group’s interests and the non-controlling interests (NCIs) 
+are adjusted to reflect the changes in their relative interests in the subsidiaries. Any difference between the 
+amount by which the NCIs are adjusted and the fair value of the consideration paid or received is 
+recognised directly in equity and attributed to the owners of the company.
+* Copyright and trademarks are owned by the Institute of Directors in South Africa NPC and all of its rights 
+are reserved.
+Notes to the consolidated financial statements continued
+for the year ended June 30
+
+--- PAGE 32 (matched: fx_exposure) ---
+30
+BIDCORP I CONSOLIDATED ANNUAL FINANCIAL STATEMENTS 2025
+2. 
+Basis of consolidation continued
+2.1 
+Business combinations
+The group accounts for business combinations using the acquisition method. The consideration 
+transferred for the acquisition of a business is the fair value of assets transferred, the liabilities incurred, 
+and the equity issued by the group. The consideration transferred includes the fair value of any asset or 
+liability resulting from a contingent arrangement. If the contingent arrangement is classified as equity, then 
+it is not remeasured, and settlement is accounted for in equity.
+Subsequent changes in the fair value of other contingent arrangements are recognised in profit or loss. 
+Acquisition-related costs, apart from costs directly related to the raising of debt and (or) equity, are 
+accounted for in profit or loss.
+Identifiable assets acquired and liabilities and contingent liabilities assumed in a business combination are 
+measured initially at their fair value at acquisition date. The group recognises any NCI, at the NCI’s 
+proportionate share of the subsidiary’s net assets on an acquisition-by-acquisition basis. When a business 
+combination is achieved in stages, the group’s previously held equity interest in an entity is remeasured to 
+its acquisition date fair value and the resulting gain or loss recognised in profit or loss.
+The excess of the consideration transferred, the amount of any NCI in the entity and the acquisition date 
+fair value of any previous equity interest in the business over the fair value of the group’s share of the 
+identifiable net assets acquired is recorded as goodwill and separately identifiable intangible assets. If this 
+is less than the fair value of the net assets of the subsidiary acquired, the difference is recognised in profit 
+or loss as a bargain purchase gain.
+The company carries its investments in subsidiaries at cost less accumulated impairment losses.
+When the group ceases to have control over a subsidiary, it derecognises the assets and liabilities of the 
+subsidiary, and any related NCIs. Any retained interest in the entity is remeasured to its fair value. Any 
+resulting gain or loss is recognised in profit or loss. The fair value is the initial carrying amount for the 
+purposes of subsequently accounting for the retained interest as an associate, joint venture or financial 
+asset. In addition, any amounts previously recognised in other comprehensive income (OCI) in respect of 
+that entity are accounted for as if the group had directly disposed of the related assets or liabilities. This 
+may mean that amounts previously recognised in OCI are reclassified to profit or loss. The remaining other 
+reserves related to that entity are transferred to retained earnings.
+NCIs in the acquiree are measured at the non-controlling shareholders’ proportion of the net identifiable 
+assets acquired and liabilities and contingent liabilities assumed.
+Non-controlling shareholders are treated as equity participants; therefore, all acquisitions of NCIs or 
+disposals by the group of its interests in subsidiaries, where control is maintained subsequent to the 
+disposal, are accounted for as equity transactions. Consequently, the difference between the fair value of 
+the consideration transferred and the carrying amount of a NCI purchased or disposed of, is recorded 
+in equity.
+NCIs in the net assets of consolidated subsidiaries are identified separately from the group’s equity.
+The group accounts for puttable NCI liabilities under the anticipated acquisition method whereby the put 
+option is derecognised from NCI and accounted for as a financial liability. In raising this liability, any excess 
+or shortfall is charged or realised directly in retained earnings in the statement of changes in equity.
+2.2 
+Foreign operations
+Assets and liabilities of foreign operations (which are not accounted for as entities operating in 
+hyperinflationary economies), including goodwill and fair value adjustments arising on consolidation, are 
+translated into South African rand at rates of exchange ruling at the reporting date. Income, expenditure, 
+and cash flow items are translated into South African rand at average rates to the foreign exchange rates. 
+Foreign exchange differences arising on translation are recognised directly in equity as a foreign currency 
+translation reserve. When a foreign operation is disposed of, in part or in full, the relevant amount in the 
+foreign currency translation reserve is transferred to the statement of profit or loss.
+Acquisitions and disposals of foreign operations are accounted for at the exchange rate ruling on the date 
+of the transaction.
+Transactions in foreign currencies are translated at the rates of exchange ruling at the transaction date. 
+Monetary assets and liabilities in foreign currencies are translated at the rates of exchange ruling at the 
+reporting date. Translation differences are generally recognised in the statement of profit or loss.
+Non-monetary assets and liabilities measured based on historical cost in a foreign currency are translated 
+at an exchange rate at the date of the transaction.
+An entity may have a monetary item that is receivable from a foreign operation. An item for which 
+settlement is neither planned nor likely to occur in the foreseeable future is, in substance, a part of the 
+entity’s net investment in that foreign operation. On consolidation, exchange differences arising from the 
+translation of the net investment in foreign operations are taken to OCI and accumulated in the foreign 
+currency translation reserve.
+The exchange rates relevant to the group are disclosed in note 10.1 (c)(i).
+3. 
+Accounting estimates, judgements and fair values
+The board of directors has considered the group’s accounting policies, key sources of uncertainty and 
+areas where accounting judgements were required in applying the group’s accounting policies. A number 
+of the group’s accounting policies and disclosures require the determination of fair values for both financial 
+and non-financial assets and liabilities. Fair values have been determined for measurement and (or) 
+disclosure purposes based on the following methods. Where applicable, further information about the 
+assumptions made in determining fair values is disclosed in the notes specific to that asset or liability.
+Notes to the consolidated financial statements continued
+for the year ended June 30
+
+--- PAGE 33 (matched: inventory_working_capital, receivables_payables) ---
+31
+BIDCORP I CONSOLIDATED ANNUAL FINANCIAL STATEMENTS 2025
+3. 
+Accounting estimates, judgements and fair values continued
+3.1 
+Accounting judgements and determination of fair values in applying the group’s 
+accounting policies
+Judgements made in the application of IFRS that have a significant risk of causing a material adjustment 
+to the carrying amounts of assets and liabilities within the next financial year are set out below:
+Property, plant and equipment (refer note 7.1)
+The estimation of the useful lives is based on historic performance as well as expectation about future 
+use and, therefore, requires a degree of judgement to be applied. The depreciation rates represent 
+management’s best estimate of the useful lives of the assets. All properties are accounted for as own 
+use assets and are thus held at cost less accumulated depreciation. Market indicators reflect that these 
+properties could realise more than their carrying values if disposed of. The fair value of property, plant 
+and equipment recognised as a result of a business combination is based on market values.
+The market value of property is the estimated amount for which a property could be exchanged on the 
+date of valuation between a willing buyer and a willing seller in an arm’s-length transaction after proper 
+marketing wherein the parties had each acted knowledgeably, prudently and without compulsion. The 
+market values of other assets are based on the quoted market prices for similar items.
+Property, plant and equipment are depreciated over their useful lives, taking into account applicable 
+residual values. The group’s judgement for useful life of a freehold property is that it is expected that the 
+useful life of a freehold property is less than its economic life. The estimated remaining useful life of the 
+freehold property is based on the group’s knowledge, experience with similar freehold properties and 
+considerations regarding the size of property and expected future business growth, age of property and 
+equipment (freezers/chillers), location and proximity to customers. The measurement of freehold property 
+residual values, at the expected date of disposal, is based on management’s judgement that each 
+freehold property will be sold by the end of its useful life and considers current market values and rental 
+growth of the expected useful life when determining the residual value of a freehold property.
+Changes in the useful lives and (or) residual values are accounted for as a change in accounting estimate.
+Goodwill and indefinite life intangible assets (refer note 8.3 and note 7.2)
+The group has assessed the carrying value of goodwill and indefinite life intangible assets to determine 
+whether any of the amounts have been impaired. The carrying values were assessed using the discounted 
+cash flow (DCF) method and the actual results and forecasts for future years. The fair value of intangible 
+assets is based on the DCFs expected to be derived from the use and eventual sale of the assets.
+Right-of-use lease assets and right-of-use lease liabilities (refer note 7.3 and note 10.4)
+Judgements and assumptions made by the group in applying the related accounting policies for IFRS 16:
+• Lease discount rate – Except where a discount rate implicit in the lease has been stipulated in the 
+lease agreement, the lease payments are discounted using the incremental borrowing rate. The 
+calculation of an incremental borrowing rate requires significant judgement. The incremental borrowing 
+rate is calculated as a function of a base rate, plus a credit spread, plus other adjustments. Other 
+adjustments take into account the lease period, currency of the lease payments, lease duration, 
+lease-specific adjustments such as asset class and security risk in relation to the leased asset.
+• Lease term – In determining the lease term, management considers all facts and circumstances that 
+create an economic incentive to exercise an extension option, or not exercise a termination option. 
+Extension options (or periods after termination options) are only included in the lease term if the lease 
+is reasonably certain to be extended (or not terminated).
+Deferred taxation (refer note 5.2)
+Deferred taxation assets are recognised to the extent it is probable that the taxable income will be 
+available against which they can be utilised. Future taxable profits are estimated based on business plans 
+which include estimates and assumptions regarding economic growth, interest, inflation and taxation rates 
+and competitive forces.
+Inventories (refer note 7.4)
+Inventory write-down allowances are raised against inventory when it is considered that the amount 
+realisable from such inventory’s sale is considered to be less than its carrying amount. The impairment 
+allowances are made with reference to an inventory age analysis as well as expiry dates. The fair value of 
+inventory acquired in a business combination is determined based on its estimated selling price in the 
+ordinary course of business less the estimated costs of completion and sale, and a reasonable profit 
+margin based on the efforts required to complete and sell the inventory.
+Revenue (agent versus principal) (refer note 4.1)
+The group considers the determination of the agent versus principal classification to be a judgement 
+applied in determining that the relationship is one of principal rather than one of an agent. For logistics 
+revenue recognition, the group obtains an understanding of the nature of these revenue transactions and 
+utilises technical accounting experts to evaluate whether control has transferred to the group before 
+transferring to the customer or not. In the agent versus principal determination the group considers which 
+party carries the inventory risk before and after the customer order; which party has the primary 
+responsibility for providing the goods to the customers; and who had influence over setting the price at 
+which the product is sold to the customers.
+Trade receivables (refer note 7.5)
+Trade receivables are initially measured at fair value, which is equal to the consideration expected to be 
+received from the satisfaction of performance obligations, plus any directly attributable transaction costs. 
+At the time of initial recognition in accordance with IFRS 9 the group assesses the expected credit loss 
+(ECL) by applying the simplified approach.
+In determining the ECL, each operation splits the trade receivables into groups based on shared credit 
+risk characteristics and the days past due; namely, by splitting customers into the type of customer 
+(hotels, restaurants and cafés; quick service restaurants; caterers, butcheries and canteens), geographical 
+regions, product types, customer ratings and trade credit insurances. In instances where there was no 
+evidence of historical impairment, each operation’s management uses their knowledge of their business 
+and forward-looking macro-economic information to determine the potential loss rate. In addition, specific 
+provisions are raised for trade receivables if doubt on their collectability is known.
+The group’s ECL percentages have been based, not only on historical loss experience, but also forward-
+looking information on a country-by-country basis including potential impacts from geopolitical volatility and 
+negative impacts of long-term high inflation on the macro-economic activity. The ECL is determined on a 
+country-by-country basis which is calculated as indicated above using an unbiased and probability-weighted 
+outcomes which require the use of judgement, especially in times of economic uncertainty.
+Notes to the consolidated financial statements continued
+for the year ended June 30
+
+--- PAGE 34 (matched: context) ---
+32
+BIDCORP I CONSOLIDATED ANNUAL FINANCIAL STATEMENTS 2025
+3. 
+Accounting estimates, judgements and fair values continued
+3.1 
+Accounting judgements and determination of fair values in applying the group’s 
+accounting policies continued
+Puttable non-controlling interest liabilities (refer note 10.5)
+The group has entered into put NCI arrangements where NCIs are entitled to sell certain of their holdings 
+in subsidiaries to the group at future contracted dates. The puttable NCI liability is calculated as the 
+present value of the contracted redemption value (ie contracted fixed earnings before interest, taxation, 
+depreciation and amortisation (EBITDA) multiples), discounted from the redemption date to the reporting 
+date. The main assumptions used in the calculation of the liability is the contracted redemption value at 
+the redemption date and the discount rate used to discount the redemption value to the reporting date. 
+The discount rate is derived from an applicable government bond yield curve in the country in which the 
+subsidiary operates, and is applied over the number of years between the reporting date and the 
+redemption date, plus an appropriate credit spread.
+The group’s assessment of contracted EBITDA multiples is that it represents a fixed instrument due to it 
+being agreed up front by both parties and cannot be changed throughout the lock-in period; no market 
+risk is accepted by the minority shareholders; future performance of a company or financial position on 
+the redemption date does not change the EBITDA multiple to be paid to the minority shareholders; third 
+parties are not able to change the price of the EBITDA multiple payable to the minority shareholders; and 
+there is no true up to a “fair value” multiple to similar companies on the redemption date.
+The group has applied judgement to recognise subsequent measurement changes in the puttable NCI 
+liabilities in accordance with the principles of IFRS 10.23. Changes in assumptions used to estimate the 
+future purchase price of the puttable NCI liabilities are recorded directly in retained earnings in the 
+statement of changes in equity. There is diversity in practice as to whether to recognise subsequent 
+measurement changes in the carrying amount in profit or loss or equity. This accounting policy judgement 
+to take remeasurements directly to retained earnings has been applied consistently by the group.
+The total remeasurement changes of the puttable NCI liabilities during the year was R209,2 million (debit) 
+(2024: R158,9 million (debit)). Refer to the statement of changes of equity and note 10.5 for the 
+remeasurement of the puttable NCI liabilities.
+This accounting policy treatment has been consistently applied by the group and will be applied in future 
+until there is clarification that is definitive on where subsequent measurement changes are required to be 
+accounted for in terms of IFRS.
+Share-based payments (refer note 11.1)
+Share appreciation right
+The fair value of the share appreciation right awards is measured using a binomial method. Measurement 
+inputs include share price at measurement date, exercise price of the instrument, expected volatility 
+(based on the historic volatility), option life, distribution yield and the risk-free interest rate (based on 
+national South African government bonds).
+Conditional share plan
+The fair value of the conditional share plan awards is measured using a Monte Carlo method, which best 
+captures the path dependent nature and specific features of these awards. The path dependency of the 
+share award arises from the interaction between dividends and the performance hurdles in the valuation 
+model, as well as the dependency of the valuation on the level of achievement of the vesting conditions at 
+the performance period end dates.
+Customer or supplier relationships on acquisition (refer note 8.1)
+Most purchasing decisions in the foodservice distribution industry are based on the ability to deliver a 
+wide range of quality products and related services on a timely and dependable basis, and at a 
+competitive price. Customers may also choose to purchase products directly from wholesale or retail 
+outlets, including club, cash and carry and grocery stores, online retailers, or negotiate prices directly with 
+suppliers. Switching costs are very low, customers or suppliers can make changes on a day-to-day basis. 
+Our group judgement is not to separately value these customer or supplier relationships as identifiable 
+intangible assets, as these are considered day-to-day trading relationships.
+Notes to the consolidated financial statements continued
+for the year ended June 30
+
+--- PAGE 35 (matched: revenue_cos_opex) ---
+33
+BIDCORP I CONSOLIDATED ANNUAL FINANCIAL STATEMENTS 2025
+4.
+Operating performance
+4.1
+Revenue
+2025
+R’000
+2024
+R’000
+Sale of goods – frozen
+86 852 102
+82 822 216
+Sale of goods – chilled
+64 839 361
+63 175 438
+Sale of goods – ambient
+74 276 268
+69 948 008
+Sale of goods – non-food
+9 245 968
+9 659 093
+Rendering of services and commissions earned
+377 483
+300 582
+235 591 182
+225 905 337
+Revenue percentage by customer type
+Hotels, restaurants and cafés
+43%
+43%
+Caterers, butcheries and canteens
+14%
+14%
+Quick service restaurants
+12%
+12%
+Retail, wholesalers and other distributors
+11%
+11%
+Healthcare and aged care
+8%
+8%
+Education
+6%
+6%
+Travel (airlines and cruise liners)
+3%
+3%
+Government-related customers
+3%
+3%
+Analysis of revenue per country by percentage
+United Kingdom
+28%
+28%
+Australia
+13%
+13%
+Netherlands
+9%
+9%
+Italy
+8%
+8%
+New Zealand
+7%
+7%
+Czech Republic
+7%
+8%
+Belgium
+5%
+5%
+South Africa
+4%
+4%
+People’s Republic of China and Hong Kong
+3%
+4%
+Other
+16%
+14%
+Composition of revenue
+• Revenue comprises amounts earned from customers from the sale of frozen, chilled, ambient and 
+non-food products (goods) and from the rendering of services.
+• Revenue is disclosed net of value added tax.
+• Revenue is net of returns and allowances, trade discounts and volume rebates, all of which have been 
+apportioned to the sale of goods.
+Revenue recognition
+Revenue is recognised from the sale of goods and is measured at the amount of the transaction price 
+received in exchange for transferring goods. The transaction price is the expected consideration to be 
+received, to the extent that it is highly probable that there will not be a significant reversal of revenue in 
+future, after deducting discounts, volume rebates, value added tax and other sales taxes.
+Control of the goods is passed when title and insurance risk have passed to the customer, which is 
+typically when the goods have been delivered to an agreed location. When the period of time between 
+delivery of goods and subsequent payment by the customer is less than one year, no adjustment for a 
+financing component is made.
+Revenue from services rendered is recognised in profit or loss in proportion to the stage of completion of 
+the transaction at reporting date. The stage of completion is time-based and dependent on the terms of 
+the contract.
+Revenue from commissions and fees is recognised in the statement of profit or loss in proportion to the 
+stage of completion of the transaction at the statement of financial position date.
+IFRS 15 Revenue from Contracts with Customers
+Due to the group’s revenue being earned through the sale of goods relating to frozen, ambient, chilled and 
+other non-food-related products there are no significant multiple-element revenue arrangements with 
+customers. The largest customer contract is Subway in the United Kingdom which accounts for 2,2% of 
+the group’s 2025 revenue (2024: 2,3%).
+The group applies the practical expedient (paragraph 121 of IFRS 15) to not disclose information about 
+remaining performance obligations that have original expected durations of one year or less.
+Notes to the consolidated financial statements continued
+for the year ended June 30
+
+--- PAGE 36 (matched: fx_exposure) ---
+34
+BIDCORP I CONSOLIDATED ANNUAL FINANCIAL STATEMENTS 2025
+4.
+Operating performance continued
+4.2
+Operating profit
+Note
+2025
+R’000
+2024
+R’000
+Determined after charging (crediting)
+Auditors’ remuneration
+95 646
+92 380
+Group auditor audit fees and related expenses
+78 952
+75 269
+Group auditor related tax, consulting, and other 
+related expenses
+3 186
+3 849
+Other audit firm fees and related expenses
+13 508
+13 262
+Depreciation of property, plant and equipment
+7.1
+2 141 356
+1 882 516
+Amortisation of intangible assets
+7.2
+176 527
+160 383
+Right-of-use lease asset depreciation
+7.3
+1 347 881
+1 269 111
+Directors’ emoluments
+Executive directors
+11.2
+80 814
+79 078
+Non-executive director
+11.2
+18 752
+17 988
+Employer contributions to
+3 494 796
+3 203 344
+Defined contribution pension funds
+844 285
+790 598
+Provident funds
+29 840
+30 338
+Retirement funds
+185 469
+141 145
+Social securities
+2 325 726
+2 130 750
+Medical aids
+109 476
+110 513
+Defined benefit pension plans related expenses
+12 245
+18 063
+Staff costs excluding directors’ emoluments, employer 
+contributions
+24 663 747
+23 191 177
+Gross staff costs excluding directors’ emoluments, 
+employer contributions
+24 682 766
+23 210 376
+Government grants recognised in the consolidated 
+statement of profit or loss
+(19 019)
+(19 199)
+The group received government grants in respect of staff job 
+retention schemes in a few geographies. The group accounts 
+for government grants in profit or loss in the year the staff costs 
+are incurred and presented net of the related staff cost.
+Foreign exchange losses on hedging activities
+7 767
+21 594
+Forward exchange contracts
+7 528
+19 001
+Foreign bank accounts
+239
+2 593
+Note
+2025
+R’000
+2024
+R’000
+Foreign exchange losses on transactions
+8 071
+32 834
+Realised
+6 078
+24 775
+Unrealised
+1 993
+8 059
+Transport costs
+5 772 447
+5 737 761
+Fuel
+1 385 757
+1 455 412
+Vehicle running and transport costs (repairs, road tax, etc)
+2 326 561
+2 259 579
+Freight out
+2 060 129
+2 022 770
+Accommodation and premise costs
+3 463 704
+3 328 345
+Electricity, gas and water (utilities)
+1 136 214
+1 127 323
+Repairs and maintenance
+849 738
+833 639
+Health and safety costs
+420 561
+422 875
+Packaging and pallets
+382 658
+359 143
+Other accommodation and premise costs
+674 533
+585 365
+Office and communication costs
+1 245 179
+1 146 914
+Insurance costs
+560 346
+591 601
+Marketing and commercial costs
+601 219
+625 296
+IFRS 16 related lease expenses recognised in the 
+consolidated statement of profit or loss
+461 966
+433 175
+Expenses relating to short-term leases (leases shorter 
+than 12 months)
+401 478
+364 918
+Expenses relating to leases of low-value assets that are 
+not shown above as short-term leases
+45 036
+42 960
+Expense relating to variable lease payments not included 
+in lease liabilities
+15 452
+25 297
+Impairment of assets
+76 103
+48 516
+Property, plant and equipment
+7.1
+56 522
+46 569
+Intangible assets
+7.2
+18 607
+1 112
+Investments in jointly controlled entities
+9.3
+974
+835
+Net capital loss (profit)1
+6
+351 894
+(4 806)
+Impairment of assets and capital loss items included as 
+capital items on consolidated statement of profit or loss1
+427 997
+43 710
+1 Majority of capital loss items relate to disposal of Pier 7, Germany (refer note 8.2).
+Notes to the consolidated financial statements continued
+for the year ended June 30
+
+--- PAGE 37 (matched: context) ---
+35
+BIDCORP I CONSOLIDATED ANNUAL FINANCIAL STATEMENTS 2025
+4.
+Operating performance continued
+4.3
+Segmental operational performance
+The group has the following strategic segments: Australasia, United Kingdom, Europe, Emerging Markets, 
+and Corporate, which are the reportable segments.
+The reportable segments of the group have been identified based on the regions of the businesses. This 
+basis is representative of the internal structure for management purposes and management reports are 
+reviewed by the executive management team on a monthly basis. “Segmental trading profit” is defined as 
+operating profit excluding items of a capital nature and is the basis on which divisional management’s 
+performance is assessed. Share-based payment and acquisition costs are also excluded from the result 
+as this is not a criteria used in the management of the reportable segments.
+There is no individual customer who contributes more than 5% to the group’s total revenue.
+2025
+R’000
+2024
+R’000
+Segmental revenue
+Australasia
+45 632 081
+46 755 247
+United Kingdom
+67 458 503
+63 895 204
+Europe
+88 022 766
+82 013 393
+Emerging Markets
+34 477 832
+33 241 493
+235 591 182
+225 905 337
+Segmental cost of revenue1
+Australasia
+34 008 323
+34 782 963
+United Kingdom
+51 327 854
+49 511 580
+Europe
+66 025 607
+61 458 269
+Emerging Markets
+26 556 360
+25 691 711
+177 918 144
+171 444 523
+1 Disclosure of segmental cost of revenue has been included for the current and prior year to reflect the changes 
+as recently noted in the IFRIC agenda discussion of July 2024 related to segmental reporting.
+Cost of revenue comprises the cost of goods sold, including where manufactured in-house, overheads 
+such as labour, production, depreciation, less discounts and rebates from suppliers.
+Notes to the consolidated financial statements continued
+for the year ended June 30
+
+--- PAGE 38 (matched: revenue_cos_opex) ---
+36
+BIDCORP I CONSOLIDATED ANNUAL FINANCIAL STATEMENTS 2025
+4.
+Operating performance continued
+4.3
+Segmental operational performance continued
+Total
+R’000
+Australasia
+R’000
+United
+Kingdom
+R’000
+Europe
+R’000
+Emerging
+Markets
+R’000
+Segmental revenue by category and market
+2025
+Sale of goods – frozen
+86 852 102
+17 942 063
+24 708 739
+31 759 529
+12 441 771
+Sale of goods – chilled
+64 839 361
+12 192 592
+16 015 741
+29 018 975
+7 612 053
+Sale of goods – ambient
+74 276 268
+13 720 227
+23 728 525
+23 690 754
+13 136 762
+Sale of goods – non-food
+9 245 968
+1 775 209
+2 991 832
+3 262 740
+1 216 187
+Rendering of services and commissions
+377 483
+1 990
+13 666
+290 768
+71 059
+235 591 182
+45 632 081
+67 458 503
+88 022 766
+34 477 832
+Independent
+56%
+75%
+40%
+63%
+47%
+Chain
+33%
+13%
+60%
+22%
+32%
+Logistics
+4%
+5%
+0%
+6%
+4%
+Retail and other
+7%
+7%
+0%
+9%
+17%
+Hotels, restaurants and cafés
+43%
+38%
+37%
+51%
+45%
+Caterers, butcheries and canteens
+14%
+9%
+10%
+17%
+19%
+Quick service restaurants
+12%
+10%
+16%
+13%
+7%
+Retail, wholesalers and other distributors
+11%
+12%
+2%
+11%
+23%
+Healthcare and aged care
+8%
+15%
+10%
+5%
+2%
+Education
+6%
+4%
+16%
+2%
+2%
+Travel (airlines and cruise liners)
+3%
+9%
+3%
+0%
+1%
+Government-related customers
+3%
+3%
+6%
+1%
+1%
+Customer segmentation
+Independent
+Predominantly include independent establishments. These customers typically generate higher gross margins that more than offsets the higher supply chain costs that we incur in serving these customers. These customers 
+use more value-added services, particularly in the areas of product selection and procurement, market trends, menu development, and operational strategy.
+Chain
+Chain customers are multi-unit restaurants which includes fine dining, family and casual dining, as well as hotels, healthcare facilities, and other multi-unit institutional customers.
+Logistics
+Logistics customers are where a customer instructs which suppliers are to be used for procurement and when to deliver the product to the customer.
+Retail
+Retail customers predominantly include independent retailers and wholesalers.
+Notes to the consolidated financial statements continued
+for the year ended June 30
+
+--- PAGE 39 (matched: context) ---
+37
+BIDCORP I CONSOLIDATED ANNUAL FINANCIAL STATEMENTS 2025
+4.
+Operating performance continued
+4.3
+Segmental operational performance continued
+Total
+R’000
+Australasia
+R’000
+United
+Kingdom
+R’000
+Europe
+R’000
+Emerging
+Markets
+R’000
+2024
+Sale of goods – frozen
+82 822 216
+18 412 056
+23 234 225
+28 801 714
+12 374 221
+Sale of goods – chilled
+63 175 438
+12 474 847
+15 245 204
+27 706 347
+7 749 040
+Sale of goods – ambient
+69 948 008
+13 925 214
+22 356 630
+21 836 424
+11 829 740
+Sale of goods – non-food
+9 659 093
+1 940 256
+3 051 433
+3 381 890
+1 285 514
+Rendering of services and commissions
+300 582
+2 874
+7 712
+287 018
+2 978
+225 905 337
+46 755 247
+63 895 204
+82 013 393
+33 241 493
+Independent
+55%
+73%
+39%
+61%
+50%
+Chain
+34%
+14%
+60%
+25%
+34%
+Logistics
+4%
+5%
+0%
+7%
+2%
+Retail and other
+7%
+8%
+1%
+7%
+14%
+Hotels, restaurants and cafés
+43%
+38%
+38%
+50%
+45%
+Caterers, butcheries and canteens
+14%
+9%
+11%
+17%
+18%
+Quick service restaurants
+12%
+10% 
+15%
+13%
+7%
+Retail, wholesalers and other distributors
+11%
+13%
+3%
+11%
+24%
+Healthcare and aged care
+8%
+14%
+10%
+6%
+2%
+Education
+6%
+4%
+14%
+2%
+2%
+Travel (airlines and cruise liners)
+3%
+10%
+3%
+0%
+1%
+Government-related customers
+3%
+2%
+6%
+1%
+1%
+Notes to the consolidated financial statements continued
+for the year ended June 30
+
+--- PAGE 40 (matched: context) ---
+38
+BIDCORP I CONSOLIDATED ANNUAL FINANCIAL STATEMENTS 2025
+4.
+Operating performance continued
+4.3
+Segmental operational performance continued
+2025
+R’000
+2024
+R’000
+Segmental trading profit
+Trading division
+13 158 258
+12 377 942
+Australasia
+3 825 964
+3 998 629
+United Kingdom
+2 535 864
+2 102 464
+Europe
+4 844 941
+4 448 371
+Emerging Markets
+1 977 879
+1 828 478
+Corporate
+(232 075)
+(201 145)
+12 952 573
+12 176 797
+Segmental trading EBITDA¹
+Trading division
+14 761 704
+13 642 771
+Australasia
+4 164 049
+4 318 342
+United Kingdom
+2 959 229
+2 497 085
+Europe
+5 519 948
+5 038 654
+Emerging Markets
+2 118 478
+1 788 690
+Corporate
+(178 132)
+(181 448)
+14 583 572
+13 461 323
+1 2025 segmental trading EBITDA is determined as trading profit (R12,952 million) before depreciation 
+(R2,141 million) and amortisation charges (R176 million). EBITDA has been adjusted for the impact of IFRS 16 
+Leases by adding back the right-of-use asset depreciation (R1,348 million) and deducting lease payments 
+(R2,035 million). 2024 segmental trading EBITDA is determined as trading profit (R12,177 million) before 
+depreciation (R1,883 million) and amortisation charges (R160 million). EBITDA has been adjusted for the impact 
+of IFRS 16 Leases by adding back the right-of-use depreciation (R1,269 million) and deducting lease payments 
+(R2,072 million).
+2025
+R’000
+2024
+R’000
+Segmental employee benefits and remuneration
+Trading division
+28 030 807
+26 267 582
+Australasia
+5 295 721
+5 457 016
+United Kingdom
+8 878 761
+7 897 138
+Europe
+10 335 496
+9 578 369
+Emerging Markets
+3 520 829
+3 335 059
+Corporate
+139 979
+149 606
+28 170 786
+26 417 188
+Share-based payment expense
+338 702
+304 294
+28 509 488
+26 721 482
+Number of
+employees
+Number of
+employees
+Segmental number of employees
+Trading division
+30 491
+29 029
+Australasia
+4 907
+4 940
+United Kingdom
+8 026
+7 996
+Europe
+10 146
+8 855
+Emerging Markets
+7 412
+7 238
+Corporate
+90
+83
+30 581
+29 112
+Notes to the consolidated financial statements continued
+for the year ended June 30
+
+--- PAGE 41 (matched: inventory_working_capital, receivables_payables) ---
+39
+BIDCORP I CONSOLIDATED ANNUAL FINANCIAL STATEMENTS 2025
+4.
+Operating performance continued
+4.4
+Cash generated by operations
+2025
+R’000
+2024
+R’000
+Reconciliation of operating profit to cash generated from 
+operations
+Operating profit
+12 147 613
+11 804 216
+Adjustments for:
+Costs incurred in respect of acquisitions (refer note 8.1)
+38 261
+24 577
+Dividends received from jointly controlled entity 
+(refer note 9.1 and 9.3)
+108 597
+64 411
+Czech share-based payments
+(61 437)
+(313 637)
+Adjustment for depreciation and amortisation
+(refer note 7.1 and 7.2)
+2 317 883
+2 042 899
+Adjustment for right-of-use lease asset depreciation (refer note 7.3)
+1 347 881
+1 269 111
+Adjustment for non-cash items
+673 225
+525 558
+Non-cash movement in the trade receivables impairment 
+allowance
+159 750
+182 086
+Non-cash movement in the provision for stock obsolescence
+15 564
+55 929
+Non-cash movement in provisions
+(40 721)
+162 029
+Charge to profit or loss for share-based payments
+(refer note 11.1)
+338 702
+304 294
+Profit on disposal of plant, property and equipment
+(41 187)
+(62 473)
+Impairment of plant, property and equipment (refer note 7.1)
+56 522
+46 569
+Impairment of intangible assets (refer note 7.2)
+18 607
+1 112
+Non-cash movements related to lease cancellations for 
+right-of-use lease assets and right-of-use lease liabilities
+(13 550)
+(47 318)
+Loss (profit) on disposal of businesses
+479 432
+(2 384)
+Non-cash movement in deferred consideration recognised 
+on acquisition
+–
+(141 344)
+Other non-cash items movements
+(299 894)
+27 058
+Working capital changes
+(803 500)
+(1 637 147)
+Increase in inventories
+(1 463 062)
+(10 570)
+Increase in trade and other receivables
+(465 099)
+(1 089 438)
+Increase (decrease) in trade and other payables
+1 124 661
+(537 139)
+Cash generated by operations
+15 768 523
+13 779 988
+5.
+Taxation
+5.1
+Income taxation
+2025
+R’000
+2024
+R’000
+Current taxation
+2 596 911
+2 601 039
+Current year
+2 565 801
+2 638 049
+Prior years’ under (over) provision
+31 110
+(37 010)
+Deferred taxation
+295 753
+197 866
+Current year
+375 857
+141 877
+Prior years’ (over) under provision
+(79 719)
+52 498
+Change in rate of taxation
+(385)
+3 491
+Foreign withholding taxation
+58 165
+51 679
+Total taxation per consolidated statement of profit or loss
+2 950 829
+2 850 584
+Comprising
+South African taxation
+295 081
+259 558
+Foreign taxation
+2 655 748
+2 591 026
+2 950 829
+2 850 584
+Income taxation comprises current and deferred taxation. Income taxation expense is recognised in profit 
+or loss except to the extent that it relates to items recognised directly in OCI or equity, in which case it is 
+recognised in OCI or equity.
+Current taxation comprises taxation payable calculated on the basis of the expected taxable income for 
+the year, using the taxation rates enacted or substantively enacted at the reporting date, and any 
+adjustment of taxation payable for previous years.
+The reconciliation of the group’s effective taxation rate applies the South African taxation rate as the holding 
+company is a South African taxation resident. On a group basis, the foreign taxation rate differentials are 
+not considered significant and the method has been applied consistently from period to period.
+Notes to the consolidated financial statements continued
+for the year ended June 30
+
+--- PAGE 42 (matched: inventory_working_capital, receivables_payables) ---
+40
+BIDCORP I CONSOLIDATED ANNUAL FINANCIAL STATEMENTS 2025
+5.
+Taxation continued
+5.1
+Income taxation continued
+2025
+%
+2024
+%
+The reconciliation of the effective taxation rate with the 
+South African company taxation rate is:
+Taxation for the year as a percentage of profit before taxation
+26,4
+26,1
+Associates
+0,3
+0,3
+Effective rate excluding associate income
+26,7
+26,4
+Dividend and exempt income
+1,8
+1,5
+Foreign taxation rate differential
+2,7
+0,9
+Non-deductible expenses¹
+(4,2)
+(2,1)
+Deferred taxation assets not previously raised
+(0,3)
+0,7
+Exempt portion of capital gains
+(0,1)
+(0,3)
+Changes in prior years’ estimation
+0,4
+(0,1)
+Rate of South African company taxation (%)
+27,0
+27,0
+1 Non-deductible expenses comprise the loss on disposal of Pier 7, Germany (refer note 8.2), impairments of 
+property, plant and equipment (refer note 7.1), intangible assets (refer note 7.2), non-deductibility of puttable 
+option liability interest and other non-deductible expenses individually insignificant across the group.
+The group is within the scope of the Organisation for Economic Co-operation and Development (OECD) 
+Pillar Two model rules which is effective for the 2025 financial year. Pillar Two introduces a global minimum 
+effective tax (ETR) of 15% for multinational groups with consolidated revenue exceeding €750 million in at 
+least two of the last four consecutive financial years. The purpose of ETR is to ensure that multinational 
+groups pay a minimum level of tax on the income generated in each jurisdiction where they operate. 
+The group applied the safe-harbour test with the group recognising a current taxation expense of 
+R0,3 million (2024: Rnil) as it relates to the top-up taxation payable in United Arab Emirates and Macau.
+The group has adopted the IASB amendments to IAS 12 a temporary mandatory relief from accounting 
+for deferred taxation which arises from legislation implementing the Pillar Two model rules. Under the relief, 
+it neither recognises nor discloses information about deferred taxation assets and liabilities related to Pillar 
+Two income taxes. Further guidance on the rules and regulations is expected in the coming periods; the 
+group will continue to assess the impact of the Pillar Two legislation in relation to future financial 
+performance.
+2025
+R’000
+2024
+R’000
+5.2
+Deferred taxation
+Deferred taxation assets
+1 601 364
+1 619 173
+Deferred taxation liabilities
+(1 887 589)
+(1 434 666)
+Net deferred taxation (liability) asset
+(286 225)
+184 507
+Movement in net deferred taxation assets and liabilities
+Balance at beginning of the year
+184 507
+401 652
+Deferred taxation charge
+(295 753)
+(197 866)
+Items recognised directly in equity and other comprehensive 
+income
+29 229
+11 139
+On acquisition of businesses
+(57 257)
+(1 656)
+On disposal of businesses
+(109 763)
+(4 883)
+Exchange rate adjustments, including the effect of hyperinflation
+(37 188)
+(23 879)
+Balance at end of the year
+(286 225)
+184 507
+Analysis of deferred taxation balances
+Differential between carrying values and taxation values of 
+property, plant and equipment
+(2 037 259)
+(1 485 789)
+Differential between carrying values and taxation values of 
+intangible assets
+(167 574)
+(77 340)
+Estimated taxation losses
+321 767
+340 744
+Staff-related allowances and liabilities
+600 275
+499 961
+Differential between right-of-use lease assets and liabilities
+253 839
+277 034
+Inventories
+76 269
+74 489
+Investments
+(71 010)
+(70 717)
+Trade and other receivables
+321 706
+296 229
+Trade, other payables and provisions
+415 762
+329 896
+(286 225)
+184 507
+Deferred taxation has been provided at rates ranging between 9 – 30% (2024: 9 – 34%). The variance in 
+rates arises as a result of the differing taxation and Capital Gains Taxation rates present in the various 
+countries in which the group operates.
+Reconciliation of estimated tax losses available for offset against future taxable income
+2025
+R’000
+2024
+R’000
+Estimated taxation losses available for offset against future 
+taxable income
+2 059 385
+2 316 451
+Utilised in the computation of deferred taxation
+(1 191 730)
+(1 262 015)
+Not accounted for in deferred taxation
+867 655
+1 054 436
+Notes to the consolidated financial statements continued
+for the year ended June 30
+
+--- PAGE 43 (matched: context) ---
+41
+BIDCORP I CONSOLIDATED ANNUAL FINANCIAL STATEMENTS 2025
+5.
+Taxation continued
+5.2
+Deferred taxation continued
+Deferred taxation assets have not been recognised in respect of certain tax losses as the directors 
+believe it is not probable that the relevant companies will generate taxable profit in the near future or 
+the nature of the taxation losses remain uncertain, against which the benefits can be utilised.
+The significant taxation losses not accounted for as deferred taxation assets relates to the 
+Guzmán Gastronomía S.L. group (Spain). At June 30 2025, the estimated taxation losses for 
+Spain were €28,8 million (R594 million) (2024: €29,2 million (R568 million)).
+Deferred taxation is recognised in respect of temporary differences between the carrying amounts of assets 
+and liabilities for financial reporting purposes and the amounts used for taxation purposes. The amount of 
+deferred tax provided is based on the expected manner of realisation or settlement of the carrying amount 
+of assets and liabilities using tax rates enacted or substantively enacted at the reporting date.
+The following temporary differences are not provided for: initial recognition of goodwill, the initial 
+recognition of assets or liabilities in a transaction that is not a business combination, initial recognition 
+of the right-of-use (RoU) lease assets/liabilities and that affects neither accounting nor taxable profit, and 
+differences relating to investments in subsidiaries to the extent that they will probably not reverse in the 
+foreseeable future. Deferred taxation is charged to the statement of profit or loss except to the extent 
+that it relates to a transaction that is recognised directly in other comprehensive income or equity, or a 
+business combination that is an acquisition. The effects on deferred taxation of any changes in tax rates 
+are recognised in the statement of profit or loss, except to the extent that it relates to items previously 
+charged or credited directly to OCI or equity.
+A deferred taxation asset is recognised to the extent that it is probable that future taxable profits will 
+be available against which the associated unused taxation losses and deductible temporary differences 
+can be utilised. Deferred taxation assets are reviewed at each reporting date and are reduced to the 
+extent that it is no longer probable that the related taxation benefit will be realised.
+2025
+R’000
+2024
+R’000
+5.3
+Taxation paid
+Amounts payable at beginning of the year
+(578 678)
+(548 319)
+Current taxation charge
+(2 655 076)
+(2 652 718)
+Businesses acquired
+(9 650)
+(986)
+Disposal of business
+(11)
+498
+Interest earned on taxation deposits
+–
+726
+Exchange rate adjustments
+35 546
+20 013
+Amounts payable at end of the year1
+404 201
+578 678
+Amounts paid
+(2 803 668)
+(2 602 108)
+1 Amount payable includes taxation receivable of R52,0 million (2024: R175,3 million) (refer note 7.5) and taxation 
+payable of R456,2 million (2024: R753,9 million) (refer statement of financial position).
+6.
+Basic, diluted and headline earnings per share
+6.1
+Basic earnings per share
+Basic earnings per share is calculated by dividing the profit attributable to equity holders of Bidcorp by the 
+weighted average number of ordinary shares in issue during the year, excluding those ordinary shares held 
+as treasury shares.
+Weighted average number of ordinary shares in issue is calculated as the number of shares in issue at 
+the beginning of the year, increased by shares issued/treasury shares sold during the year or decreased 
+by treasury shares purchased during the year, weighted on a time basis for the period in the year during 
+which they have participated in the profit of Bidcorp.
+2025
+2024
+Profit attributable to shareholders of the company (R’000)
+8 174 172
+8 010 072
+Weighted average number of shares in issue (‘000)
+335 659
+334 786
+Basic earnings per share (cents)
+2 435,3
+2 392,6
+6.2
+Diluted basic earnings per share
+The diluted basic earnings per share is calculated by adjusting 
+the weighted average number of shares outstanding to assume 
+conversion of all dilutive potential ordinary shares.
+Dilutive earnings* (R’000)
+8 174 172
+8 010 072
+Weighted average number of shares in issue (’000)
+335 659
+334 786
+Potential dilutive impact of outstanding share and conditional 
+awards (’000)
+1 187
+1 292
+Number of outstanding staff share awards
+630
+787
+Number of share awards deemed to be issued at fair value
+(549)
+(660)
+Contingent issuable shares in terms of conditional share plan 
+to be issued not at fair value
+1 106
+1 165
+Dilutive weighted average number of shares (’000)
+336 846
+336 078
+Diluted basic earnings per share (cents)
+2 426,7
+2 383,4
+Dilution (%)
+0,4
+0,4
+* There were no reconciling items for the diluted earnings.
+Notes to the consolidated financial statements continued
+for the year ended June 30
+
+--- PAGE 48 (matched: context) ---
+46
+BIDCORP I CONSOLIDATED ANNUAL FINANCIAL STATEMENTS 2025
+7.
+Net operating assets continued
+7.3
+Right-of-use lease assets (RoU lease assets)
+2025
+R’000
+2024
+R’000
+Leasehold properties
+6 211 275
+5 530 478
+Cost
+10 548 092
+9 406 350
+Accumulated depreciation
+(4 336 817)
+(3 875 872)
+Vehicles
+735 108
+612 365
+Cost
+1 498 257
+1 348 408
+Accumulated depreciation
+(763 149)
+(736 043)
+Equipment and other
+88 149
+90 099
+Cost
+130 377
+116 845
+Accumulated depreciation
+(42 228)
+(26 746)
+7 034 532
+6 232 942
+The group recognises RoU lease assets at the commencement date of the lease (ie the date the 
+underlying asset is available for use). RoU lease assets are measured at cost, less any accumulated 
+depreciation and impairment losses, and adjusted for any remeasurement of lease liabilities.
+The cost of RoU lease assets includes the amount of lease liabilities recognised, initial direct costs 
+incurred, and lease payments made at or before the commencement date less any lease incentives 
+received. Unless the group is reasonably certain to obtain ownership of the leased asset at the end of 
+the lease term, the recognised RoU lease assets are depreciated on a straight-line basis over the 
+shorter of its estimated useful life and the lease term. RoU lease assets are subject to impairment.
+The group leases three asset categories, namely property (leasehold properties), vehicles, and 
+equipment related to leasehold properties. Property leases mainly relate to the lease of land and 
+buildings used for distribution of frozen or perishable foods products. Vehicle leases include a fleet of 
+vehicles to deliver product to customers which are wholly or partially refrigerated for the transportation 
+of frozen or perishable foods products. In addition, there are sales and marketing representative leased 
+vehicles that are used to stay in contact with the needs of our customers and acquaint them with the 
+group’s new food products and services. RoU lease assets are effectively ceded as security for 
+concomitant lease liabilities (refer note 10.4).
+2025
+R’000
+2024
+R’000
+Movement in RoU lease assets
+Carrying value at beginning of the year
+6 232 942
+5 797 500
+New leases entered into including lease incentives
+1 702 793
+1 789 387
+Leasehold properties
+1 273 092
+1 282 841
+Vehicles
+414 780
+421 009
+Equipment and other
+14 921
+85 537
+Lease modifications and remeasurements
+325 695
+322 310
+Leasehold properties
+246 848
+318 839
+Vehicles
+75 766
+2 706
+Equipment and other
+3 081
+765
+Cancelled leases
+(80 358)
+(78 836)
+Leasehold properties
+(55 361)
+(68 951)
+Vehicles
+(24 618)
+(7 959)
+Equipment and other
+(379)
+(1 926)
+Group transfers
+–
+–
+Leasehold properties
+(4 992)
+–
+Vehicles
+4 992
+–
+Acquisition of business
+–
+–
+Leasehold properties
+12 698
+1 173
+Disposal of business
+(37 807)
+–
+Leasehold properties
+(19 719)
+–
+Vehicles
+(18 088)
+–
+Depreciation
+(1 347 881)
+(1 269 111)
+Leasehold properties
+(954 550)
+(907 030)
+Vehicles
+(371 656)
+(345 568)
+Equipment and other
+(21 675)
+(16 513)
+Exchange rate adjustments, including the effect of hyperinflation
+226 450
+(329 481)
+Leasehold properties
+182 780
+(289 123)
+Vehicles
+41 567
+(34 971)
+Equipment and other
+2 103
+(5 387)
+7 034 532
+6 232 942
+Notes to the consolidated financial statements continued
+for the year ended June 30
+
+--- PAGE 49 (matched: inventory_working_capital, receivables_payables) ---
+47
+BIDCORP I CONSOLIDATED ANNUAL FINANCIAL STATEMENTS 2025
+7.
+Net operating assets continued
+7.3
+Right-of-use lease assets (RoU lease assets) continued
+2025
+R’000
+2024
+R’000
+Segmental RoU depreciation
+Bidfood
+1 345 823
+1 266 968
+Australasia
+117 146
+146 323
+United Kingdom
+339 409
+323 946
+Europe
+494 305
+407 180
+Emerging Markets
+394 963
+389 519
+Corporate
+2 058
+2 143
+1 347 881
+1 269 111
+2025
+R’000
+2024
+R’000
+7.4
+Inventories
+Raw materials
+1 029 648
+759 804
+Work-in-progress
+24 880
+22 005
+Finished goods
+18 088 749
+16 126 699
+Roll cages
+119 403
+99 186
+19 262 680
+17 007 694
+Value of inventory expensed to the consolidated statement 
+of profit or loss
+193 448 545
+180 093 004
+Provision for stock obsolescence included in inventories
+387 458
+417 729
+Total value of inventories on hand at June 30 written down 
+to net realisable value
+920 574
+782 908
+Provision for stock obsolescence credited to the consolidated 
+statement of profit or loss
+(28 640)
+(5 259)
+Inventories are stated at the lower of cost and estimated net realisable value. Estimated net realisable 
+value is the estimated selling price in the ordinary course of business, less the estimated costs of 
+completion and selling expenses. The cost of raw materials and finished goods is determined on a 
+weighted average cost basis. The cost of manufactured inventory and work-in-progress includes 
+materials, direct labour, other direct costs and an appropriate portion of overheads, but excludes 
+interest expense.
+2025
+R’000
+2024
+R’000
+7.5
+Trade and other receivables
+Trade receivables
+24 101 188
+22 614 530
+Impairment allowances
+(1 216 631)
+(1 271 209)
+Net trade receivables
+22 884 557
+21 343 321
+Forward exchange contracts asset
+5 216
+4 686
+Prepayments
+1 136 001
+974 775
+Deposits
+200 289
+190 727
+Value added taxation receivable
+339 582
+225 652
+Signing and listing fees
+193 134
+156 016
+Rebates due from suppliers
+234 560
+228 601
+Taxation receivable
+51 990
+175 253
+Other receivables
+230 321
+225 568
+25 275 650
+23 524 599
+Trade receivables are measured initially at fair value, and are subsequently measured at amortised cost 
+using the effective interest method, less an ECL allowance.
+Forward exchange contracts (FECs) are initially measured at fair value on the contract date, and are 
+remeasured to fair value at subsequent reporting dates. The resulting gain or loss is recognised in profit 
+or loss as it arises, unless the FEC is designated and effective as a hedging instrument. Changes in the 
+fair value of derivative financial instruments that are designated and effective as hedges of future cash 
+flows are recognised in other comprehensive income. The ineffective portion is recognised immediately 
+in profit or loss.
+The group does not have any significant contract assets.
+Trade receivables consist of a large number of customers spread across diverse markets and 
+geographical areas. Ongoing credit evaluation is performed by operational management on the financial 
+condition of the operation’s customers.
+The group does not have any significant credit risk exposure to any single counterparty or any group of 
+counterparties having similar characteristics. The group’s largest exposure to a single customer group, 
+across multiple geographies is R992 million (2024: R890 million). The group had 402 129 individual trade 
+debtors at June 30 2025 (2024: 370 395). The total number of debtors per reporting division was 
+obtained and the average net revenue per trade debtor was calculated for each reporting division. Based 
+on the average net revenue per trade debtor in comparison to the group’s total net revenue for the year, 
+there was no significant concentration of credit risk to any single trade debtor. The concentration of credit 
+risk is therefore limited due to the customer base being large and independent.
+Notes to the consolidated financial statements continued
+for the year ended June 30
+
+--- PAGE 50 (matched: receivables_payables) ---
+48
+BIDCORP I CONSOLIDATED ANNUAL FINANCIAL STATEMENTS 2025
+7.
+Net operating assets continued
+7.5
+Trade and other receivables continued
+Management have assessed the recoverability of these amounts due in their geographies and believe that 
+the amounts due and not impaired are recoverable in full. In addition, broad principles of credit risk 
+management are observed across all business segments, such as the use of credit rating agencies, credit 
+guarantee insurance where appropriate and the maintenance of a credit control function. An operation’s 
+average credit period depends on local conditions as well as the creditworthiness of their customers. 
+Financial assets are considered defaulted based on the specific business policy and considered in the 
+ECL model. The majority of the customers are given credit terms ranging from cash on delivery to 60 days 
+from statement. The balance per customer type at the reporting date can be summarised as follows:
+2025
+R’000
+2024
+R’000
+Hotels, restaurants and cafés
+10 252 064
+9 942 298
+Retail, wholesalers and other distributors
+2 454 661
+4 021 158
+Quick service restaurants
+2 618 278
+2 692 780
+Caterers, butcheries and canteens
+4 471 615
+2 529 102
+Healthcare and aged care
+2 081 867
+1 583 111
+Education
+1 420 160
+1 244 973
+Travel (airlines and cruise liners)
+409 889
+266 715
+Government-related customers
+392 654
+334 393
+24 101 188
+22 614 530
+The ECL model focuses on the risk that a debtor will default rather than whether a loss has or will be 
+incurred. Credit losses are recognised earlier under IFRS 9 because every loan and receivable “has a risk 
+of defaulting in the future” and has an ECL associated with it. As the businesses mature, the ECL model 
+is refined to reflect the customer mix dynamic.
+The group applies the IFRS 9 simplified approach to measuring ECLs that use a lifetime expected loss 
+allowance for all trade receivables and contract assets. ECLs are calculated, as a function of the 
+decentralised structure, by each operation by applying the historic loss ratios to trade receivables. In 
+determining the ECL, each operation splits the trade receivables into groups based on shared credit risk 
+characteristics and the days past due, namely by splitting customers into the type of customer (eg hotels, 
+restaurants and cafés; quick service restaurants; caterers, butcheries and canteens), geographical 
+regions, product types, customer ratings and trade credit insurances. In instances where there was no 
+evidence of historical impairment, each operation’s management used their knowledge of their business 
+to determine the potential loss rate. The historical loss rates are adjusted, when necessary, to reflect 
+current and forward-looking information on macro-economic factors affecting the ability of the customers 
+to settle the trade receivables. The group has identified GDP, food inflation and levels of consumer 
+confidence in the region or country in which it sells its goods and services to be the most relevant factors, 
+and accordingly adjusts the historical loss rates based on expected changes in these factors.
+In addition, possible long-term negative impacts of above normal inflation on the macro-economic 
+environment have been factored into ECLs calculated on a country-by-country basis based on evidence 
+available at June 30 2025.
+ECLs were considered for deposits, signing and listing fees, rebates due from suppliers and other 
+receivables. Carrying values at June 30 reflect the fair value of these receivables less any expected 
+credit allowances.
+The review of the expected impairment allowances and loss ratios in respect of trade and other 
+receivables is monitored under the oversight of the divisional audit and risk committees, and ultimately 
+the group audit and risk committee. Financial assets are written off when it is concluded there is no 
+reasonable expectation of recovery once all reasonable avenues have been exercised.
+Notes to the consolidated financial statements continued
+for the year ended June 30
+
+--- PAGE 51 (matched: receivables_payables) ---
+49
+BIDCORP I CONSOLIDATED ANNUAL FINANCIAL STATEMENTS 2025
+7.
+Net operating assets continued
+7.5
+Trade and other receivables continued
+2025
+2024
+Gross
+debtor
+R’000
+Loss
+rate
+%
+ECL
+R’000
+Gross
+debtor
+R’000
+Loss
+rate
+%
+ECL
+R’000
+The ECL matrix at reporting date can be summarised as follows:
+Not past due
+20 275 524
+1,3%
+256 982
+18 603 770
+1,5%
+287 354
+Hotels, restaurants and cafés
+8 244 896
+1,3%
+106 637
+7 640 489
+1,6%
+123 368
+Retail, wholesalers and other distributors
+1 927 865
+1,8%
+34 653
+1 950 482
+2,8%
+53 938
+Quick service restaurants
+2 283 653
+0,7%
+16 979
+2 451 918
+1,0%
+24 831
+Caterers, butcheries and canteens
+3 835 512
+1,0%
+38 292
+3 476 055
+1,5%
+50 573
+Healthcare and aged care
+1 914 539
+1,6%
+30 216
+1 391 715
+1,2%
+17 135
+Education
+1 336 754
+1,0%
+13 118
+1 200 827
+0,8%
+10 011
+Travel (airlines and cruise liners)
+373 993
+3,4%
+12 837
+207 802
+2,9%
+5 944
+Government related customers
+358 312
+1,2%
+4 250
+284 482
+0,5%
+1 554
+Past due 0 – 30 days
+2 046 433
+4,0%
+81 968
+2 042 343
+5,1%
+104 811
+Hotels, restaurants and cafés
+975 704
+4,9%
+48 198
+1 085 670
+6,6%
+71 517
+Retail, wholesalers and other distributors
+355 370
+3,3%
+11 715
+349 561
+3,5%
+12 262
+Quick service restaurants
+199 261
+1,3%
+2 673
+129 186
+3,9%
+5 067
+Caterers, butcheries and canteens
+350 994
+4,0%
+14 101
+285 310
+2,4%
+6 832
+Healthcare and aged care
+93 350
+2,5%
+2 324
+124 846
+3,7%
+4 625
+Education
+33 778
+3,4%
+1 159
+13 229
+5,5%
+724
+Travel (airlines and cruise liners)
+28 509
+5,4%
+1 552
+37 739
+9,1%
+3 427
+Government related customers
+9 467
+2,6%
+246
+16 802
+2,1%
+357
+Past due 31 – 180 days
+779 655
+21,4%
+167 041
+919 036
+19,2%
+176 277
+Hotels, restaurants and cafés
+396 767
+20,9%
+82 930
+538 373
+18,9%
+101 973
+Retail, wholesalers and other distributors
+96 798
+22,5%
+21 732
+122 320
+18,7%
+22 910
+Quick service restaurants
+58 815
+10,8%
+6 360
+44 101
+22,5%
+9 929
+Caterers, butcheries and canteens
+125 419
+32,5%
+40 717
+111 617
+20,2%
+22 536
+Healthcare and aged care
+45 580
+9,8%
+4 488
+46 342
+21,2%
+9 816
+Education
+29 986
+28,7%
+8 611
+20 222
+10,0%
+2 032
+Travel (airlines and cruise liners)
+6 437
+28,0%
+1 801
+15 565
+31,4%
+4 883
+Government related customers
+19 853
+2,0%
+402
+20 496
+10,7%
+2 198
+181 + days
+999 576
+71,1%
+710 640
+1 049 381
+67,0%
+702 767
+Hotels, restaurants and cafés
+634 697
+83,6%
+530 363
+677 766
+73,6%
+498 723
+Retail, wholesalers and other distributors
+74 628
+49,6%
+37 000
+106 739
+74,1%
+79 130
+Quick service restaurants
+76 549
+64,7%
+49 558
+67 575
+46,0%
+31 070
+Caterers, butcheries and canteens
+159 690
+42,5%
+67 838
+148 176
+49,2%
+72 966
+Healthcare and aged care
+28 398
+39,1%
+11 098
+20 208
+49,8%
+10 072
+Education
+19 642
+51,8%
+10 167
+10 695
+32,9%
+3 520
+Travel (airlines and cruise liners)
+950
+81,5%
+774
+5 609
+38,7%
+2 168
+Government related customers
+5 022
+76,5%
+3 842
+12 613
+40,6%
+5 118
+24 101 188
+5,0%
+1 216 631
+22 614 530
+5,6%
+1 271 209
+Notes to the consolidated financial statements continued
+for the year ended June 30
+
+--- PAGE 52 (matched: receivables_payables) ---
+50
+BIDCORP I CONSOLIDATED ANNUAL FINANCIAL STATEMENTS 2025
+7.
+Net operating assets continued
+7.5
+Trade and other receivables continued
+2025
+2024
+Loss rate
+%
+Gross trade
+receivables
+R’000
+ECL
+R’000
+Net trade
+receivables
+R’000
+Loss rate
+%
+Gross trade
+receivables
+R’000
+Impairment
+allowance
+R’000
+Net trade
+receivables
+R’000
+Ageing of trade receivables per segment at June 30
+Not past due
+1,3%
+20 275 524
+(256 982)
+20 018 542
+1,5%
+18 603 770
+(287 354)
+18 316 416
+Australasia
+4,8%
+2 638 392
+(126 756)
+2 511 636
+4,2%
+2 619 847
+(110 948)
+2 508 899
+United Kingdom
+0,6%
+6 038 031
+(36 610)
+6 001 421
+0,6%
+6 113 352
+(34 767)
+6 078 585
+Europe
+0,5%
+8 500 704
+(44 433)
+8 456 271
+1,2%
+6 922 722
+(83 017)
+6 839 705
+Emerging Markets
+1,6%
+3 098 397
+(49 183)
+3 049 214
+2,0%
+2 947 849
+(58 622)
+2 889 227
+Past due 0 – 30 days
+4,0%
+2 046 433
+(81 968)
+1 964 465
+5,1%
+2 042 343
+(104 811)
+1 937 532
+Australasia
+12,4%
+168 734
+(20 903)
+147 831
+12,2%
+240 549
+(29 372)
+211 177
+United Kingdom
+1,9%
+406 825
+(7 627)
+399 198
+2,0%
+211 939
+(4 326)
+207 613
+Europe
+3,9%
+840 738
+(33 197)
+807 541
+4,6%
+1 017 062
+(46 780)
+970 282
+Emerging Markets
+3,2%
+630 136
+(20 241)
+609 895
+4,2%
+572 793
+(24 333)
+548 460
+31 – 180 days
+21,4%
+779 655
+(167 041)
+612 614
+19,2%
+919 036
+(176 277)
+742 759
+Australasia
+57,9%
+71 154
+(41 228)
+29 926
+56,7%
+89 827
+(50 965)
+38 862
+United Kingdom
+9,0%
+220 659
+(19 788)
+200 871
+8,8%
+265 375
+(23 388)
+241 987
+Europe
+24,8%
+303 203
+(75 126)
+228 077
+17,3%
+386 506
+(66 939)
+319 567
+Emerging Markets
+16,7%
+184 639
+(30 899)
+153 740
+19,7%
+177 328
+(34 985)
+142 343
+181+ days
+71,1%
+999 576
+(710 640)
+288 936
+67,0%
+1 049 381
+(702 767)
+346 614
+Australasia
+94,9%
+21 006
+(19 940)
+1 066
+95,0%
+17 388
+(16 520)
+868
+United Kingdom
+42,3%
+248 353
+(104 998)
+143 355
+40,2%
+298 353
+(119 801)
+178 552
+Europe
+79,6%
+565 508
+(450 101)
+115 407
+78,3%
+516 186
+(404 420)
+111 766
+Emerging Markets
+82,3%
+164 709
+(135 601)
+29 108
+74,5%
+217 454
+(162 026)
+55 428
+5,0%
+24 101 188
+(1 216 631)
+22 884 557
+5,6%
+22 614 530
+(1 271 209)
+21 343 321
+The ECL percentage for trade receivables increased from 4,5% in 2019 to 11,5% in 2020 due to the onset of COVID-19. In 2021, the ECL percentage reduced to 9,8% given better than expected collections and 
+improvements in forward-looking information arising from the effectiveness of global vaccine programmes. In 2022, the ECL provision reduced further to 5,8% due to increased economic activity in most parts of the world and 
+improvements in forward-looking information and has remained at a similar ECL percentage for 2023 at 5,9% and 2024 at 5,6%. The 2025 overall ECL of 5,0% remains elevated compared to 2019 (pre-COVID-19 ECL) of 
+4,5% as we still operate in times of economic uncertainty (sticky global inflation, high interest rates, possible recessions risks, continued geopolitical and trade tariff volatility).
+In summary, the ECL for the year ended June 30 2025 has been conservatively calculated on a country-by-country basis based on evidence available at the time of finalising the group annual financial statements. The majority 
+(more than 95%) of trade and other receivables are fixed in the subsidiaries’ local currency. As trade and other receivables have limited exposure to exchange rate fluctuations, a currency analysis has not been included.
+The majority (more than 95%) of trade and other receivables are fixed in the subsidiaries’ local currency.  As trade and other receivables have limited exposure to exchange rate fluctuations, a currency analysis has not 
+been included.
+Notes to the consolidated financial statements continued
+for the year ended June 30
+
+--- PAGE 53 (matched: receivables_payables) ---
+51
+BIDCORP I CONSOLIDATED ANNUAL FINANCIAL STATEMENTS 2025
+7.
+Net operating assets continued
+7.5
+Trade and other receivables continued
+2025
+R’000
+2024
+R’000
+Movement in the impairment allowance in respect 
+of trade receivables
+Balance at July 1
+1 271 209
+1 351 892
+Allowances raised during the year
+252 898
+261 000
+Australasia
+35 453
+37 404
+United Kingdom
+2 566
+24 914
+Europe
+132 428
+130 482
+Emerging Markets
+82 451
+68 200
+Bad debts written off during the year
+(269 431)
+(195 343)
+Australasia
+(27 442)
+(8 492)
+United Kingdom
+(28 650)
+(53 911)
+Europe
+(142 289)
+(118 338)
+Emerging Markets
+(71 050)
+(14 602)
+Acquisition of businesses
+16 358
+590
+Australasia
+–
+290
+United Kingdom
+2 889
+–
+Europe
+11 774
+–
+Emerging Markets
+1 695
+300
+Disposal of businesses
+(3 836)
+(6 448)
+Europe
+2 001
+–
+Emerging Markets
+(5 837)
+(6 448)
+Allowances reversed during the year
+(93 148)
+(78 914)
+Australasia
+–
+(4 623)
+Europe
+(43 444)
+(57 100)
+Emerging Markets
+(49 704)
+(17 191)
+Exchange rate adjustments, including the effect of hyperinflation
+42 581
+(61 568)
+Balance at June 30
+1 216 631
+1 271 209
+The group’s policy for bad debts is to write off trade receivables when there is no reasonable 
+expectation of recovery of the outstanding balance in that particular geography but are still subject to 
+enforcement activity.
+2025
+2024
+Fair value
+ of collateral 
+held
+R’000
+Trade
+receivables net
+of impairment
+allowance
+R’000
+Fair value 
+of collateral 
+held
+R’000
+Trade
+receivables net
+of impairment
+allowance
+R’000
+Collateral held on 
+past due amounts
+Cover by credit 
+insurance
+Australasia
+46 145
+46 145
+51 961
+51 961
+United Kingdom
+86 599
+86 599
+65 780
+65 780
+Europe
+399 933
+455 251
+443 921
+458 858
+Emerging Markets
+264 782
+273 304
+379 585
+391 663
+Total
+797 459
+861 299
+941 247
+968 262
+The majority of the collateral held (R797 million (2024: R941 million)) relates to credit insurance with 
+Atradius N.V., Allianz, Coface and Credendo. Atradius N.V. Insurer Financial Strength (IFS) rating has 
+been affirmed by ratings agencies AM Best as A (excellent) with a stable outlook, and Moody’s as A1 
+with a stable outlook. Rating agency Fitch, affirmed Coface AA- IFS rating and outlook remaining stable. 
+Standard and Poor’s confirmed Credendo credit rating as “A” and Allianz as “AA” with outlook for both 
+as stable.
+In certain instances, the group’s operations reserve the right to collect inventory sold when the 
+outstanding debt is not settled by the customer. The collateral detailed above is in addition to these 
+aforementioned measures taken to reduce credit risk in respect of trade receivables.
+Notes to the consolidated financial statements continued
+for the year ended June 30
+
+--- PAGE 54 (matched: receivables_payables) ---
+52
+BIDCORP I CONSOLIDATED ANNUAL FINANCIAL STATEMENTS 2025
+7.
+Net operating assets continued
+7.6
+Trade and other payables
+2025
+R’000
+2024
+R’000
+Trade payables
+29 250 696
+26 671 875
+FECs liability
+30 210
+21 828
+Salary and wage-related creditors
+3 909 544
+3 566 369
+Value added taxation liability
+429 261
+395 916
+Czech cash-settled incentive scheme
+130 055
+139 797
+Other payables and accrued expenses
+2 640 070
+2 465 965
+36 389 836
+33 261 750
+Trade payables by segment
+Trade payables
+Bidfood
+29 173 385
+26 573 987
+Australasia
+4 686 207
+4 634 396
+United Kingdom
+8 560 632
+7 883 250
+Europe
+12 776 749
+10 946 986
+Emerging Markets
+3 149 797
+3 109 355
+Corporate
+77 311
+97 888
+29 250 696
+26 671 875
+Trade payables and accruals mainly consist of amounts outstanding for trade purchases and ongoing costs.
+Trade payables are initially measured at fair value, and are subsequently measured at amortised cost, using 
+the effective interest method.
+The group has contract liabilities disclosed in other payables and accrued expenses in the form of deferred 
+income which arises from consideration received in advance of the satisfaction of performance obligations. 
+The deferred income at June 30 2025 was R0,7 million (2024: R0,9 million).
+The directors consider that the carrying amounts of trade payables and other current liabilities approximates 
+their fair values.
+2025
+R’000
+2024
+R’000
+7.7
+Provisions
+Long-term portion
+848 672
+761 262
+Short-term portion
+426 625
+505 607
+1 275 297
+1 266 869
+Notes to the consolidated financial statements continued
+for the year ended June 30
+
+--- PAGE 55 (matched: context) ---
+53
+BIDCORP I CONSOLIDATED ANNUAL FINANCIAL STATEMENTS 2025
+7.
+Net operating assets continued
+7.7
+Provisions continued
+Onerous
+contracts
+R’000
+Dismantling
+and site
+restoration
+R’000
+Customer
+loyalty
+programme
+R’000
+Restructuring
+provisions
+R’000
+Other
+R’000
+Total
+R’000
+Balance at July 1 2023
+44 196
+511 122
+123 559
+79 603
+402 624
+1 161 104
+Created
+8 192
+126 319
+34 435
+42 977
+105 145
+317 068
+Utilised
+(15 798)
+(48 805)
+(33 595)
+(39 959)
+(36 564)
+(174 721)
+On acquisition of business
+–
+1 847
+100
+–
+–
+1 947
+Exchange rate adjustments
+(1 853)
+(19 934)
+(3 773)
+(3 492)
+(21 403)
+(50 455)
+Effect of discounting
+–
+11 926
+–
+–
+–
+11 926
+Balance at June 30 2024
+34 737
+582 475
+120 726
+79 129
+449 802
+1 266 869
+Created
+2 792
+17 941
+36 732
+4 056
+86 579
+148 100
+Utilised
+(6 280)
+(36 096)
+(39 728)
+(73 431)
+(45 454)
+(200 989)
+On acquisition of business
+–
+–
+–
+1 347
+1 486
+2 833
+On disposal of business
+–
+5 235
+–
+–
+(879)
+4 356
+Exchange rate adjustments
+2 702
+6 650
+(4 897)
+1 401
+27 652
+33 508
+Effect of discounting
+–
+20 620
+–
+–
+–
+20 620
+Balance at June 30 2025
+33 951
+596 825
+112 833
+12 502
+519 186
+1 275 297
+Notes to the consolidated financial statements continued
+for the year ended June 30
+
+--- PAGE 56 (matched: inventory_working_capital, receivables_payables) ---
+54
+BIDCORP I CONSOLIDATED ANNUAL FINANCIAL STATEMENTS 2025
+7.
+Net operating assets continued
+7.7
+Provisions continued
+Provisions are recognised when the group has a legal or constructive obligation as a result of past events, 
+for which it is probable that an outflow of economic benefits will occur, and where a reliable estimate can 
+be made of the amount of the obligation. Where the effect of discounting is material, provisions are 
+discounted. The discount rate used is a pre-tax rate that reflects current market assessments of the time 
+value of money and, where appropriate, the risks specific to the liability.
+Onerous contracts
+Onerous contracts are identified through regular reviews of the terms and conditions of contracts as well 
+as on the acquisition of businesses. A provision for onerous contracts is calculated at the present value 
+of the portion which management deem to be onerous in light of market conditions, discounted using 
+market-related rates. The provision is measured at the present value of the lower of the expected cost 
+of terminating the contract and the expected net costs of continuing the contract. Before a provision is 
+established, the group recognises any impairment loss on the assets associated with that contract.
+Cost of dismantling and site restoration
+A provision is raised for the estimated costs of dismantling and removing items, and restoring the 
+property on which they are located. The change in the liability arising as a result of unwinding the 
+discount is recognised in the statement of profit or loss as a finance charge. The dismantling of the plant 
+and recommissioning of buildings is expected to coincide with the end of the useful life of the plant and 
+lease periods.
+Customer loyalty programme
+Customer loyalty points are accounted for at fair value of the consideration received or receivable in 
+respect of the initial sale, and are allocated between the loyalty points and the other components of the 
+sale. The consideration allocated to the customer loyalty points is measured by reference to their fair 
+value, which is the amount for which the loyalty points could be sold at, multiplied by the probability of 
+their redemption. This amount is recognised as a provision until such time as the customer loyalty points 
+are redeemed. Once the loyalty points are redeemed, the amount will be recognised as revenue. 
+Customer loyalty programmes have been introduced by certain operations within the group, whereby 
+customers can earn points for redemption in the form of gift certificates and products of the operations. 
+The provision is calculated based on the points outstanding at year end.
+Restructuring provisions
+The provision for restructuring is recognised when the group has approved a detailed and formal 
+restructuring plan and the restructuring has either commenced or has been publicly announced. 
+Future operating costs are not provided for.
+Other
+Consists of provision for various other individually insignificant provisions.
+2025
+R’000
+2024
+R’000
+7.8
+Segmental assets and liabilities
+Segment operating assets includes property, plant and 
+equipment, intangible assets, investments and loans, 
+inventories and trade and other receivables.
+Segmental operating assets
+Trading division
+Bidfood
+76 680 896
+67 432 596
+Australasia
+16 123 838
+15 547 192
+United Kingdom
+20 780 556
+18 047 893
+Europe
+28 452 096
+23 007 253
+Emerging Markets
+11 324 406
+10 830 258
+Corporate
+354 265
+326 417
+77 035 161
+67 759 013
+Segmental operating liabilities
+Segmental operating liabilities includes trade and other 
+payables and provisions.
+Trading division
+Bidfood
+37 364 246
+33 752 970
+Australasia
+6 713 054
+6 651 290
+United Kingdom
+10 057 321
+8 915 077
+Europe
+15 800 045
+13 562 123
+Emerging Markets
+4 793 826
+4 624 480
+Corporate
+300 887
+775 649
+37 665 133
+34 528 619
+Notes to the consolidated financial statements continued
+for the year ended June 30
+
+--- PAGE 57 (matched: inventory_working_capital, receivables_payables) ---
+55
+BIDCORP I CONSOLIDATED ANNUAL FINANCIAL STATEMENTS 2025
+8.
+Acquisitions, disposals and goodwill
+8.1
+Acquisitions
+2025
+R’000
+2024
+R’000
+Property, plant and equipment
+(402 170)
+(50 837)
+Intangible assets
+(11 970)
+(530)
+RoU leased assets
+(12 698)
+(1 173)
+Deferred taxation
+19 070
+1 656
+Investments and loans
+(3 204)
+–
+Inventories
+(477 226)
+(72 921)
+Trade and other receivables
+(685 519)
+(75 671)
+Cash and cash equivalents
+(505 856)
+(4 941)
+Borrowings
+72 481
+–
+RoU lease liabilities
+25 587
+1 376
+Trade and other payables and provisions
+807 893
+92 916
+Taxation
+9 650
+986
+Total identifiable net assets at fair value
+(1 163 962)
+(109 139)
+Separately identifiable intangible assets
+(148 506)
+(15 891)
+Deferred taxation on separately identified intangible assets
+38 187
+–
+Goodwill
+(2 536 472)
+(281 950)
+Non-controlling interest and step acquisition
+263 151
+–
+Total value of acquisitions
+(3 547 602)
+(406 980)
+Cash and cash equivalents acquired
+505 856
+4 941
+Vendors for acquisition recognised
+539 736
+42 532
+Puttable NCI liabilities recognised
+80 544
+–
+Costs incurred in respect of acquisitions
+(38 261)
+(24 577)
+Cash paid for acquisitions
+(2 459 727)
+(384 084)
+For the year ended June 30 2025, 12 foodservice bolt-on acquisitions were concluded, these were 
+as follows: 
+• Turner and Price Limited, a food wholesaler servicing 2 500 customers in the Midlands and North of 
+England (100% acquisition, effective from July 2024)
+• Blancaluna Group, a broadline foodservice wholesaler based in Argentina, controlling interest acquired 
+as previously accounted for as a jointly controlled entity (60% acquisition, effective from October 2024)
+• VDS Food, a cash and carry food wholesaler based in Belgium (100% acquisition, effective from 
+September 2024)
+• Cesars SIA, a specialised oriental food importer and distributor in Latvia (100% acquisition, effective 
+from July 2024)
+• Colofruit, a foodservice distributor based in Barcelona, Spain (100% acquisition, effective from 
+November 2024)
+• Wild Nation, a vegetable processor based in New Zealand (100% acquisition, effective from 
+December 2024)
+• Dairy Innovation, a long-life UHT soft serve ice cream manufacturer in South Africa (51% acquisition, 
+effective from November 2024)
+• Mizoserve, a dry goods distributor based in Johannesburg, South Africa (100% acquisition, 
+effective from September 2024)
+• Erredi Distribuzione SPA, a wholesale and distributor of food products, Italy (80% acquisition, 
+effective from April 2025)
+• Broekhuyzen Horecaservice B.V., a food and beverages wholesaler based in the Netherlands 
+(100% acquisition, effective from July 2024)
+• Kale Gida, a foodservice distributor based in Türkiye (89% acquisition, effective from January 2025)
+• Gelgarve Empresa Congeladora e Distribuidora de Produtors Alimentares LDA, a wholesaler and 
+distributor based in Portugal (100% acquisition, effective from February 2025).
+Notes to the consolidated financial statements continued
+for the year ended June 30
+
+--- PAGE 58 (matched: inventory_working_capital, receivables_payables) ---
+56
+BIDCORP I CONSOLIDATED ANNUAL FINANCIAL STATEMENTS 2025
+8.
+Acquisitions, disposals and goodwill continued
+8.1
+Acquisitions continued
+Turner
+Price
+R’000
+VDS
+Food
+R’000
+Blancaluna
+Group
+R’000
+Gelgarve
+R’000
+Individually
+insignificant
+R’000
+Total
+R’000
+The impact of these acquisitions on the group’s results can be summarised as follows:
+Property, plant and equipment
+(213 199)
+(65 754)
+(23 863)
+(66 874)
+(32 480)
+(402 170)
+Intangible assets
+–
+(4 323)
+(1 172)
+–
+(6 475)
+(11 970)
+RoU leased assets
+–
+(5 739)
+(6 959)
+–
+–
+(12 698)
+Deferred taxation
+17 874
+–
+1 070
+–
+126
+19 070
+Investments and loans
+(1)
+–
+(1 555)
+–
+(1 648)
+(3 204)
+Inventories
+(131 292)
+(105 332)
+(52 840)
+(70 575)
+(117 187)
+(477 226)
+Trade and other receivables
+(290 403)
+(36 051)
+(129 898)
+(45 480)
+(183 687)
+(685 519)
+Cash and cash equivalents
+(269 852)
+(65 549)
+(3 224)
+(47 278)
+(119 953)
+(505 856)
+Borrowings
+–
+10 421
+23 917
+5 787
+32 356
+72 481
+RoU lease liabilities
+–
+5 946
+19 848
+–
+(207)
+25 587
+Trade and other payables and provisions
+294 085
+114 994
+110 688
+69 972
+218 154
+807 893
+Taxation
+–
+633
+2 479
+(1 618)
+8 156
+9 650
+Total identifiable net assets at fair value
+(592 788)
+(150 754)
+(61 509)
+(156 066)
+(202 845)
+(1 163 962)
+Separately identified intangible assets
+(95 506)
+–
+–
+–
+(53 000)
+(148 506)
+Deferred taxation on separately identified intangible assets
+23 877
+–
+–
+–
+14 310
+38 187
+Goodwill
+(883 431)
+(618 759)
+(233 413)
+(187 688)
+(613 181)
+(2 536 472)
+Non-controlling interest and step acquisition
+–
+–
+236 536
+–
+26 615
+263 151
+Total value of acquisitions
+(1 547 848)
+(769 513)
+(58 386)
+(343 754)
+(828 101)
+(3 547 602)
+Cash and cash equivalents acquired
+269 852
+65 549
+3 224
+47 278
+119 953
+505 856
+Vendors for acquisition recognised
+63 456
+126 283
+–
+21 117
+328 880
+539 736
+Puttable NCI liabilities recognised
+–
+–
+–
+–
+80 544
+80 544
+Costs incurred in respect of acquisitions
+(5 431)
+(1 938)
+(98)
+(6 514)
+(24 280)
+(38 261)
+Cash paid for acquisitions
+(1 219 971)
+(579 619)
+(55 260)
+(281 873)
+(323 004)
+(2 459 727)
+Contribution to results for the year
+Revenue
+2 451 306
+1 037 132
+603 718
+185 243
+996 340
+5 273 739
+Trading profit
+255 580
+103 134
+2 248
+13 089
+84 943
+458 994
+Contribution to results for the year if the acquisitions had been effective July 1 2024
+Revenue
+2 451 306
+1 219 865
+717 538
+529 654
+1 381 779
+6 300 142
+Trading profit
+255 580
+118 529
+35 366
+30 905
+67 762
+508 142
+Qualitative factors that support (but not limited to) the goodwill recognised on bolt-on acquisitions of R2,536 million: Factors include access to customers enabling cross-selling opportunities for the group; cost synergies from 
+better purchasing power, technology sharing, improved working practices, access to key members of staff who all work together to achieve the trading results and management’s expertise as a platform from which to further 
+grow market shares in the foodservice markets across the regions and retain day-to-day trading relationships.
+Acquisitions are in competitive foodservice markets where there are many local and regional distributors who can align themselves with other smaller distributors through purchasing cooperatives and marketing groups. 
+Customers can also choose to purchase products directly from wholesale or retail outlets, including club, cash and carry and grocery stores, online retailers or negotiate prices directly with suppliers. Switching costs are very 
+low, customers or suppliers can make changes on a day-to-day basis. Our group judgement is not to separately value these customer or supplier relationships as identifiable intangible assets, as these are considered 
+day-to-day trading relationships. Most purchasing decisions in the foodservice distribution industry are based on the ability to deliver a wide range of quality products and related services on a timely and dependable basis, and 
+at competitive prices. Therefore, no separately identifiable intangibles have been recognised on acquisition for customer and supplier relationships.
+Notes to the consolidated financial statements continued
+for the year ended June 30
+
+--- PAGE 59 (matched: inventory_working_capital, receivables_payables) ---
+57
+BIDCORP I CONSOLIDATED ANNUAL FINANCIAL STATEMENTS 2025
+8.
+Acquisitions, disposals and goodwill continued
+8.1
+Acquisitions continued
+Separately identified intangible assets
+Separately identified intangible assets have been recognised for brand names relating to Turner Price and 
+Dairy Innovation acquisitions. These brands have a strong influence in the respective regional areas of the 
+United Kingdom and South Africa and the group expects to continue using these brand names into the 
+foreseeable future. The purchase price allocations for these bolt-on acquisitions are provisional and may 
+be retrospectively adjusted if the group obtains new information about facts and circumstances that 
+existed at the acquisition date relating to these entities.
+Vendors for acquisition recognised on acquisition relates to deferred consideration. These deferred 
+consideration payments are separately recognised on acquisition as a financial liability at fair value. 
+Deferred consideration is a contractual provision in an acquisition agreement, which defers a portion 
+of the purchase price.
+8.2
+Disposal of businesses
+Pier 7
+Germany
+R’000
+Individually
+insignificant
+R’000
+Total
+R’000
+Property, plant and equipment
+ 74 440 
+ 3 713 
+ 78 153 
+RoU assets
+ 37 807 
+–
+ 37 807 
+Goodwill 
+ 314 516 
+ 1 099 
+ 315 615 
+Intangible assets
+ 17 949 
+ 624 
+ 18 573 
+Deferred taxation
+ 106 775 
+ 2 988 
+ 109 763 
+Investments and loans
+ 2 260 
+–
+ 2 260 
+Inventories
+ 90 847 
+ 60 578 
+ 151 425 
+Trade and other receivables
+ 11 687 
+ 20 090 
+ 31 777 
+Cash and cash equivalents
+–
+ 19 027 
+ 19 027 
+Borrowings
+–
+ (40 315)
+ (40 315)
+RoU liabilities
+ (20 222)
+–
+ (20 222)
+Trade and other payables and provisions
+ (3 690)
+ (35 981)
+ (39 671)
+Taxation
+–
+ 11 
+ 11 
+Total identifiable net assets at 
+carrying value
+ 632 369 
+ 31 834 
+ 664 203 
+Proceeds
+ 178 506 
+ 6 265 
+ 184 771 
+Loss on disposal
+ (453 863)
+ (25 569)
+ (479 432)
+Proceeds received
+ 178 506 
+–
+ 178 506 
+Cash on date of disposal
+–
+ (19 027)
+ (19 027)
+Cash received (paid) for disposals
+ 178 506 
+ (19 027)
+ 159 479 
+Contribution to results for the year
+Revenue
+ 657 498 
+ 159 378 
+ 816 876 
+Trading (loss) profit
+ (10 991)
+ 11 999 
+ 1 008 
+Pier 7, Germany was disposed of as at December 31 2024. Up to disposal, Pier 7 contributed R657,5 million 
+to revenue but had a trading loss of R11,0 million. A capital loss of R453,9 million was recorded on disposal 
+of Pier 7, Germany.
+2025
+R’000
+2024
+R’000
+8.3
+Goodwill
+Carrying value at beginning of the year
+19 473 908
+20 234 696
+Acquisition of businesses
+2 536 472
+281 950
+Disposal of businesses
+(315 615)
+–
+Exchange rate adjustments
+922 233
+(1 042 738)
+Carrying value at end of the year
+22 616 998
+19 473 908
+The carrying value of goodwill allocated to cash 
+generating units as follows:
+Australia
+3 361 610
+3 391 335
+New Zealand
+487 753
+476 996
+United Kingdom
+5 860 109
+4 563 679
+The Netherlands
+1 233 819
+1 095 710
+Belgium
+1 370 210
+666 993
+Czech Republic and Slovakia
+3 867 301
+3 582 191
+Poland
+439 655
+416 651
+Italy
+2 341 817
+2 069 573
+Spain
+950 655
+769 404
+Portugal
+320 401
+115 521
+Baltics
+437 075
+323 323
+Germany
+–
+307 278
+Greater China
+396 102
+414 632
+South East Asia
+394 193
+433 046
+Brazil
+568 879
+569 260
+Chile
+113 694
+118 855
+Argentina
+233 649
+–
+South Africa
+208 144
+141 363
+Türkiye
+14 502
+1 353
+Middle East
+17 430
+16 745
+22 616 998
+19 473 908
+Notes to the consolidated financial statements continued
+for the year ended June 30
+
+--- PAGE 60 (matched: context) ---
+58
+BIDCORP I CONSOLIDATED ANNUAL FINANCIAL STATEMENTS 2025
+8.
+Acquisitions, disposals and goodwill continued
+8.3
+Goodwill continued
+Goodwill acquired through business combinations is allocated for impairment testing purposes to 
+cash-generating units (CGU) which reflect how it is monitored for internal management purposes. 
+The CGUs are consolidated into the group’s segments. The carrying amount of goodwill was subject to 
+an annual impairment test, the recoverable amount was determined by using the discounted cash flow for 
+each CGU. A five-year period (in some cases, a 10-year period) was used for the DCFs. The CGUs that 
+operate in highly fragmented markets whereby revenue growth, trading margins and scalability will reach 
+maturity at or about 10 years. The valuation was performed on an enterprise value basis less the net debt 
+per CGU and expected costs to sell.
+Impairment testing of goodwill
+The key assumptions in the fair value less costs to sell calculations are:
+• Expected average revenue growth were based on past experience and management’s future 
+expectations (including macro-economic forward-looking information such as local GDP, consumer 
+confidence, unemployment rates, inflation and interest rates) of business performance.
+• Budgeted average trading margins per CGU were based on past experience and management’s future 
+expectations of business performance.
+• The post-tax discount rates are determined by calculating:
+CGU’s cost of equity which was calculated by taking into account country risk, market risk and 
+company-specific risk premiums (calculated by taking into account the financial risk of the CGU 
+(ie, level of debt); forecast profitability of the CGU (including forecasting risk); operational risk of 
+the company (ie operating leverage/margins of the business, mix of fixed and variable components); 
+customer and supplier concentration of the CGU) and the CGU’s cost of debt.
+• Terminal growth rate projections are based on management projections taking into consideration 
+industry forecasts and growth rates in the regions in which the group operates.
+The critical underlying assumptions applied (ie discount rate, average revenue growth, average trading 
+margins over the forecast period (average trading margins), and terminal growth rate) were reviewed by 
+management in the current macro-economic environment.
+Management considered the sensitivities underlying the primary assumptions to determine the 
+consequences that reasonably possible changes in such assumptions may have on the recoverable 
+amount of the underlying assets.
+The table illustrates the discount rate, average revenue growth rates, average trading margins and 
+terminal growth rates that were used in the discounted cash flow valuations for the CGUs:
+Discount rate
+Average revenue growth
+2025
+2024
+2025
+2024
+Australia
+6,0
+6,8
+8,0
+6,3
+New Zealand
+7,8
+7,8
+10,0
+5,0
+United Kingdom
+7,0
+7,5
+4,4
+4,8
+The Netherlands
+5,5
+5,5
+3,5
+5,2
+Belgium
+7,0
+6,5
+4,1
+5,1
+Czech Republic and 
+Slovakia
+7,0
+7,0
+5,0
+4,6
+Poland
+8,6
+8,0
+8,1
+6,9
+Italy
+8,3
+8,3
+5,4
+5,3
+Spain
+7,3
+7,3
+14,5
+7,7
+Portugal
+7,8
+7,8
+16,4
+7,3
+Baltics
+7,8
+7,8
+6,2
+7,1
+Greater China
+8,4
+9,3
+5,0
+6,1
+South East Asia
+7,0
+7,8
+14,7
+10,8
+Brazil
+13,5
+13,5
+18,4
+14,2
+Chile
+10,8
+10,8
+8,2
+9,3
+Argentina
+37,51
+–
+21,11
+–
+South Africa
+12,5
+12,5
+9,8
+8,5
+Türkiye
+37,51
+37,5
+20,11
+33,0
+Middle East
+9,0
+10,0
+8,6
+7,7
+1 The Türkiye and Argentina discount rates and average revenue growth rates are unpredictable due to the 
+macro-economic environment and effects of hyperinflation. Albeit they are expected to achieve sales volume 
+and market share growth through new product lines and access through new distribution centres to new 
+customers and markets.
+Notes to the consolidated financial statements continued
+for the year ended June 30
+
+--- PAGE 62 (matched: context) ---
+60
+BIDCORP I CONSOLIDATED ANNUAL FINANCIAL STATEMENTS 2025
+9. 
+Investments continued
+9.2
+Investments and loans
+2025
+ R’000 
+2024
+ R’000 
+Unlisted investments held at fair value through other 
+comprehensive income
+6 540
+6 350
+Unlisted loans held at fair value through OCI
+23 742
+30 579
+Unlisted loans held at amortised cost
+224 853
+265 229
+255 135
+302 158
+The group manages its credit risk for investments by investing in reputable instruments.
+Significant unlisted investments held at fair value through OCI, is an investment in the SA SME Fund that 
+invests directly in scalable small and medium enterprises with the best potential for growth and 
+sustainable employment creation in the South African economy. No dividends were received in 2025 
+(2024: Rnil). During the year no impairments were recognised on unlisted investments (2024: Rnil).
+Specific unlisted loans held at amortised cost relate to loans to customers in the Netherlands and Belgium 
+that have maturities between two and three years, as well as Bidfood Czech manager loans relating to the 
+management incentive scheme with maturities of between four and nine years.
+A register of the investments is available for inspection by shareholders at the registered office of 
+the company.
+2025
+ R’000 
+2024
+ R’000 
+9.3
+Investments in jointly controlled entities
+Investments in jointly controlled entities
+520 246
+563 462
+Balance at beginning of the year
+563 462
+537 108
+Share of profit from jointly controlled entities
+58 212
+77 502
+Share of impairments from jointly controlled entities
+(974)
+(835)
+Exchange rate adjustments
+(16 597)
+(313)
+Disposal of jointly controlled entity
+(83 857)
+–
+Dividends received from jointly controlled entity
+–
+(50 000)
+Advances to jointly controlled entity at amortised cost
+–
+11 852
+Balance at end of the year
+520 246
+575 314
+Effective April 1 2017, Bidcorp Food Africa (Pty) Limited, a subsidiary of Bid Corporation Limited, 
+concluded an agreement with Puratos Group NV (Puratos) whereby Puratos became an equal shareholder 
+in Chipkins Puratos (CP). CP manufactures and supplies bakery ingredients to industrial bakers, the craft 
+baking market and large retailers under the Chipkins and NCP brands in South Africa. The carrying value 
+of the investment in CP at June 30 2025 is R520,2 million (2024: R465,4 million).
+Effective April 1 2019, Bidcorp acquired 38% of the Blancaluna Group, a broadline foodservice 
+wholesaler based in Argentina. An additional 8% interest was acquired during 2021 taking the total 
+investment to 46%. In October 2024 a further 14% interest was acquired bringing the effective 
+shareholding to 60% and has been accounted for as a subsidiary. Refer note 8.1 for step acquisition 
+details.
+2025
+ R’000 
+2024
+ R’000 
+Summarised aggregated financial information of investments 
+in jointly controlled entities
+Revenue
+1 864 052
+2 484 492
+Operating profit
+153 663
+239 846
+Net finance charges
+(7 072)
+(40 481)
+Taxation
+(36 109)
+(41 681)
+Total comprehensive income for the year
+110 482
+157 684
+Group’s share of total comprehensive income
+57 238
+76 667
+Dividends received from jointly controlled entities
+–
+50 000
+Total assets
+771 894
+649 916
+Proportion of group’s interest in jointly controlled entities
+256 636
+278 563
+Goodwill inherent on acquisition of jointly controlled entities
+263 610
+284 899
+Carrying value of group’s interest in jointly controlled entities
+520 246
+563 462
+Interests in the joint ventures are accounted for using the equity method of accounting. Joint ventures are 
+initially recorded at fair value and thereafter are increased or decreased by Bidcorp’s share of the profit or 
+loss. Goodwill relating to jointly controlled entities are included in the initial carrying amount of the 
+investment. Share of property, plant and equipment impairments of R0,9 million were recognised for the 
+group’s investments in jointly controlled entities (2024: R0,8 million).
+Upon loss of joint control over an investment in a jointly controlled entity, the group measures and 
+recognises any remaining investment at its fair value.
+Any difference between the carrying amount of the investment in a jointly controlled entity and the fair 
+value of the remaining investment and any proceeds from disposal is recognised in the statement of 
+consolidated profit or loss.
+Notes to the consolidated financial statements continued
+for the year ended June 30
+
+--- PAGE 63 (matched: fx_exposure) ---
+61
+BIDCORP I CONSOLIDATED ANNUAL FINANCIAL STATEMENTS 2025
+10.
+Financial risk management and net debt
+10.1 Financial risk management
+The group has exposure to the following risks from its use of financial instruments: credit risk; liquidity risk; 
+foreign currency risk; interest rate risk; and equity price risk.
+The group’s major financial risks are mitigated in the way that it operates, firstly through diversification of 
+geography and secondly through decentralisation of the business model. Bidcorp is an international group 
+with operations in the United Kingdom, Europe, Asia, Australia, New Zealand, South America, Middle East 
+and various southern African countries.
+The group’s philosophy has always been to empower management through a decentralised structure, 
+thereby making operational management responsible and accountable for the performance and 
+governance of their operations, including managing the financial risks of the operation. The operational 
+management reports to the CEO who in turn reports to the Bidcorp board of directors. Operational 
+management’s remuneration is based on their operation’s performance resulting in a decentralised and 
+entrepreneurial environment.
+Due to the diverse structure and decentralised management of the group, the group audit and risk 
+committee (GARC) has implemented guidelines of acceptable governance practices and basic procedures 
+to be followed by divisional and operational management. The information provided below for each 
+financial risk has been collated for disclosure based on the manner in which the business is managed and 
+what is believed to be useful information for stakeholders.
+The overall process of risk management in the group, which includes the related system of control, is the 
+responsibility of the group board of directors. GARC is governed by a charter and reports regularly to the 
+board of directors on its activities.
+GARC’s primary risk responsibilities include:
+• review of the group’s risk policies and approach to risk management;
+• to consider all material risks to which the group is exposed, ensuring that the requisite risk 
+management culture, policies and systems are functioning effectively;
+• management is accountable to the board for implementing and monitoring the processes of risk 
+management and integrating this into their day-to-day activities; they confirm these processes through 
+the completion of the quarterly group management representation letter submitted to GARC;
+• ongoing monitoring of the enterprise-wide risk assessment process to ensure risks and opportunities 
+are adequately identified, evaluated and managed at the appropriate level in each business, and that 
+the individual and joint impact of risks identified on the group is considered;
+• to review legal matters that could have a material impact on the group, as well as considering the 
+adequacy and effectiveness of the group’s procedures to ensure compliance with legal and regulatory 
+responsibilities; and
+• consideration of reports provided by management, internal assurance providers and the independent 
+auditors regarding compliance with legal and regulatory requirements.
+Due to the breadth of the geographical spread of the group’s operations, the group has adopted a 
+globally relevant risk management strategy. This strategy has been communicated, and implementation 
+thereof delegated, to the respective local management teams. The group believes using a common group 
+framework for the management of risk creates a shared foundation from which a view of the global risk 
+universe is developed, but embraces the locally relevant risks faced by each business. The group risk 
+management policies are established to identify and analyse the risks faced by the group, to set 
+appropriate guidance and parameters within which risks are to be reported to GARC. The group 
+continues to grow and develop a robust and constructive control environment in which all employees 
+understand their roles and responsibilities.
+Each business reports to one of five divisional audit and risk committees (DARC), which subscribes to the 
+same philosophies and practices as GARC. The DARCs report quarterly to GARC. The DARCs oversee 
+how operational management monitors compliance with the group policies and guidelines in respect of 
+the financial reporting process, the system of internal control, the management of financial risks, the audit 
+process (both internal and external) and code of ethics. The DARCs are assisted in their oversight role by 
+the group internal audit. Internal audit undertakes both regular and risk-based reviews of financial and 
+operational risk management controls and procedures, the results of which are reported quarterly to the 
+respective DARC and consolidated for quarterly reporting to GARC.
+Notes to the consolidated financial statements continued
+for the year ended June 30
+
+--- PAGE 64 (matched: receivables_payables) ---
+62
+BIDCORP I CONSOLIDATED ANNUAL FINANCIAL STATEMENTS 2025
+10.
+Financial risk management and net debt continued
+10.1 Financial risk management continued
+a) 
+Credit risk
+Credit risk is the risk of financial loss to the group if a customer or counterparty to a financial instrument 
+fails to meet its contractual obligations, and arises principally from the group’s receivables from 
+customers, investments and guarantees.
+The board has implemented a “delegation of authority matrix” which provides guidelines to the divisions 
+as to the level of authorisation required for various types of transactions.
+The carrying amount of financial assets recorded in the financial statements, which is net of impairment 
+losses, represents the group’s maximum exposure to credit risk after taking into account the value of any 
+collateral obtained. The carrying values, net of impairment allowances and ECLs, amount to R22,9 billion 
+(2024: R21,3 billion) for trade receivables (refer note 7.5 for credit risk disclosure), other receivables 
+relating to deposits, signing and listing fees and other receivables amounting to R910 million (2024: 
+R976 million), and R255 million (2024: R302 million) for investments and unlisted loans (refer note 9.2) 
+and cash and cash equivalents of R11,8 billion (2024: R11,7 billion).
+The ECL in respect of trade receivables is used to record expected impairment losses unless the group is 
+satisfied that no recovery of the amount owing is possible; at that point, the amount which is considered 
+irrecoverable is written off directly against the respective assets.
+Impairments of investments classified at fair value through OCI or amortised cost are written off against 
+the investment directly and an impairment allowance account is not utilised.
+The group has a general credit policy of dealing with creditworthy counterparties and obtaining sufficient 
+collateral, where appropriate, as a means of mitigating the risk of financial loss from defaults. In 
+accordance with the decentralised structure, the operational management is responsible for 
+implementation of credit policies to meet the above objective. This includes credit policies under which 
+new customers are analysed for creditworthiness before the operation’s standard payment and delivery 
+terms and conditions are offered, determining whether collateral is required, and if so the type of collateral 
+to be obtained, and setting of credit limits for individual customers based on their financial viability and 
+credit ratings. Many operations in the group have a policy of taking out credit insurance to cover a portion 
+of their risk, which lowers credit risk and has been factored in when calculating the ECLs by each 
+operation. Operational management are also held responsible for monitoring the operations’ credit 
+exposure. For cash and cash equivalents, the group places its cash, where possible, with major banking 
+groups and high-quality institutions with high credit ratings in that country. The group’s treasury policy is 
+designed to limit exposure to any one institution and invests its excess cash in low-risk investment 
+accounts. The counterparties that are used by the group are evaluated on a continuous basis. At 
+June 30 2025 cash and cash equivalents was held with many major international banking institutions 
+(with investment grade ratings ranging from AA- to A) and local South African banking institutions (with 
+investment grade ratings of BB-).
+b) 
+Liquidity risk
+Liquidity risk is the risk that the group will not be able to meet its financial obligations as they fall due. 
+The group’s approach to managing liquidity is to ensure, as far as possible, that it will always have 
+sufficient liquidity to meet its liabilities when due, under both normal and stressed conditions, without 
+incurring unacceptable losses or risking damage to the group’s reputation.
+The group manages its borrowings centrally for each of the segments. The divisions within each segment 
+are therefore not responsible for the management of liquidity risk but rather senior management for each 
+of these segments is responsible for implementing procedures to manage the regional liquidity risk.
+Notes to the consolidated financial statements continued
+for the year ended June 30
+
+--- PAGE 65 (matched: receivables_payables) ---
+63
+BIDCORP I CONSOLIDATED ANNUAL FINANCIAL STATEMENTS 2025
+10.
+Financial risk management and net debt continued
+10.1 Financial risk management continued
+b)
+Liquidity risk continued
+Contractual maturities of financial liabilities, including interest payments.
+Undiscounted contractual cash flows
+Carrying
+amount
+R’000
+Total
+R’000
+Up to 1 
+year
+R’000
+1 – 2 
+years
+R’000
+2 – 3 
+years
+R’000
+3 – 5 
+year
+R’000
+More than 
+5 years
+R’000
+2025
+Borrowings (refer note 10.3)
+Loans secured by mortgage bonds over fixed property
+282 611
+292 277
+26 621
+22 290
+43 876
+59 921
+139 569
+Loans secured by lien over certain property, plant and equipment
+192 193
+215 924
+96 949
+57 007
+39 280
+22 688
+–
+Unsecured loans
+17 487 148
+19 645 850
+3 939 123
+3 224 168
+2 729 284
+7 622 778
+2 130 497
+17 961 952
+20 154 051
+4 062 693
+3 303 465
+2 812 440
+7 705 387
+2 270 066
+RoU lease liabilities (refer note 10.4)
+8 243 478
+10 742 240
+1 725 915
+1 346 895
+1 112 663
+1 555 212
+5 001 555
+Puttable non-controlling liabilities (refer note 10.5)
+6 110 530
+6 440 037
+499 549
+2 752 263
+1 496 707
+1 628 673
+62 845
+Vendors for acquisition
+922 815
+948 382
+435 967
+14 375
+5 195
+162 536
+330 309
+Trade and other payables (refer note 7.6) excluding forward exchange 
+contracts and value added taxation liability
+35 930 365
+35 930 365
+35 930 365
+–
+–
+–
+–
+20241
+Borrowings (refer note 10.3)
+Loans secured by mortgage bonds over fixed property
+ 301 870 
+ 313 557 
+ 44 304 
+ 51 726 
+ 47 679 
+ 73 700 
+ 96 148 
+Loans secured by lien over certain property, plant and equipment
+ 214 418 
+ 241 266 
+ 116 510 
+ 70 651 
+ 27 129 
+ 26 976 
+–
+Unsecured loans
+ 14 093 297 
+ 15 537 338 
+ 6 213 871 
+ 287 779 
+ 2 699 394 
+ 4 319 477 
+ 2 016 817 
+ 14 609 585 
+ 16 092 161 
+ 6 374 685 
+ 410 156 
+ 2 774 202 
+ 4 420 153 
+ 2 112 965 
+RoU lease liabilities (refer note 10.4)
+ 7 581 560 
+9 803 114
+1 696 975
+1 181 772
+1 040 034
+1 350 878
+4 533 455
+Puttable non-controlling liabilities (refer note 10.5)
+ 5 493 502 
+ 5 806 117 
+ 322 438 
+ 2 590 631 
+ 1 423 773 
+ 1 397 359 
+ 71 916 
+Vendors for acquisition
+ 535 915 
+ 971 854 
+ 96 529 
+ 36 406 
+ 5 457 
+ 208 101 
+ 625 361 
+Trade and other payables (refer note 7.6) excluding forward exchange 
+contracts and value added taxation liability
+ 32 844 006 
+ 32 844 006 
+ 32 844 006 
+–
+–
+–
+–
+1 The time periods have been updated in the current year to further disaggregate the aging of future cash flows. 
+The expected maturity of financial liabilities is not expected to differ from the contractual maturities as disclosed above. There were no group defaults or breaches of any of the borrowing terms or conditions.
+Notes to the consolidated financial statements continued
+for the year ended June 30
+
+--- PAGE 66 (matched: fx_exposure, receivables_payables) ---
+64
+BIDCORP I CONSOLIDATED ANNUAL FINANCIAL STATEMENTS 2025
+10.
+Financial risk management and net debt continued
+10.1 Financial risk management continued
+b)
+Liquidity risk continued
+2025
+ R’000 
+2024
+ R’000 
+Undrawn facilities
+The group has the following undrawn facilities at its disposal 
+to further reduce liquidity risk:
+Unsecured bank overdraft facility, reviewed annually and 
+payable on 360 days’ notice
+3 718 999
+3 378 929
+Utilised
+973
+179 625
+Unutilised
+3 718 026
+3 199 304
+Unsecured loan facility with various maturity dates through to 
+2028 and which may be extended by mutual agreement
+26 432 966
+21 287 287
+Utilised
+16 729 451
+13 251 732
+Unutilised
+9 703 515
+8 035 555
+Secured loan facilities with various maturity dates through to 
+2032 and which may be extended by mutual agreement
+282 611
+301 870
+Utilised
+282 611
+301 870
+Unutilised
+–
+–
+Other banking facilities
+1 155 935
+1 404 455
+Utilised
+29 961
+138 378
+Unutilised
+1 125 974
+1 266 077
+Total utilised facilities
+17 042 996
+13 871 605
+Total unutilised facilities
+14 547 515
+12 500 936
+Total facilities
+31 590 311
+26 372 541
+c) 
+Market risk
+Market risk is the risk that changes in market price, such as foreign exchange rates, interest rates and 
+equity prices will affect the group’s income or the value of its holdings of financial instruments. The 
+objective of market risk management is to manage and control market risk exposures within acceptable 
+parameters, while optimising the return on risk.
+i) 
+Foreign currency risk
+Currency risk is the possibility that the group may suffer financial loss as a consequence of the 
+depreciation in the measurement currency relative to the foreign currency prior to payment of a 
+commitment in that foreign currency or the measurement currency strengthening prior to receiving 
+payment in that foreign currency. The group also has translation risk arising from the consolidation of 
+foreign operations into South African rand.
+Statement of profit or 
+loss (average)
+Statement of financial 
+position (spot)
+Currency conversion 
+guide at June 30
+2025
+2024
+2025
+2024 
+Rand/sterling
+23,50
+23,56
+24,35
+22,99
+Rand/euro
+19,75
+20,23
+20,85
+19,48
+Rand/Australian dollar
+11,75
+12,26
+11,63
+12,13
+Rand/New Zealand 
+dollar
+10,72
+11,35
+10,79
+11,08
+Rand/Hong Kong dollar
+2,33
+2,39
+2,26
+2,33
+Rand/Singapore dollar
+13,71
+13,87
+13,94
+13,41
+Rand/Czech koruna
+0,79
+0,82
+0,84
+0,78
+Rand/Polish zloty
+4,63
+4,61
+4,92
+4,52
+Rand/Brazilian real
+3,17
+3,74
+3,25
+3,25
+Borrowings are matched to the same functional currency as the business raising the liability thereby 
+limiting the businesses’ exposure to changes in a foreign currency which differs to their functional 
+currency. Interest on borrowings is denominated in currencies that match the cash flows generated by 
+the underlying divisions of the group, thereby providing an economic hedge for each class of borrowing.
+The group incurs currency risk as a result of purchases and sales which are denominated in a currency 
+other than that entities’ functional reporting currency. It is group policy that group entities hedge all trade 
+receivables and trade payables denominated in a functional currency which differs to its functional 
+currency. The entities also take out economic hedges over their estimated foreign currency exposure 
+resulting from sales and purchases. The group entities hedge their foreign currency risk exposure either 
+by taking out FECs or alternatively by purchasing in advance the foreign currency which will be required 
+to settle the trade payables. Most of the FECs have maturities of less than one year after the reporting 
+date. Where necessary, the FECs are rolled over at maturity. It is the group’s policy not to trade in 
+derivative financial instruments for speculative purposes.
+Changes in the fair value of FECs that economically hedge monetary assets and liabilities in foreign 
+currencies (in relation to the operations’ functional currency) and for which no hedge accounting is 
+applied are recognised in the statement of profit or loss. Both the changes in fair value of the FECs and 
+the foreign exchange gains and losses relating to the monetary items are recognised in operating profit 
+(refer note 4.2).
+Notes to the consolidated financial statements continued
+for the year ended June 30
+
+--- PAGE 67 (matched: receivables_payables) ---
+65
+BIDCORP I CONSOLIDATED ANNUAL FINANCIAL STATEMENTS 2025
+10.
+Financial risk management and net debt continued
+10.1 Financial risk management continued
+c) 
+Market risk continued
+ii) 
+Interest rate risk
+The group is exposed to interest rate risk as it borrows funds at both fixed and floating interest rates. This 
+risk is managed by maintaining an appropriate mix between fixed and floating borrowings and by the use 
+of interest rate swap contracts. Investments in equity securities accounted for as held for trading financial 
+assets and trade receivables and payables are not exposed to interest rate risk.
+2025
+ R’000 
+2024
+ R’000 
+At the reporting date the interest rate profile of the group’s 
+interest bearing financial instruments was:
+Fixed rate instruments
+Financial liabilities
+Borrowings
+(16 925 315)
+(12 918 303)
+Puttable NCI liabilities
+(6 110 530)
+(5 493 502)
+Derivative instruments in designated hedge accounting 
+relationships
+(30 210)
+(21 828)
+Financial assets
+Derivative instruments in designated hedge accounting 
+relationships
+5 216
+4 686
+Variable rate instruments
+Financial assets
+Cash and cash equivalents
+11 768 592
+11 722 482
+Financial liabilities
+Borrowings
+(1 036 637)
+(1 691 282)
+Bank overdrafts
+(973)
+(163 294)
+The group’s exposure to interest rates on financial assets and liabilities are detailed in the various 
+notes within the financial statements. The variable rates are influenced by movements in the prime 
+borrowing rates.
+Sensitivity analysis
+Group borrowings have been categorised by geographical location and the percentage change used for 
+each category has been selected based on what could reasonably be expected as a change in interest 
+rates within that region based on historical movements in interest rates within that particular region. This 
+sensitivity analysis has been prepared using the average borrowings for the financial year as the actual 
+borrowings at June 30 may not be representative of the average borrowings during the year. This analysis 
+assumes that all other variables, in particular foreign currency rates, remain constant. The analyses are 
+performed on the same basis as for 2024. A decrease in interest rates would have an equal and opposite 
+effect on profit after taxation as detailed below. Given the rise in global interest rates, three sensitivities for 
+2025 have been detailed below.
+Sensitivity 1
+Sensitivity 2
+Sensitivity 3
+2025
+2025
+2025
+Average
+ variable
+borrowings
+ applied
+R’000
+Increase
+ in 
+interest
+ rates
+%
+Decrease
+ in profit
+ after 
+taxation
+R’000
+Increase 
+in 
+interest 
+rates
+%
+Decrease 
+in profit 
+after 
+taxation
+R’000
+Increase
+ in 
+interest 
+rates
+%
+Decrease 
+in profit 
+after 
+taxation
+R’000
+Emerging Markets
+981 186
+1,00
+7 359
+2,50
+18 397
+5,00
+36 794
+United Kingdom 
+and Europe
+382 773
+0,50
+1 435
+1,00
+2 871
+2,50
+7 177
+1 363 959
+8 794
+21 268
+43 971
+2024
+2024
+2024
+Emerging Markets
+1 801 330
+1,0
+13 510
+2,5
+33 775
+5,0
+67 550
+United Kingdom 
+and Europe
+259 847
+0,5
+974
+1,0
+1 949
+2,5
+4 872
+Australasia
+24 039
+0,5
+84
+1,0
+168
+2,5
+421
+2 085 216
+14 568
+35 892
+72 843
+iii) 
+Equity price risk
+Equity price risk arises from investments classified at fair value through profit or loss or investments 
+classified at fair value through OCI (refer note 9.2). Unlisted investments comprise unlisted shares and 
+loans are valued at fair value using a price earnings (PE) model. A sensitivity analysis for investments at fair 
+value was not performed as the fair value balance is insignificant.
+Notes to the consolidated financial statements continued
+for the year ended June 30
+
+--- PAGE 68 (matched: context) ---
+66
+BIDCORP I CONSOLIDATED ANNUAL FINANCIAL STATEMENTS 2025
+10.
+Financial risk management and net debt continued
+10.1 Financial risk management continued
+d) 
+Fair values
+The carrying amounts of all financial assets and liabilities approximate their fair values.
+Fair value hierarchy
+When measuring the fair value of an asset or a liability, the group uses market observable data as far as 
+possible. Fair values are categorised into different levels in a fair value hierarchy based on the inputs used 
+in the valuation techniques categorised as follows.
+• Level 1: quoted prices (unadjusted) in active markets for identical assets or liabilities.
+• Level 2: inputs other than quoted prices included in level 1 that are observable for the asset or 
+liability, either directly (ie as prices) or indirectly (ie derived from prices).
+• Level 3: inputs for the asset or liability that are not based on observable market data 
+(unobservable inputs).
+The following table shows the carrying amounts and fair values of financial assets and financial liabilities, 
+including their levels in the fair value hierarchy for financial instruments measured at fair value. It does not 
+include fair value information for financial assets and financial liabilities not measured at fair value if the 
+carrying amount is a reasonable approximation of fair value.
+Non-current assets (liabilities)
+Current assets (liabilities)
+Puttable
+ non-
+controlling
+interests
+R’000
+Invest-
+ments
+R’000
+Vendors 
+for 
+acquisition
+R’000
+Puttable
+ non-
+controlling
+interests
+R’000
+Vendors 
+for 
+acquisition
+R’000
+Total
+R’000
+June 30 2025
+Financial assets 
+measured at fair value
+–
+6 540
+–
+–
+–
+6 540
+Financial liabilities 
+measured at fair value
+(5 694 778)
+–
+(512 372)
+(415 752)
+(410 445)
+(7 033 347)
+June 30 2024
+Financial assets 
+measured at fair value
+–
+6 350
+–
+–
+–
+6 350
+Financial liabilities 
+measured at fair value (5 221 784)
+–
+(439 386)
+(271 718)
+(96 529)
+(6 029 417)
+Total
+Level 1
+Level 2
+Level 3
+June 30 2025
+Financial assets measured at fair value
+6 540
+–
+–
+6 540
+Financial liabilities measured at fair value
+(7 033 347)
+–
+–
+(7 033 347)
+June 30 2024
+Financial assets measured at fair value
+6 350
+–
+–
+6 350
+Financial liabilities measured at fair value
+(6 029 417)
+–
+–
+(6 029 417)
+Valuation techniques and significant unobservable inputs are as follows:
+The table shows the valuation techniques used in measuring the DAC puttable non-controlling interests 
+(refer note 10.5) at June 30.
+Valuation technique
+Significant unobservable 
+inputs
+Inter-relationship between 
+significant unobservable 
+inputs and fair value 
+measurement
+The expected payments are 
+determined by considering the 
+possible scenarios of forecast 
+EBITDAs, the amount to be 
+paid under each scenario and 
+the probability of each scenario. 
+The valuation models consider 
+the present value of expected 
+payment, discounted using a 
+risk-adjusted discount rate.
+• Average revenue growth 
+rates: 7,2% (2024: 4,9%)
+• Average EBITDA margin: 
+5,8% (2024: 6,1%)
+• Contractual EBITDA multiple: 
+10,5x (2024: 10,5x)
+• Risk-adjusted discount rate: 
+1,7% (2024: 1,7%)
+The estimated fair value would 
+increase (decrease) if:
+• the EBITDA were higher 
+(lower); or
+• the risk-adjusted discount 
+rate was lower (higher).
+Sensitivity analysis on changes in significant variable unobservable inputs for puttable non-controlling 
+interests (liability)
+Increase in
+ assumption
+%
+Increase 
+(decrease)
+R’000
+Decrease in 
+assumption
+%
+Increase 
+(decrease)
+R’000
+Revenue growth rates
+10
+49 492
+10
+(49 067)
+Average EBITDA margin
+10
+618 268
+10
+(618 268)
+Risk-adjusted discount rate
+10
+(26 237)
+10
+26 425
+The group recognises any changes in the value of the liability as a result of changes in assumptions used 
+to estimate the future purchase price directly in retained earnings in the statement of changes in equity.
+Notes to the consolidated financial statements continued
+for the year ended June 30
+
+--- PAGE 77 (matched: context) ---
+75
+BIDCORP I CONSOLIDATED ANNUAL FINANCIAL STATEMENTS 2025
+11.
+Staff remuneration continued
+11.2 Remuneration of directors continued
+The remuneration paid to non-executive directors while in office of the company during the year ended 
+June 30 is analysed as follows:
+2025
+Director 
+fees
+R’000
+Other 
+services
+R’000
+Total
+R’000
+2024
+R’000
+Non-executive director
+T Abdool-Samad
+1 326
+–
+1 326
+1 256
+PC Baloyi
+1 719
+–
+1 719
+1 630
+B Joffe
+2 192
+–
+2 192
+2 123
+S Koseff
+4 674
+–
+4 674
+4 460
+KR Moloko
+1 211
+–
+1 211
+1 140
+CJ Rosenberg
+2 108
+–
+2 108
+2 085
+NG Payne
+2 114
+–
+2 114
+2 005
+H Wiseman¹
+2 642
+766
+3 408
+3 289
+Total
+17 986
+766
+18 752
+17 988
+1 H Wiseman provided services by chairing the quarterly Bidcorp DARC meetings.
+Prescribed officers
+Due to the nature and structure of the group and the number of executive directors on the board of the 
+company, the directors have concluded that there are no prescribed officers of the company.
+2025
+R’000
+2024
+R’000
+11.3 Post-retirement obligations
+Post-retirement assets
+The Bidvest South Africa Pension Fund in South Africa
+(5 604)
+(23 918)
+Post-retirement obligations
+43 491
+42 272
+Angliss Hong Kong Food Service Limited Retirement Benefit 
+and Long Service Plans
+17 472
+27 496
+Unfunded defined benefit early retirement plan
+26 019
+14 776
+37 887
+18 354
+The group provides retirement benefits for its permanent employees through pension funds with defined 
+benefit and defined contribution categories and defined contribution provident funds or appropriate 
+industry funds.
+Defined benefit pension funds
+All funds are defined benefit pension funds administered independently of the group and are subject to 
+the relevant pension fund legislation. The defined benefit funds operated by the group are The Bidvest 
+South Africa Pension Fund in South Africa (SA Pension Fund) and Angliss Hong Kong Food Service 
+Limited Retirement Benefit and Long Service Plan. Employer contributions to defined contribution funds 
+are set out in note 4.2. During the year, the SA Pension Fund members were converted to The Bidvest 
+South African Retirement Fund. As at June 30 2025, the SA Pension Fund had no defined benefit 
+members and no defined benefit obligations.
+Unfunded defined benefit retirement plans
+DAC (Italian subsidiary) provides a retirement plan for its employees. The total number of members as of 
+June 30 was 412 (2024: 333).
+Discount 
+rate 
+(%)
+Salary 
+increase 
+(%)
+Key assumptions applied in the actuarial valuations:
+2025
+Angliss Hong Kong Food Service Limited Retirement Benefit 
+and Long Service Plans
+2,3 – 3,0
+2,8
+Unfunded defined benefit early retirement plan
+3,6
+3,0
+2024
+Angliss Hong Kong Food Service Limited Retirement Benefit Plan
+3,4 – 3,7
+4,5
+Unfunded defined benefit early retirement plan
+3,7
+3,0
+A sensitivity analysis for post-retirement obligations was not performed as the carrying value is 
+insignificant.
+Notes to the consolidated financial statements continued
+for the year ended June 30
+
+--- PAGE 78 (matched: fx_exposure) ---
+76
+BIDCORP I CONSOLIDATED ANNUAL FINANCIAL STATEMENTS 2025
+12.
+Equity, distributions and group information
+12.1 Capital and reserves attributable to shareholders of the company
+2025
+R’000
+2024
+R’000
+Stated capital
+Issued stated capital
+6 107 666
+5 428 016
+Treasury shares
+(101 476)
+226 899
+Balance at beginning of the year
+226 899
+(134 001)
+Shares disposed of in terms of share incentive plans
+351 275
+360 900
+Shares issued during the year
+(679 650)
+–
+Reserves
+Foreign currency translation reserve including hyperinflation 
+effects
+11 928 592
+11 083 099
+Equity-settled share-based payment reserve
+825 833
+624 265
+Retained earnings
+28 534 773
+24 827 869
+Total capital reserves
+Amounts attributable to shareholders of the company
+47 295 388
+42 190 148
+Amounts attributable to non-controlling interests
+377 283
+334 218
+47 672 671
+42 524 366
+Stated capital
+No par value ordinary shares are classified as equity. Incremental costs directly attributable to the issuance 
+of new no par value ordinary shares are deducted against the stated capital account.
+Treasury shares
+Shares in the company, held by its subsidiary, are classified as the group’s shareholders’ interest as 
+treasury shares. These shares are treated as a deduction from the issued and weighted average number 
+of shares. The cost price of the treasury shares is presented as a deduction from total equity. When 
+treasury shares are purchased, the cost is debited to this separate category of equity. When treasury 
+shares are sold the amount received for the instruments is credited to this separate category of equity.
+Foreign currency translation reserve
+The translation reserve comprises foreign exchange differences arising from the translation of the financial 
+statements of foreign operations including hyperinflationary adjustments
+Equity-settled share-based payment reserve
+The equity-settled share-based payment reserve (SBP reserve) includes the fair value of the SAR awards 
+granted and conditional share awards made to executive directors and staff, which have been recognised 
+over the vesting period at fair value with a corresponding expense recognised in the statement of profit or 
+loss. The total share-based payment expense for the group during the year was R305,1 million 
+(2024: R266,6 million). Our settlement practice of the share-based payment incentive plans has been 
+through a subsidiary company (other than the employer company of the participant), which holds Bidcorp 
+treasury shares (Bidcorp Treasury Company).
+In terms of an inter-group repayment arrangement, the employer company pays the purchase contribution 
+to the Bidcorp Treasury Company for the market value of the shares that were awarded to the participant 
+exercising the award. The R351,3 million (2024: R360,9 million) utilisation during the year represents the 
+market value of Bidcorp shares received by participants for share awards that were exercised during 
+the year. The credit entry for the R351,3 million (2024: R360,9 million) is recorded under treasury 
+shares representing the Bidcorp shares that were sold to satisfy the participant share awards that 
+were exercised.
+The transfer from retained earnings of R221,8 million (2024: R219,5 million) represents a transfer between 
+equity reserves to true up the equity-settled SBP reserve to reflect the value of outstanding share awards 
+at June 30 2025.
+2025
+Number 
+of shares 
+(‘000)
+2024
+Number 
+of shares 
+(‘000)
+Stated capital
+Authorised
+540 000 000 ordinary shares of no par value
+(2024: 540 000 000 ordinary shares of no par value)
+Issued
+336 904 212 ordinary shares of no par value
+(2024: 335 404 212 ordinary shares of no par value)
+336 904
+335 404
+Treasury shares held by Bidcorp Treasury Company
+(920)
+(210)
+Balance at beginning of the year
+(210)
+(1 069)
+Shares disposed in terms of share incentive plans
+790
+859
+Shares issued during the year
+(1 500)
+–
+335 984
+335 194
+The issued stated capital is fully paid up.
+16 750 000 unissued no par value ordinary shares are under the control of the directors until the next 
+annual general meeting.
+Notes to the consolidated financial statements continued
+for the year ended June 30
+
+--- PAGE 79 (matched: context) ---
+77
+BIDCORP I CONSOLIDATED ANNUAL FINANCIAL STATEMENTS 2025
+12.
+Equity, distributions and group information 
+continued
+12.2 Dividends paid
+2025
+R’000
+2024
+R’000
+2024 final dividend paid of 565,0 cents per share 
+(2023: final dividend of 500,0 cents per share was declared)
+1 895 034
+1 677 021
+2025 interim dividend paid of 560,0 cents per share 
+(2024: interim dividend paid of 525,0 cents per share was declared)
+1 886 663
+1 760 872
+Amounts paid per the consolidated statement of cash flows
+3 781 697
+3 437 893
+12.3 Group composition
+A list of the group’s significant subsidiaries, their country of incorporation and principal place of business, 
+the group’s percentage shareholding and an indication of their nature of business is included below.
+Effective holdings 
+%
+Principle place 
+of business
+Nature of 
+business
+2025
+2024
+Subsidiaries
+Al Diyafa Company for Catering Services LLC
+B Saudi Arabia
+1
+49
+49
+Angliss Beijing Food Service Limited
+China
+1
+95
+70
+Angliss Guangzhou Food Service Co Limited
+China
+1
+90
+90
+Angliss Hong Kong Foodservice Limited
+Hong Kong
+1
+100
+100
+Angliss International Investment Limited
+Hong Kong
+1
+100
+100
+Angliss Macau Food Service Limited
+Macau
+1
+100
+100
+Angliss Shanghai Food Service Limited
+China
+1
+100
+100
+Angliss Shenzen Food Service Limited
+China
+1
+100
+100
+Applied Logic Systems Limited
+New Zealand
+1
+100
+100
+Athian (Pty) Limited 
+(t/a Midwest Food and Liquor)
+Australia
+1
+100
+100
+BFS Botany (Pty) Limited
+Australia
+1
+100
+100
+BFS Byron Bay Limited
+Australia
+1
+100
+100
+BFS Group Limited
+United Kingdom
+1
+100
+100
+BFS Port Macquarie (Pty) Limited
+Australia
+1
+100
+100
+Bidcorp Food Africa (Pty) Limited
+South Africa
+1
+100
+100
+Bidcorp Food Property (Pty) Limited
+South Africa
+1
+100
+100
+Bidcorp Foodservice International Limited
+Isle of Man
+2
+100
+100
+Bidcorp Foodservice (Europe) Limited
+United Kingdom
+1
+100
+100
+Bidcorp Properties International Limited
+Isle of Man
+2
+100
+100
+Bidcorp Spain S.L.
+Spain
+1
+100
+100
+Bidfood Bestfood NV
+Belgium
+1
+100
+100
+Bidfood (Victoria) (Pty) Limited
+Australia
+1
+100
+100
+Bidfood (WA) (Pty) Limited
+Australia
+1
+100
+100
+Bidfood Australia Limited
+Australia
+1
+100
+100
+Effective holdings 
+%
+Principle place 
+of business
+Nature of 
+business
+2025
+2024
+Subsidiaries
+Bidfood Belgium BV
+Belgium
+1
+100
+100
+Bidfood Czech Republic s.r.o.
+Czech Republic
+1
+97
+96
+Bidfood De Clercq NV
+Belgium
+1
+100
+100
+Bidfood Efe Da ˇgıtım ve Pazarlama A.S.
+A Turkey
+1
+90
+90
+Bidfood (EM) Sdn Bhd.
+A Malaysia
+1
+60
+60
+Bidfood Holdings AS
+Turkey
+1
+100
+90
+Bidfood Holdings Malaysia Sdn. Bhd.
+A Malaysia
+1
+89
+89
+Bidfood Horeca Service N.V.
+Belgium
+1
+100
+100
+Bidfood Kale Gida Da ˇgıtım ve Pazarlama A.S.
+Turkey
+1
+75
+–
+Bidfood Limited
+Botswana
+1
+100
+100
+Bidfood Limited
+New Zealand
+1
+100
+100
+Bidfood (Pty) Limited
+South Africa
+1
+100
+100
+Bidfood SA
+Belgium
+1
+100
+100
+Bidfood Chile S.A.
+A Chile
+1
+88
+88
+Bidfood China Limited
+China
+1
+100
+100
+Bidfood Malaysia Sdn. Bhd.
+A Malaysia
+1
+89
+89
+Bidfood Portugal S.A
+Portugal
+1
+100
+100
+Bidfood Singapore (Pte) Limited
+Singapore
+1
+100
+100
+Bid Foodservice Middle East-Jordan
+B Jordan
+1
+–
+39
+Bidfresh Limited
+United Kingdom
+1
+100
+100
+BTW Investments (Pty) Limited
+South Africa
+2
+100
+100
+Burleigh Marr Distributions (Pty) Limited
+Australia
+1
+100
+100
+Campbell Brothers Limited
+United Kingdom
+1
+100
+100
+Cater Plus (Pty) Limited
+Australia
+1
+100
+100
+Caterfood Holdings Limited
+United Kingdom
+1
+100
+100
+Cesars SIA
+Latvia
+1
+100
+–
+Clayton Cold Store (Pty) Limited
+Australia
+1
+100
+100
+Cold Seas (Pty) Limited
+Australia
+1
+100
+100
+Colofruits, SL
+Spain
+1
+100
+–
+Crown Food Group (Pty) Limited
+South Africa
+1
+100
+100
+Distribuidora E Importadora Irmaos Avelino Ltda
+A Brazil
+1
+60
+60
+Distrubuzione Alimentari Convivenze SPA
+A Italy
+1
+60
+60
+Distribuidora Blancaluna S.A.#
+Argentina
+1
+60
+46
+Elite Fine Foods Limited
+United Kingdom
+1
+100
+100
+Erredi Distribuzione SpA
+A Italy
+1
+80
+–
+Euskopan 2002 S.L.
+A Spain
+1
+80
+80
+Farutex Sp.z.o.o.
+Poland
+1
+100
+91
+Notes to the consolidated financial statements continued
+for the year ended June 30
+
+--- PAGE 80 (matched: context) ---
+78
+BIDCORP I CONSOLIDATED ANNUAL FINANCIAL STATEMENTS 2025
+12.
+Equity, distributions and group information continued
+12.3 Group composition continued
+Effective holdings 
+%
+Principle place 
+of business
+Nature of 
+business
+2025
+2024
+Subsidiaries
+Food and Wine Sp.z.o.o
+Poland
+1
+91
+91
+Food Fabrique DMCC
+B United Arab 
+Emirates
+1
+–
+49
+Foster Fast Food N.V.
+Belgium
+1
+100
+100
+Fritesveld BV
+Netherlands
+1
+100
+–
+Fruit Xpress OÜ
+A Estonia
+1
+80
+80
+Gelgarve – Empresa Congeladora E 
+Distribuidora de Produtos Alimentares Lda
+Portugal
+1
+100
+–
+Goldline Distributors (Pty) Limited
+Australia
+1
+100
+100
+Guzman Gastromania S.L.
+Spain
+1
+100
+100
+Harvest Fine Foods Limited
+United Kingdom
+1
+100
+100
+Him Kee Food Distribution Co. Limited
+Hong Kong
+1
+100
+100
+Horeca Trade LLC
+United Arab 
+Emirates
+1
+65
+65
+Horeca Trading SPC
+Oman
+1
+65
+65
+Horeca United Services Co. WLL
+B Bahrain
+1
+42
+42
+Igartza, S.L
+Spain
+1
+100
+100
+Jilin Bidcorp Food Service Limited
+China
+1
+60
+60
+John Lewis Foodservice (Pty) Limited
+Australia
+1
+100
+100
+Linson Global Seafood Trading Limited
+Hong Kong
+1
+63
+63
+Mí ˇca-Bago ˇnová S.R.O.
+Czech Republic
+1
+80
+80
+Midwest Group Holdings (Pty) Limited
+Australia
+1
+100
+100
+Northern Bloc Limited
+United Kingdom
+1
+100
+100
+Nicol Hughes Foodservice Limited
+United Kingdom
+1
+100
+100
+Pastry Global Foodservice Limited
+Hong Kong
+1
+100
+100
+Bidfood Germany Holding GmbH
+Germany
+1
+100
+100
+Simply Food Solutions Limited
+United Kingdom
+1
+100
+100
+Tekoo SPOL s.r.o
+Czech Republic
+1
+100
+100
+# During the year the Group acquired an additional 14% of Distribuidora Blancaluna S.A. and it is now accounted 
+for as a subsidiary. Refer notes 8.1 and 9.3.
+A The group has put option arrangements for these entities or its holding company. In terms of the anticipated 
+acquisition method, these entities are consolidated as 100% held subsidiaries. Refer note 10.5 for details.
+B The group exercises control over the subsidiary as the group has the ability to affect the subsidiaries profit or 
+loss from its involvement and ability to affect those returns through its power over the subsidiary.
+Effective holdings 
+%
+Principle place 
+of business
+Nature of 
+business
+2025
+2024
+Subsidiaries
+Thomas Ridley and Son Limited
+United Kingdom
+1
+100
+100
+Turner and Price Limited
+United Kingdom
+1
+100
+–
+VDS-Food BXL SA
+Belgium
+1
+100
+–
+VDS-Food SA
+Belgium
+1
+100
+–
+UAB Bidfood Lietuva
+Lithuania
+1
+100
+100
+United Imports and Exports Co. (Pty) Limited
+Australia
+1
+100
+100
+Wet Fish Trading LLC
+B United Arab 
+Emirates
+1
+65
+35
+Zegro Centrum Rotterdam B.V.
+Netherlands
+1
+100
+100
+Associates
+ATL Vastgoed BV
+Netherlands
+1
+–
+30
+Chovanecek S.R.O.
+Czech Republic
+1
+20
+20
+Griffith Crown Foods (Pty) Limited
+South Africa
+1
+49
+49
+Farm Fresh Real Estate BV
+Netherlands
+1
+25
+25
+Meatstreet O.G.
+Netherlands
+1
+25
+25
+Maxxam BV
+C Netherlands
+1
+17
+17
+Maxxam CV
+C Netherlands
+1
+17
+17
+Van Gelder Ridderkerk BV
+Netherlands
+1
+20
+20
+Vanilla Venture BV
+Netherlands
+1
+25
+25
+Veltman Vis Service BV
+Netherlands
+1
+30
+–
+Jointly controlled entities
+Chipkins Puratos (Pty) Limited
+South Africa
+1
+50
+50
+B   The group exercises control over the subsidiary as the group has the ability to affect the subsidiaries profit or 
+loss from its involvement and ability to affect those returns through its power over the subsidiary.
+C  The group exercises significant influence in the operating and financial policy decisions of these companies.
+Nature of business
+1 Catering supplies, food and allied products
+2 Group services, investments and property holding
+Notes to the consolidated financial statements continued
+for the year ended June 30
+
+--- PAGE 81 (matched: receivables_payables) ---
+79
+BIDCORP I CONSOLIDATED ANNUAL FINANCIAL STATEMENTS 2025
+12.
+Equity, distributions and group information continued
+12.4 Related parties
+Identification of related parties
+The group has a related-party relationship with its subsidiaries, associates and jointly controlled entities 
+(refer note 12.3). Key management personnel has been defined as the executive and non-executive 
+directors of the company (refer to directors’ report). The definition of key management includes the close 
+members of family of key management personnel and any other entity over which key management 
+exercise control. Close members of family are those family members who may be expected to influence, 
+or be influenced by that individual in their dealings with the group. They may include the individual’s 
+domestic partner and children, the children of the individual’s domestic partner, and dependants of the 
+individual or the individual’s domestic partner.
+Transactions with key management personnel
+Directors’ remuneration in total, paid by a subsidiary, is included in note 4.2. Details pertaining to executive 
+and non-executive directors’ compensation are set out in note 11.2.
+The group encourages its employees to purchase food products from group companies. These 
+transactions are generally conducted on terms similar to those with third parties, although in some cases 
+nominal discounts are granted. Transactions with key management personnel are conducted on similar 
+terms. No abnormal or non-commercial credit terms are allowed, and no impairments were recognised in 
+relation to any transactions with key management personnel during the year, nor have they resulted in any 
+non-performing debts at the year end.
+Similar policies are applied to key management personnel at subsidiary level who are not defined as key 
+management personnel at the group level.
+Transactions with related parties
+2025
+R’000
+2024
+R’000
+Outstanding advances due at yearend by associates (note 9.1)
+142 882
+24 900
+Revenue received from associates
+92 042
+133 999
+Amounts due by associates included in trade receivables¹
+13 520
+24 004
+Inventory purchased from associates
+2 075 836
+2 060 033
+Non-inventory purchases from associates
+1 475
+97
+Amounts due to associates included in trade payables¹
+167 660
+162 775
+Revenue received from jointly controlled entity
+26 534
+24 890
+Property rental income from jointly controlled entity
+20 415
+19 005
+Property rental expense related to non-controlling interests
+55 321
+47 266
+Inventory purchases from jointly controlled entity
+12 487
+12 280
+Amounts due by jointly controlled entity included in trade receivables
+65
+2 741
+Amounts due to jointly controlled entity included in trade payables
+876
+2 479
+Outstanding advances due at yearend by jointly controlled entity (note 9.3)
+–
+11 852
+1 Trading relationships with associates and jointly controlled entities are generally concluded on terms similar to 
+those of third parties and there are no abnormal or non-commercial credit terms allowed. There were no 
+impairments or provisions raised against trade receivables or loans to associates or jointly controlled entities 
+during the year (2024: Rnil).
+Details of effective interest, investments and loans to associates and jointly controlled entity are disclosed 
+in note 9.1 and 9.3, respectively.
+12.5 Commitments and capital management
+The board of directors’ policy is to maintain a strong capital base so as to sustain future development of 
+the businesses so that it can continue to provide benefits to its stakeholders.
+2025
+R’000
+2024
+R’000
+Capital expenditure approved:
+Contracted for
+2 426 746
+3 911 307
+Not contracted for
+1 874 389
+2 311 262
+4 301 135
+6 222 569
+Capital expenditure split
+Property, plant and equipment
+4 155 907
+6 024 682
+Computer software
+145 228
+197 887
+4 301 135
+6 222 569
+It is anticipated that capital investments (capin) will be financed out of existing cash resources. 
+Significant contracted capin relate to the following:
+• Netherlands – infrastructure capin on land in Rotterdam and continuing vehicle fleet replacement
+• Czech Republic – infrastructure development in Kralupy and Opava
+• Italy – infrastructure capin for depots in Padua and Savio, ongoing replacement of vehicle fleet and IT 
+related costs
+• Poland – infrastructure capin for land in Lodz and new depot in Bydgoszcz
+• Baltics – infrastructure capin on depot in Estonia and land in Latvia
+• Portugal – continued capin on new Sintra depot, and new developments in Porto
+• New Zealand – infrastructure capin for Auckland depot, ongoing development of Wellington and 
+Waipapa depots
+• United Kingdom – continued infrastructure capin on projects at Durham, Enfield and Worcester depots, 
+and ongoing replacement of vehicle fleet
+• Southeast Asia – new depot development on land in Selangor, Malaysia.
+12.6 Contingent liabilities
+The group has outstanding legal and other claims arising out of its normal ongoing operating activities 
+which have to be resolved. None of these claims are significant.
+Notes to the consolidated financial statements continued
+for the year ended June 30
+
+--- PAGE 82 (matched: context) ---
+80
+BIDCORP I CONSOLIDATED ANNUAL FINANCIAL STATEMENTS 2025
+12.
+Equity, distributions and group information continued
+12.7 Subsequent events
+Subsequent to June 30 2025, there have been four bolt-on acquisitions completed in the United 
+Kingdom, Italy, Malaysia, and South Africa with a purchase consideration cash outflow of approximately 
+R935 million. Full purchase price analyses will be undertaken in the coming year. Other than as 
+mentioned, there have been no other significant subsequent events.
+12.8 Going concern
+The board has undertaken a rigorous assessment of whether the group is a going concern in light of 
+current economic conditions in its various operating geographies taking into consideration available 
+information about future risks and uncertainties.
+The projections for the group have been prepared covering its future anticipated performance and 
+available capital and liquidity for a period of 12 months from the date of approval of these financial 
+statements including performing sensitivity analyses.
+The group has access to liquid funds amounting to R11,8 billion with gross debt at yearend of 
+R18,0 billion, R3,5 billion of which is short term. At June 30 2025 the group had access to unutilised 
+facilities of R14,6 billion (refer note 10.1 (b)).
+The group’s forecasts and projections of its anticipated performance, taking account of reasonably 
+possible changes in trading performance, show that the group will be profitable and cash generative in 
+the year ahead.
+The group’s projections and sensitivity analysis show that the group has sufficient capital, liquidity and 
+positive future performance outlook to continue to meet its short-term obligations and as a result it is 
+appropriate to prepare these consolidated annual financial statements on a going-concern basis, even 
+considering the potential negative impacts of geopolitical volatility and prolonged high inflation.
+The directors have made an assessment of the group’s ability to continue as a going concern and there 
+is no reason to believe that the group will not be a going concern in the year ahead.
+13. Hyperinflation accounting
+From year ended June 30 2022, the International Monetary Fund World Economic Outlook Report 
+determined that subsidiaries of the group with the functional currency of the Türkiye lira should apply 
+Financial Reporting in Hyperinflationary Economies (IAS 29). In the current year, control was obtained in 
+Argentina through a step up acquisition (see note 8) and is classified as a hyperinflationary economy, 
+which predates control being obtained. 
+Hyperinflationary accounting requires transactions and balances of each reporting period to be presented 
+in terms of the measuring unit (Türkiye lira (TRY) and Argentine peso (ARS)) at the end of the reporting 
+period in order to account for the effect of loss of purchasing power during the year. Accordingly, the 
+statement of profit or loss, statement of cash flows and statement of financial position for our Türkiye 
+and Argentinian subsidiaries have been expressed in terms of the Türkiye lira and Argentine peso 
+respectively at the reporting date (June 30 2025). The group has used the Türkiye Consumer Price Index 
+(as determined by TURKSTAT) and the Índice de Precios al Consumidor (IPC) – the Consumer Price Index 
+as published by INDEC as the general price index to restate amounts as it provides an official observable 
+indication of the change in the price of goods and services for our subsidiaries in these economies.
+The carrying amounts of non-monetary assets and liabilities carried at historic cost have been stated 
+to reflect the change in the general price index from the date of acquisition to the end of the reporting 
+period. No adjustment has been made for those non-monetary assets and liabilities measured at fair 
+value. An impairment loss is recognised in profit or loss if the remeasured amount of a non-monetary 
+asset exceeds the recoverable amount. All items recognised in the statement of profit or loss and other 
+comprehensive income are restated by applying the change in the average monthly general price index 
+when the items of income and expenses were initially earned or incurred.
+Gains or losses on the net monetary position have been recognised as part of profit or loss before 
+taxation in the statement of profit or loss and other comprehensive income. All items in the statement 
+of cash flows are expressed in terms of the general price index at the end of the reporting period.
+Notes to the consolidated financial statements continued
+for the year ended June 30
+

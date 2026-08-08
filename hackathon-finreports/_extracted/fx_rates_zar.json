@@ -1,0 +1,11 @@
+{
+  "source": "SARB CurrentMarketRates API - https://custom.resbank.co.za/SarbWebApi/WebIndicators/CurrentMarketRates",
+  "date": "2026-08-07",
+  "rates_to_zar": {
+    "ZAR": 1.0,
+    "USD": 16.3213,
+    "GBP": 21.9424,
+    "EUR": 18.8014
+  },
+  "note": "Single spot rate applied to all fiscal years/companies for simplicity - not the historical average rate for each company's specific reporting period. This is a stated methodology simplification, not a precision claim; see design spec limitations section."
+}

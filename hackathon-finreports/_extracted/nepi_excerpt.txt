@@ -1,0 +1,5142 @@
+Source: NEPI Rockcastle N.V. Annual Report 2025_18 Mar_reduced.pdf
+Total relevant pages extracted: 45
+================================================================================
+
+--- PAGE 62 (matched: context) ---
+PHOTO:PARADISE CENTER
+EPRA Performance measures
+amounts in € thousand
+NEPI Rockcastle N.V. Annual Report 2025
+EPRA Performance measures
+European Public Real Estate Association (EPRA), the 
+representative organisation of the publicly listed real estate 
+industry in Europe, has established a set of Best Practice 
+Recommendation Guidelines (EPRA BPR), which focus on the 
+key measures of the most relevance to investors. These 
+recommendations aim to give financial statements of public 
+real estate companies more clarity, more transparency and 
+comparability across European peers.
+The Group has been awarded for the last six years with Gold 
+Award for BPR for financial reporting, the highest standard for 
+transparency of financial performance measures.
+Certain of these EPRA performance measures are considered 
+to be pro forma financial information in terms of the JSE 
+Listings Requirements. These include EPRA earnings (euro 
+thousand), EPRA earnings per share (euro cents per share), 
+EPRA net reinstatement value (NRV) (euro per share), EPRA net 
+tangible assets (NTA) (euro per share) and EPRA net disposal 
+value (NDV) (euro per share). These measures have been 
+extracted, without adjustment, from the Group’s consolidated 
+financial statements for the year ended 31 December 2025 
+and are the same as presented in the appendix titled 
+EPRA Performance Measures as included in the reviewed 
+condensed consolidated financial results of the Group for the 
+year ended 31 December 2025, issued on 23 February 2026 
+and opined on by Ernst & Young Inc.
+EPRA performance measures reported by NEPI Rockcastle are 
+set out below:
+EPRA indicators
+31 December 2025
+31 December 2024
+EPRA Earnings (€ thousand)
+441,995
+405,972
+EPRA Earnings per share (€ cents per share)
+62.19
+59.18
+EPRA Net Initial Yield (NIY)1
+6.98%
+6.98%
+EPRA topped-up NIY1
+7.00%
+7.00%
+EPRA vacancy rate
+1.2%
+1.7%
+EPRA Net Reinstatement Value (NRV) (€ per share)
+7.68
+7.38
+EPRA Net Tangible Assets (NTA) (€ per share)
+7.64
+7.35
+EPRA Net Disposal Value (NDV) (€ per share)
+6.96
+6.83
+EPRA Cost ratio (including direct vacancy cost)
+9.8%
+9.6%
+EPRA Cost ratio (excluding direct vacancy cost)
+9.7%
+9.5%
+EPRA Loan-to-value (LTV)
+34%
+33%
+1
+Does not include investment property held for sale.
+62
+
+--- PAGE 63 (matched: fx_exposure) ---
+EPRA Earnings
+EPRA Earnings presents the underlying operating 
+performance of a real estate company excluding fair value 
+gains or losses on investment property, profit or loss on 
+disposals, deferred tax, and other non-recurring items, that 
+are not considered to be part of the core activity of 
+the Group.
+EPRA Earnings
+31 December 2025
+31 December 2024
+Earnings in IFRS Consolidated Statement of comprehensive income
+498,839
+587,565
+Fair value adjustments of investment property
+(162,252)
+(195,380)
+Gain on disposal of assets held for sale
+-
+(25,934)
+Profit from inventory property sale
+(1,803)
+(4,569)
+Fair value adjustment of derivatives and losses of extinguishment of financial instruments
+9,949
+12,818
+Deferred tax expense
+97,262
+31,472
+EPRA Earnings (interim)
+221,113
+199,964
+EPRA Earnings (final)
+220,882
+206,008
+EPRA Earnings (total)
+441,995
+405,972
+Number of shares for interim distribution
+710,716,7981
+660,826,020
+Number of shares for final distribution
+710,716,7981
+712,357,309
+EPRA Earnings per Share (EPS interim)
+31.11
+30.26
+EPRA Earnings per Share (EPS final)
+31.08
+28.92
+EPRA Earnings per Share (EPS)
+62.19
+59.18
+Company specific adjustments:
+Amortisation of financial assets
+(2,619)
+(3,593)
+Depreciation expense for property, plant and equipment
+1,584
+1,607
+Add back unrealised foreign exchange losses
+224
+-
+Antecedent earnings
+(283)
+9,107
+Distributable Earnings (interim)
+220,695
+199,044
+Distributable Earnings (final)
+220,206
+214,049
+Distributable Earnings (total)
+440,901
+413,093
+Distributable Earnings per Share (interim) (euro cents)
+31.05
+30.12
+Distributable Earnings per Share (final) (euro cents)
+30.98
+30.05
+Distributable Earnings per Share (total) (euro cents)
+62.03
+60.17
+1
+Excludes 1,640,511 treasury shares as at 30 June 2025 and as at 31 December 2025.
+63
+
+--- PAGE 64 (matched: context) ---
+PHOTO: ARENA MALL
+EPRA Performance measures
+amounts in € thousand
+NEPI Rockcastle N.V. Annual Report 2025
+EPRA Net Asset Value metrics (NAV)
+The EPRA NAV set of metrics make adjustments to the NAV 
+per the IFRS financial statements to provide stakeholders with 
+the most relevant information on the fair value of the assets 
+and liabilities of a real estate investment company, under 
+different scenarios.
+EPRA Net Reinstatement Value (NRV)
+The objective of the EPRA Net Reinstatement Value measure 
+is to highlight the value of net assets on a long-term basis. 
+Assets and liabilities that are not expected to crystallise 
+in normal circumstances such as the fair value movements 
+on financial derivatives and deferred taxes on property 
+valuation surpluses are therefore excluded. Since the aim of 
+the metric is to also reflect what would be needed to recreate 
+the company through the investment markets based on its 
+current capital and financing structure, related costs such as 
+real estate transfer taxes should be included.
+EPRA Net Tangible Assets (NTA)
+The underlying assumption behind the EPRA Net Tangible 
+Assets calculation assumes entities buy and sell assets, 
+thereby crystallising certain levels of deferred tax liability.
+EPRA Net Disposal Value (NDV)
+The EPRA Net Disposal Value provides the reader with 
+a scenario where deferred tax, financial instruments, and 
+certain other adjustments are calculated as to the full extent 
+of their liability, including tax exposure not reflected in the 
+Balance Sheet, net of any resulting tax. This measure should 
+not be viewed as a “liquidation NAV” because, in many cases, 
+fair values do not represent liquidation values.
+For more detailed explanations of EPRA adjustments and 
+requirements please refer to the EPRA Best Practices 
+Recommendations (EPRA_BPR_Guidelines)
+64
+
+--- PAGE 309 (matched: context) ---
+Statement of 
+Directors’ responsibilities
+The Directors are responsible for preparing the Financial Statements in accordance with applicable laws and regulations.
+The Directors have prepared the Financial Statements in accordance with IFRS Accounting Standards as issued by the 
+International Accounting Standards Board ("IASB"), the SAICA Financial Reporting Guides as issued by the Accounting Practices 
+Committee, Financial Pronouncements as issued by the Financial Reporting Standards Council, the JSE Requirements, IFRS 
+Accounting Standards as adopted by the European Union and with Title 9 of Book 2 of the Dutch Civil Code.
+In preparing the Financial Statements, the Directors are responsible for:
+▪
+selecting suitable accounting policies and then applying them consistently;
+▪
+stating whether they have been prepared in accordance with IFRS Accounting Standards;
+▪
+making judgements and accounting estimates that are reasonable and prudent; and
+▪
+preparing the Financial Statements on the going concern basis unless it is inappropriate to presume that the Group and the 
+Company will continue in business.
+Each of the directors, whose names are stated below, hereby confirm that:
+▪
+the annual Financial Statements set out on pages 310 to 376 fairly present in all material respects the financial position, 
+financial performance and cash flows of the issuer in terms of IFRS Accounting Standards;
+▪
+to the best of our knowledge and belief, no facts have been omitted or untrue statements made that would make the annual 
+financial statements false or misleading;
+▪
+internal financial controls have been put in place to ensure that material information relating to the issuer and its 
+consolidated subsidiaries have been provided to effectively prepare the financial statements of the issuer;
+▪
+the internal financial controls are adequate and effective and can be relied upon in compiling the annual financial
+ 
+statements, having fulfilled our role and function as executive directors with primary responsibility for implementation and 
+execution of controls;
+▪
+where we are not satisfied, we have disclosed to the audit committee and the auditors any deficiencies in design and 
+operational effectiveness of the internal financial controls and have taken steps to remedy the deficiencies; and
+▪
+we are not aware of any fraud involving directors.
+With reference to Section 5:25c paragraph 2, sub c of the Financial Markets Supervision Act (Wet op het financieel toezicht), the 
+Board declares that to the best of its knowledge:
+▪
+The financial statements provide a true and fair view of the assets, liabilities, financial position and profit or loss of NEPI 
+Rockcastle N.V. and of the companies included in the consolidation taken as a whole;
+▪
+The directors' report provides a true and fair view of the situation on the balance sheet date and of the developments 
+during the financial year of NEPI Rockcastle N.V. and of its affiliated companies whose information has been included in the 
+financial statements, together with a description of the main risks NEPI Rockcastle N.V. faces.
+The Directors are responsible for keeping proper accounting records that are sufficient to show and explain the Group’s 
+transactions and disclose with reasonable accuracy at any time the financial position of the Group and the Company. They 
+are also responsible for safeguarding the assets of the Group and hence for taking reasonable steps for the prevention and 
+detection of fraud and other irregularities.
+The Directors are responsible for the maintenance and integrity of the corporate and financial information included on the 
+Group’s website.
+The Financial Statements on pages 310 to 376 were approved by the Board of Directors on 17 March 2026, authorised for 
+publication on 18 March 2026 and signed on its behalf by:
+Rüdiger Dany
+Eliza Predoiu
+Chief Executive Officer 
+Chief Financial Officer
+        
+                                                                                 
+                                                                        
+309
+
+--- PAGE 310 (matched: receivables_payables) ---
+Consolidated Statement of 
+financial position
+NEPI Rockcastle N.V. Annual Report 2025
+in € thousand
+Note
+31 Dec 2025
+31 Dec 2024
+ASSETS
+Non-current assets
+8,510,712
+8,169,170
+Investment property
+8,232,702
+7,926,595
+– Investment property in use
+8
+7,947,429
+7,694,798
+– Investment property under development
+9
+285,273
+231,797
+Goodwill
+12
+76,804
+76,804
+Deferred tax assets
+24
+69,957
+107,395
+Property, plant and equipment
+11
+91,108
+41,624
+Other long-term assets
+10
+38,726
+11,360
+Derivative financial assets at fair value through profit or loss
+20
+1,415
+5,392
+Current assets
+430,656
+572,942
+Trade and other receivables
+13
+113,533
+115,947
+Inventory property
+16
+-
+4,227
+Cash and cash equivalents
+14
+313,994
+448,498
+Derivative financial assets at fair value through profit or loss
+20
+3,129
+4,270
+Assets held for sale
+15
+9,567
+559
+TOTAL ASSETS
+8,950,935
+8,742,671
+EQUITY AND LIABILITIES
+TOTAL SHAREHOLDERS' EQUITY
+5,006,336
+4,908,482
+Equity attributable to equity holders
+5,006,336
+4,908,482
+Share capital
+17
+7,124
+7,124
+Share premium
+17
+2,941,120
+3,255,148
+Other reserves
+(9,432)
+(9,662)
+Treasury shares
+17
+(10,076)
+-
+Accumulated profit
+2,077,600
+1,655,872
+Total liabilities
+3,944,599
+3,834,189
+Non-current liabilities
+3,443,420
+3,589,167
+Bank loans
+19
+981,417
+947,417
+Bonds
+19
+1,732,272
+1,982,857
+Deferred tax liabilities
+24
+605,065
+545,241
+Lease liabilities
+23
+88,176
+83,059
+Other long-term liabilities
+22
+36,490
+30,593
+Current liabilities
+501,179
+245,022
+Trade and other payables
+21
+179,289
+187,084
+Income tax payable
+17,818
+20,954
+Bank loans
+19
+16,932
+15,528
+Bonds
+19
+284,059
+18,566
+Lease liabilities
+23
+3,081
+2,890
+TOTAL EQUITY AND LIABILITIES
+8,950,935
+8,742,671
+Net Asset Value per share (euro)
+7.04
+6.89
+EPRA Net Reinstatement Value per share (euro)1
+7.68
+7.38
+Number of shares for Net Asset Value/EPRA Net Reinstatement Value
+710,716,7982
+712,357,309
+1
+EPRA Net Reinstatement Value per share (alternative performance measure) is Net Asset Value per share adjusted for the effect of non-monetary balance sheet items, 
+such as deferred tax, goodwill, and interest rate derivatives.
+2 Excludes 1,640,511 treasury shares as at 31 December 2025. For further details please see Note 17.
+310
+
+--- PAGE 311 (matched: fx_exposure, revenue_cos_opex) ---
+Consolidated Statement of 
+comprehensive income
+in € thousand
+Note
+31 Dec 2025
+31 Dec 2024
+Gross rental income
+26
+624,348
+566,069
+Service charge income
+26
+288,556
+259,563
+Property operating expenses
+26
+(304,429)
+(278,741)
+Revenue from energy activity
+26
+11,262
+9,048
+Costs of the energy activity
+26
+(1,627)
+-
+Net rental and related income
+26
+618,110
+555,939
+Administrative expenses
+27
+(45,042)
+(35,193)
+Revenue from sales of inventory property
+6,497
+18,680
+Cost of sales of inventory property
+(4,439)
+(13,546)
+EBIT1
+575,126
+525,880
+Fair value adjustments of investment property
+28
+162,252
+195,380
+Foreign exchange loss
+(445)
+(158)
+Gain on disposal of assets held for sale
+15
+-
+25,934
+Profit before net finance costs and other items
+736,933
+747,036
+Finance income
+29
+6,038
+19,907
+Finance costs
+29
+(103,963)
+(100,144)
+Bank charges, commissions, and fees
+29
+(4,127)
+(4,381)
+Losses on extinguishment of financial instruments
+19
+(4,676)
+-
+Fair value adjustments of derivatives
+(5,273)
+(12,818)
+Profit before tax
+624,932
+649,600
+Income tax expense
+(126,093)
+(62,035)
+Current tax expense
+24
+(28,831)
+(30,563)
+Deferred tax expense
+24
+(97,262)
+(31,472)
+Profit after tax
+498,839
+587,565
+Total comprehensive income for the year
+498,839
+587,565
+Profit attributable to:
+Equity holders of the parent
+498,839
+587,565
+Total comprehensive income attributable to:
+Equity holders of the parent
+498,839
+587,565
+Basic weighted average number of shares
+709,479,0532
+670,058,874
+Diluted weighted average number of shares
+711,167,4872
+671,468,377
+Basic earnings per share (euro cents) attributable to equity holders
+70.31
+87.69
+Diluted earnings per share (euro cents) attributable to equity holders
+70.14
+87.50
+1
+EBIT (Earnings Before Interest and Taxes) represents the Group's Operating profit, defined as Net rental and related income plus Revenue from sales of inventory property 
+less Cost of sales of inventory property, less Administrative expenses (Depreciation and Amortisation are included in Administrative expenses).
+2 Excludes 1,640,511 treasury shares as at 31 December 2025. For further details please see Note 17.
+311
+
+--- PAGE 312 (matched: context) ---
+Consolidated Statement of 
+changes in equity
+NEPI Rockcastle N.V. Annual Report 2025
+in € thousand
+Note
+Share 
+capital
+Share 
+premium
+Other 
+reserves
+Treasury 
+shares
+Accumulated 
+profit
+Total
+Balance at 1 January 2024
+6,608
+3,137,063
+(7,637)
+-
+1,168,727
+4,304,761
+Transactions with owners
+516
+118,085
+(2,025)
+-
+(100,420)
+16,156
+– Share capital movements
+178,079
+(178,079)
+-
+-
+-
+-
+– Earnings distribution – 
+capital repayment
+(178,079)
+-
+-
+-
+-
+(178,079)
+– Issue of shares, net of 
+transaction costs
+418
+294,757
+-
+-
+-
+295,175
+– Earnings distribution – dividend 
+out of accumulated profit
+-
+-
+-
+-
+(100,420)
+(100,420)
+– Earnings distribution – impact of 
+foreign exchange hedges
+-
+1,505
+-
+-
+-
+1,505
+– Earnings distribution – scrip issue
+98
+(98)
+-
+-
+-
+-
+– Shares purchased for LTSIP1
+3.16
+-
+-
+(5,154)
+-
+-
+(5,154)
+– Share based payment expense
+3.16
+-
+-
+3,040
+-
+-
+3,040
+– LTSIP reserve release
+3.16
+-
+-
+89
+-
+-
+89
+Total comprehensive income
+-
+-
+-
+-
+587,565
+587,565
+– Profit for the year
+-
+-
+-
+-
+587,565
+587,565
+Balance at 31 December 2024
+7,124
+3,255,148
+(9,662)
+-
+1,655,872
+4,908,482
+Transactions with owners
+-
+(314,028)
+230
+(10,076)
+(77,111)
+(400,985)
+– Share capital movements2
+17
+314,227
+(314,227)
+-
+-
+-
+-
+– Earnings distribution – 
+capital repayment3
+17
+(314,227)
+-
+-
+-
+-
+(314,227)
+– Earnings distribution – dividend 
+out of accumulated profit3
+17
+-
+-
+-
+-
+(77,111)
+(77,111)
+– Earnings distribution – impact of 
+foreign exchange hedges3
+17
+-
+199
+-
+-
+-
+199
+– Shares purchased for LTSIP1
+3.16
+-
+-
+(7,148)
+-
+-
+(7,148)
+– Share based payment expense
+3.16
+-
+-
+7,354
+-
+-
+7,354
+– LTSIP reserve release
+3.16
+-
+-
+24
+-
+-
+24
+– Treasury shares
+17
+-
+-
+-
+(10,076)
+-
+(10,076)
+Total comprehensive income
+-
+-
+-
+-
+498,839
+498,839
+– Profit for the year
+-
+-
+-
+-
+498,839
+498,839
+Balance at 31 December 2025
+7,124
+2,941,120
+(9,432)
+(10,076)
+2,077,600
+5,006,336
+1
+LTSIP = debt free Long-Term Share Incentive Plan with a vesting component.
+2 Share capital movements relate to the net increase of the nominal value of the shares in respect to the shareholders that elected the distributions as capital repayment. 
+For further details, please refer to Note 17.
+3 The Company offers three possible alternatives for settlement of its distribution: capital repayment (default option), dividend out of accumulated profit and scrip issue, 
+the latter one at the discretion of the Board. For further details on distribution options impacting the reporting year, please refer to Note 17.
+312
+
+--- PAGE 314 (matched: context) ---
+Notes to the Consolidated 
+Financial Statements
+NEPI Rockcastle N.V. Annual Report 2025
+1.
+ GENERAL
+NEPI Rockcastle N.V. (“the Company”, “NEPI Rockcastle”, “the Group”) is a public limited company domiciled in the Netherlands, 
+having its registered office at Strawinskylaan 563, WTC Zuidas, Tower Ten, 5th Floor, 1077 XX Amsterdam, with registration 
+number at the Dutch Chamber of Commerce 87488329. The Company’s shares are listed on the Main Board of the JSE Limited 
+(“JSE”), Euronext Amsterdam and A2X.
+ 
+NEPI Rockcastle is the premier owner and operator of shopping centres in Central and Eastern Europe (“CEE”). The Group 
+benefits from a highly-skilled internal management team which combines asset management, development, investment, leasing 
+and financial expertise.
+ 
+The Group’s Consolidated Financial Statements and the Company’s Separate Financial Statements are collectively referred to 
+as the Financial Statements. The Financial Statements for the year ended 31 December 2025 were approved by the Board of 
+Directors on 17 March 2026 and authorised for publication on 18 March 2026.
+2.
+ BASIS OF PREPARATION
+a. Statement of compliance
+The Consolidated Financial Statements have been consistently prepared in accordance with IFRS Ⓡ Accounting Standards 
+as issued by the International Accounting Standards Board (IASB), the SAICA Financial Reporting Guides as issued by the 
+Accounting Practices Committee, Financial Pronouncements as issued by the Financial Reporting Standards Council, the JSE 
+Listings Requirements, IFRS Accounting Standards as adopted by the European Union and with Title 9 of Book 2 of the Dutch Civil 
+Code. They comprise the Company and its subsidiaries, as detailed in “Basis of consolidation” in Note 3.2.
+The material accounting policies applied in the preparation of these Consolidated Financial Statements are set out below 
+in Note 3 and are consistent with those applied for the preparation of the annual Consolidated Financial Statements as at 
+31 December 2024, except for the new mandatory standards and interpretations effective as of 1 January 2025, described below:
+▪
+IAS 21 The Effects of Changes in Foreign Exchange Rates: Lack of Exchangeability (Amendments)
+These amendments and interpretations did not have a significant impact on the Consolidated Financial Statements as at 
+31 December 2025.
+Management has prepared the financial statements on a going concern basis. Having considered the potential impact of 
+the overall macroeconomic environment on the Company’s and the wider NEPI Rockcastle Group revenues, profits, cash 
+flows, operations, liquidity position and debt facilities, management concluded that despite the market reactions to various 
+geopolitical events during 2025 and subsequent to the year-end, there are no material uncertainties relating to the Group’s 
+ability to continue as a going concern.
+Climate related matters
+The Group acknowledges that climate change poses both risks and opportunities to its business and has integrated 
+environmental, social and governance (ESG) considerations into its strategy, financial planning, and reporting. Main 
+considerations of climate-related matters impact on the Group are outlined below.
+Going concern
+Management has considered the potential impact of climate-related matters, including physical and transition risks, on the 
+Group’s business model, operations, and liquidity. Based on the resilience of the portfolio, the strategic focus on sustainable 
+assets, and the availability of green financing, management concluded that climate-related matters do not give rise to material 
+uncertainties that would cast significant doubt on the Group’s ability to continue as a going concern.
+Significant estimates and assumptions
+The most significant estimates and assumptions affected by climate-related matters are connected to the valuation of 
+investment property. In determining the fair value of investment properties, the Group and its external independent valuers 
+consider the impact of climate-related risks. While the Group has assessed that its properties are currently not materially 
+exposed to physical risks (such as flooding or wildfires), it recognizes exposure to transition risks, specifically increasing legislative 
+requirements for energy efficiency and tenant demand for low-emission buildings.
+Valuers incorporate ESG criteria into their assessment. While currently the link between ESG metrics and market value is often
+ 
+qualitative due to limited market evidence of direct correlation, the valuation models account for capital expenditure required 
+to upgrade assets to ensure future compliance with energy efficiency regulations and the sustainability profile of the assets (e.g. 
+BREEAM certifications), which supports liquidity and tenant demand.
+314
+
+--- PAGE 315 (matched: fx_exposure) ---
+Impact on financial statments
+The carrying value of investment properties reflects the portfolio's high sustainability standards, with the majority of the portfolio 
+being BREEAM certified. The Group actively invests in retrofitting and energy efficiency improvements (e.g. LED lighting, BMS 
+upgrades) and renewable energy installations.
+The Group’s liability structure is increasingly linked to its sustainability performance. As of the reporting dates, a significant 
+portion of the Group’s funding (including green bonds and green loans from IFC) is governed by the Group's Green 
+Finance Framework or Sustainability-Linked Financing Framework. These instruments offer favorable financial terms contingent 
+upon meeting specific ESG key performance indicators (KPIs), such as reducing greenhouse gas emissions and increasing 
+energy efficiency.
+The Group monitors the impact of climate change on property operating expenses, including potential increases in energy prices 
+and carbon taxes. These risks are partially mitigated by the ability to pass through costs to tenants and by investments in energy 
+efficiency. Operating expenses include costs associated with the implementation of measures aimed at reducing GHG emissions.
+Climate-related initiatives are also creating new opportunities. The Group generates revenue from the sale of green 
+energy produced by its photovoltaic plants installed across the portfolio which will expand through the greenfield
+ 
+photovoltaic developments. This income creates a natural hedge against energy price volatility and contributes positively to 
+Group's revenues.
+b. Basis of measurement
+The Consolidated Financial Statements are prepared on the historical cost basis, except for investment property in use, land for 
+investment property under development, and interest rate derivatives, which are measured at fair value.
+c. Use of estimates and judgements
+The preparation of Consolidated Financial Statements in conformity with IFRS requires management to make judgements, 
+estimates and assumptions that affect the application of policies and reported amounts of assets and liabilities, income and 
+expenses. Estimates and associated assumptions are based on experience and other factors believed to be reasonable under 
+the circumstances and enable judgements to be made about the carrying values of assets and liabilities not readily apparent 
+from other sources. Actual results may differ from these estimates. Estimates and underlying assumptions are reviewed on an 
+ongoing basis. Revisions to accounting estimates are recognised in the period when the estimate is revised.
+d. Presentation
+The Consolidated Financial Statements are presented in thousands of Euros (“€’000s”), rounded off to the nearest thousand, 
+unless stated otherwise.
+3.
+ MATERIAL ACCOUNTING POLICIES
+The material accounting policies set out below have been consistently applied to all periods presented.
+3.1 Foreign currency translation
+a. Functional and presentation currency
+The Consolidated Financial Statements are presented in Euro (“€”, “EUR”) thousands unless otherwise stated, which is NEPI 
+Rockcastle’s functional and presentation currency. The assessment of the functional currency of the Group is presented in Note 4 
+– Significant Accounting Estimates and Judgements in Applying Accounting Policies.
+b. Transactions and balances
+Foreign currency transactions are translated into the functional currency using the exchange rates prevailing at the dates of 
+the transactions or valuation where items are re‑measured. Foreign exchange gains and losses resulting from the settlement of 
+such transactions and from the translation at year‑end exchange rates of monetary assets and liabilities denominated in foreign 
+currencies are recognised in profit or loss.
+3.2 Basis of consolidation
+Subsidiaries
+The Consolidated Financial Statements incorporate the assets, liabilities, operating results and cash flows of the Company and 
+its subsidiaries.
+Subsidiaries are all entities controlled by the Company. The financial statements of subsidiaries are included in the Consolidated 
+Financial Statements from the date the control commences until the date the control ceases.
+315
+
+--- PAGE 316 (matched: context) ---
+NEPI Rockcastle N.V. Annual Report 2025
+These Consolidated Financial Statements include the Company and the fully consolidated subsidiaries, as set out below:
+No
+Subsidiary
+Country of
+incorporation
+Principal activity
+Effective interest 
+2025 (%)
+Effective interest 
+2024 (%)
+1
+ACE3 Sp. z o.o.
+Poland
+Property-owning
+100
+100
+2
+Arena Center Zagreb d.o.o.
+Croatia
+Property-owning
+100
+100
+3
+AUPARK Kosice SC, s.r.o.
+Slovakia
+Services
+100
+100
+4
+AUPARK Kosice, spol. s.r.o.
+Slovakia
+Property-owning
+100
+100
+5
+AUPARK Piestany SC, s.r.o.
+Slovakia
+Services
+100
+100
+6
+AUPARK Piestany, spol. s.r.o.
+Slovakia
+Property-owning
+100
+100
+7
+AUPARK Tower Kosice, s.r.o.
+Slovakia
+Property-owning
+100
+100
+8
+AUPARK Žilina SC a.s.
+Slovakia
+Services
+100
+100
+9
+AUPARK Žilina, spol. s.r.o.
+Slovakia
+Property-owning
+100
+100
+10
+Aurora Mall Buzau SRL
+Romania
+Property-owning
+100
+100
+11
+Białystok Property Sp. z o.o.
+Poland
+Property-owning
+100
+100
+12
+Bonarka City Center Sp. z o.o.
+Poland
+Property-owning
+100
+100
+13
+Braila Promenada Mall SRL
+Romania
+Property-owning
+100
+100
+14
+Brasov Shopping City SRL
+Romania
+Property-owning
+100
+100
+15
+Bulfeld EOOD
+Bulgaria
+Property-owning
+100
+100
+16
+CEE Property Bulgaria EOOD
+Bulgaria
+Property-owning
+100
+100
+17
+CHP 1 Sp. z o.o.
+Poland
+Services
+100
+100
+18
+City Park Constanta SRL
+Romania
+Property-owning
+100
+100
+19
+Constanta Shopping City SRL
+Romania
+Property-owning
+100
+100
+20
+Copernicus Property Sp. z o.o.
+Poland
+Property-owning
+100
+100
+21
+Deva Shopping City SRL
+Romania
+Property-owning
+100
+100
+22
+Elco Energy Sp. z o.o.
+Poland
+Services
+100
+100
+23
+Elco ICT Sp. z o.o.
+Poland
+Services
+100
+100
+24
+Energit Sp. z o.o.
+Poland
+Services
+100
+100
+25
+E-Power Supply d.o.o. Beograd
+Serbia
+Services
+100
+100
+26
+E-power supply EOOD
+Bulgaria
+Services
+100
+100
+27
+E-power supply Kft
+Hungary
+Services
+100
+100
+28
+E-power supply management d.o.o.
+Croatia
+Services
+100
+100
+29
+E-Power Supply s.r.o.
+Slovakia
+Services
+100
+100
+30
+Expo Real Estate Project SRL
+Romania
+Services
+100
+100
+31
+Festival Shopping Center SRL
+Romania
+Property-owning
+100
+100
+32
+Floreasca Center SRL
+Romania
+Holding
+100
+100
+33
+Forum Gdansk Property Sp. z o.o.
+Poland
+Property-owning
+100
+100
+34
+FORUM Usti s.r.o.
+Czech Republic
+Property-owning
+100
+100
+35
+Galati Shopping City SRL
+Romania
+Property-owning
+100
+100
+36
+General Building Management SRL
+Romania
+Property-owning
+100
+100
+37
+General Investment SRL
+Romania
+Property-owning
+100
+100
+38
+Gontar Sp. z o.o.
+Poland
+Property-owning
+100
+100
+39
+HANSA Immobilien EOOD
+Bulgaria
+Property-owning
+100
+100
+40
+Iris Titan Shopping Center SRL
+Romania
+Property-owning
+100
+100
+41
+Karolinka Property Sp. z o.o.
+Poland
+Property-owning
+100
+100
+42
+Liberec Property s.r.o.
+Czech Republic
+Property-owning
+100
+100
+43
+Magnolia Property Sp. z o.o.
+Poland
+Property-owning
+100
+100
+44
+Mammut Zrt
+Hungary
+Property-owning
+100
+100
+45
+Mammut Management Kft
+Hungary
+Services
+100
+100
+46
+Mammut Real Estate Kft
+Hungary
+Property-owning
+100
+100
+47
+Marapi Sp. z o.o.
+Poland
+Property-owning
+100
+100
+48
+Mega Mall Bucuresti SRL
+Romania
+Property-owning
+100
+100
+49
+Milvus Sp. z o.o.
+Poland
+Property-owning
+100
+100
+50
+Mlyny a.s.
+Slovakia
+Property-owning
+100
+100
+51
+Monarda Sp. z o.o.
+Poland
+Property-owning
+100
+100
+52
+MUNTENIA BETON MAX SRL
+Romania
+Services
+100
+100
+53
+NE Property B.V.
+Netherlands
+Holding
+100
+100
+54
+NEPI Bucharest One SRL
+Romania
+Property-owning
+100
+100
+55
+NEPI Bucharest Two SRL
+Romania
+Property-owning
+100
+100
+56
+NEPI Croatia Management d.o.o.
+Croatia
+Services
+100
+100
+57
+NEPI Czech Management s.r.o.
+Czech Republic
+Services
+100
+100
+58
+Nepi Four Real Estate Solutions SRL
+Romania
+Holding
+100
+100
+59
+NEPI Investment Management SRL
+Romania
+Services
+100
+100
+60
+NEPI Project Four EOOD
+Bulgaria
+Property-owning
+100
+100
+316
+
+--- PAGE 318 (matched: context) ---
+NEPI Rockcastle N.V. Annual Report 2025
+After initial recognition, investment property in use is measured at fair value. Fair value is determined semi-annually by external, 
+independent professional valuers, with appropriate and recognised qualifications and recent experience in the location and 
+category of property being valued. Valuations are based on the income method, respectively, the applied method used for all 
+investment property in use is discounted cash flow (DCF).
+Gains or losses arising from changes in the fair values are included in the Statement of comprehensive income for the period 
+during which they arise. Unrealised gains or losses, net of deferred tax, are non-distributable.
+Lease incentives, such as rent-free periods, discounts during the lease or payment of fit-out works for the benefit of the tenants, 
+are part of value of the investment property and are straight-lined over the lease term. The lease term corresponds to the 
+contractual duration for the majority of the leases, except for the anchor tenants, for which the lease duration is assessed by 
+the Group based on past experience and taking into account factors such as: GLA of the property where the anchor tenant is 
+located, catchment area, dominance/competition in the catchment area or purchasing power.
+Transfers are made to or from investment property only when there is a change in use. For a transfer from investment property to 
+owner-occupied property, the deemed cost for subsequent accounting is the fair value at the date of change in use.
+3.4 Investment property under development
+Property that is being constructed or developed for future use as investment property is classified as investment property under 
+development and carried at cost until construction or development is complete, or its fair value can be reliably determined.
+The land on which investment property is constructed or developed is carried at fair value, which is determined semi-annually by 
+external, independent professional valuers, with appropriate and recognised qualifications and recent experience in the location 
+and category of property being valued. Valuations are performed using the market comparable approach or residual approach.
+Gains or losses arising from changes in the fair values are included in the Statement of comprehensive income during the period 
+when they arise. Unrealised gains or losses, net of deferred tax, are non-distributable.
+3.5 Assets classified as held for sale
+An investment property or a group of assets including an investment property (disposal group) are classified as held for sale if 
+their carrying amount will be recovered through a sale transaction rather than through continuing use. For this to be the case:
+▪
+the assets must be available for immediate sale in their present condition;
+▪
+the Group must be committed to sell;
+▪
+there must be a plan to locate a buyer; and
+▪
+it is highly probable that a sale will be completed within one year from the date of classification. 
+On re-classification as held for sale, investment property that is measured at fair value continues to be measured in this way.
+An investment property or disposal group classified as held for sale is presented separately in the Statement of financial position 
+as assets or liabilities classified as held for sale.
+3.6 Property, plant and equipment
+Property, plant and equipment are valued at their cost price, net of accumulated depreciation and accumulated impairment 
+losses, if any. The cost price includes all directly attributable costs and the relevant part of the indirect costs incurred to make 
+the asset ready for use. Subsequent costs are included in the asset’s carrying amount or recognised as a separate asset, as 
+appropriate, only when it is probable that future economic benefits associated with the item will flow to the Group and the cost 
+of the item can be measured reliably. All other repair and maintenance costs are recognised in profit or loss as incurred.
+Construction in progress is stated at cost, net of accumulated impairment losses, if any.
+Depreciation is calculated on a straight-line basis over the estimated useful lives of the assets, as follows:
+Photovoltaic installations
+4-40 years
+Office equipment
+2-16 years
+Office improvements
+over the term of the underlying lease
+Equipment used in owner-managed activities
+3-22 years
+The expected useful lives of assets and methods of depreciation are reviewed at least annually.
+Starting in 2025, photovoltaic installations also include greenfield developments, which have a different structure of equipment 
+components. As a result, the useful lives have been updated.
+3.7 Goodwill
+Goodwill arises upon business combination and represents the excess of the consideration transferred over the Group’s interest 
+in net fair value of the net identifiable assets, liabilities, and contingent liabilities of the acquiree.
+For the purpose of impairment testing, goodwill acquired in a business combination is allocated to each of the cash-generating 
+units (“CGUs”), or groups of CGUs, that is expected to benefit from the synergies of the combination. Each unit or group of units 
+318
+
+--- PAGE 319 (matched: receivables_payables) ---
+to which the goodwill is allocated represents the lowest level within the Group at which the goodwill is monitored for internal 
+management purposes and it is represented by the individual properties.
+3.8 Impairment of non-financial assets
+Assets that are subject to depreciation or amortisation are reviewed for impairment whenever events or changes in 
+circumstances indicate that the carrying amount may not be recoverable. Non‑financial assets, other than goodwill and 
+intangible assets with infinitive useful life, that have suffered an impairment are reviewed for possible reversal of the impairment 
+at each reporting date, if indicators of reversal exist.
+3.9 Financial assets
+3.9.1 Classification
+ 
+In line with IFRS 9 “Financial instruments”, the Group classifies its financial assets in the following measurement categories:
+▪
+those to be measured subsequently at fair value through profit or loss; and
+▪
+those to be measured at amortised cost.
+The classification and subsequent measurement of debt instruments financial assets depends on: (i) the Group’s business model 
+for managing the related assets portfolio and (ii) the cash flow characteristics of the asset.
+For financial assets measured at fair value through profit or loss (“FVTPL”), gains and losses are recorded in profit or loss.
+3.9.2 Recognition and derecognition
+All purchases and sales of financial assets that require delivery within the time frame established by regulation or market 
+convention (“regular way” purchases and sales) are recorded at trade date, which is the date when the Group commits to 
+deliver a financial instrument. All other purchases and sales are recognised when the entity becomes a party to the contractual 
+provisions of the instrument.
+Financial assets are derecognised when the rights to receive cash flows from the financial assets have expired or have been 
+transferred and the Group have transferred substantially all the risks and rewards of ownership.
+3.9.3 Measurement
+At initial recognition, the Group measures a financial asset at its fair value plus, in the case of a financial asset not at FVTPL, 
+transaction costs that are directly attributable to the acquisition of the financial asset. Transaction costs of financial assets 
+carried at FVTPL are expensed in profit or loss. Fair value at initial recognition is best evidenced by the transaction price.
+a. Debt instruments
+Subsequent measurement of debt instruments depends on the Group’s business model for managing the asset and the cash 
+flow characteristics of the asset: assets that are held for collection of contractual cash flows where those cash flows represent 
+solely payments of principal and interest (“SPPI”) are measured at amortised cost. Any gain or loss arising on derecognition is 
+recognised directly in profit or loss. Impairment losses are presented as separate line item in the Statement of comprehensive 
+income. Financial assets measured at amortised cost (“AC”) comprise cash and cash equivalents, loans to participants in the 
+Share Purchase Scheme, long-term receivables and trade and other receivables (excluding prepaid expenses).
+b. Derivatives
+Derivatives are initially recognised at fair value on the date a derivative contract is entered into, and they are subsequently 
+remeasured to their fair value at the end of each reporting period.
+3.9.4 Impairment – credit loss allowance for Expected Credit Losses (“ECL”)
+ 
+In line with IFRS 9 “Financial instruments”, the Group assesses on a forward-looking basis the ECL for debt instruments (including 
+loans) measured at amortised cost. The Group measures ECL and recognises credit loss allowance on an annual basis. The 
+measurement of ECL reflects: (i) an unbiased and probability weighted amount that is determined by evaluating a range of 
+possible outcomes, (ii) time value of money and (iii) all reasonable and supportable information that is available without undue 
+cost and effort at the end of each reporting period about past events, current conditions and forecasts of future conditions.
+The carrying amount of the financial assets is reduced through the use of an allowance account, and the amount of any 
+loss is recognised in the Statement of comprehensive income (profit or loss). Debt instruments measured at amortised cost are 
+presented in the balance sheet net of the allowance for ECL.
+ECLs are recognised for loans granted in two stages. For credit exposures for which there has not been a significant increase in 
+credit risk since initial recognition, ECLs are provided for credit losses that result from default events that are possible within the 
+next 12-months (a 12-month ECL). For those credit exposures for which there has been a significant increase in credit risk since 
+initial recognition, a loss allowance is required for credit losses expected over the remaining life of the exposure, irrespective of 
+the timing of the default (a lifetime ECL).
+Expected credit losses for trade receivables are recognised using the simplified approach. Therefore, the Group does not track 
+changes in credit risk, but instead recognises a loss allowance based on lifetime ECLs at each reporting date.
+319
+
+--- PAGE 320 (matched: context) ---
+NEPI Rockcastle N.V. Annual Report 2025
+3.9.5 Reclassification
+ 
+Financial instruments are reclassified only when the business model for managing those assets changes. The reclassification has 
+a prospective effect and takes place from the start of the first reporting period following the change.
+3.9.6 Write-off
+ 
+Financial assets are written-off, in whole or in part, when the Group has exhausted all practical recovery efforts and has 
+concluded that there is no reasonable expectation of recovery. The write-off represents a derecognition event. Indicators 
+that there is no reasonable expectation of recovery include, among others, insolvency or significant financial difficulties
+ 
+of the tenant, default on payment terms and vacation or abandonment of the leased premises. Impaired trade and other 
+receivables are derecognised when all reasonable efforts to collect the amounts outstanding have failed and they are assessed 
+as uncollectable.
+3.9.7 Modification
+ 
+The Group sometimes renegotiates or otherwise modifies the contractual terms of the financial assets. The Group assesses 
+whether the modification of contractual cash flows is substantial considering, among other, the following factors: new 
+contractual terms that substantially affect the risk profile of the asset, significant change in interest rate, change in the 
+currency denomination.
+If the modified terms are substantially different, the rights to cash flows from the original asset expire and the Group 
+derecognises the original financial asset and recognises a new asset at its fair value. The date of renegotiation is considered to 
+be the date of initial recognition for subsequent impairment calculation purposes, including determining whether a significant 
+increase in credit risk has occurred. The Company also assesses whether the new loan or debt instrument meets the SPPI 
+criterion. Any difference between the carrying amount of the original asset derecognised and fair value of the new substantially 
+modified asset is recognised in profit or loss, unless the substance of the difference is attributed to a capital transaction 
+with owners.
+In a situation where the renegotiation was driven by financial difficulties of the counterparty and inability to make the originally 
+agreed payments, the Company compares the original and revised expected cash flows to assess whether the risks and rewards 
+of the asset are substantially different as a result of the contractual modification. If the risks and rewards do not change, the 
+modified asset is not substantially different from the original asset and the modification does not result in derecognition. The 
+Company recalculates the gross carrying amount by discounting the modified contractual cash flows by the original effective 
+interest rate and recognises a modification gain or loss in profit or loss.
+Specific valuation techniques used to value financial assets include:
+▪
+The use of quoted market prices or dealer quotes for similar instruments (for financial assets/liabilities at fair value through 
+profit or loss);
+▪
+Discounted cash flow analysis (for the remaining financial instruments).
+3.10 Financial liabilities – measurement categories
+Financial liabilities are initially recognised at fair value and classified and subsequently measured at amortised cost, except for 
+financial liabilities at FVTPL: this classification is applied to interest rate derivatives and other financial liabilities designated as 
+such at initial recognition.
+3.11 Borrowings (bonds and bank loans)
+Borrowings are recognised initially at the fair value of the liability (determined using the prevailing market rate of interest 
+if significantly different from the transaction price) and net of transaction costs incurred. In subsequent periods, borrowings 
+are subsequently carried at amortized cost using the effective interest method. Any difference between the proceeds (net 
+of transaction costs) and the redemption value is recognised in the Statement of comprehensive income over the period of 
+the borrowings, using the effective interest method, unless they are directly attributable to the acquisition, construction or 
+production of a qualifying asset, in which case they are capitalised as part of the cost of that asset. Borrowings are classified as 
+current liabilities, unless the Group has an unconditional right to defer settlement of the liability for at least twelve months after
+ 
+the balance sheet date.
+Borrowings are removed from the balance sheet when the obligation specified in the contract is extinguished (i.e. discharged, 
+cancelled or expires). The difference between the carrying amount of a financial liability that has been extinguished or 
+transferred to another party and the consideration paid, including any non-cash assets transferred or liabilities assumed, is 
+recognised in the Statement of comprehensive income.
+An exchange between the Group and its original lenders of debt instruments with substantially different terms, as well as 
+substantial modifications of the terms and conditions of existing financial liabilities, are accounted for as an extinguishment 
+of the original financial liability and the recognition of a new financial liability. The terms are substantially different if the 
+discounted present value of the cash flows under the new terms, including any fees paid net of any fees received and discounted 
+using the original effective interest rate, is at least 10% different from the discounted present value of the remaining cash flows
+ 
+of the original financial liability. In addition, other qualitative factors, such as the currency that the instrument is denominated 
+in, changes in the type of interest rate, new conversion features attached to the instrument and change in loan covenants are 
+also considered.
+If an exchange of debt instruments or modification of terms is accounted for as an extinguishment, any costs or fees incurred 
+are recognised as part of the gain or loss on the extinguishment. If the exchange or modification is not accounted for as an 
+extinguishment, any costs or fees incurred adjust the carrying amount of the liability and are amortised over the remaining term 
+of the modified liability.
+320
+
+--- PAGE 321 (matched: receivables_payables) ---
+Modifications of liabilities that do not result in extinguishment are accounted for as a change in estimate using a cumulative 
+catch-up method, with any gain or loss recognised in the Statement of comprehensive income.
+Borrowing costs are interest and other costs that the Group incurs in connection with the borrowing of funds, including interest 
+on borrowings, amortisation of discounts or premiums relating to borrowings and amortisation of ancillary costs incurred in 
+connection with the arrangement of borrowings to the extent that they are regarded as an adjustment to interest costs.
+Borrowing costs that are directly attributable to the acquisition, construction or production of a qualifying asset, being an asset 
+that necessarily takes a substantial period of time to get ready for its intended use (such as properties developed for future sale, 
+capital appreciation or rental income) are capitalised as part of the cost of that asset, when it is probable that they will result in 
+future economic benefits to the Group and the costs can be measured reliably.
+3.12 Cash and cash equivalents
+Cash and cash equivalents include cash balances, cash deposits and short-term, highly liquid investments with original 
+maturities of three months or less that are readily convertible to known amounts of cash and which are subject to an insignificant 
+risk of changes in value. Cash and cash equivalents are carried at amortised cost because: (i) they are held for collection of 
+contractual cash flows and those cash flows represent solely payments of principal and interest (SPPI), and (ii) they are not 
+designated at FVTPL.
+3.13 Trade receivables
+Trade receivables are amounts due from customers for rental and service charge income from tenants in the ordinary course 
+of business. If collection is expected in one year or less, they are classified as current assets. If not, they are presented as 
+non-current assets.
+Trade receivables are recognised initially at fair value, generally at the amount of consideration that is unconditional. The Group 
+holds the trade receivables with the objective to collect the contractual cash flows and therefore measures them subsequently 
+at amortised cost using the effective interest method.
+Trade receivables are also subject to the impairment requirements of IFRS 9. The Group applies the IFRS 9 simplified approach to 
+measuring expected credit losses.
+Trade receivables are written-off when there is no reasonable expectation of recovery. Indicators that there is no reasonable 
+expectation of recovery include, amongst others, the failure of a debtor to engage in a repayment plan with the Group.
+3.14 Inventory property
+Property acquired or being constructed for sale in the ordinary course of business, rather than to be held for rental or capital 
+appreciation, is held as inventory property and is measured at the lower of cost and net realisable value (“NRV”). Principally, this 
+is residential property that the Group develops and intends to sell on completion of development.
+The commencement of development with a plan or a prior agreement to sell represents a change in use and accordingly the 
+project is transferred from investment property to inventory property.
+Costs incurred in inventory property include:
+▪
+freehold and leasehold rights for land;
+▪
+amounts paid to contractors for development; and
+▪
+planning and design costs, costs of site preparation, professional fees for legal services, property transfer taxes, 
+development overheads and other related costs.
+NRV is the estimated selling price in the ordinary course of business, based on market prices at the reporting date, less estimated 
+costs of completion and the estimated costs necessary to make the sale.
+When an inventory property is sold, the carrying amount of the property is recognised as an expense in the period in which 
+the related revenue is recognised. The carrying amount of inventory property recognised in profit or loss is determined with 
+reference to the directly attributable costs incurred on the property sold and an allocation of any other related costs based on 
+the relative size of the property sold.
+3.15 Share capital and share premium
+Ordinary shares are classified as equity. Incremental external costs directly attributable to the issue of new shares are shown in 
+equity as a deduction from the proceeds.
+The consideration paid, including any directly attributable incremental costs (net of income taxes for the purchases of the 
+Company’s equity instruments by any of the Group’s subsidiaries, as a result of a share buy-back or for a share-based incentive 
+plan) is presented within “Other reserves”, until the shares are cancelled or reissued. Where such ordinary shares are cancelled, 
+their nominal value is debited to Share capital, with the corresponding difference up to their purchase price (including any 
+attributable incremental cost, net of taxes) debited from Share premium. Where such ordinary shares are subsequently reissued, 
+any consideration received, net of any directly attributable incremental transaction costs and the related income tax effects,
+ 
+is included in equity attributable to the owners of the Group. Usually, shares are purchased for the debt-free Long-Term Share 
+Incentive Plan (Note 3.16 (b)).
+321
+
+--- PAGE 322 (matched: context) ---
+NEPI Rockcastle N.V. Annual Report 2025
+3.16 Share-based payments
+To date, NEPI Rockcastle has initiated two types of incentive programs that offered share-based payments in exchange for 
+services provided to it by its directors and employees (equity-settled transactions), which are detailed below.
+a. Purchase Offers with a vesting component – Share Purchase Scheme (“NRP SPS”)
+This program was put in place before the 2017 merger of the former groups New Europe Property Investments plc (“NEPI”) and 
+Rockcastle Global Real Estate Company Ltd (“Rockcastle”). Under this program, participants were granted loans to acquire 
+shares in the Company at fair value at the grant date. These loans were classified as “loans to participants in the incentive plan” 
+and included in Other long-term assets (Note 10). The loans are carried at amortised cost and the accrued interest is recognised 
+as finance income in the Statement of Comprehensive Income. The costs under this program are nil.
+b. Debt free Long-Term Share Incentive Plan with a vesting component (“LTSIP”)
+This program was put in place after the 2017 merger of the former groups NEPI and Rockcastle. Under this incentive plan, shares 
+may be issued by the Group to executive directors and other key personnel for no cash consideration. Awards under this plan are 
+at the discretion of the Board of Directors and are based on the performance of the Group and the employees. The costs related 
+to the LTSIP are measured based on the fair value of the shares at the grant date and are recognised over the vesting period.
+The costs are presented as part of the Administrative expenses in the Statement of comprehensive income and within Other 
+reserves in the Statement of changes in equity.
+3.17 Accumulated profit
+The balance on the Statement of comprehensive income is transferred to accumulated profit at the end of each financial period. 
+Distributions paid in cash are deducted from accumulated profit. Distributions for which shareholders elected to receive a return 
+of capital are accounted for as an issue of share capital with a corresponding deduction from the share premium account.
+3.18 Revenue
+Revenue is recognised at the fair value of the consideration received or receivable. Revenue comprises rental and related 
+income and recovery of expenses, excluding VAT.
+Rental income
+Rental income receivable from operating leases is recognised on a straight-line basis over the duration of the lease, except for 
+variable lease payments which are recognised when they arise.
+Contractually agreed and signed concessions granted to, and obtained from, tenants are treated according to IFRS 16 “Leases”. 
+IFRS 16 defines “lease modification” as a change in scope, or consideration, of the lease, not part of the original terms and 
+conditions, such as rent discounts, lease extensions, increase in variable rent (overage/turnover), introduction of break options, 
+etc. Lease modifications are recognised prospectively over the new lease term and accounted for by the Group from the 
+date the modification is contractually agreed and signed by both parties. Agreed lease modifications are recognised as lease 
+incentives from the date the modification was signed. Such modifications are straight-lined over the new lease term and 
+recognised in the Consolidated Statement of comprehensive income as a reduction of Gross rental income.
+Service charges income from tenants
+Revenue from service and property management charges is recognised in the accounting period in which control of the services 
+are passed to the customer, which is when the service is rendered. For certain service contracts, revenue is recognised based on 
+the actual service provided to the end of the reporting period as a proportion of the total services.
+As specified in the lease agreements, the Group has the primary responsibility for providing services to tenants (electricity, 
+water and gas utilities, interior and exterior cleaning, security, maintenance, repairs, etc). The Group has determined that these 
+services constitute distinct non-lease components (transferred separately from the right to use the underlying asset) and are 
+within the scope of IFRS 15. The Group allocates the consideration in the contract to the separate lease and revenue (non-lease) 
+components on a relative stand-alone selling price basis. In respect of the revenue component, these services represent a series 
+of daily services that are individually satisfied over time because the tenants simultaneously receive and consume the benefits
+ 
+provided by the Group. The Group applies the time elapsed method to measure progress.
+The Group negotiates directly with the suppliers all contracts for services provided to tenants. These contracts are concluded 
+between the Group subsidiaries which own the properties and the direct supplier. As the Group sometimes uses the same 
+providers for services across most of its portfolio, it can negotiate better prices through the economies of scale. The Group is 
+considered principal in these transactions, in terms of the IFRS 15 requirements.
+The Group negotiates and pays all expenses incurred by the tenants and then re-invoices these costs to them as defined in the 
+contractual clauses included in the lease agreements. A flat fee is charged monthly during the year. This fee is estimated based 
+on the previous year’s actual costs, with an annual service charge reconciliation performed based on current year’s actual costs 
+incurred by the Group. For contracts terminated during the year, the Group estimates the service charge to be collected based 
+on the current budget and last year’s actual costs.
+Revenue from sales of residential property
+Revenue is recognised when the performance obligation associated with the sale is completed. The transaction price comprises 
+the fair value of the consideration received or receivable, net of value added tax, rebates and discounts.
+The sale of completed property constitutes a single performance obligation and the Group has determined that this is satisfied
+ 
+at the point in time when control transfers. The Group’s sales contracts qualify as unconditional exchange of contracts, which 
+occurs when legal title transfers to the customer. Payments are usually received on the date when contracts are signed or with 
+several days delay.
+322
+
+--- PAGE 329 (matched: context) ---
+The contractual maturity profile of the Financial assets at fair value through profit or loss is disclosed below:
+31 December 2025
+3–12 months
+over 1 year –3 years
+over 3 years –5 years
+Total
+in € thousand
+Financial assets at fair value through profit or loss
+2,087
+2,084
+373
+4,544
+31 December 20241
+3–12 months
+over 1 year –3 years
+over 3 years –5 years
+Total
+in € thousand
+Financial assets at fair value through profit or loss
+55
+5,025
+4,582
+9,662
+1
+2024 figures were amended by adding more granularity for the 1–5 years time band, which is now split into over 1 year–3 years time band and over 3 years–5 years 
+time band.
+While cash and cash equivalents are also subject to the impairment requirements of IFRS 9, the expected credit losses 
+are immaterial.
+For purposes of liquidity management, the Group has various deposit accounts and negotiated current account agreements 
+with several banks. The arrangements in place result in an optimized mix between flexibility and reduced interest charges or best 
+interest offered. The banks’ credit ratings, as well as exposure per each bank are constantly monitored. At 31 December 2025, 
+96% of the Group's cash was held with investment-grade rated banks (31 December 2024: 79%), as detailed below:
+Cash and cash equivalents
+31 Dec 2025
+31 Dec 2024
+Held with banks as rated by Moody’s
+Aa2
+2%
+0%
+Aa3
+15%
+6%
+A1
+34%
+38%
+A2
+7%
+8%
+A3
+9%
+9%
+Baa1
+28%
+18%
+Ba2
+1%
+0%
+Held with banks without a formal credit rating
+4%
+21%1
+Total
+100%
+100%
+1
+The cash held with banks without a formal credit rating at 31 December 2024 was mostly the cash held in the Serbian bank account following the sale of Promenada Novi 
+Sad. This was transferred to a rated bank account in the Netherlands in February 2025. Adjusted for this amount held in Serbian bank, 99% of Group cash balances were 
+held with formal credit rated banks.
+5.2 Liquidity risk
+Liquidity risk is the risk that the Group will not be able to meet its financial obligations when due. The Group’s approach to 
+managing this risk ensures, as far as possible, it will always have enough liquidity to meet its liabilities when due, under normal 
+and stressed conditions, without incurring unacceptable losses or risking damage to its reputation. To ensure this occurs, the 
+Group prepares budgets, cash flow analyses and forecasts, which enable the Directors to assess the level of financing required 
+for future periods. Budgets and projections are used to assess any future potential investments and are compared to existing 
+funds held to evaluate the nature, and extent of any future funding requirements.
+Further reference to bank loan maturity analysis is made in Note 19.
+329
+
+--- PAGE 330 (matched: fx_exposure, receivables_payables) ---
+NEPI Rockcastle N.V. Annual Report 2025
+The table below presents undiscounted cash flows for all financial liabilities, computed at the contractual rates:
+31 Dec 2025
+Note
+under 3 
+months
+3–12 
+months
+over 1 year 
+–3 years
+over 3 years 
+–5 years
+over 5 
+years
+Total 
+undiscounted 
+cash flows
+Total carrying 
+amount
+in € thousand
+Bonds (including estimated 
+future interest)
+19
+53,947
+293,082
+348,286
+334,197
+1,072,343
+2,101,855
+2,016,331
+Bank loans (including 
+estimated future interest)
+19
+15,004
+41,962
+336,685
+712,061
+18,451
+1,124,163
+998,349
+Trade and other payables
+21
+138,611
+40,677
+-
+-
+-
+179,288
+179,289
+Other long-term liabilities
+22
+-
+-
+14,817
+14,841
+6,832
+36,490
+36,490
+Lease liabilities (including 
+estimated future interest)
+23
+3,081
+-
+6,161
+6,161
+184,995
+200,398
+91,257
+Total
+210,643
+375,721
+705,949
+1,067,260 1,282,621
+3,642,194
+3,321,716
+31 Dec 20241
+Note
+under 3 
+months
+3–12 
+months
+over 1 year 
+–3 years
+over 3 years 
+–5 years
+over 5 
+years
+Total 
+undiscounted 
+cash flows
+Total carrying 
+amount
+in € thousand
+Bonds (including estimated 
+future interest)
+19
+37,548
+38,518
+1,087,554
+57,370
+1,042,568
+2,263,558
+2,001,423
+Bank loans (including 
+estimated future interest)
+19
+15,989
+45,079
+115,343
+888,073
+79,292
+1,143,776
+962,945
+Trade and other payables
+21
+143,876
+43,208
+-
+-
+-
+187,084
+187,084
+Other long-term liabilities
+22
+-
+-
+13,409
+10,879
+6,305
+30,593
+30,593
+Lease liabilities (including 
+estimated future interest)
+23
+2,889
+-
+5,864
+5,864
+179,163
+193,780
+85,949
+Total
+200,302
+126,805
+1,222,170
+962,186 1,307,328
+3,818,791
+3,267,994
+1
+2024 figures were amended by adding more granularity for the 1–5 years time band, which is now split into over 1 year–3 years time band and over 3 years–5 years 
+time band.
+5.3 Market risk
+Market risk is the risk that changes in market prices, such as foreign exchange rates, interest rates or equity prices will affect the 
+Group’s fair value or future cash flows of financial instruments. The objective of market risk management is to manage market 
+risk exposures within acceptable parameters, while optimising returns. The carrying value of financial assets and liabilities 
+approximates their fair value, except for the carrying value of bonds.
+5.3.1 Currency risk
+Group’s current assets and liabilities are exposed to foreign currency risk on purchases and receivables denominated in 
+Romanian leu (RON), Polish zloty (PLN), Bulgarian Lev (BGN), Hungarian forint (HUF), Serbian dinar (RSD), Czech crown (CZK) 
+and South African rand (ZAR). Cash inflows received in other currencies than Euro are converted to Euro using the spot rate 
+available on the collection date. The amount converted to Euro is the net amount of cash inflow in a foreign currency and 
+the estimated cash outflow in the same currency. The Group applies this policy to control its currency exposures in respect of 
+monetary assets and liabilities denominated in currencies other than EUR. Sensitivities of profit or loss to reasonably possible 
+changes in exchange rates applied at the financial position date relative to the local currency of the respective Group entities, 
+with all other variables such as interest rates held constant, are immaterial.
+5.3.2 Interest rate risk
+Interest rate risk is the risk that the future cash flows of a financial instrument will fluctuate because of changes in market interest 
+rates. The Group is exposed to interest rate risk on loans, borrowings and cash balances held. Group policy is to substantially 
+hedge this risk through the use of derivative financial instruments. As at 31 December 2025 and 31 December 2024, the Group 
+held interest rate instruments in the form of interest rate swaps and interest rate caps, as further disclosed in Note 20.
+in € thousand
+31 Dec 2025
+31 Dec 2024
+Bank loans
+998,349
+962,945
+– Rate capped
+482,804
+523,549
+– Rate swapped
+38,800
+39,400
+– Variable rate1
+487,164
+411,308
+Accrued interest on loans and deferred loan costs
+(10,419)
+(11,312)
+1
+As of 31 December 2025, the balance exposed to variable interest rate corresponds to 16% of the total outstanding debt (31 December 2024: 14%), mainly relating to the 
+IFC loan balance.
+330
+
+--- PAGE 331 (matched: context) ---
+Sensitivity analysis for interest bearing financial instruments
+Loans and borrowings balances are subject to change over the year. A change of 50 basis points (bps) in interest rates would 
+have increased/(decreased) equity and profit for the year as shown below. Calculations are based on the loans and borrowings 
+balances outstanding at the respective balance sheet dates. This analysis assumes that all other variables, particularly foreign 
+currency rates, remain constant. All sensitivity analysis calculations are presented below.
+The benchmark rate for the bank loans with an outstanding amount of €998,349 thousand as at 31 December 2025 (2024: 
+€962,945 thousand) is Euribor 3 months; if this rate is less than zero, Euribor shall be deemed to be zero.
+Loans and borrowings with fixed or swapped interest rates are not affected by market changes in interest rates.
+A change of 50 basis points (bps) in interest rates would have increased/(decreased) equity and profit for the year as shown 
+below. Calculations are based on loans and borrowings balances outstanding at 31 December 2025 and at 31 December 2024.
+in € thousand
+Note
+31 Dec 2025
+31 Dec 2024
+Loans to participants in the Share Purchase Scheme
+(including accrued interest)
+10
+854
+890
+Loans and borrowings (variable or capped rate)
+(969,968)
+(934,857)
+Total
+(969,114)
+(933,967)
+31 Dec 2025
+Profit or loss 
+50bps increase
+Profit or loss 
+50bps decrease
+Equity 50bps 
+increase
+Equity 50bps 
+decrease
+in € thousand
+Loans to participants in the Share Purchase Scheme (including 
+accrued interest)
+4
+(4)
+4
+(4)
+Loans and borrowings (variable or capped rate)1
+(2,448)
+2,472
+(2,448)
+2,472
+Total
+(2,444)
+2,468
+(2,444)
+2,468
+1
+Calculation is based considering loans' specifics and the allocated hedges (CAPs) net of tax.
+31 Dec 2024
+Profit or loss 
+50bps increase
+Profit or loss 
+50bps decrease
+Equity 50bps 
+increase
+Equity 50bps 
+decrease
+in € thousand
+Loans to participants in the Share Purchase Scheme (including 
+accrued interest)
+4
+(4)
+4
+(4)
+Loans and borrowings (variable or capped rate)1
+(1,532)
+1,957
+(1,532)
+1,957
+Total
+(1,528)
+1,953
+(1,528)
+1,953
+1
+Calculation is based considering loans' specifics and the allocated hedges (CAPs) net of tax.
+331
+
+--- PAGE 332 (matched: receivables_payables) ---
+NEPI Rockcastle N.V. Annual Report 2025
+5.4 Fair value of financial instruments
+Set out below, is an overview of financial assets and liabilities held by the Group as at 31 December 2025:
+in € thousand
+Carrying 
+amount
+Fair value
+Measurement
+Assets
+Financial assets at amortised cost
+Cash and cash equivalents
+313,994
+313,994
+The book value of cash approximates their fair value, as these 
+financial instruments have a short maturity.
+Trade and other receivables
+113,533
+113,533
+The book value of short-term receivables approximates their fair 
+value, as these financial instruments have a short maturity.
+Financial assets at fair value through 
+profit or loss
+Interest rate derivatives
+4,544
+4,544
+The fair value of derivatives is based on fair value quotes from 
+counterparty banks.
+Total
+432,071
+432,071
+Liabilities
+Financial liabilities at amortised cost
+Bonds
+2,016,331
+1,986,400
+The fair value of bonds is based on market trading prices.
+Bank loans
+998,349
+998,349
+The book value of loans approximates their fair value.
+Trade and other payables
+179,289
+179,289
+The book value of short-term payables approximates their fair 
+value, as these financial instruments have a short maturity.
+Lease liabilities
+91,257
+91,257
+The present value of lease payments is recognised by discounting 
+the contractual lease payments using the rate that the lessee 
+would have to pay to borrow the funds necessary to obtain an 
+asset of similar value to the right-of-use asset in a similar economic 
+environment with similar terms, security and conditions.
+Total
+3,285,226
+3,255,295
+Set out below, is an overview of financial assets and liabilities held by the Group as at 31 December 2024:
+in € thousand
+Carrying 
+amount
+Fair value
+Measurement
+Assets
+Financial assets at amortised cost
+Cash and cash equivalents
+448,498
+448,498
+The book value of cash approximates their fair value, as these 
+financial instruments have a short maturity.
+Trade and other receivables
+115,947
+115,947
+The book value of short-term receivables approximates their fair 
+value, as these financial instruments have a short maturity.
+Financial assets at fair value through 
+profit or loss
+Interest rate derivatives
+9,662
+9,662
+The fair value of derivatives is based on fair value quotes from 
+counterparty banks.
+Total
+574,107
+574,107
+Liabilities
+Financial liabilities at amortised cost
+Bonds
+2,001,423
+1,966,050
+The fair value of bonds is based on market trading prices.
+Bank loans
+962,945
+962,945
+The book value of loans approximates their fair value.
+Trade and other payables
+187,084
+187,084
+The book value of short-term payables approximates their fair 
+value, as these financial instruments have a short maturity.
+Lease liabilities
+85,949
+85,949
+The present value of lease payments is recognised by discounting 
+the contractual lease payments using the rate that the lessee 
+would have to pay to borrow the funds necessary to obtain an 
+asset of similar value to the right-of-use asset in a similar economic 
+environment with similar terms, security and conditions.
+Total
+3,237,401
+3,202,028
+332
+
+--- PAGE 333 (matched: context) ---
+6.
+ INTERNAL CONTROLS TO MANAGE RISKS
+The Board of Directors is responsible for the Group’s system of internal control and for reviewing its effectiveness. This system is 
+designed to mitigate rather than eliminate the risk of failure to meet business objectives, and can only provide reasonable, not 
+absolute, assurance against material misstatement or loss.
+The key features of the Group’s system of internal control include:
+▪
+Strategic and business planning: the Group prepares, and agrees, a business plan each year, to which the performance of 
+the business is regularly monitored;
+▪
+Investment appraisal: capital projects, major contracts and business and property acquisitions are reviewed in detail and 
+approved by the Investment Committee, and/or the Board of Directors where appropriate, in accordance with delegated 
+authority limits;
+▪
+Financial monitoring: profitability, cash flow and capital expenditure are closely monitored, and key financial information 
+is reported to the Board of Directors regularly, including explanations of variances between actual and budgeted 
+performance; and
+▪
+Systems of control procedures and delegated authority: clearly defined guidelines and approval limits exist for capital and 
+operating expenditure and other key business transactions and decisions.
+7.
+ CAPITAL MANAGEMENT
+The primary objective of the Group’s capital management is to ensure it complies with its quantitative banking covenants and 
+maintains a strong credit rating. During the year, no changes were made in the objectives, policies or processes.
+Capital is primarily monitored using the gearing ratio (Loan-to-value or “LTV”), which was 32.8% (31 December 2024: 32.1%). The 
+Group’s long-term strategic LTV threshold is 35%. The ratio is computed as interest bearing debt less lease liabilities less cash, 
+divided by investment property (including investment property held for sale and excluding the right-of-use assets) and property, 
+plant and equipment related to photovoltaic installations (for 31 December 2024 the ratio was computed as interest bearing 
+debt less lease liabilities less cash, divided by investment property (including investment property held for sale and excluding 
+the right-of-use assets); the 2024 measure excluded photovoltaic installations from the denominator, as this refinement was 
+introduced in 2025). Loan-to-value is a non IFRS measure.
+The Group’s policy is to maintain a strong capital base of equity so as to maintain investor, creditor and market confidence and 
+to sustain future business development. In particular, the Group monitors the Debt/ Debt + Equity ratio, a non IFRS measure, 
+calculated as interest bearing debt less lease liabilities less cash, divided by interest bearing debt less lease liabilities less cash 
+and shareholders’ equity. The Debt/ Debt + Equity ratio threshold of the Group is 40%. As at 31 December 2025, the Debt/ 
+Debt + Equity ratio was 35.0% (31 December 2024: 33.9%). The Board of Directors also monitors the level of distributions to 
+shareholders. Neither the Company, nor its subsidiaries, are subject to externally imposed capital requirements, except that the 
+Group’s subsidiaries are subject to compliance with bonds and bank borrowings’ covenants, as presented in Note 19.
+The Group ensures it retains comfortable levels of access to liquidity to finance the Group’s ongoing operations and further 
+investment opportunities.
+8.
+ INVESTMENT PROPERTY IN USE
+Movement in investment property in use
+Note
+31 Dec 2025
+31 Dec 2024
+in € thousand
+Carrying value at beginning of year
+7,694,798
+6,627,247
+Additions from asset deals
+32
+959
+759,666
+Capital expenditure
+66,480
+51,373
+Transferred from investment property under development
+9
+26,694
+65,798
+Fair value adjustments
+28
+160,581
+183,942
+Remeasurement of right-of-use assets
+23
+5,798
+-
+Additions to the right-of-use assets from acquired assets
+32
+-
+29,840
+Fair value adjustment of right-of-use asset
+28
+(490)
+(412)
+Transfers from property, plant and equipment
+11
+1,684
+556
+Investment property reclassified to property, plant and equipment
+11
+-
+(23,212)
+Investment property reclassified as held for sale
+15.1
+(9,075)
+-
+CARRYING VALUE
+7,947,429
+7,694,798
+As at 31 December 2025, the balance of investment property included also right-of-use assets of €91,257 thousand (2024: 
+€85,949 thousand) representing long-term land concessions for the Group's Polish properties contracted from local government.
+Investment property is carried at fair value and is independently assessed on a semi-annual basis, as at 30 June and 
+31 December.
+333
+
+--- PAGE 346 (matched: context) ---
+NEPI Rockcastle N.V. Annual Report 2025
+Further details for the Group’s loans and bonds are presented below:
+Secured term loans
+The Group has secured term loans contracted by some of its subsidiaries in Poland, Slovakia, Czech Republic and Romania. 
+These loans are subject to various retrospective and prospective covenants, including prospective debt service coverage ratios. 
+As of the reporting date, the Group has no indication that it will face difficulty complying with any of these covenants.
+Securities
+▪
+General security over the properties (fair values as at 31 December 2025), current assets, cash inflows from operating 
+activities, accounts and receivables; and
+▪
+General security over the shares in the property-owning entities.
+Covenants
+▪
+Debt service cover ratio (historical and prospective) of a minimum between 110% and 140%; and
+▪
+Loan to value ratio of a maximum between 55% and 70%.
+Unsecured green term loans
+The Group has two green unsecured financing agreements with IFC and one with Raiffeisen Bank.  Out of the two IFC loans, one 
+matures in June 2028 in amount of €73.5 million, and the other matures in January 2029 in amount of €445 million.
+The €445 million loan has sustainability-linked KPIs in line with the Group’s Sustainability-Linked Financing Framework. 
+Management considers that the sustainability related variability feature does not meet the definition of a derivative, as defined
+ 
+in Appendix A of IFRS 9, on the basis that these KPIs are non–financial variables specific to the Group.
+Unsecured committed revolving facilities
+At 31 December 2025, there were €740 million revolving facilities available for drawdown.
+All available revolving facilities are linked either to the ESG performance of the Group through the sustainability rating provided 
+by Sustainalytics or have sustainability-linked KPIs in line with the Group’s Sustainability-Linked Financing Framework.
+Management considers that the above ESG related variability feature does not meet the definition of a derivative, as defined in 
+Appendix A of IFRS 9, on the basis that the external rating is a non–financial variable specific to the Group.
+Unsecured fixed coupon bonds
+The Group successfully issued fixed coupon bonds as follows:
+▪
+October 2019: €500 million of unsecured, 7-year Eurobonds. €250 million are outstanding at 31 December 2025 and mature 
+on 9 October 2026, carrying a 1.875% fixed coupon, with an issue price of 98.927%;
+▪
+July 2020: €500 million of green unsecured, 7-year Eurobonds. €250 million are outstanding at 31 December 2025 and 
+mature on 14 July 2027, carrying a 3.375% fixed coupon, with an issue price of 98.172%;
+▪
+January 2022: €500 million of green unsecured, 8-year Eurobonds. The bonds mature on 21 January 2030 and carry a 2.00% 
+fixed coupon, with an issue price of 98.713%;
+▪
+October 2024: €500 million of green unsecured, 7-year Eurobonds. The bonds mature on 21 January 2032 and carry a
+4.25% fixed coupon, with an issue price of 99.124%; and
+▪
+September 2025: €500 million of green unsecured, 8-year Eurobonds. The bonds mature on 30 September 2033 and carry a 
+3.875% fixed coupon, with an issue price of 99.353%.
+All the bonds include early redemption options. At each date of bond issue initial recognition management has performed an 
+assessment whether those options are closely related to the host contract, considering the IFRS 9 clauses, which states that early 
+repayment options are closely related to the host debt, if either:
+▪
+the option’s exercise price is approximately equal on each exercise date to the host debt instrument’s amortised cost; or
+▪
+the exercise price of a prepayment option reimburses the lender for an amount up to the approximate present value of lost 
+interest for the remaining term of the host contract.
+Based on management assessment in case of the exercise of any of the early redemption options either first or second criteria 
+will be met, therefore those were considered as closely related to the bond and thus not separately valued and disclosed.
+NEPI Rockcastle has complied with all financial covenants of its borrowing facilities during 2025 and 2024. The ratios calculated 
+for all unsecured loans and bonds showed ample headroom compared to the covenants:
+Covenants
+Requirement
+31 Dec 2025
+31 Dec 2024
+Solvency Ratio
+Maximum 0.60
+0.38
+0.38
+Consolidated Coverage Ratio
+Minimum 2:1
+5.04
+5.01
+Unsecured Ratio
+Minimum 150%
+266%
+261%
+346
+
+--- PAGE 347 (matched: receivables_payables) ---
+20.
+ DERIVATIVE FINANCIAL ASSETS AND LIABILITIES AT FAIR VALUE THROUGH PROFIT OR LOSS
+The Group uses derivative instruments to hedge variable interest rate (Euribor) exposure. Their fair value is summarised below:
+in € thousand
+31 Dec 2025
+31 Dec 2024
+Derivative financial assets – long-term
+1,415
+5,392
+Derivative financial assets – short-term
+3,129
+4,270
+Total
+4,544
+9,662
+The above financial assets consist of interest rate caps and fixed interest rate swaps which are not designated as cash flow
+ 
+hedges. The fair value was categorised in Level 2 of the fair value hierarchy. The fair value of derivatives is based on pricing 
+quotes from counterparty banks. The valuation model uses an interest rate curve based on observable market rates. Future 
+interest payments are determined using this curve, which are then discounted to present value.
+The derivative financial assets classification to non-current or current sections of the Statement of financial position is driven by 
+interest settlement dates of the instruments.
+At 31 December 2025, €483 million of debt exposed to Euribor was hedged with interest rate caps and €39 million with interest 
+rate swaps (Note 5.3.2).
+21.
+ TRADE AND OTHER PAYABLES
+in € thousand
+31 Dec 2025
+31 Dec 2024
+Property related payables
+73,473
+79,110
+Advances from tenants
+57,363
+55,365
+Advances from residential customers
+-
+309
+Payable for investment property and property, plant and equipment under construction
+29,775
+22,927
+Payables for administrative expenses
+7,989
+10,243
+Tenant security deposits
+10,136
+13,289
+Deferred consideration on acquisitions of subsidiaries and asset deals
+553
+5,841
+Total
+179,289
+187,084
+22.
+ OTHER LONG-TERM LIABILITIES
+in € thousand
+31 Dec 2025
+31 Dec 2024
+Tenant security deposits
+35,652
+30,109
+Other long-term payables
+838
+484
+Total
+36,490
+30,593
+23.
+ LEASE LIABILITIES
+The Group recognises the right-of-use assets from leases of land plots on which the majority of its Polish properties are located, 
+commissioned from the local authorities. The correspondent lease liabilities are recognised by discounting the contractual lease 
+payments using the rate that the lessee would have to pay to borrow the funds necessary to obtain an asset of similar value to 
+the right-of-use asset in a similar economic environment with similar terms, security and conditions.
+The contractual lease agreements are signed for the period of 99 years with extension option by the lessee. The agreements 
+include fixed payment terms subject to adjustment due to revaluation of land, such revaluation can be done by the lessor not 
+more often than every three years.
+347
+
+--- PAGE 348 (matched: context) ---
+NEPI Rockcastle N.V. Annual Report 2025
+Reconciliation of lease liabilities
+in € thousand
+Note
+31 Dec 2025
+31 Dec 2024
+Carrying value of the lease liabilities - Opening Balance
+85,949
+56,520
+Out of which short-term - Opening Balance
+2,890
+1,546
+Additions to lease liabilities from acquired assets
+32
+-
+29,840
+Remeasurement of lease liability
+5,798
+-
+Interest expense
+29
+2,533
+1,470
+Lease liability payment
+(3,023)
+(1,881)
+Carrying value of the lease liabilities - Closing Balance
+91,257
+85,949
+Out of which short-term - Closing Balance
+3,081
+2,890
+24.
+ CORPORATE TAX CHARGE AND DEFERRED TAX
+On 23 May 2023, the International Accounting Standards Board issued International Tax Reform – Pillar Two Model Rules 
+– Amendments to IAS 12. These amendments clarify that IAS 12 applies to income taxes arising from tax law enacted or 
+substantively enacted to implement the Pillar Two model rules published by the OECD, including Qualified Domestic Minimum 
+Top-up Taxes (QDMTTs).
+The Group has applied these amendments. The Pillar Two rules became applicable to the Group for the financial year beginning 
+1 January 2025, following the enactment or substantive enactment of the relevant legislation in all jurisdictions in which the 
+Group operates.
+The Group has applied the exception provided by IAS 12.88A, and accordingly does not recognise and does not disclose 
+information about deferred tax assets and liabilities related to Pillar Two income taxes.
+The Group performed a jurisdictional assessment to determine its exposure to Pillar 2 top-up taxes, using the 2025 actual 
+financial results. In most of the jurisdictions in which the Group operates, the Pillar Two effective tax rate exceeds 15%.
+The Group continues to monitor Pillar Two legislative developments globally and will assess any potential future impacts on 
+its consolidated financial position, results of operations, and cash flows as additional jurisdictions enact or substantially enact 
+these rules.
+Tax expense comprises current and deferred tax. Current tax and deferred tax are recognised in profit or loss, except to the 
+extent they relate to business combination or items recognised directly to equity. Deferred tax assets and liabilities are measured 
+at the tax rates (and tax laws) that have been enacted or substantively enacted by the end of the reporting period and are 
+expected to apply when the related assets are realised or the liabilities are settled. Deferred tax assets are recognised only to 
+the extent that it is probable that future taxable profits will be available against which the temporary differences can be utilised.
+in € thousand
+31 Dec 2025
+31 Dec 2024
+Current tax expense
+28,831
+30,563
+Deferred tax expense
+97,262
+31,472
+INCOME TAX EXPENSE
+126,093
+62,035
+Reconciliation of deferred tax liabilities, net
+in € thousand
+31 Dec 2025
+31 Dec 2024
+As of 1 January
+437,846
+408,136
+Other adjustments (included in the disposal proceeds) - with P&L effect
+-
+(1,762)
+Deferred tax expense
+97,262
+31,472
+As of 31 December, out of which:
+535,108
+437,846
+Deferred tax asset
+(69,957)
+(107,395)
+Deferred tax liability
+605,065
+545,241
+348
+
+--- PAGE 354 (matched: context) ---
+NEPI Rockcastle N.V. Annual Report 2025
+2025
+Event
+Number 
+of shares
+Cumulative number of shares after
+ 
+equity-related transactions
+% of period
+Weighted 
+average
+01/01/2025
+Opening balance
+712,357,309
+712,357,309
+27%
+195,702,557
+11/04/2025
+Repurchase of shares
+(1,640,511)
+710,716,798
+73%
+515,464,930
+31/12/2025
+Diluted weighted average number 
+of shares
+711,167,487
+Effect of unvested shares under LTSIP
+(1,688,434)
+Basic weighted average number 
+of shares
+709,479,053
+Weighted and diluted weighted average number of shares in 2024 for basic and diluted earnings per share purposes are 
+detailed below:
+2024
+Event
+Number 
+of shares
+Cumulative number of shares after
+ 
+equity-related transactions
+% of period
+Weighted 
+average
+01/01/2024
+Opening balance
+660,826,020
+660,826,020
+79%
+521,418,887
+15/10/2024
+Return of capital
+9,806,671
+670,632,691
+1%
+3,674,700
+17/10/2024
+Issue of shares
+41,724,618
+712,357,309
+20%
+146,374,790
+31/12/2024
+Diluted weighted average number 
+of shares
+671,468,377
+Effect of unvested shares under LTSIP
+(1,409,503)
+Basic weighted average number 
+of shares
+670,058,874
+31.
+ HEADLINE EARNINGS AND DILUTED HEADLINE EARNINGS PER SHARE
+The starting point is for headline earnings per share calculation are earnings as determined in IAS 33, excluding “separately 
+identifiable re-measurements”, net of related tax (both current and deferred) and non-controlling interest, other than 
+remeasurements specifically included in headline earnings (referred to as included re-measurements), in terms of Circular 1/2023 
+issued by South African Institute of Chartered Accountants (SAICA).
+The calculation of headline earnings per share for the year ended 31 December 2025 was based on headline earnings of 
+€363,781 thousand (31 December 2024: of €405,824 thousand) and the weighted average number of shares.
+Reconciliation of profit for the year to headline earnings
+Note
+31 Dec 2025
+31 Dec 2024
+in € thousand, unless otherwise stated
+Profit for the year attributable to equity holders of the parent
+498,839
+587,565
+Fair value adjustments of investment property
+28
+(162,252)
+(195,380)
+Gain on disposal of assets held for sale
+15
+-
+(25,934)
+Tax effects of adjustments for investment property and gain on disposal of assets held 
+for sale
+27,194
+39,573
+HEADLINE EARNINGS
+363,781
+405,824
+Basic weighted average number of shares
+709,479,0531
+670,058,874
+Diluted weighted average number of shares
+711,167,4871
+671,468,377
+Headline earnings per share (euro cents)
+51.27
+60.57
+Diluted headline earnings per share (euro cents)
+51.15
+60.44
+1
+Excludes 1,640,511 treasury shares as at 31 December 2025. For further details please see Note 17.
+354
+
+--- PAGE 355 (matched: receivables_payables) ---
+32.
+ SIGNIFICANT ASSET DEALS
+No acquisitions were made in 2025.
+Acquisitions made in 2024
+Magnolia Park
+On 1 October 2024, the Group acquired Magnolia Property Sp. z.o.o., the legal entity that owns Magnolia Park in Wroclaw, 
+Poland. The acquisition was recognised as a property asset acquisition as the acquired entity does not represent a business as 
+defined by IFRS 3.
+The carrying amount of the identifiable assets and liabilities at the date of acquisition was as follows:
+in € thousand
+Value recognised 
+on acquisition
+Investment property in use
+353,277
+Trade and other receivables
+4,360
+Cash and cash equivalents
+4,500
+Identifiable acquired assets
+362,137
+Other long-term liabilities
+1,554
+Trade and other payables
+2,747
+Identifiable acquired liabilities
+4,301
+Net identifiable assets
+357,836
+Net identifiable assets of the subsidiary acquired at the date of acquisition amounted to €357,836 thousand. The 
+net cash outflow connected with the acquisition (cash outflow adjusted for working capital items, less cash and cash 
+equivalents acquired) amounted to €351,794 thousand, the remaining difference to the net asset value being an accrued 
+payable adjustment to the purchase price paid. Acquisition costs of €2,715 thousand were capitalised on the value of 
+investment property.
+The investment property reflected above does not include the right-of-use assets and related lease liability, of €29,840 
+thousand, connected to the land under concession for Magnolia Park.
+Silesia City Center
+On 6 December 2024, the Group acquired Helios SCC Sp. z.o.o. (subsequently changed its name to Silesia Property Sp. z o.o.), the 
+legal entity which owns Silesia City Center, a shopping centre located in Katowice, Poland. The Group has concurrently acquired 
+Elco Energy Sp. z o.o. and Elco ICT Sp. z o.o., the legal entities that provide communication infrastructure and energy services for 
+the tenants in Silesia City Center. The acquisition was recognised as a property asset acquisition as the acquired companies do 
+not represent a business as defined by IFRS 3.
+The carrying amount of the identifiable assets and liabilities at the date of acquisition was as follows:
+in € thousand
+Value recognised 
+on acquisition
+Investment property in use
+406,389
+Property, plant and equipment under construction
+513
+Property, plant and equipment - Other
+41
+Trade and other receivables
+9,420
+Cash and cash equivalents
+9,320
+Identifiable acquired assets
+425,683
+Other long-term liabilities
+1,667
+Trade and other payables
+14,991
+Identifiable acquired liabilities
+16,658
+Net identifiable assets
+409,025
+Net identifiable assets of the subsidiaries acquired at the date of acquisition amounted to €409,025 thousand. The net cash 
+outflow connected with the acquisition (cash outflow adjusted for working capital items, less cash and cash equivalents 
+acquired) amounted to €400,270 thousand. Accrued receivable from the seller of €565 thousand was recognised as adjustment 
+to the purchase price paid. Acquisition costs of €2,287 thousand were capitalised on the value of investment property.
+355
+
+--- PAGE 356 (matched: context) ---
+NEPI Rockcastle N.V. Annual Report 2025
+Solpower Energy SRL
+On 18 November 2024, the Group acquired 100% of the share capital of Solpower Energy SRL, a Romanian legal entity with in 
+place land rights, building permits and grid connection permits aimed at the development of a photovoltaic power plant with 
+a targeted capacity of 50 MWp. The acquired property will be used by the Group for the development of one of its greenfield
+ 
+photovoltaic projects in Romania. The acquisition was recognised as an asset acquisition as the acquired entity does not 
+represent a business as defined by IFRS 3.
+The carrying amount of the identifiable assets and liabilities at the date of acquisition was as follows:
+in € thousand
+Value recognised 
+on acquisition
+Property, plant and equipment under construction
+5,143
+Trade and other receivables
+326
+Cash and cash equivalents
+10
+Identifiable acquired assets
+5,479
+Trade and other payables
+2
+Identifiable acquired liabilities
+2
+Net identifiable assets
+5,477
+Net identifiable assets of the subsidiaries acquired at the date of acquisition amounted to €5,477 thousand. The net cash 
+outflow connected with the acquisition (cash outflow adjusted for working capital items, less cash and cash equivalents 
+acquired) amounted to €5,450 thousand, the remaining difference to the net asset value being an accrued payable adjustment 
+to the purchase price paid.
+Muntenia Beton Max SRL
+On 27 December 2024, the Group acquired 100% of the share capital of Muntenia Beton Max SRL, a Romanian legal entity 
+with in place land rights, building permits and grid connection permits aimed at the development of a photovoltaic power 
+plant with a targeted capacity of 109 MWp. The acquired property will be used by the Group for the development of one of its 
+greenfield photovoltaic projects in Romania. The acquisition was recognised as an asset acquisition as the acquired entity does 
+not represent a business as defined by IFRS 3.
+The carrying amount of the identifiable assets and liabilities at the date of acquisition was as follows:
+in € thousand
+Value recognised 
+on acquisition
+Property, plant and equipment under construction
+4,903
+Trade and other receivables
+78
+Cash and cash equivalents
+179
+Identifiable acquired assets
+5,160
+Trade and other payables
+314
+Identifiable acquired liabilities
+314
+Net identifiable assets
+4,846
+Net identifiable assets of the subsidiaries acquired at the date of acquisition amounted to €4,846 thousand. The net cash 
+outflow connected with the acquisition (cash outflow adjusted for working capital items, less cash and cash equivalents 
+acquired) payable to the seller as at 31 December 2024 is €4,667 thousand. The consideration was paid in January 2025.
+33.
+ SEGMENT REPORTING
+The operating segments for management purposes are the individual properties. For reporting purposes, the Group aggregates 
+the retail properties (shopping malls and street retail centres) on geographic regions of operation. There are a total of eight retail 
+reportable segments which include Romania, Poland, Bulgaria, Slovakia, Hungary, Croatia, Czech Republic and Lithuania for 
+2025 and nine reportable segments for 2024 comparative period, including Serbia.
+Retail properties are considered to have a different economic and risk profiles compared to other types of properties in the 
+Group portfolio, therefore are aggregated and reported separately on geographies.
+The office and industrial businesses are immaterial for the Group from both operational and financial statements disclosure 
+points of view. The weight of these categories are below 1% of the total Group portfolio. These properties, together with the 
+corporate entities (group holding companies), are separately disclosed in the “Unallocated” section below.                                                                        
+Starting December 2024, the Group started to voluntarily present two new business segments - Residential and Energy. The 
+Residential segment, based on a Board decision in August 2024, will be expanded from one development in 2023 to another 
+3 developments in Romania in the following years. The Energy business involves investment in photovoltaic installations on the 
+356
+
+--- PAGE 357 (matched: context) ---
+rooftops of Group properties, as well as greenfield photovoltaic plants. The revenues generated by the photovoltaic installations 
+is realised from the sale of electricity to the tenants of the Group’s retail properties. This revenue will increase in the coming years 
+following the roll-out of the rooftops' installations across all Group geographies and investments in greenfield plants.
+The gain on disposal of assets held for sale is realised by NE Property B.V., the Dutch direct parent of the sold properties.
+The Chief Operating Decision Makers ("CODM") monitor the results of each reportable segment independently for the purposes 
+of allocating resources to the segment and assessing its performance, as this is the key IFRS 8 driver of segmentation. The 
+measure of reporting segment performance is Profit before net finance costs and other items, as disclosed in the following 
+tables. The Group’s financing policy (including its impact on financial income and expenses), corporate activities and income tax 
+matters are handled at Group level, and the resulting impacts are not allocated to the operating segments.
+For the balance sheet, the relevant measure of segment analysis is considered the investment properties and property, plant and 
+equipment for the Energy segment, as the CODM are monitoring closely the asset performance at each reporting date.
+Segment investments over a period is the total cost incurred during the period to acquire and develop investment properties, as 
+well as capital expenditure spent on investment properties and property, plant and equipment.
+Segment results 31 
+Dec 2025
+ in € thousand
+Romania
+Poland
+Hungary
+Slovakia
+Bulgaria
+Croatia
+Czech 
+Republic
+Lithuania
+Total 
+Retail 
+Segments
+Residential
+Energy Unallocated
+Total
+Gross rental income
+220,552
+208,812
+39,465
+41,547
+51,533
+26,024
+13,984
+16,167
+618,084
+-
+-
+6,264
+624,348
+Service charge income
+109,278
+95,473
+17,636
+18,498
+20,898
+9,816
+9,327
+5,442
+286,368
+-
+-
+2,188
+288,556
+Property 
+operating expenses
+(112,578)
+(104,792)
+(19,047)
+(18,922)
+(21,136)
+(9,903)
+(9,425)
+(5,908)
+(301,711)
+-
+-
+(2,718)
+(304,429)
+Revenue from 
+energy activity
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+11,262
+-
+11,262
+Costs of the 
+energy activity
+-
+-
+-
+-
+-
+-
+-
+-
+-
+(1,627)
+-
+(1,627)
+Net rental and 
+related income
+217,252
+199,493
+38,054
+41,123
+51,295
+25,937
+13,886
+15,701
+602,741
+-
+9,635
+5,734
+618,110
+Administrative expenses
+(11,572)
+(4,902)
+(283)
+(186)
+(36)
+(45)
+(34)
+(182)
+(17,240)
+(254)
+(2,200)1
+(25,348)
+(45,042)
+Revenues from sales of 
+inventory property
+-
+-
+-
+-
+-
+-
+-
+-
+-
+6,497
+-
+-
+6,497
+Cost of sales of 
+inventory property
+-
+-
+-
+-
+-
+-
+-
+-
+-
+(4,439)
+-
+-
+(4,439)
+EBIT2
+205,680
+194,591
+37,771
+40,937
+51,259
+25,892
+13,852
+15,519
+585,501
+1,804
+7,435
+(19,614)
+575,126
+Fair value adjustments 
+of investment property
+31,901
+92,319
+(24,757)
+(5,620)
+54,267
+4,278
+8,833
+4,664
+165,885
+-
+-
+(3,633)
+162,252
+Foreign exchange 
+(loss)/gain
+(1,853)
+492
+635
+-
+(51)
+6
+439
+-
+(332)
+(130)
+(285)
+302
+(445)
+Profit before net 
+finance costs and 
+other items
+235,728
+287,402
+13,649
+35,317
+105,475
+30,176
+23,124
+20,183
+751,054
+1,674
+7,150
+(22,945)
+736,933
+Finance income
+6,038
+6,038
+Finance costs
+(103,963)
+(103,963)
+Bank charges, 
+commissions and fees
+(4,127)
+(4,127)
+Losses on 
+extinguishment of 
+financial instruments
+(4,676)
+(4,676)
+Fair value adjustments 
+of derivatives
+(5,273)
+(5,273)
+Profit before tax
+624,932
+Income tax expense
+(126,093) (126,093)
+Current tax expense
+(28,831)
+(28,831)
+Deferred tax expense
+(97,262)
+(97,262)
+Profit after tax
+498,839
+1
+Out of total amount, €1,623 thousand represents depreciation charge for photovoltaic installations and €577 thousand other expenses, mostly staff costs.
+2 EBIT (Earnings Before Interest and Taxes) represents the Group's Operating profit, defined as Net rental and related income plus Revenue from sales of inventory property 
+less Cost of sales of inventory property and less Administrative expenses (Depreciation and Amortisation are included in Administrative expenses).
+357
+
+--- PAGE 358 (matched: revenue_cos_opex) ---
+NEPI Rockcastle N.V. Annual Report 2025
+Segment results 31 
+Dec 2024
+ in € thousand
+Romania Poland Hungary Slovakia Bulgaria
+Croatia
+Czech 
+Republic
+Lithuania
+Serbia
+Total 
+Retail 
+Segments
+Residential
+Energy Unallocated
+Total
+Gross rental income
+215,537 153,037
+39,251
+39,994
+47,282
+24,775
+13,374
+15,318
+11,603
+560,171
+-
+-
+5,898
+566,069
+Service charge income 106,054
+69,258
+17,816
+15,800
+18,924
+9,673
+9,346
+5,432
+5,090
+257,393
+-
+-
+2,170
+259,563
+Property 
+operating expenses
+(110,956) (80,125) (19,313)
+(15,974) (19,438)
+(9,812)
+(9,558)
+(5,772)
+(5,163)
+(276,111)
+-
+-
+(2,630) (278,741)
+Revenue from 
+energy activity
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+9,048
+-
+9,048
+Net rental and 
+related income
+210,635 142,170
+37,754
+39,820
+46,768
+24,636
+13,162
+14,978
+11,530
+541,453
+-
+9,048
+5,438
+555,939
+Administrative 
+expenses
+(12,368)
+(4,320)
+(33)
+(21)
+(62)
+(138)
+(12)
+(25)
+(272)
+(17,251)
+(133)
+(851)1
+(16,958)
+(35,193)
+Revenues from sales of 
+inventory property
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+18,680
+-
+-
+18,680
+Cost of sales of 
+inventory property
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+(13,546)
+-
+-
+(13,546)
+EBIT2
+198,267 137,850
+37,721
+39,799
+46,706
+24,498
+13,150
+14,953
+11,258
+524,202
+5,001
+8,197
+(11,520) 525,880
+Fair value adjustments 
+of investment property
+95,846
+63,928 (27,965)
+6,640
+45,031
+2,846
+1,790
+6,687
+-
+194,803
+-
+-
+577
+195,380
+Foreign exchange 
+(loss)/gain
+(88)
+893
+(806)
+-
+(53)
+-
+(250)
+-
+9
+(295)
+9
+(16)
+144
+(158)
+Gain on disposal of 
+assets held for sale
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+25,934
+25,934
+Profit before net 
+finance costs and 
+other items
+294,025 202,671
+8,950
+46,439
+91,684
+27,344
+14,690
+21,640
+11,267
+718,710
+5,010
+8,181
+15,135
+747,036
+Finance income
+19,907
+19,907
+Finance costs
+(100,144) (100,144)
+Bank charges, 
+commissions and fees
+(4,381)
+(4,381)
+Fair value adjustments 
+of derivatives
+(12,818)
+(12,818)
+Profit before tax
+649,600
+Income tax expense
+(62,035)
+(62,035)
+Current tax expense
+(30,563)
+(30,563)
+Deferred tax expense
+(31,472)
+(31,472)
+Profit after tax
+587,565
+1
+Out of total amount, €447 thousand represents depreciation charge for photovoltaic installations and €404 thousand other expenses, mostly staff costs.
+2 EBIT (Earnings Before Interest and Taxes) represents the Group's Operating profit, defined as Net rental and related income plus Revenue from sales of inventory property 
+less Cost of sales of inventory property and less Administrative expenses (Depreciation and Amortisation are included in Administrative expenses).
+The value of investment property, inventory property and property, plant and equipment (PPE) by operating segment, as shown 
+in the Consolidated Statement of financial position, is presented below:
+Segment per country 
+assets 31 Dec 2025
+ in € thousand
+Note
+Romania
+Poland1
+Hungary
+Slovakia
+Bulgaria
+Croatia
+Czech 
+Republic
+Lithuania
+Total 
+Retail 
+Segments
+Energy Unallocated
+Total
+Investment property
+2,961,397 2,833,671
+542,700
+536,560
+615,544
+308,449
+194,600
+170,656 8,163,577
+-
+69,125 8,232,702
+—Investment property 
+in use
+8
+2,740,334 2,822,857
+537,800
+535,500
+576,613
+301,200
+194,600
+169,400 7,878,304
+-
+69,125 7,947,429
+—Investment property 
+under development
+9
+221,063
+10,814
+4,900
+1,060
+38,931
+7,249
+-
+1,256
+285,273
+-
+-
+285,273
+Investment property 
+held for sale
+15.1
+492
+-
+-
+-
+-
+-
+-
+-
+492
+-
+9,075
+9,567
+Property, plant and 
+equipment - 
+Photovoltaic 
+installations
+11
+-
+-
+-
+-
+-
+-
+-
+-
+-
+51,712
+-
+51,712
+Property, plant 
+and equipment 
+- Photovoltaic 
+installations 
+under construction
+11
+-
+-
+-
+-
+-
+-
+-
+-
+-
+34,951
+-
+34,951
+1
+The right-of-use assets of €91.3 million, representing long-term land concessions associated to part of the Group’s properties located in Poland are included in the above 
+fair values.
+358
+
+--- PAGE 359 (matched: context) ---
+Segment per country 
+assets 31 Dec 2024
+in € thousand
+Note
+Romania
+Poland1
+Hungary
+Slovakia
+Bulgaria
+Croatia
+Czech 
+Republic
+Lithuania
+Total 
+Retail 
+Segments
+Residential
+Energy
+Unallocated
+Total
+Investment property
+2,857,684
+2,700,550
+556,000
+535,523
+552,674
+294,426
+183,700
+164,942
+7,845,499
+-
+-
+81,096
+7,926,595
+-Investment property 
+in use
+8
+2,676,467
+2,698,049
+551,100
+534,500
+518,486
+287,600
+183,700
+163,800
+7,613,702
+-
+-
+81,096
+7,694,798
+-Investment property 
+under development
+9
+181,217
+2,501
+4,900
+1,023
+34,188
+6,826
+-
+1,142
+231,797
+-
+-
+-
+231,797
+Investment property 
+held for sale
+15.1
+559
+-
+-
+-
+-
+-
+-
+-
+559
+-
+-
+-
+559
+Property, plant and 
+equipment - 
+Photovoltaic 
+installations
+11
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+23,303
+-
+23,303
+Property, plant 
+and equipment 
+- Photovoltaic 
+installations 
+under construction
+11
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+12,972
+-
+12,972
+Inventory property
+8
+-
+-
+-
+-
+-
+-
+-
+-
+-
+4,227
+-
+-
+4,227
+1
+The right-of-use assets of €85.9 million, representing long-term land concessions associated to part of the Group’s properties located in Poland are included in the above 
+fair values.
+Segment 
+Investments over the 
+period 31 Dec 2025
+ in € thousand
+Note
+Romania
+Poland
+Hungary
+Slovakia
+Bulgaria
+Croatia
+Czech 
+Republic
+Lithuania
+Total 
+Retail 
+Segments
+Residential
+Energy
+Unallocated
+Total
+Development works
+9
+46,946
+15,333
+7,274
+37
+2,422
+5,862
+-
+68
+77,942
+-
+-
+-
+77,942
+Capital expenditure
+8
+23,980
+17,974
+4,184
+6,621
+6,181
+3,884
+1,940
+981
+65,745
+-
+-
+735
+66,480
+Additions from asset 
+deals - Investment 
+property in use
+8
+-
+959
+-
+-
+-
+-
+-
+-
+959
+-
+-
+-
+959
+Additions from 
+asset deals - 
+PPE - Photovoltaic 
+installations 
+under construction
+11
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+980
+-
+980
+Capital expenditure 
+on PPE - Photovoltaic 
+installations 
+under construction
+11
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+51,031
+-
+51,031
+Segment 
+Investments over the 
+period 31 Dec 2024
+ in € thousand
+Note
+Romania
+Poland
+Hungary
+Slovakia
+Bulgaria
+Croatia
+Czech 
+Republic
+Lithuania
+Total 
+Retail 
+Segments
+Residential
+Energy
+Unallocated
+Total
+Development works
+9
+73,326
+6,107
+4,949
+-
+2,417
+-
+4
+1,258
+88,061
+-
+-
+-
+88,061
+Capital expenditure
+8
+15,730
+21,456
+2,734
+2,759
+1,849
+2,506
+2,106
+866
+50,006
+-
+-
+1,367
+51,373
+Additions from asset 
+deals - Investment 
+property in use
+8
+-
+759,666
+-
+-
+-
+-
+-
+-
+759,666
+-
+-
+-
+759,666
+Capital expenditure 
+on PPE - Photovoltaic 
+installations
+11
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+538
+-
+538
+Additions from 
+asset deals - 
+PPE - Photovoltaic 
+installations 
+under construction
+11
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+10,559
+-
+10,559
+Capital expenditure 
+on PPE - Photovoltaic 
+installations 
+under construction
+11
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+2,184
+-
+2,184
+359
+
+--- PAGE 360 (matched: fx_exposure) ---
+NEPI Rockcastle N.V. Annual Report 2025
+RECONCILIATION OF PROFIT FOR THE YEAR TO DISTRIBUTABLE EARNINGS
+ in € thousand, unless otherwise stated1
+31 Dec 2025
+31 Dec 2024
+Profit attributable to equity holders of the parent
+498,839
+587,565
+Accounting specific adjustments
+(57,938)
+(174,472)
+Fair value adjustments of investment property
+(162,252)
+(195,380)
+Depreciation and amortisation expense (in relation to intangibles and property, plant and equipment 
+of an administrative nature)2
+1,584
+1,607
+Fair value adjustments of derivatives
+5,273
+12,818
+Losses on extinguishment of financial instruments
+4,676
+-
+Amortisation of financial assets
+(2,619)
+(3,593)
+Deferred tax expense
+97,262
+31,472
+Profit from inventory property sale3
+(1,803)
+(4,569)
+Foreign exchange loss unrealised
+224
+-
+Gain on disposal of assets held for sale
+-
+(25,934)
+Antecedent earnings
+(283)
+9,107
+Distributable earnings
+440,901
+413,093
+Interim distributable earnings
+(220,695)
+(199,044)
+Final distributable earnings
+(220,206)
+(214,049)
+Distributable earnings per share (euro cents)
+62.03
+60.17
+Interim distributable earnings per share (euro cents)
+31.05
+30.12
+Final distributable earnings per share (euro cents)
+30.98
+30.05
+Distribution declared
+396,811
+371,784
+Interim distribution
+198,626
+179,140
+Final distribution
+198,185
+192,644
+Distribution declared per share (euro cents)
+55.83
+54.16
+Interim distribution per share (euro cents)
+27.95
+27.11
+Final distribution per share (euro cents)
+27.88
+27.05
+Earnings not distributed
+44,090
+41,309
+Interim earnings not distributed
+22,069
+19,904
+Final earnings not distributed
+22,021
+21,405
+Earnings not distributed per share (euro cents)
+6.20
+6.01
+Earnings not distributed per share interim (euro cents)
+3.10
+3.01
+Earnings not distributed per share final (euro cents)
+3.10
+3.00
+Number of shares entitled to interim distribution
+710,716,7984
+660,826,020
+Number of shares entitled to final distribution
+710,716,7984
+712,357,309
+1
+Distributable earnings per share is prepared on a basis that is consistent with SA REIT funds from operations (SA REIT FFO) as set out in the SA REIT Association’s Best 
+Practice Recommendations Second Edition.
+2 In the computation of distributable earnings, the Company eliminated the impact of the amortisation and depreciation related to intangibles and PPE of an 
+administrative nature. The DEPS is impacted by the depreciation expense of the photovoltaic installations in amount of €1,623 thousand in 2025 (2024: €447 thousand), 
+which is a revenue generating activity.
+3 The current tax expense line in SOCI includes €255 thousand in 2025 (2024: €565 thousand) representing the current tax expense on residential business, thus, the profit
+ 
+of residential is computed as revenue less cost of sale less current tax expense, and it is excluded from the computation of distribution earnings.
+4 Excludes 1,640,511 treasury shares as at 31 December 2025. For further details please see Note 17.
+360
+
+--- PAGE 361 (matched: fx_exposure, receivables_payables) ---
+34.
+ CASH FLOW FROM OPERATIONS
+in € thousand
+Note
+31 Dec 2025
+31 Dec 2024
+OPERATING ACTIVITIES
+Profit after tax
+498,839
+587,565
+Adjustments
+86,848
+(56,592)
+Fair value adjustments of investment property
+28
+(162,252)
+(195,380)
+Foreign exchange loss
+445
+158
+Gain on disposal of assets held for sale
+15
+-
+(25,934)
+Finance income
+29
+(6,038)
+(19,907)
+Finance costs
+29
+103,963
+100,144
+Bank charges, commissions, and fees
+29
+4,127
+4,381
+Fair value adjustments of derivatives
+5,273
+12,818
+Losses on extinguishment of financial instruments
+19
+4,676
+-
+Deferred tax expense
+24
+97,262
+31,472
+Current tax expense
+24
+28,831
+30,563
+Depreciation expense for property, plant and equipment and amortization 
+of intangibles
+27
+3,207
+2,053
+Share based payment expense
+27
+7,354
+3,040
+Changes in working capital
+(13,104)
+2,655
+(Increase) in trade and other receivables
+(19,126)
+(38,395)
+Increase in trade and other payables
+1,795
+28,011
+Decrease in Inventory property
+4,227
+13,039
+Net cash flow from operations
+572,583
+533,628
+35.
+ CONTINGENT ASSETS AND LIABILITIES
+Contingencies
+The Group is subject to various taxes across all jurisdictions in which it operates. The calculation of tax charges and provisions 
+involves a degree of estimation and judgment. There are transactions and calculations for which the relevant tax authorities 
+have indicated different interpretations of the fiscal legislation compared to the Group’s approach. When such discrepancies 
+arise, the carrying amount of tax provisions and charges is determined based on the expected resolution of tax assessments 
+and the stage of discussions or negotiations with the relevant tax authorities. Given the complexity of tax regulations, the final
+ 
+outcome of tax proceedings is often uncertain and may take several years to be resolved.
+Several Group entities in Romania have been subject to tax inspections by the Romanian Tax Authorities (“RTA”). The tax 
+inspections have been finalized, resulting in additional tax liabilities imposed by RTA’s totaling €32.5 million as of the date of 
+these financial statements which have also been entirely paid by 31 December 2025. These liabilities are primarily related to the 
+RTA’s challenges to the deductibility and pricing of certain intra-group transactions, reflecting a position that differs from the 
+Group’s interpretation of applicable tax legislation and transfer pricing principles.
+As the Group is not aware of the RTA’s position being established as market practice in Romania or in other CEE countries where 
+it operates, it has challenged the RTA’s conclusions where appropriate. A tax receivable corresponding to the amount paid has 
+been recognised in Other long-term assets, based on Group’s assessment of the likely outcome of the challenge.
+No additional tax liabilities have been recorded in connection with these audits, as the Group believes further tax assessments 
+are not warranted.
+To assess potential tax contingencies, the Group has evaluated various scenarios, incorporating different sets of possible 
+outcomes, updated for the most recent tax positions taken by the RTA. Based on this analysis, the weighted average estimated 
+impact of potential additional tax liabilities is €13.1 million.
+Legislative framework
+The Group operates in a complex legal and regulatory environment, exposing it to various risks. It carefully evaluates all facts 
+and assesses the implications that could have a material effect on the financial statements. To the extent the Group is subject 
+to reviews, procedures, information requests and other assessments, including regulatory or tax matters, multiple outcomes are 
+possible, which may result in further regulatory or tax investigations, litigations or sanctions.
+The implementation of Pillar Two across multiple jurisdictions, uncertainties in its wording, reliance on safe harbor provisions, and 
+unclear charging mechanisms create challenges in assessing NEPI Rockcastle’s (future) tax exposure. The Group continuously 
+monitors the impact it has on the financial statements for each jurisdiction. Uncertainties in interpretation of Pillar Two mean 
+different outcomes are possible.
+361
+
+--- PAGE 362 (matched: context) ---
+NEPI Rockcastle N.V. Annual Report 2025
+Guarantees
+As at 31 December 2025, the Group had received letters of guarantee from tenants worth €163,032 thousand (31 December 
+2024: €152,131 thousand) and from suppliers worth €49,575 thousand (31 December 2024: €32,565 thousand) related to 
+ongoing developments.
+Commitments
+In 2026, the Group estimates to invest €338 million in development and capital expenditure related to its ongoing projects or 
+new development opportunities (impacting investment property, property, plant and equipment and inventory property), out of 
+which only a portion is already contracted at reporting date.
+36.
+ RELATED PARTY TRANSACTIONS
+Identity of related parties with whom material transactions have occurred
+The Directors are related parties for the Group.
+a. Material related party transactions
+Fees paid to Directors, together with the performance bonus, during the current and previous year are detailed below. No other 
+payments were made to Directors by NEPI Rockcastle, except reimbursements for travel and accommodation.
+31 Dec 2025
+31 Dec 2024
+in € thousand
+Directors’ fees
+Performance 
+related 
+remuneration
+Directors’ fees
+Performance 
+related 
+remuneration
+Rüdiger Dany1
+675
+1,800
+675
+1,067
+Eliza Predoiu
+440
+656
+385
+554
+Marek Noetzel
+440
+739
+385
+628
+George Aase
+157
+-
+157
+-
+Antoine Dijkstra
+102
+-
+102
+-
+Andre van der Veer
+108
+-
+108
+-
+Andreas Klingen
+100
+-
+100
+-
+Steve Brown
+87
+-
+87
+-
+Andries de Lange
+78
+-
+78
+-
+Jonathan Lurie
+79
+-
+79
+-
+Ana Maria Mihaescu
+90
+-
+90
+-
+Jeanine Holscher2
+73
+-
+56
+-
+Total
+2,429
+3,195
+2,302
+2,249
+1
+Upon the conclusion of Rüdiger Dany's CEO mandate on 31 March 2026, the Board approved a one-off reward of €700 thousand supplementary to the performance-
+related remuneration for the year 2025, as recognition of his significant contribution to the Group's strategic and operational performance. In addition, in accordance 
+with the good leaver provisions of the NEPI Rockcastle Incentive Plan, the Board approved the accelerated vesting of share awards with a value of €3,130 thousand 
+(Note 27). Half of the vested shares are subject to a two-year selling restriction following 31 December 2025.
+2 Ms Jeanine Holscher was appointed as an Independent non-Executive Director with effect from 14 May 2024.
+b. Shares held under the Share Purchase Schemes
+Name of Director
+Number of 
+shares held as at 
+31 Dec 2025
+Number 
+of shares held as 
+at 31 Dec 20241
+Marek Noetzel
+88,358
+88,358
+Total
+88,358
+88,358
+1
+Shares presented in the table above are pledged as security for the loan under Share Purchase Scheme.
+362
+
+--- PAGE 363 (matched: context) ---
+c. Shares unvested under the LTSIP
+Name of Director
+Number of 
+shares unvested 
+at 31 Dec 2025
+Number of 
+shares unvested 
+at 31 Dec 2024
+Rüdiger Dany1
+-
+399,740
+Eliza Predoiu
+396,405
+256,194
+Marek Noetzel
+404,467
+275,256
+Total
+800,872
+931,190
+1
+Please refer to Note 36 a) for further details on Rüdiger Dany's accelerated share vesting.
+The Directors of the Group hold 2,391,243 shares as at 31 December 2025 (31 December 2024: 1,854,569 shares), which 
+represents 0.34% of the outstanding shares (31 December 2024: 0.26% of the outstanding shares). Out of the above-mentioned 
+shareholding, 645,020 shares (31 December 2024: 560,858 shares) which represent 0.09% of the outstanding shares (31 December 
+2024: 0.08% of the outstanding shares) are held by the non-Executive Directors. There were no changes to the Director’s 
+interests from 31 December 2025 to the approval of the annual audited Consolidated Financial Statements, other than the shares 
+awarded in February 2026, as detailed in the Remuneration section of this Annual Report, on page 128. Other than as set out in 
+note 36(b) above, none of the shares of the Director are subject to security, guarantee, collateral, and they are not encumbered 
+in any way.
+d. Share based payment expense
+Name of Director
+ in € thousand
+ 
+2025
+2024
+Rüdiger Dany
+4,1191
+483
+Eliza Predoiu
+538
+360
+Marek Noetzel
+608
+482
+Total
+5,265
+1,325
+1
+Including €3,130 thousand accelerated share awards as disclosed in Note 36 a).
+e. Other related party transactions
+Under Romanian fiscal legislation, corporate income taxpayers may redirect a portion of their corporate income tax liability 
+towards sponsorship of eligible non-profit organisations registered with the Romanian tax authorities. During 2025 the Group 
+decided to redirect an amount of €50 thousand to the Salbek Castle Association in support of the Association's community-
+oriented cultural and heritage projects, in line with NEPI Rockcastle's strategy on Corporate Social Responsibility. The Salbek 
+Castle Association is a related party to Ana Maria Mihaescu, a non-Executive Director of the Company.
+37.
+ SUBSEQUENT EVENTS
+Subsequent to the year-end, the Group signed a €225 million green term facility agreement with a five-year maturity, arranged 
+with a consortium of three banks — ING, SMBC, and Intesa. The committed facility is scheduled to be drawn down by 31 March 
+2026. The funding was secured at competitive terms, referenced to Euribor rates. The facility strengthens the Group's liquidity 
+position and is in line with the Group's Green Finance Framework.
+In addition, one of the secured green portfolio loan facilities in Romania was successfully renegotiated, resulting in a €74 million 
+top‑up. The loan is provided by a consortium of Erste, BCR and Raiffeisen.
+Subsequent to the reporting date, geopolitical tensions in the Middle East, including the ongoing conflict involving Iran, have 
+continued to evolve. The Group has no direct operations, investments or assets in Iran or the broader Middle East region. The 
+Directors do not expect the conflict to have a direct material impact on the Group's assets, liabilities, or financial performance. 
+The Group operates in Central and Eastern European markets, and notes that any prolonged regional instability may indirectly 
+affect economic conditions in these markets through volatility in energy prices, inflationary pressures, and potential impacts 
+on consumer spending. Such effects, if they arise, are consistent with the broader macro‑economic risks to which the Group is 
+exposed. Management continues to closely monitor these developments and the potential implications of these events on the 
+business. No adjusting subsequent events have been identified as at the date of approval of these financial statements.
+Except for the above, the Directors are not aware of any subsequent events from 31 December 2025 and up to the date 
+of signing these Consolidated Financial Statements which are likely to have a material effect on the financial information 
+contained in this report.
+363
+
+--- PAGE 364 (matched: receivables_payables) ---
+Separate Statement of 
+financial position
+NEPI Rockcastle N.V. Annual Report 2025
+in € thousand
+Note
+31 Dec 2025
+31 Dec 2024
+ASSETS
+Non-current assets
+3,402,642
+3,576,147
+Investments in subsidiaries
+42
+3,401,788
+3,575,257
+Other long-term assets
+43
+854
+890
+Current assets
+28,888
+115,901
+Trade and other receivables
+44
+25,523
+51,031
+Cash and cash equivalents
+45
+3,365
+64,870
+TOTAL ASSETS
+3,431,530
+3,692,048
+EQUITY AND LIABILITIES
+TOTAL SHAREHOLDERS' EQUITY
+3,424,081
+3,679,968
+Share capital
+17
+7,124
+7,124
+Share premium
+17
+2,941,120
+3,255,148
+Merger reserve
+25,188
+25,188
+Other reserves
+46
+(9,432)
+(9,662)
+Treasury shares
+17
+(10,076)
+-
+Accumulated profit
+470,157
+402,170
+Total liabilities
+7,449
+12,080
+Current liabilities
+7,449
+12,080
+Trade and other payables
+47
+6,107
+4,794
+Income tax payable
+1,342
+7,286
+TOTAL EQUITY AND LIABILITIES
+3,431,530
+3,692,048
+364
+
+--- PAGE 365 (matched: context) ---
+Separate Statement of 
+comprehensive income
+in € thousand
+Note
+31 Dec 2025
+31 Dec 2024
+Interest income
+49
+804
+1,510
+Guarantee fee income
+49
+12,754
+25,772
+Dividend income
+130,000
+340,000
+Strategic asset management income
+8,981
+6,296
+Administrative expenses
+48
+(10,142)
+(9,682)
+Foreign exchange gain
+451
+75
+Other finance expense
+49
+(30)
+(24)
+Profit before tax
+142,818
+363,947
+Income tax credit/ (expense)
+2,280
+(4,462)
+Profit after tax
+145,098
+359,485
+Total comprehensive income for the year
+145,098
+359,485
+365
+
+--- PAGE 366 (matched: context) ---
+Separate Statement of changes 
+in equity
+NEPI Rockcastle N.V. Annual Report 2025
+in € thousand
+Note
+Share 
+capital
+Share 
+premium
+Other 
+reserves
+Shares 
+buyback 
+reserve
+Merger 
+reserve
+Accumulated 
+profit/
+ 
+(deficit)
+Total
+Balance at 1 January 2024
+6,608
+3,137,063
+(7,637)
+-
+25,188
+143,105
+3,304,327
+Transactions with owners
+516
+118,085
+(2,025)
+-
+-
+(100,420)
+16,156
+Share capital movements1
+178,079
+(178,079)
+-
+-
+-
+-
+-
+Earnings distribution – 
+capital repayment2
+(178,079)
+-
+-
+-
+-
+-
+(178,079)
+Issue of shares, net of 
+transaction costs
+418
+294,757
+-
+-
+-
+-
+295,175
+Earnings distribution – 
+dividend out of 
+accumulated profit2
+-
+-
+-
+-
+-
+(100,420)
+(100,420)
+Earnings distribution – impact 
+of foreign exchange hedges2
+-
+1,505
+-
+-
+-
+-
+1,505
+Earnings distribution – 
+scrip issue2
+98
+(98)
+-
+-
+-
+-
+-
+Shares purchased for LTSIP3
+-
+-
+(5,154)
+-
+-
+-
+(5,154)
+Share based payment expense
+-
+-
+3,040
+-
+-
+-
+3,040
+LTSIP reserve release
+-
+-
+89
+-
+-
+-
+89
+Total comprehensive income
+-
+-
+-
+-
+-
+359,485
+359,485
+Profit for the year
+-
+-
+-
+-
+-
+359,485
+359,485
+Balance at 31 December 2024
+7,124
+3,255,148
+(9,662)
+-
+25,188
+402,170
+3,679,968
+Transactions with owners
+-
+(314,028)
+230
+(10,076)
+-
+(77,111)
+(400,985)
+Share capital movements1
+17
+314,227
+(314,227)
+-
+-
+-
+-
+-
+Earnings distribution – 
+capital repayment2
+17
+(314,227)
+-
+-
+-
+-
+-
+(314,227)
+Earnings distribution – 
+dividend out of 
+accumulated profit2
+17
+-
+-
+-
+-
+-
+(77,111)
+(77,111)
+Earnings distribution – impact 
+of foreign exchange hedges2
+17
+-
+199
+-
+-
+-
+-
+199
+Shares purchased for LTSIP3
+-
+-
+(7,148)
+-
+-
+-
+(7,148)
+Share based payment expense
+-
+-
+7,354
+-
+-
+-
+7,354
+LTSIP reserve release
+-
+-
+24
+-
+-
+-
+24
+Treasury shares
+-
+-
+-
+(10,076)
+-
+-
+(10,076)
+Total comprehensive income
+-
+-
+-
+-
+-
+145,098
+145,098
+Profit for the year
+-
+-
+-
+-
+-
+145,098
+145,098
+Balance at 31 December 2025
+7,124
+2,941,120
+(9,432)
+(10,076)
+25,188
+470,157
+3,424,081
+1
+Share capital movements relate to the net increase of the nominal value of the shares in respect to the shareholders that elected the distributions as capital repayment. 
+For further details, please refer to Note 17.
+2 The Company offers three possible alternatives for settlement of its distribution: capital repayment (default option), dividend out of accumulated profit and scrip issue, 
+the latter one at the discretion of the Board. For further details on distribution options impacting the reporting year, please refer to Note 17.
+3 LTSIP = debt free Long-Term Share Incentive Plan with a vesting component.
+366
+
+--- PAGE 367 (matched: fx_exposure, receivables_payables) ---
+Separate Statement of cash flows
+in € thousand
+Note
+31 Dec 2025
+31 Dec 2024
+OPERATING ACTIVITIES
+Profit after tax
+145,098
+359,485
+Adjustments
+(132,682)
+(336,931)
+Dividend income
+(130,000)
+(340,000)
+Income tax (credit)/ expense
+(2,280)
+4,462
+Share based payment expense
+48
+823
+168
+Foreign exchange gain
+(451)
+(75)
+Net finance income
+49
+(774)
+(1,486)
+Changes in working capital
+Decrease/ (Increase) in trade and other receivables
+26,022
+(22,836)
+Decrease in trade and other payables
+(2,381)
+(4,032)
+Interest received
+777
+1,318
+Dividend received
+130,000
+340,000
+NET CASH FLOWS FROM OPERATING ACTIVITIES
+166,834
+337,004
+INVESTING ACTIVITIES
+Increase in investment from capital contribution
+42
+-
+(300,000)
+Proceeds from a reduction of share premium of subsidiary
+42
+180,000
+-
+NET CASH FLOW FROM/(USED) IN INVESTING ACTIVITIES
+180,000
+(300,000)
+FINANCING ACTIVITIES
+Proceeds from issue of shares
+-
+295,175
+Payment to acquire shares for LTSIP1
+(7,148)
+(5,154)
+Sale of unvested shares under LTSIP
+24
+89
+Repurchase of shares
+17
+(10,076)
+-
+Earnings distribution - Capital repayment and dividend
+out of accumulated profit
+17
+(391,139)
+(276,994)
+NET CASH FLOW (USED IN)/FROM FINANCING ACTIVITIES
+(408,339)
+13,116
+NET (DECREASE)/INCREASE IN CASH AND CASH EQUIVALENTS
+(61,505)
+50,120
+Cash and cash equivalents brought forward
+45
+64,870
+14,750
+CASH AND CASH EQUIVALENTS CARRIED FORWARD
+45
+3,365
+64,870
+1
+LTSIP = Debt free long-term share incentive plan with a vesting component.
+367
+
+--- PAGE 368 (matched: revenue_cos_opex) ---
+Notes to the Separate 
+Financial Statements
+NEPI Rockcastle N.V. Annual Report 2025
+38.
+ BASIS OF PREPARATION
+The separate financial statements of the Company have been prepared in accordance with IFRS Ⓡ Accounting Standards 
+as issued by the International Accounting Standards Board (IASB), the SAICA Financial Reporting Guides as issued by the 
+Accounting Practices Committee, Financial Pronouncements as issued by the Financial Reporting Standards Council, the JSE 
+Listings Requirements, IFRS Acounting Standards as adopted by the European Union and with Title 9 of Book 2 of the Dutch 
+Civil Code.
+In case no other policies are mentioned, reference should be made to the accounting policies described in the Consolidated 
+Financial Statements. For an appropriate interpretation, the Company financial statements of NEPI Rockcastle N.V. should be 
+read in conjunction with the Consolidated Financial Statements.
+The separate financial statements are presented in Euro (“€”, “EUR”) thousands unless otherwise stated, which is the Company’s 
+functional and presentation currency.
+The Company’s separate financial statements include intra-group balances and transactions, investments in subsidiaries and 
+any gains and losses or income and expenses arising from intra-group transactions. The Company’s investments in subsidiaries 
+are subject to impairment testing annually, if indicators of impairment exist.
+Management has prepared the financial statements on a going concern basis. Having considered the potential impact of 
+the overall macroeconomic environment on the Company’s and the wider NEPI Rockcastle Group revenues, profits, cash 
+flows, operations, liquidity position and debt facilities, management concluded that despite the market reactions to various 
+geopolitical events during 2025 and subsequent to the year-end, there are no material uncertainties relating to the Company’s 
+ability to continue as a going concern.
+39.
+ SUMMARY OF MATERIAL ACCOUNTING POLICIES
+The material accounting policies set out below have been consistently applied to all periods presented.
+The following accounting policies presented in the Consolidated Financial Statements are relevant for the Company only 
+financial statements:
+3.9.  Financial assets
+3.12. Cash and cash equivalents
+3.17. Accumulated profit
+3.20. Earnings distribution
+3.25. Standards issued but not yet effective and not early adopted
+39.1 Financial liabilities – measurement categories
+Financial liabilities are initially recognised at fair value and classified and subsequently measured at amortised cost.
+Financial guarantee contracts are recognised as a financial liability at the time the guarantee is issued. The liability is initially 
+measured at fair value and subsequently at the higher of:
+▪
+the amount determined in accordance with the expected credit loss model under IFRS 9 Financial Instruments, and
+▪
+the amount initially recognised less, where appropriate, the cumulative amount of income recognised in accordance with the 
+principles of IFRS 15 Revenue from Contracts with Customers.
+The fair value of financial guarantees is determined based on the present value of the difference in cash flows between the 
+contractual payments required under the debt instrument and the payments that would be required without the guarantee, or 
+the estimated amount that would be payable to a third party for assuming the obligations.
+Guarantee fee income represent the premium received for the guarantee granted by the Company to its subsidiary and is 
+recognised in the income statement in Guarantee fee income line on a straight line basis over the life of the guarantee.
+39.2 Investments in subsidiaries
+Investments in subsidiaries are stated at cost less accumulated impairment losses. An impairment loss is recognised for the 
+amount by which the asset’s carrying amount exceeds its recoverable amount. The recoverable amount is the higher of an 
+asset’s fair value less costs to sell and value in use. At each reporting period investments in subsidiaries are assessed subject to 
+any indicators of impairment. The impairment test itself is carried when such indicators exist. An impairment loss is recognised 
+368
+
+--- PAGE 369 (matched: receivables_payables) ---
+for the amount by which the asset’s carrying amount exceeds its recoverable amount. Assets that have suffered an impairment 
+are reviewed for possible reversal of the impairment at each reporting date.
+39.3 Trade receivables
+Trade receivables are recognised initially at fair value, generally at the amount of consideration that is unconditional. The 
+Company holds the trade receivables with the objective to collect the contractual cash flows and therefore measures them 
+subsequently at amortised cost using the effective interest method. If collection is expected in one year or less, they are 
+classified as current assets. If not, they are presented as non-current assets.
+Trade receivables are written off when there is no reasonable expectation of recovery. Indicators that there is no reasonable 
+expectation of recovery include, amongst others, the failure of a debtor to engage in a repayment plan with the Company.
+39.4 Administrative expenses
+Administrative expenses are recognised on an accrual basis.
+39.5 Dividend income
+Dividends are recognised as income in the Statement of comprehensive income when the Company’s right to receive payment 
+is established.
+39.6 Interest income
+Interest income is recognised on a time-proportionate basis using the effective interest method.
+39.7 Taxation
+Current income tax and liabilities are measured at the amount expected to be recovered from, or paid to, taxation authorities. 
+The tax rates and tax laws used to compute the amount are those that are enacted, or substantively enacted, by the reporting 
+date. Current income tax relating to items recognised directly in equity is recognised directly in equity and not in the Statement 
+of comprehensive income. Management periodically evaluates positions taken in tax returns with respect to situations in which 
+applicable tax regulations are subject to interpretation and establishes provisions where appropriate.
+Output Value Added Tax (VAT) related to sales is payable to tax authorities on either the collection of receivables from 
+customers or the delivery of services to customers depending on which occurs first. Input VAT is generally recoverable against 
+output VAT upon receipt of the invoice. VAT relating to sales and purchases is recognised in the Statement of financial position 
+on a net basis and is disclosed separately as an asset or liability, as the case may be. Where provision has been made for 
+impairment of receivables, the loss is recorded for the gross amount of the debt, including VAT.
+39.8 Share-based payments
+To date, NEPI Rockcastle has initiated two types of incentive programs that offered share-based payments in exchange for 
+services provided to it by its directors and employees (equity-settled transactions), which are detailed below:
+a. Purchase Offers with a vesting component – Share Purchase Scheme (“NRP SPS”)
+This program was put in place before the 2017 merger of the former groups New Europe Property Investments plc (“NEPI”) and 
+Rockcastle Global Real Estate Company Ltd (“Rockcastle”). Under this program, participants were granted loans to acquire 
+shares in the Company at fair value at the grant date. These loans were classified as “loan to participants in the incentive plan” 
+and included in Other long-term assets (Note 43). The loans are carried at amortised cost and the accrued interest is recognised 
+as finance income in the Statement of comprehensive income. The costs under this program are nil.
+b. Debt free Long-Term Share Incentive Plan with a vesting component (“LTSIP”)
+This program was put in place after the 2017 merger of the former groups NEPI and Rockcastle. Under this incentive plan, shares 
+may be issued by the Company to executive directors and other key personnel for no cash consideration. Awards under this plan 
+are at the discretion of the Board of Directors and are based on the performance of the Group and the employees. The costs 
+related to the LTSIP are measured based on the fair value of the shares at the grant date and are recognised in the Company’s 
+financial statements over the vesting period as an increase in the investment in the subsidiaries, as the employees receiving the 
+awards are providing services to the subsidiaries of the Company. The correspondent credit is recognised in Other reserves in the 
+Statement of changes in equity.
+In the accounts of the subsidiaries, an expense for the grant date fair value of the award is recognised over the vesting 
+period, with the credit recognised in equity. The credit to equity is treated as a capital contribution, because the Company is 
+compensating the subsidiaries’ employees with no recharge to the subsidiaries.
+369
+
+--- PAGE 370 (matched: context) ---
+NEPI Rockcastle N.V. Annual Report 2025
+40.
+ SIGNIFICANT ACCOUNTING ESTIMATES AND JUDGEMENTS IN APPLYING ACCOUNTING POLICIES
+The estimates and associated assumptions are based on historical experience and various other factors which are considered 
+reasonable under the circumstances. These are used to make judgements about the carrying values of assets and liabilities that 
+are not apparent from other sources. Actual results may differ from these estimates.
+The estimates and associated assumptions are reviewed on an ongoing basis. Revisions to accounting estimates are recognised 
+in the period when the estimate is revised if the revision affects only that period or in the period of the revision and future periods 
+if the revision affects both.
+Judgements and estimates that can cause a significant adjustment to the carrying amount of assets and liabilities within the 
+next financial year are detailed below.
+Impairment of investments in subsidiaries
+The Company has an investment in Nepiom Limited that acts as intermediary holding and financing vehicle. That entity has an 
+investment in NE Property B.V. which holds investments in all the operating subsidiaries of the Group. Its consolidated net assets 
+value consists mainly of investment properties at fair value, as well as other items for which the carrying amount is considered to 
+approximate fair value (loans, working capital items), therefore it is used as a recoverable amount in the impairment calculation. 
+When the investments in subsidiaries are higher than the subsidiaries net assets value, the carrying value of that investment 
+is reduced.
+41.
+ FINANCIAL RISK MANAGEMENT AND FINANCIAL INSTRUMENTS
+The Company has exposure to the following risks due to its use of financial instruments: credit, liquidity, and market, including 
+currency and interest rate. This note presents information about the Company’s exposure to each, as well as its objectives, 
+policies and processes for measuring and managing risk.
+The fair value of all financial instruments is substantially in line with their carrying amounts as reflected on the Statement of 
+financial position.
+41.1 Credit risk
+Credit risk is the risk of financial loss to the Company if a counterparty to a financial instrument fails to meet its contractual 
+obligations and arises principally from the Company’s group receivables, cash and cash equivalents, and financial guarantees.
+The exposure to credit risk at the reporting date is set out below:
+Credit exposure on financial instruments excluding exposure to guarantees granted
+Note
+31 Dec 2025
+31 Dec 2024
+in € thousand
+Loans to participants in Share Purchase Scheme (including accrued interest)
+46
+854
+890
+Trade and other receivables
+44
+25,523
+51,031
+Cash and cash equivalents
+45
+3,365
+64,870
+Total
+29,742
+116,791
+Included in the “Trade and other receivables” above, there is an annual guarantee fee that the Company charges to one of 
+its indirect subsidiaries, NE Property B.V. (NEBV), for its role as a guarantor under the external financing agreements concluded 
+by NEBV, namely issued fixed coupon bonds and unsecured revolving credit facilities. At 31 December 2025, the balance of 
+guarantee fee receivable from NEBV was of €16,064 thousand (31 December 2024: €42,312 thousand).
+In accordance with the Group’s external unsecured financing agreements, the Company has guaranteed the due and punctual 
+payment of all sums from time to time payable by NEBV under those agreements in case of non-payment by the latter. The value 
+of NEBV liabilities (excluding future interest) towards its creditors under above mentioned financing agreements at 31 December 
+2025 was of €2,518,476 thousand (31 December 2024: €2,518,476 thousand).
+The Company has assessed the fair value of the liability for financial guarantee at inception being immaterial. As at 
+31 December 2025 and 31 December 2024 the respective financial liability has been measured in accordance with the 
+accounting policy at the higher of Expected Credit Loss allowance and amount initially recognised. The ECL allowance amount 
+was determined to be immaterial considering the total exposure for amounts guaranteed and NEBV’s credit risk.
+370
+
+--- PAGE 371 (matched: fx_exposure) ---
+For cash and cash equivalents, the banks’ credit ratings, as well as exposure per each bank are constantly monitored at the 
+level of the Group. At 31 December 2025, 84% of the Company's cash was held with investment-grade rated banks (31 December 
+2024: 99%):
+Cash and cash equivalents
+31 Dec 2025
+31 Dec 2024
+Held with investment-grade rated banks (rated by Moody's)
+A1
+84%
+99%
+Held with banks without a formal credit rating
+16%
+1%
+Total
+100%
+100%
+The balance of loans to participants in the Share Purchase Scheme is not considered to present credit risk as these are 
+guaranteed with shares (see details in Note 46).
+41.2 Liquidity risk
+Liquidity risk is the risk that the Company will not be able to meet its financial obligations when due. The Company’s approach 
+to managing this risk ensures, as far as possible, it will always have sufficient liquidity to meet its liabilities when due, under 
+normal and stressed conditions, without incurring unacceptable losses or risking damage to its reputation. To ensure this occurs, 
+the Company prepares budgets, cash flow analyses and forecasts, which enable the Directors to assess the level of financing
+ 
+required for future periods. Budgets and projections are used to assess any future potential investments and are compared 
+to existing funds to evaluate the nature, and extent of any future funding requirements. All financial liabilities are due within 
+12 months.
+Ability to meet financial obligation when due is influenced by the fact that the Company has guaranteed the due and punctual 
+payment of all sums from time to time payable by NEBV under those agreements in case of non-payment by the latter, 
+as described in Note 41.1. The undiscounted cash flows which the Company is exposed to amounts to €2,667,878 thousand 
+(31 December 2024: €2,865,784 thousand) which becomes payable on demand only upon default by NEBV.
+41.3 Market risk
+Market risk is the risk that changes in market prices, such as foreign exchange rates, interest rates or equity prices will 
+affect the Company’s fair value or future cash flows of financial instruments. The objective of market risk management is to 
+manage market risk exposures within acceptable parameters, while optimising returns. The carrying value of financial assets and 
+liabilities approximates their fair value.
+41.3.1 Currency risk
+Company’s current assets and liabilities are exposed to foreign currency risk on purchases and receivables denominated in 
+South African rand (ZAR). Cash inflows received in other currencies than Euro are converted to Euro using the spot rate available 
+on the collection date. The amount converted to Euro is the net amount of cash inflow in a foreign currency and the estimated 
+cash outflow in the same currency. The Company applies this policy to control its exposures in respect of monetary assets and 
+liabilities denominated in currencies other than the one cash inflows are received in. Sensitivities of profit or loss to reasonably 
+possible changes in exchange rates applied at the financial position date relative to currencies other than EUR, with all other 
+variables such as interest rates held constant, are immaterial.
+41.3.2 Interest rate risk
+Sensitivity analysis for interest bearing financial instruments
+A change of 50 basis points (bps) in interest rates would have increased/(decreased) equity and profit for the years presented 
+below. Calculations are based on loans balances outstanding at 31 December 2025. Loans balances are subject to change 
+over the year. This analysis assumes that all other variables, particularly foreign currency rates, remain constant. All sensitivity 
+analysis calculations presented below are before tax.
+in € thousand
+31 Dec 2025
+31 Dec 2024
+Loans to participants in the Share Purchase Scheme
+(including accrued interest)
+854
+890
+Total
+854
+890
+31 Dec 2025
+Profit or loss 
+50bps increase
+Profit or loss 
+50bps decrease
+Equity 
+50bps increase
+Equity 
+50bps decrease
+in € thousand
+Loans to participants in the Share Purchase Scheme 
+(including accrued interest)
+4
+(4)
+4
+(4)
+Total
+4
+(4)
+4
+(4)
+A change of 100 basis points (bps) in interest rates would have increased/(decreased) equity and profit for the years presented 
+below. Calculations are based on loans balances outstanding at 31 December 2024.
+371
+
+--- PAGE 372 (matched: receivables_payables) ---
+NEPI Rockcastle N.V. Annual Report 2025
+31 Dec 2024
+Profit or loss 
+100bps increase
+Profit or loss 
+100bps decrease
+Equity 
+100bps increase
+Equity 
+100bps decrease
+in € thousand
+Loans to participants in the Share Purchase Scheme 
+(including accrued interest)
+9
+(9)
+9
+(9)
+Total
+9
+(9)
+9
+(9)
+42.
+ INVESTMENTS IN SUBSIDIARIES
+At 31 December 2025 and 31 December 2024, the Company held 100% ownership in Nepiom Limited, a company incorporated in 
+Malta. Investments in subsidiaries are stated at cost less accumulated impairment losses.
+The movements in investment in subsidiaries are presented below:
+in € thousand
+31 Dec 2025
+31 Dec 2024
+Balance as at the beginning of the year
+3,575,257
+3,272,385
+Additions
+-
+300,000
+Reduction of share premium of subsidiary
+(180,000)
+-
+Additions from LTSIP1
+6,531
+2,872
+Balance as at the end of the year
+3,401,788
+3,575,257
+1
+The costs related to the LTSIP recognised in the Company’s financial statements as an increase in the investment in the subsidiaries, as disclosed in in Note 39.8.
+In November 2024, the Company subscribed additional shares to its investment in Nepiom Limited in amount of €300 million, 
+following the capital raise made by the Company in October 2024.
+In June 2025, the Company approved a reduction of the share premium account of its subsidiary, Nepiom Limited, by 
+€180 million, with the return of capital becoming effective after the statutory three‑month lapse period, and the Company 
+received the related funds in October 2025.
+There were no indicators of impairment in investment in subsidiary as at 31 December 2025.
+43.
+ OTHER LONG-TERM ASSETS
+in € thousand
+31 Dec 2025
+31 Dec 2024
+Loans to participants in the Share Purchase Scheme
+854
+890
+44.
+ TRADE AND OTHER RECEIVABLES
+in € thousand
+31 Dec 2025
+31 Dec 2024
+VAT receivable
+-
+160
+Guarantee fee receivables from subsidiaries
+16,064
+42,312
+Strategic asset management fee receivable from subsidiaries
+7,493
+7,512
+Other receivables from subsidiaries
+1,595
+629
+Other receivables
+40
+162
+Other prepaid fees
+331
+256
+Total
+25,523
+51,031
+372
+
+--- PAGE 373 (matched: context) ---
+45.
+ CASH AND CASH EQUIVALENTS
+Cash and cash equivalents by currency
+31 Dec 2025
+31 Dec 2024
+in € thousand
+EUR
+2,672
+63,109
+ZAR
+693
+1,761
+Total
+3,365
+64,870
+Cash and cash equivalents by type
+31 Dec 2025
+31 Dec 2024
+in € thousand
+Current accounts
+3,365
+14,870
+Deposits
+-
+50,000
+Total
+3,365
+64,870
+46.
+ SHARE-BASED PAYMENTS
+The NEPI Rockcastle Group has incentive plans to reward performance and align the interests of executive directors and key 
+individuals with those of the shareholders.
+The aim of the plan is to incentivise directors and employees to meet the Group’s short-term and long-term objectives by giving 
+such participants an opportunity to receive performance-based Awards (in cash or shares), on short-term (immediate settlement 
+in cash or shares) or long-term (shares with a vesting component). The Board determines which executive directors are eligible to 
+participate in the Incentive Plan, and the allocation of incentives, based on key performance indicators. The executive directors 
+determine which key employees are eligible to participate in the Incentive Plan, and the allocation of incentives is discretionary, 
+based on key performance indicators and other considerations regarding the employees’ performance.  
+To date, NEPI Rockcastle has initiated two types of incentive programs that offered share-based payments in exchange for 
+services provided to it by its directors and employees (equity-settled transactions), which are detailed below.
+a. Purchase Offers (“SPS”)
+Under this program, loans were granted to participants in the share purchase schemes (the “Share Purchase Scheme” or “SPS”) 
+to buy shares, the repayment of which could be made in part out of the distribution payable in relation to the shares (the “NRP 
+SPS”). Of the shares initially subscribed for, 20% vested annually. The Group offered each participant the immediate right to 
+subscribe for the permitted number of shares at their market value, less a maximum discount of 5%, together with a loan to fund 
+the purchase. Each loan carried interest at the weighted average rate that the Group can borrow money. Loans are payable in 
+full, together with interest, ten years after its subscription date, but could be repaid earlier. The Company has security interests 
+that ensure the repayment of the principal and interest on the loan given to participants. The NRP SPS is a full recourse scheme 
+(i.e., recourse in relation to loans granted is not limited to shares issued). Pending repayment of the loan, the distributions on such 
+shares are used to repay loan interest. Any excess distribution after interest payment is used to repay the loan.
+No shares were issued during 2025 and 2024 under the NRP SPS.
+The number of shares outstanding and the loans to participants under the Share Purchase Scheme as at the year-end are 
+summarised below:
+NRP SPS
+31 Dec 2025
+31 Dec 2024
+Number of shares outstanding, collateralizing the Loans to participants under the Share Purchase Scheme
+114,109
+114,109
+Loans to participants under the Share Purchase Scheme (in € thousand)
+854
+890
+b. Debt free Long-Term Share Incentive Plan with a vesting component (“LTSIP”)
+Under this incentive plan, shares are awarded by the Group to executive directors and other key employees for no cash 
+consideration. For key employees, shares are awarded to participants on condition of employment in the Group for the next 
+three years (vesting period), with shares being vested proportionally over each year of the corresponding vesting periods 
+(tranche vesting). For executive directors, shares are awarded subject to a full vesting of them at the end of three years (cliff
+ 
+vesting) plus a further two-year lock-up period, during which the vested shares cannot be disposed of by the directors. Shares 
+awarded under LTSIP cannot be disposed of or otherwise encumbered up to their respective vesting dates.
+The number of shares granted but unvested at 31 December 2025 and their fair value at grant date are summarised below:
+373
+
+--- PAGE 374 (matched: receivables_payables) ---
+NEPI Rockcastle N.V. Annual Report 2025
+LTSIP
+31 Dec 2025
+31 Dec 2024
+Number of shares granted but unvested at year-end
+1,679,156
+1,717,101
+Fair value at the grant date (in € thousand)
+9,432
+10,546
+The number of shares granted during the year and their fair value at grant date are presented below. The fair value was 
+calculated using the share price on the date of acquisition of shares allocated to LTSIP.
+LTSIP
+31 Dec 2025
+31 Dec 2024
+Number of shares granted during the year
+54,250
+33,255
+Fair value at the grant date (in € thousand)
+385
+218
+The maximum number of shares which could be offered for subscription under the Incentive Plan is 5% of the issued share 
+capital of the Company at the end of any financial year prior to each award, provided that such number shall not exceed 
+30,449,745 shares. The number of shares that remained available for issue in terms of the Incentive Plan were as follows:
+31 Dec 2025
+31 Dec 2024
+Number of shares that remain available for issue at year-end
+25,651,774
+26,658,837
+The costs related to the LTSIP are measured based on the fair value of the shares at the grant date and are recognised in the 
+Company’s financial statements over the vesting period as an increase in the investment in the subsidiaries, as the employees 
+receiving the awards are providing services to the subsidiaries of the Company. The correspondent credit is recognised in Other 
+reserves in the Statement of changes in equity.
+In the accounts of the subsidiaries, an expense for the grant date fair value of the award is recognised over the vesting 
+period, with the credit recognised in equity. The credit to equity is treated as a capital contribution, because the Company is 
+compensating the subsidiaries’ employees with no recharge to the subsidiaries.
+47.
+ TRADE AND OTHER PAYABLES
+in € thousand
+31 Dec 2025
+31 Dec 2024
+Accrued administrative expenses
+5,936
+4,794
+VAT payable
+171
+-
+Total
+6,107
+4,794
+48.
+ ADMINISTRATIVE EXPENSES
+in € thousand
+Note
+31 Dec 2025
+31 Dec 2024
+Directors' remuneration
+51
+(1,333)
+(1,292)
+Share based payment expense
+(823)
+(168)
+Audit and other assurance services
+(1,401)
+(1,359)
+Advisory services
+(2,764)
+(2,961)
+Travel and accommodation
+(647)
+(608)
+Companies' administration
+(2,253)
+(2,443)
+Stock exchange expenses
+(921)
+(851)
+Total
+(10,142)
+(9,682)
+Out of the above administrative expenses, fees related to EY, as the Company’s auditors, are summarised below. Full audit fees 
+at Group level are disclosed in in Note 27.
+31 Dec 2025
+EY Accountants 
+B.V.
+Other EY 
+network
+in € thousand
+Audit of financial statements
+(373)
+(666)
+Other assurance procedures
+(275)
+(87)
+Total
+(648)
+(753)
+374
+
+--- PAGE 375 (matched: context) ---
+31 Dec 2024
+EY Accountants 
+B.V.
+Other EY 
+network
+in € thousand
+Audit of financial statements
+(390)
+(548)
+Other assurance procedures
+(345)
+(76)
+Total
+(735)
+(624)
+During 2025 and 2024, the Company had twelve directors and no employees.
+49.
+ INTEREST AND OTHER FINANCE INCOME/(EXPENSE)
+in € thousand
+31 Dec 2025
+31 Dec 2024
+Interest on Share Purchase Scheme
+27
+67
+Interest on bank deposits
+777
+1,443
+Guarantee fee income
+12,754
+25,772
+Finance income
+13,558
+27,282
+Bank charges
+(30)
+(24)
+Finance costs
+(30)
+(24)
+Total
+13,528
+27,258
+50.
+ RECONCILIATION BETWEEN COMPANY AND CONSOLIDATED INFORMATION
+In accordance with article 2:389 of Dutch Civil Code, the reconciliation of equity is as follows:
+in € thousand
+31 Dec 2025
+31 Dec 2024
+Total Company equity
+3,424,081
+3,679,968
+Accumulated profit of subsidiaries
+1,582,255
+1,228,514
+Total consolidated Group equity
+5,006,336
+4,908,482
+The reconciliation of net result is presented below:
+in € thousand
+31 Dec 2025
+31 Dec 2024
+Company net profit
+145,098
+359,485
+Eliminated intercompany transactions
+(149,745)
+(369,775)
+Results of subsidiaries, net of intercompany transactions
+503,486
+597,855
+Consolidated profit after tax attributable to equity holders
+498,839
+587,565
+51.
+ RELATED PARTY TRANSACTIONS
+Identity of related parties with whom material transactions have occurred
+The subsidiaries and Directors are related parties for the Company.
+Material related party transactions
+Details of investments in subsidiaries are set out in Note 42 . Other related party transactions include guarantee fee income and 
+strategic asset management fees charged by the Company to its indirect subsidiary, NEBV, and are detailed in Note 41.1, Note 
+44, and Note 49.
+Fees paid to Directors, together with the performance bonus, during the current and previous year are presented below. No other 
+payments were made to Directors by NEPI Rockcastle, except reimbursements for travel and accommodation.
+375
+

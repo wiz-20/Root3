@@ -1,0 +1,6462 @@
+Source: ogl-annual-financial-statements-2025.pdf
+Total relevant pages extracted: 56
+================================================================================
+
+--- PAGE 22 (matched: context) ---
+Consolidated statement of changes in equity
+for the year ended 30 June
+Transactions
+Foreign
+Equity
+Share-based
+with non-
+currency
+Non-
+Share
+accounted
+payments
+Other
+controlling
+translation
+Retained
+controlling
+Total
+R million
+capital
+reserves
+reserve
+reserves1
+interests
+reserve
+earnings
+interests
+equity
+BALANCE AS AT 30 JUNE 2023
+ 15 452 
+ 34 
+ 12 
+ (99)
+ (4 653)
+ 1 045 
+ 1 567 
+ 1 568 
+ 14 926 
+Profit for the year
+ –   
+ –   
+ –   
+ –   
+ –   
+ –   
+ 4 061 
+ 430 
+ 4 491 
+Other comprehensive loss for the year
+ –   
+ (26)
+ –   
+ –   
+ –   
+ (276)
+ –   
+ (44)
+ (346)
+Additional shares issued
+ 215 
+ –   
+ –   
+ –   
+ –   
+ –   
+ –   
+ – 
+ 215 
+Treasury shares acquired
+ (181)
+ –   
+ –   
+ –   
+ –   
+ –   
+ –   
+ – 
+ (181)
+Transactions with non-controlling interest
+ –   
+ –   
+ –   
+ –   
+ (760)
+ –   
+ 9 
+ (285)
+ (1 036)
+Share-based payment reserve
+ –   
+ (7)
+ 57 
+ –   
+ –   
+ –   
+ (85)
+ (6)
+ (41)
+Reserve adjustment of associates
+ –   
+ –   
+ –   
+ –   
+ –   
+ –   
+ (4)
+ – 
+ (4)
+Sale of assets held for sale
+ –   
+ –   
+ –   
+ –   
+ (17)
+ –   
+ – 
+ (71)
+ (88)
+Dividends paid
+ –   
+ –   
+ –   
+ –   
+ –   
+ –   
+ (2 259)
+ (290)
+ (2 549)
+BALANCE AS AT 30 JUNE 2024
+ 15 486 
+ 1 
+ 69 
+ (99)
+ (5 430)
+ 769 
+ 3 289 
+ 1 302 
+ 15 387 
+Profit for the year
+–   
+–   
+–   
+–   
+–   
+–   
+ 4 707 
+ 512 
+ 5 219 
+Other comprehensive loss for the year
+–   
+ 1 
+–   
+ (406)
+–   
+ (92)
+–   
+ (23)
+ (520)
+Additional shares issued
+ 436 
+–   
+–   
+–   
+–   
+–   
+–   
+–   
+ 436 
+Derecognition of retained earnings on 
+deregistration of subsidiary
+–   
+–   
+–   
+–   
+–   
+–   
+ (3)
+–   
+ (3)
+Transactions with non-controlling interest
+–   
+–   
+–   
+–   
+(535)
+–   
+ 2 
+ 40 
+ (493)
+Share-based payment reserve
+–   
+ 1 
+ 118 
+–   
+–   
+–   
+ (55)
+ (2)
+ 62 
+Dividends paid
+–   
+–   
+–   
+–   
+–   
+–   
+ (3 714)
+ (430)
+ (4 144)
+BALANCE AS AT 30 JUNE 2025
+ 15 922 
+ 3 
+ 187 
+ (505)
+(5 965)
+ 677 
+ 4 226 
+1 399
+ 15 944 
+Notes
+26 
+18 
+1	 Included in other reserves is the comprehensive income reserve and preference share capital issued by OUTsurance Life.
+OUTsurance Group Limited Consolidated annual financial statements for the year ended 30 June 2025
+21
+21
+
+--- PAGE 23 (matched: fx_exposure) ---
+R million
+Notes
+2025
+2025
+2024
+Cash flows from operating activities
+Cash generated from operations
+35
+ 9 884 
+ 7 132 
+Interest received
+ 421 
+ 286 
+Dividends received
+ 80 
+ 81 
+Cashflows on assets backing policyholder liabilities
+ (314)
+ (283)
+Purchase of financial assets1
+ (6 853)
+ (12 058)
+Proceeds on disposal of financial assets1
+ 5 292 
+ 9 929 
+Income tax paid
+36
+ (2 315)
+ (1 838)
+NET CASH GENERATED FROM OPERATING ACTIVITIES
+ 6 195 
+ 3 249 
+Cash flows from investing activities
+Property and equipment acquired to maintain and expand 
+operations
+15
+ (373)
+ (185)
+Proceeds on disposal of property and equipment
+15
+ 191 
+ 28 
+Purchase of financial assets2
+ (1 186)
+ (1 337)
+Proceeds on disposal of financial assets2
+ 637 
+ 764 
+Acquisition of associates
+19
+ – 
+ (39)
+Dividends received from associates
+ 59 
+ 39 
+Proceeds on disposal of associates
+19
+ – 
+ 68 
+Proceeds on disposal of assets held for sale
+24
+ 24 
+ 153 
+NET CASH OUTFLOW FROM INVESTING ACTIVITIES
+ (648)
+ (509)
+Cash flows from financing activities3
+Purchase of shares from non-controlling interest
+ (178)
+ (600)
+Purchase of OGL treasury shares by a subsidiary
+26
+ – 
+ (181)
+Repayment of lease liability
+ (120)
+ (62)
+Borrowings raised
+33
+ – 
+ 1 225 
+Borrowings repaid
+33
+ (774)
+ (451)
+Cost of funding
+10
+ (136)
+ (73)
+Dividends paid by subsidiaries to non-controlling interests
+ (430)
+ (290)
+Cash dividends paid to shareholders
+ (3 714)
+ (2 259)
+NET CASH OUTFLOW FROM FINANCING ACTIVITIES
+ (5 352)
+ (2 691)
+Net increase in cash and cash equivalents for the year
+ 195 
+ 49 
+Cash of associate becoming a subsidiary
+2
+–
+Unrealised foreign currency translation adjustment on cash and cash 
+equivalents
+ (24)
+ (32)
+Cash and cash equivalents at the beginning of the year
+ 1 692 
+ 1 675 
+CASH AND CASH EQUIVALENTS AT THE END OF THE YEAR
+1 865
+ 1 692 
+1	 Related to the management of insurance liabilities operational cash flows and regulatory capital.
+2	 Related to long-term Investments of primarily shareholder capital.
+3	 The financial liabilities of the Group consist of the lease liabilities and the revolving credit facility. Refer to note 29 and note 33 for the reconciliations 
+thereof.
+Consolidated statement of cash flows 
+for the year ended 30 June
+OUTsurance Group Limited Consolidated annual financial statements for the year ended 30 June 2025
+22
+22
+
+--- PAGE 24 (matched: context) ---
+Notes to the consolidated annual financial statements
+1.	
+General information
+OUTsurance Group Limited (OGL), a listed public company incorporated in South Africa, its subsidiaries and 
+associates (collectively referred to as the Group) is a financial services group offering insurance products.  
+The Group has short-term insurance operations in South Africa, Australia and Ireland. The South African 
+operation also underwrites long-term insurance products. In addition, the Group owns a portfolio of Fintech 
+investments and an investment in an asset management entity.
+2.	
+Basis of preparation
+The Group annual financial statements for the year ended 30 June 2025 have been prepared in accordance with 
+IFRS® Accounting Standards, the Financial Pronouncements as issued by the Financial Reporting Standards 
+Council, the SAICA Financial Reporting Guides as issued by the Accounting Practices Committee, JSE Listing 
+Requirements and the South African Companies Act.
+The annual financial statements are prepared in accordance with the going concern principle using the 
+historical cost basis except for certain financial assets and liabilities where it adopts the fair value basis of 
+accounting. Such financial assets and liabilities include financial assets classified as fair value through other 
+comprehensive income, financial instruments at fair value through profit or loss, including designated, and 
+financial instruments at amortised cost.
+The preparation of the annual financial statements necessitates the use of estimates, assumptions and 
+judgements that affect the reported amounts in the statement of financial position and the statement of profit 
+or loss and other comprehensive income. Where appropriate, details of estimates are presented in the 
+accompanying notes to the consolidated annual financial statements. All monetary information and figures 
+presented in these annual financial statements are stated in millions of Rand (R million), unless otherwise 
+indicated. 
+All material accounting policies are contained in note 41. Only accounting policies relating to transactions 
+occurring in the current and prior financial year have been included.
+OUTsurance Group Limited Consolidated annual financial statements for the year ended 30 June 2025
+23
+23
+
+--- PAGE 43 (matched: context) ---
+Notes to the consolidated annual financial statements continued
+3.	
+Management of risk and capital continued
+3.3	
+Financial risk management continued
+3.3.2	
+Market risk continued
+	
+Interest rate risk
+Interest rate risk is the risk that the value or the future cash flow of a financial instrument will fluctuate as a 
+result of a change in market interest rates.
+The Group’s financial assets are exposed to interest rate risk as a significant portion of the Group’s assets are 
+invested in interest rate sensitive debt and money market securities. The risk attached to these securities is 
+managed according to pre-specified risk levels based on a mandate with the fund managers. Risk exposure to 
+movements in yields is specified as a maximum value per interest rate point move per million rand invested. 
+These levels are approved annually by the Board of directors and the Group ALCCO.
+The Group is aware that JIBAR will be replaced by ZARONIA and will monitor the economic impact on the value 
+of the instruments. The new ZARONIA rate was published for observation during 2022 and was endorsed as a 
+successor rate in 2023. ZARONIA-linked instruments have begun trading in the derivate and cash markets in 
+May 2025. The formal announcement of the cessation of JIBAR as a reference rate is expected towards the end 
+of 2025 and it is expected that this will be for the end of 2026. The nominal value of the Group’s exposure to  
+ZARONIA-linked instruments was R123 million as at 30 June 2025. The ZARONIA rate of 7.12% and the JIBAR rate 
+of 7.29% as at 30 June 2025 did not expose the Group to materially different interest rate risk.
+The Group’s exposure to interest rate risk is R26 487 million (2024: R24 121 million), which consists of fixed rate 
+instruments of R17 317 million (2024: R15 519 million) and variable rate instruments of R9 170 million 
+(2024: R8 602 million).
+An increase or decrease of 2% in the market interest rate would result in the following changes in profit or loss 
+and other comprehensive income before tax of the Group and equity. A 2% movement is reflective of potential 
+changes in the interest rate in the current economic environment.
+2025
+2024
+R million
+2% increase
+2% decrease
+2% increase
+2% decrease
+Amortised cost instruments
+Fixed rate instruments
+Cash and cash equivalents
+ 4 
+ (4)
+ 1 
+ (1)
+Term deposits
+ (287)
+ 287 
+ (251)
+ 251 
+Variable rate instruments
+Cash and cash equivalents1
+ 34 
+ (34)
+ 34 
+ (34)
+Fair value through profit or loss 
+instruments
+Fixed rate instruments
+Zero-coupon deposits backing 
+endowment policies
+ 37 
+ (37)
+ 35 
+ (35)
+Convertible loan
+ 1 
+ (1)
+ 3 
+ (2)
+Variable rate instruments
+Collective investment schemes
+ 15 
+ (15)
+ – 
+ – 
+Money market securities <1 year
+ – 
+ – 
+ 15 
+ (15)
+Fair value through other 
+comprehensive income instruments
+Fixed rate instruments
+Government, municipal and public 
+utility securities
+ (9)
+ 10 
+ (3)
+ 3 
+Money market securities <1 year
+ (3)
+ 3 
+ (5)
+ 5 
+Money market securities >1 year
+ (6)
+ 6 
+ (13)
+ 14 
+Variable rate instruments
+Government, municipal and public 
+utility securities
+ (26)
+ 29 
+ (8)
+ 9 
+Money market securities <1 year
+ (15)
+ 15 
+ (16)
+ 16 
+Money market securities >1 year
+ (121)
+ 131 
+ (98)
+ 106 
+Collective investment schemes
+ 38 
+ (38)
+ 36 
+ (36)
+TOTAL NET IMPACT
+ (338)
+ 352 
+ (270)
+ 281 
+1 	 The prior financial year impact of the 2% decrease in interest rate on cash and cash equivalents was updated to reflect the appropriate 
+effect on profit or loss.	
+	
+	
+	
+OUTsurance Group Limited Consolidated annual financial statements for the year ended 30 June 2025
+42
+42
+
+--- PAGE 44 (matched: fx_exposure) ---
+Notes to the consolidated annual financial statements continued
+3. 	
+Management of risk and capital continued
+3.3	
+Financial risk management continued
+3.3.2	
+Market risk continued 
+	
+Interest rate risk continued
+The Group’s asset portfolio used to match regulatory long-term insurance contract liabilities is exposed to 
+interest rate risk. At 30 June 2025, the carrying value and fair value of this portfolio was R1 730.1 million 
+(2024: R1 350.6 million). A 200-basis point shift in the market yield curve would result in the following changes 
+in the capital value of this portfolio:  
+2025
+2024
+R million
+2% increase
+2% increase
+2% increase
+2% decrease
+Zero-coupon deposits
+ (155)
+ 174 
+ (166)
+ 188 
+Derivative financial instruments – 
+Interest rate swap
+ 240 
+ (280)
+ 232 
+ (268)
+Derivative financial instruments – 
+Bond forward
+ (39)
+ 51 
+ (63)
+ 83 
+Derivative financial instruments – 
+Collateralised swap
+ (44)
+ 85 
+ (62)
+ 117 
+TOTAL NET IMPACT
+ 2 
+ 30 
+ (59)
+ 120 
+	
+Currency risk
+Currency risk arises on financial instruments that are denominated in a currency other than its functional currency.
+Translation risk arises as a result of movements between the functional currencies of foreign subsidiaries and the 
+Group’s reporting currency. 
+The Group’s exposure to translation risk is mainly in respect of foreign investments made in line with the long-term 
+strategy approved by the Board for seeking international diversification of investments to expand its income stream. 
+The Group has investments in foreign subsidiaries and associates whose net assets are exposed to currency 
+translation risk, primarily the Australian Dollar and Euro.
+The foreign exchange profits or losses arising from the translation of the Group’s foreign subsidiaries statements of 
+financial position from their functional currencies into Rand are recognised in the foreign currency translation 
+reserve (FCTR). The movements in exchange rates therefore have no impact on profit. The FCTR is realised in profit 
+or loss on disposal of the foreign companies.
+The table below sets out the balances of financial instruments denominated in Australian Dollar:
+2025
+2024
+A$ million
+R million
+A$ million
+R million
+Convertible loan to AutoGuru
+ 1 
+ 14 
+ 2 
+ 19 
+Foreign bank account
+ 2 
+ 27 
+ 2 
+ 30 
+Exchange rates:
+Closing rate at 30 June 2025
+11.68
+Closing rate at 30 June 2024
+12.13
+The Group’s exposure to currency risk due to transactions denominated in foreign currency is not considered 
+significant. 
+The table below sets out the balances of financial instruments denominated in US Dollar:	
+	
+2025
+2024
+US$ million
+R million
+US$ million
+R million
+Unlisted equity
+ 27 
+ 474 
+ 50 
+ 908 
+Exchange rates:
+Closing rate at 30 June 2025
+17.75
+Closing rate at 30 June 2024
+18.19
+An appreciation or depreciation of 1ZAR to the US$ (2024: 1ZAR to the US$) would result in other 
+comprehensive income before tax of the Group decreasing by R26.7 million or increasing by R26.7 million 
+(2024: a decrease of R49.9 million or increase of R49.9 million).
+OUTsurance Group Limited Consolidated annual financial statements for the year ended 30 June 2025
+43
+43
+
+--- PAGE 45 (matched: context) ---
+Notes to the consolidated annual financial statements continued
+3. 	
+Management of risk and capital continued
+3.3	
+Financial risk management continued
+3.3.2	
+Market risk continued
+	
+Currency risk continued
+	
+Foreign exchange derivatives
+The Group utilises derivative financial instruments to reduce the impact of the currency risk contained in its 
+open foreign currency exposures. The Group undertakes transactions involving derivative financial instruments 
+with other financial institutions. 
+During the current financial year, the Group has entered into foreign derivative contracts to economically hedge 
+its exposure against the volatility of the Rand against the Euro. The Euro FEC was entered into to hedge the 
+€10 million additional capital investment in OUTsurance Irish Insurance Holdings Limited, which is due in 
+November 2025 as part of the incremental capital investment over the next 5 years to meet the minimum 
+capital requirements of the Central Bank of Ireland.
+In the prior financial year, the Group has entered into similar foreign derivative contracts to economically hedge 
+its exposure against the volatility of the Rand against the Euro related to the additional capital investment in 
+OUTsurance Irish Insurance Holdings Limited to fund its minimum capital requirement for obtaining its 
+insurance license.
+The table below sets out the Forward Exchange Contracts (FEC’s) entered into by the Group: 
+Million
+FEC
+currency
+FEC
+weighted
+average
+strike price
+Foreign
+currency
+contract
+amount
+Current
+Rand
+Exposure
+Fair 
+value at 
+30 June 2025
+At 30 June 2025
+EUR FEC
+EURO
+R19.93
+ 10 
+ 199 
+ 10 
+Million
+FEC
+currency
+FEC
+weighted
+average
+strike price
+Foreign
+currency
+contract
+amount
+Current
+Rand
+Exposure
+Fair 
+value at 
+30 June 2024
+At 30 June 2024
+EUR FEC
+EURO
+R19.77
+ 10 
+ 198 
+ 3 
+OUTsurance Group Limited Consolidated annual financial statements for the year ended 30 June 2025
+44
+44
+
+--- PAGE 56 (matched: context) ---
+Notes to the consolidated annual financial statements continued
+3. 	
+Management of risk and capital continued
+3.4	
+Capital management continued
+The regulated solvency capital requirements for the various regulated entities are calculated as follows:
+	
+Group and South African operations
+The Financial Soundness for Insurers and Financial Soundness for Groups prudential standards prescribes 
+certain measures by which insurers and Groups measure their eligible own funds and prescribe the manner in 
+which the solvency capital requirement (SCR) needs to be calculated. The Group and solo entities apply the 
+standard formula approach to determine the SCR.
+OUTsurance Holdings Limited and its subsidiaries are regulated as an insurance group. The deduction and 
+aggregation method are used to assess capital adequacy on a group-wide basis. This method sums the solo 
+capital requirements and aims to calculate the relevant adjustments to avoid double or multiple gearing of 
+capital. Excess or deficits of capital existing at the level of each entity, including entities in other jurisdictions in 
+the group, i.e., on a solo basis, are aggregated (net of intragroup transactions) in order to measure the own 
+funds surplus (or deficit) at a Group level.
+The prescribed SCR is the level of eligible own funds required to ensure the value of assets will exceed technical 
+provisions and other liabilities at a 99.5% level of certainty over a one-year time horizon. The SCR is calculated 
+based on the following key risk categories:
+	• Non-life underwriting risk;
+	• Life underwriting risk;
+	• Market risk; and
+	• Operational risk.
+	
+Australian operations – Short-term insurance operations
+The Australian Prudential Regulation Authority (APRA) regulates the capital requirements of Australian entities 
+which are licensed general insurers calculated in accordance with Prudential Standards GPS 110 Capital 
+Adequacy. The prudential capital requirement (PCR) is equal to the sum of the prescribed capital amount (PCA) 
+and any supervisory adjustment determined by APRA.
+The PCA is calculated in accordance with the Standard Method as the sum of:
+	• Insurance risk charge;
+	• Insurance Concentration risk charge;
+	• Asset risk charge;
+	• Asset Concentration risk charge;
+	• Operational risk charge; and
+	• Less aggregation benefit.
+	
+Ireland operations – Short-term insurance operations
+The Central Bank of Ireland (CBI) regulates the capital requirements of OUTsurance DAC in Ireland under the 
+European Solvency II Standard Formula.
+OUTsurance Group Limited Consolidated annual financial statements for the year ended 30 June 2025
+55
+55
+
+--- PAGE 57 (matched: geographic_foreign_revenue) ---
+Notes to the consolidated annual financial statements continued
+4. 	
+Segment information
+For management purposes, the Group is organised into business units based on product offering.
+Consequently, the Group has the following operating segments:
+	• Personal insurance: This segment provides personal and casualty insurance products to individuals 
+conducted in OUTsurance Insurance Company Limited and Youi Holdings Pty Limited;
+	• Business insurance: This segment provides short-term insurance products to small and medium sized 
+businesses. Business insurance is conducted in OUTsurance Insurance Company Limited and Youi Holdings 
+Pty Limited; 
+	• Youi CTP: This segment provides compulsory third-party vehicle insurance to individuals in Australia and 
+conducted in Youi Holdings Pty Limited; 
+	• OUTsurance Central: This is the central cost incurred by OUTsurance that is not allocated to the OUTsurance 
+personal and business segments;
+	• OUTsurance Ireland: This segment provides personal and casualty insurance products to individuals 
+conducted in OUTsurance Designated Activity Company;
+	• Life insurance: This segment provides long-term insurance products to individuals. Life insurance business is 
+conducted in OUTsurance Life Insurance Company Limited;
+	• Administration services: This segment provides contact centre services to Youi Group and external third 
+parties and earns inter-segment license fees on the core insurance technology of the Group; and
+Central and consolidation adjustments: This segment relates to all the other segments within the Group that 
+have not been specified above as well as costs that are not allocated to specific segments due to their 
+overarching nature.
+This presentation better reflects the way the Chief Operating Decision Maker (CODM) reviews the results. 
+For risk classes included in the Personal and Business insurance segments refer to note 3.2.1(i). For insurance 
+products issued in the Life insurance segment refer to note 3.2.2(i). 
+The Group manages its balance sheet and capital requirements at a total company level and not per product 
+level at which the operations of the Group is managed. The balance sheet information is also presented to the 
+CODM at a company level.
+The information in the segment report is presented on the same basis as reported to and managed by 
+management. Material items of dissimilar nature are presented separately. Items are aggregated based on the 
+qualitative and quantitative significance of the business units. Reporting adjustments are those accounting 
+reclassifications and entries required to produce IFRS Accounting Standards compliant results. The Group’s total 
+earnings is managed on a normalised basis, which most appropriately reflects the economic performance of 
+the Group.
+The material revenue of the Group is derived from gross written premiums for insurance policies issued.
+The Group accounts for inter-segment revenues gross in the segment note and eliminates the inter-segment 
+values in the central and consolidation adjustments column. The inter-segment revenue consists of license fees 
+and administration fees for call centre services to the value of R250.7 million (2024: R188.5 million). Given the 
+nature of the operations there is no single external customer that provides 10% or more of the Group’s 
+revenues.
+In addition to the IFRS 17 compliant income statements, additional disclosure is provided in support of the 
+management metrics monitored, which include volume and ratio calculations. 
+OUTsurance Group Limited Consolidated annual financial statements for the year ended 30 June 2025
+56
+56
+
+--- PAGE 58 (matched: geographic_foreign_revenue) ---
+4. 	
+Segment information continued
+	
+Market segmentation
+Property and casualty insurance
+Long–term 
+insurance
+OUTsurance
+Youi Group
+OUTsurance
+ Ireland
+P&C
+Total
+OUTsurance
+Life
+Admini-
+stration
+services
+OHL central 
+and
+ consolidation
+ entries
+OHL
+Group
+Total
+Treasury
+Company 
+and
+consolidation
+entries
+OGL
+Group
+Total
+Personal1
+Business
+Central
+Total
+Personal
+Business
+CTP
+Total
+Segment income statement information
+Year ended 30 June 2025
+Insurance revenue
+ 10 345 
+ 3 002 
+ – 
+ 13 347 
+ 20 170 
+ 1 157 
+ 1 223 
+ 22 550 
+ 97 
+ 35 994 
+ 1 137 
+ – 
+ – 
+ 37 131 
+ – 
+ 37 131 
+Insurance service expenses
+ (6 146)
+ (2 224)
+ – 
+ (8 370)
+ (16 782)
+ (1 103)
+ (1 412)
+ (19 297)
+ (452)
+ (28 119)
+ (549)
+ – 
+ – 
+ (28 668)
+ – 
+ (28 668)
+Net expenses from reinsurance contracts held
+ (143)
+ (51)
+ – 
+ (194)
+ (590)
+ (60)
+ 24 
+ (626)
+ (23)
+ (843)
+ (39)
+ – 
+ – 
+ (882)
+ – 
+ (882)
+Insurance service result
+ 4 056 
+ 727 
+ – 
+ 4 783 
+ 2 798 
+ (6)
+ (165)
+ 2 627 
+ (378)
+ 7 032 
+ 549 
+ – 
+ – 
+ 7 581 
+ – 
+ 7 581 
+Administration and other revenue2
+ 13 
+ 29 
+ – 
+ 42 
+ 1 
+ – 
+ – 
+ 1 
+ – 
+ 43 
+ 24 
+ 634 
+ (251)
+ 450 
+ – 
+ 450 
+Fair value adjustment to financial liabilities
+ (181)
+ – 
+ – 
+ (181)
+ – 
+ – 
+ – 
+ – 
+ – 
+ (181)
+ (30)
+ – 
+ – 
+ (211)
+ – 
+ (211)
+Operating expenses2
+ (164)
+ (59)
+ (1 191)
+ (1 414)
+ (108)
+ (2)
+ (1)
+ (111)
+ (74)
+ (1 599)
+ (173)
+ (619)
+ 36 
+ (2 355)
+ 81 
+ (2 274)
+Underwriting result
+ 3 724 
+ 697 
+ (1 191)
+ 3 230 
+ 2 691 
+ (8)
+ (166)
+ 2 517 
+ (452)
+ 5 295 
+ 370 
+ 15 
+ (215)
+ 5 465 
+ 81 
+ 5 546 
+Investment income on insurance contract assets 
+and liabilities
+ 127 
+ 35 
+ – 
+ 162 
+ 447 
+ 42 
+ 84 
+ 573 
+ 4 
+ 739 
+ 139 
+ – 
+ – 
+ 878 
+ – 
+ 878 
+Finance expenses from insurance contracts issued
+ (100)
+ (35)
+ – 
+ (135)
+ (50)
+ (2)
+ (133)
+ (185)
+ – 
+ (320)
+ (132)
+ – 
+ – 
+ (452)
+ – 
+ (452)
+Finance income from reinsurance contracts held
+ – 
+ – 
+ – 
+ – 
+ 6 
+ – 
+ 89 
+ 95 
+ – 
+ 95 
+ 61 
+ – 
+ – 
+ 156 
+ – 
+ 156 
+Operating profit/(loss)
+ 3 751 
+ 697 
+ (1 191)
+ 3 257 
+ 3 094 
+ 32 
+ (126)
+ 3 000 
+ (448)
+ 5 809 
+ 438 
+ 15 
+ (215)
+ 6 047 
+ 81 
+ 6 128 
+Equity accounted earnings
+–
+ 70 
+ – 
+ 70 
+ – 
+ – 
+ (3)
+ 67 
+ 122 
+ 189 
+Profit on sale of associate/held for sale asset
+–
+ 176 
+ – 
+ 176 
+ – 
+ – 
+ – 
+ 176 
+ 35 
+ 211 
+Impairment of assets held for sale
+–
+ – 
+ – 
+ – 
+ – 
+ – 
+ (10)
+ (10)
+ – 
+ (10)
+Operating profit/(loss) including associate earnings
+ 3 257 
+ 3 246 
+ (448)
+ 6 055 
+ 438 
+ 15 
+ (228)
+ 6 280 
+ 238 
+ 6 518 
+Net investment income on shareholder 
+investment capital
+ 1 027 
+ 205 
+ 47 
+ 1 279 
+ 57 
+ 17 
+ 224 
+ 1 577 
+ (278)
+ 1 299 
+Finance costs
+ (60)
+ (11)
+ (1)
+ (72)
+ (5)
+ (2)
+ (52)
+ (131)
+ (5)
+ (136)
+Profit/(loss) before tax
+ 4 224 
+ 3 440 
+ (402)
+ 7 262 
+ 490 
+ 30 
+ (56)
+ 7 726 
+ (45)
+ 7 681 
+Taxation
+ (1 145)
+ (1 027)
+ – 
+ (2 172)
+ (145)
+ (6)
+ (118)
+ (2 441)
+ (21)
+ (2 462)
+Profit/(loss) after tax
+ 3 079 
+ 2 413 
+ (402)
+ 5 090 
+ 345 
+ 24 
+ (174)
+ 5 285 
+ (66)
+ 5 219 
+Non-controlling interest
+ – 
+ – 
+ – 
+ – 
+ – 
+ – 
+ (134)
+ (134)
+ (378)
+ (512)
+Profit/(loss) attributable to ordinary shareholders
+ 3 079 
+ 2 413 
+ (402)
+ 5 090 
+ 345 
+ 24 
+ (308)
+ 5 151 
+ (444)
+ 4 707 
+Headline and normalised earnings adjustments
+ (151)
+ (123)
+ – 
+ (274)
+ 4 
+ 4 
+ 77 
+ (189)
+ 210 
+ 21 
+Normalised earnings
+ 2 928 
+ 2 290 
+ (402)
+ 4 816 
+ 349 
+ 28 
+ (231)
+ 4 962 
+ (234)
+ 4 728 
+1	 Includes the Homeowners cover book sourced from FirstRand Bank Limited.
+2	 The Administration and other revenue and Operating expenses descriptions were updated to reflect the appropriate nature of the income and expenses included in these respective lines.  
+Notes to the consolidated annual financial statements continued
+57
+57
+OUTsurance Group Limited Consolidated annual financial statements for the year ended 30 June 2025
+
+--- PAGE 59 (matched: geographic_foreign_revenue) ---
+4. 	
+Segment information continued
+	
+Segmental ratio calculation and reconciliation 
+Property and casualty insurance
+OUTsurance
+Youi Group
+OUTsurance 
+Ireland
+P&C
+Total
+Personal
+Business
+Central
+Total
+Personal
+Business
+CTP
+Total
+Segmental ratio calculation
+Year ended 30 June 2025
+Gross written premium
+ 10 335 
+ 3 018 
+ – 
+ 13 353 
+ 22 463 
+ 1 167 
+ 1 530 
+ 25 160 
+ 269 
+ 38 782 
+Movements in unearned premium
+ 10 
+ (16)
+ – 
+ (6)
+ (2 293)
+ (10)
+ (307)
+ (2 610)
+ (172)
+ (2 788)
+Gross earned premium = insurance revenue
+ 10 345 
+ 3 002 
+ – 
+ 13 347 
+ 20 170 
+ 1 157 
+ 1 223 
+ 22 550 
+ 97 
+ 35 994 
+Reinsurance premium expense
+ (146)
+ (52)
+ – 
+ (198)
+ (1 404)
+ (94)
+ (122)
+ (1 620)
+ (29)
+ (1 847)
+1. Net earned premium
+ 10 199 
+ 2 950 
+ – 
+ 13 149 
+ 18 766 
+ 1 063 
+ 1 101 
+ 20 930 
+ 68 
+ 34 147 
+Change in loss component
+ – 
+ 6 
+ – 
+ 6 
+ – 
+ – 
+ 5 
+ 5 
+ (128)
+ (117)
+Gross claims expense (including OUTbonus)
+ (4 391)
+ (1 349)
+ – 
+ (5 740)
+ (11 272)
+ (674)
+ (1 212)
+ (13 158)
+ (83)
+ (18 981)
+Gross claims expenses (including OUTbonus)
+ (4 391)
+ (1 343)
+ – 
+ (5 734)
+ (11 272)
+ (674)
+ (1 207)
+ (13 153)
+ (211)
+ (19 098)
+Finance expenses from insurance contracts issued
+ (100)
+ (35)
+ – 
+ (135)
+ (50)
+ (2)
+ (133)
+ (185)
+ –   
+ (320)
+Gross claims expenses including net IFE1
+ (4 491)
+ (1 378)
+ – 
+ (5 869)
+ (11 322)
+ (676)
+ (1 340)
+ (13 338)
+ (211)
+ (19 418)
+Reinsurance recoveries
+ 3 
+ 1 
+ – 
+ 4 
+ 814 
+ 34 
+ 146 
+ 994 
+ 6 
+ 1 004 
+Finance income from reinsurance contracts held
+ – 
+ – 
+ – 
+ – 
+ 6 
+ – 
+ 89 
+ 95 
+ – 
+ 95 
+2. Net claims expense including IFE1
+ (4 488)
+ (1 377)
+ – 
+ (5 865)
+ (10 502)
+ (642)
+ (1 105)
+ (12 249)
+ (205)
+ (18 319)
+3. Operating expenses
+ (1 919)
+ (940)
+ (1 191)
+ (4 050)
+ (5 618)
+ (431)
+ (206)
+ (6 255)
+ (315)
+ (10 620)
+Attributable expenses (included in Insurance Service Expense)
+ (1 755)
+ (881)
+ – 
+ (2 636)
+ (5 510)
+ (429)
+ (205)
+ (6 144)
+ (241)
+ (9 021)
+Non-attributable expenses (included in Operating expenses)
+ (164)
+ (59)
+ (1 191)
+ (1 414)
+ (108)
+ (2)
+ (1)
+ (111)
+ (74)
+ (1 599)
+4. Administration and other revenue
+ 13 
+ 29 
+ – 
+ 42 
+ 1 
+ – 
+ – 
+ 1 
+ – 
+ 43 
+5. Fair value to financial liabilities
+ (181)
+ – 
+ – 
+ (181)
+ – 
+ – 
+ – 
+ – 
+ – 
+ (181)
+6. Underwriting result
+ 3 624 
+ 662 
+ (1 191)
+ 3 095 
+ 2 647 
+ (10)
+ (210)
+ 2 427 
+ (452)
+ 5 070 
+Investment income on insurance contract assets and liabilities
+ 127 
+ 35 
+ – 
+ 162 
+ 447 
+ 42 
+ 84 
+ 573 
+ 4 
+ 739 
+Operating profit/(loss)
+ 3 751 
+ 697 
+ (1 191)
+ 3 257 
+ 3 094 
+ 32 
+ (126)
+ 3 000 
+(448)
+ 5 809
+1	 Includes net insurance finance expense (IFE) as disclosed in the statement of profit or loss. 
+Notes to the consolidated annual financial statements continued
+OUTsurance Group Limited Consolidated annual financial statements for the year ended 30 June 2025
+58
+58
+
+--- PAGE 60 (matched: geographic_foreign_revenue) ---
+Property and casualty insurance
+OUTsurance
+Youi Group
+OUTsurance 
+Ireland
+P&C
+Total
+Personal
+Business
+Central
+Total
+Personal
+Business
+CTP
+Total
+Ratio calculations (as disclosed in management commentary) 
+Net claims ratio (2/1) 
+44.0%
+46.7%
+ 
+44.6%
+56.0%
+60.3%
+100.3%
+58.5%
+53.6%
+Cost-to-income ratio (3/1) 
+18.8%
+31.8%
+ 
+30.8%
+29.9%
+40.6%
+18.8%
+29.9%
+31.1%
+Normalised Cost-to-income ratio1
+31.7%
+31.5%
+Underwriting margin (6/1) 
+35.5%
+22.4%
+ 
+23.5%
+14.1%
+(0.9%)
+(19.1%)
+11.6%
+14.8%
+Combined ratio ((2+3+5)/1) 
+64.6%
+78.5%
+ 
+76.8%
+85.9%
+100.9%
+119.1%
+88.4%
+85.3%
+Normalised Combined ratio 
+77.7%
+85.6%
+Reconciliation of insurance service expense 
+Gross claims (including OUTbonus) 
+ (4 391)
+ (1 349)
+ – 
+ (5 740)
+ (11 272)
+ (674)
+ (1 212)
+ (13 158)
+ (83)
+ (18 981)
+Change in loss component 
+ – 
+ 6 
+ – 
+ 6 
+ – 
+ – 
+ 5 
+ 5 
+ (128)
+ (117)
+Attributable expenses 
+ (1 755)
+ (881)
+ – 
+ (2 636)
+ (5 510)
+ (429)
+ (205)
+ (6 144)
+ (241)
+ (9 021)
+Insurance service expense as disclosed
+ (6 146)
+ (2 224)
+ – 
+ (8 370)
+ (16 782)
+ (1 103)
+ (1 412)
+ (19 297)
+ (452)
+ (28 119)
+1	 Operating profit for OUTsurance SA includes a normalised adjustment of R123 million (as an earnings reduction) related to a profit that arose from a restructuring of an intragroup property lease arrangement.
+Operating expenses including directly attributable and non attributable expenses
+R million
+OUTsurance
+Youi
+OUTsurance
+ Ireland
+OUTsurance
+ Life
+Administration
+services
+OHL central
+ and
+ consolidation
+ entries
+OHL
+Group
+Total
+Treasury
+Company
+and
+consolidation
+entries
+OGL
+Group
+Total
+Year ended 30 June 2025
+Depreciation and amortisation
+ (118)
+ (143)
+ (20)
+ – 
+ (19)
+ 10 
+ (290)
+ – 
+ (290)
+Employee Benefits
+ (3 168)
+ (2 512)
+ (183)
+ (411)
+ (525)
+ (93)
+ (6 892)
+ 121 
+ (6 771)
+Other disclosable expenses
+ (765)
+ (3 596)
+ (111)
+ (136)
+ (65)
+ 101 
+ (4 572)
+ (40)
+ (4 612)
+Total operating expenses including directly attributable and non attributable expenses
+ (4 051)
+ (6 251)
+ (314)
+ (547)
+ (609)
+ 18 
+ (11 754)
+ 81 
+ (11 673)
+Notes to the consolidated annual financial statements continued
+4. 	
+Segment information continued
+	
+Segmental ratio calculation and reconciliation continued 
+OUTsurance Group Limited Consolidated annual financial statements for the year ended 30 June 2025
+59
+59
+
+--- PAGE 61 (matched: geographic_foreign_revenue) ---
+4. 	
+Segment information continued
+	
+Market segmentation 
+Property and casualty insurance
+Long–term 
+insurance
+OUTsurance
+Youi Group
+OUTsurance 
+Ireland
+P&C
+Total
+OUTsurance
+Life
+Admini-
+stration
+services
+OHL central
+ and
+ consolidation
+ entries
+OHL
+Group
+Total
+Treasury
+Company 
+and
+consolidation
+entries
+OGL
+Group
+Total
+Personal1
+Business
+Central
+Total
+Personal
+Business
+CTP
+Total
+Segment income statement information
+Year ended 30 June 2024
+Insurance revenue
+ 9 439 
+ 2 727 
+–
+ 12 166 
+ 17 076 
+ 894 
+ 831 
+ 18 801 
+–
+ 30 967 
+ 946 
+–
+–
+ 31 913 
+–
+ 31 913 
+Insurance service expenses
+ (6 172)
+ (2 189)
+–
+ (8 361)
+ (14 249)
+ (919)
+ (695)
+ (15 863)
+ (109)
+ (24 333)
+ (644)
+–
+–
+ (24 977)
+–
+ (24 977)
+Net expenses from reinsurance contracts held
+ (140)
+ (40)
+–
+ (180)
+ (992)
+ (35)
+ (137)
+ (1 164)
+ (6)
+ (1 350)
+ 3 
+–
+–
+ (1 347)
+–
+ (1 347)
+Insurance service results
+ 3 127 
+ 498 
+–
+ 3 625 
+ 1 835 
+ (60)
+ (1)
+ 1 774 
+ (115)
+ 5 284 
+ 305 
+–
+–
+ 5 589 
+–
+ 5 589 
+Administration and other revenue2
+ 29 
+ 9 
+–
+ 38 
+ 28 
+–
+–
+ 28 
+–
+ 66 
+ 23 
+ 591 
+ (182)
+ 498 
+ 4 
+ 502 
+Fair value adjustment to financial liabilities
+ (187)
+–
+–
+ (187)
+–
+–
+–
+–
+–
+ (187)
+ (13)
+–
+–
+ (200)
+–
+ (200)
+Operating expenses2
+ (174)
+ (62)
+ (589)
+ (825)
+ (228)
+ (7)
+ (11)
+ (246)
+ (103)
+ (1 174)
+ (98)
+ (573)
+ 278 
+ (1 567)
+ (79)
+ (1 646)
+Underwriting result
+ 2 795 
+ 445 
+ (589)
+ 2 651 
+ 1 635 
+ (67)
+ (12)
+ 1 556 
+ (218)
+ 3 989 
+ 217 
+ 18 
+ 96 
+ 4 320 
+ (75)
+ 4 245 
+Investment income on insurance contract assets 
+and liabilities
+ 132 
+ 36 
+–
+ 168 
+ 379 
+ 25 
+ 50 
+ 454 
+–
+ 622 
+ 110 
+–
+–
+ 732 
+–
+ 732 
+Finance expenses from insurance contracts issued
+ (105)
+ (37)
+–
+ (142)
+ (27)
+ (2)
+ (47)
+ (76)
+–
+ (218)
+ (125)
+–
+–
+ (343)
+–
+ (343)
+Finance income from reinsurance contracts held
+–
+ 1 
+–
+ 1 
+ 1 
+–
+ 38 
+ 39 
+–
+ 40 
+ 62 
+–
+–
+ 102 
+–
+ 102 
+Operating profit/(loss)
+ 2 822 
+ 445 
+ (589)
+ 2 678 
+ 1 988 
+ (44)
+ 29 
+ 1 973 
+ (218)
+ 4 433 
+ 264 
+ 18 
+ 96 
+ 4 811 
+ (75)
+ 4 736 
+Equity accounted earnings
+–
+ 92 
+–
+ 92 
+–
+–
+ (1)
+ 91 
+ 36 
+ 127 
+Profit on change in shareholding of investment  
+in associates
+–
+–
+–
+–
+–
+–
+ (4)
+ (4)
+ 513 
+ 509 
+Profit on sale of subsidiary/associates
+–
+–
+–
+–
+–
+–
+ 66 
+ 66 
+ 33 
+ 99 
+Impairment of investments in associates
+–
+–
+–
+–
+–
+–
+–
+–
+ (9)
+ (9)
+Operating profit/(loss) including  
+associate earnings
+ 2 678 
+ 2 065 
+ (218)
+ 4 525 
+ 264 
+ 18 
+ 157 
+ 4 964 
+ 498 
+ 5 462 
+Net investment income on shareholder  
+investment capital
+ 460 
+ 200 
+ 40 
+ 700 
+ 39 
+–
+ 65 
+ 804 
+ 92 
+ 896 
+Finance costs
+ (53)
+ (11)
+ (1)
+ (65)
+–
+ (6)
+ (2)
+ (73)
+–
+ (73)
+Profit/(loss) before tax
+ 3 085
+ 2 254 
+ (179)
+ 5 160 
+ 303 
+ 12 
+ 220 
+ 5 695 
+ 590 
+ 6 285 
+1	 Includes Homeowners cover book sourced from the FirstRand Bank Limited.
+2	 The Administration and other revenue and Operating expenses descriptions were updated to reflect the appropriate nature of the income and expenses included in these respective lines.  
+Notes to the consolidated annual financial statements continued
+60
+60
+OUTsurance Group Limited Consolidated annual financial statements for the year ended 30 June 2025
+
+--- PAGE 62 (matched: geographic_foreign_revenue) ---
+4. 	
+Segment information continued
+	
+Market segmentation continued 
+Property and casualty insurance
+Long–term 
+insurance
+OUTsurance
+Youi Group
+OUTsurance 
+Ireland
+P&C
+Total
+OUTsurance
+Life
+Admini-
+stration
+services
+Central
+and
+consolidation
+entries
+OHL
+Group
+Total
+Treasury
+Company 
+and
+consolidation
+entries
+OGL
+Group
+Total
+Personal1
+Business
+Central
+Total
+Personal
+Business
+CTP
+Total
+Taxation
+ (874)
+ (663)
+ (1)
+ (1 538)
+ (74)
+ (3)
+ (87)
+ (1 702)
+ (92)
+ (1 794)
+Profit/(loss) after tax
+ 2 211 
+ 1 591 
+ (180)
+ 3 622 
+ 229 
+ 9 
+ 133 
+ 3 993 
+ 498 
+ 4 491 
+Preference dividend and other
+–
+ (16)
+–
+ (16)
+ (19)
+ 3 
+ 32 
+–
+–
+–
+Non-controlling interest
+–
+–
+–
+–
+–
+–
+ (105)
+ (105)
+ (325)
+ (430)
+Profit/(loss) attributable to ordinary 
+shareholders
+ 2 211 
+ 1 575 
+ (180)
+ 3 606 
+ 210 
+ 12 
+ 60 
+ 3 888 
+ 173 
+ 4 061 
+Headline and normalised earnings adjustments
+ 1 
+ (1)
+–
+–
+–
+–
+ (58)
+ (58)
+ (467)
+ (525)
+Normalised earnings
+ 2 212 
+ 1 574 
+ (180)
+ 3 606 
+ 210 
+ 12 
+ 2 
+ 3 830 
+ (294)
+ 3 536 
+1	 Includes the Homeowners cover book sourced from FirstRand Bank Limited.
+Notes to the consolidated annual financial statements continued
+61
+61
+OUTsurance Group Limited Consolidated annual financial statements for the year ended 30 June 2025
+
+--- PAGE 63 (matched: geographic_foreign_revenue) ---
+4. 	
+Segment information continued
+	
+Segmental ratio calculation and reconciliation
+Property and casualty insurance
+OUTsurance
+Youi Group
+OUTsurance 
+Ireland
+P&C
+Total
+Personal
+Business
+Central
+Total
+Personal
+Business
+CTP
+Total
+Segmental ratio calculation
+Year ended 30 June 2024
+Gross written premium
+ 9 451 
+ 2 723 
+–
+ 12 174 
+ 18 966 
+ 1 138 
+ 914 
+ 21 018 
+ 8 
+ 33 200 
+Movements in unearned premium
+ (12)
+ 4 
+–
+ (8)
+ (1 890)
+ (244)
+ (83)
+ (2 217)
+ (8)
+ (2 233)
+Gross earned premium = insurance revenue
+ 9 439 
+ 2 727 
+–
+ 12 166 
+ 17 076 
+ 894 
+ 831 
+ 18 801 
+–
+ 30 967 
+Reinsurance premium expense
+ (143)
+ (60)
+–
+ (203)
+ (1 403)
+ (46)
+ (468)
+ (1 917)
+ (6)
+ (2 126)
+1. Net earned premium
+ 9 296 
+ 2 667 
+–
+ 11 963 
+ 15 673 
+ 848 
+ 363 
+ 16 884 
+ (6)
+ 28 841 
+Change in loss component
+ 1 
+ (2)
+–
+ (1)
+–
+–
+ (2)
+ (2)
+ (14)
+ (17)
+Gross claims expense (including OUTbonus)
+ (4 451)
+ (1 392)
+–
+ (5 843)
+ (9 882)
+ (631)
+ (595)
+ (11 108)
+–
+ (16 951)
+Gross claims expenses (including OUTbonus)
+ (4 450)
+ (1 394)
+–
+ (5 844)
+ (9 882)
+ (631)
+ (597)
+ (11 110)
+ (14)
+ (16 968)
+Finance expenses from insurance contracts issued
+ (105)
+ (37)
+–
+ (142)
+ (27)
+ (2)
+ (47)
+ (76)
+–
+ (218)
+Gross claims expenses including net IFE1
+ (4 555)
+ (1 431)
+–
+ (5 986)
+ (9 909)
+ (633)
+ (644)
+ (11 186)
+ (14)
+ (17 186)
+Reinsurance recoveries
+ 3 
+ 20 
+–
+ 23 
+ 411 
+ 11 
+ 331 
+ 753 
+–
+ 776 
+Finance income from reinsurance contracts held
+–
+ 1 
+–
+ 1 
+ 1 
+–
+ 38 
+ 39 
+–
+ 40 
+2. Net claims expense including IFE1
+ (4 552)
+ (1 410)
+–
+ (5 962)
+ (9 497)
+ (622)
+ (275)
+ (10 394)
+ (14)
+ (16 370)
+3. Operating expenses
+ (1 896)
+ (857)
+ (589)
+ (3 342)
+ (4 595)
+ (295)
+ (109)
+ (4 999)
+ (198)
+ (8 539)
+Attributable expenses (included in Insurance Service Expense)
+ (1 722)
+ (795)
+–
+ (2 517)
+ (4 367)
+ (288)
+ (98)
+ (4 753)
+ (95)
+ (7 365)
+Non-attributable expenses (included in Operating expenses)
+ (174)
+ (62)
+ (589)
+ (825)
+ (228)
+ (7)
+ (11)
+ (246)
+ (103)
+ (1 174)
+4. Administration and other revenue
+ 29 
+ 9 
+–
+ 38 
+ 28 
+–
+–
+ 28 
+–
+ 66 
+5. Fair value to financial liabilities
+ (187)
+–
+–
+ (187)
+–
+–
+–
+–
+–
+ (187)
+6. Underwriting result
+ 2 690 
+ 409 
+ (589)
+ 2 510 
+ 1 609 
+ (69)
+ (21)
+ 1 519 
+ (218)
+ 3 811 
+Investment income on insurance contract assets and liabilities
+ 132 
+ 36 
+–
+ 168 
+ 379 
+ 25 
+ 50 
+ 454 
+–
+ 622 
+Operating profit/(loss) 
+ 2 822 
+ 445 
+ (589)
+ 2 678 
+ 1 988 
+ (44)
+ 29 
+ 1 973 
+ (218)
+ 4 433 
+1	 Includes net insurance finance expense (IFE) as disclosed in the statement of profit or loss.
+Notes to the consolidated annual financial statements continued
+OUTsurance Group Limited Consolidated annual financial statements for the year ended 30 June 2025
+62
+62
+
+--- PAGE 64 (matched: geographic_foreign_revenue) ---
+Notes to the consolidated annual financial statements continued
+4. 	
+Segment information continued
+	
+Segmental ratio calculation and reconciliation continued
+Property and casualty insurance
+OUTsurance
+Youi Group
+OUTsurance 
+Ireland
+P&C
+Total
+Personal
+Business
+Central
+Total
+Personal
+Business
+CTP
+Total
+Ratio calculations (as disclosed in management commentary) 
+Net claims ratio (2/1) 
+49.0%
+52.9%
+ 
+49.8%
+60.6%
+73.3%
+75.8%
+61.6%
+56.8%
+Cost-to-income ratio (3/1) 
+20.4%
+32.1%
+ 
+27.9%
+29.3%
+34.8%
+30.0%
+29.6%
+29.6%
+Underwriting margin (6/1) 
+28.9%
+15.3%
+ 
+21.0%
+10.3%
+(8.1%)
+(5.8%)
+9.0%
+13.2%
+Combined ratio ((2+3+5)/1)
+71.4%
+85.0%
+ 
+79.3%
+89.9%
+108.1%
+105.8%
+91.2%
+87.0%
+Reconciliation of insurance service expense 
+Gross claims (including OUTbonus) 
+ (4 451)
+ (1 392)
+–
+ (5 843)
+ (9 882)
+ (631)
+ (595)
+ (11 108)
+–
+ (16 951)
+Change in loss component 
+ 1 
+ (2)
+–
+ (1)
+–
+–
+ (2)
+ (2)
+ (14)
+ (17)
+Attributable expenses1 
+ (1 722)
+ (795)
+–
+ (2 517)
+ (4 367)
+ (288)
+ (98)
+ (4 753)
+ (95)
+ (7 365)
+Insurance service expense as disclosed
+ (6 172)
+ (2 189)
+–
+ (8 361)
+ (14 249)
+ (919)
+ (695)
+ (15 863)
+ (109)
+ (24 333)
+1.	 In the prior financial year, an amount of R88 million of attributable expenses were reallocated from the OUTsurance Business segment to the OUTsurance Personal segment.
+Operating expenses including directly attributable and non attributable expenses
+R million
+OUTsurance
+Youi
+OUTsurance
+ Ireland
+OUTsurance
+ Life
+Administration
+services
+OHL central
+ and
+ consolidation
+ entries
+OHL
+Group
+Total
+Treasury
+Company
+and
+consolidation
+entries
+OGL
+Group
+Total
+Year ended 30 June 2024
+Depreciation and amortisation
+ (116)
+ (85)
+ (14)
+ – 
+ (22)
+ 23 
+ (214)
+ – 
+ (214)
+Employee Benefits
+ (2 473)
+ (2 253)
+ (124)
+ (293)
+ (468)
+ 105 
+ (5 507)
+ (42)
+ (5 549)
+Other disclosable expenses
+ (752)
+ (2 659)
+ (59)
+ (195)
+ (83)
+ 147 
+ (3 601)
+ (37)
+ (3 638)
+Total operating expenses including directly attributable and non attributable expenses
+ (3 341)
+ (4 997)
+ (197)
+ (488)
+ (573)
+ 275 
+ (9 322)
+ (79)
+ (9 401)
+OUTsurance Group Limited Consolidated annual financial statements for the year ended 30 June 2025
+63
+63
+
+--- PAGE 65 (matched: geographic_foreign_revenue) ---
+Notes to the consolidated annual financial statements continued
+4. 	
+Segment information continued
+	
+Geographical segmentation
+	
+A summary of the Group’s assets, liabilities and equity are shown below
+Southern Africa and OHL Group consolidation
+Australia
+Ireland
+OHL Group
+South Africa
+OGL Group
+R million
+OUTsurance
+OUTsurance
+Life
+Admini-
+stration 
+services
+OHL central
+ and
+ consolidation
+ adjustments
+Youi 
+Group
+OUTsurance
+Ireland
+Total
+Treasury
+Company 
+and
+consolidation
+adjustments
+Total
+Segment statement of financial 
+position information
+As at 30 June 2025
+Segment assets
+Property and equipment
+ 332 
+–
+ 13 
+ (2)
+ 837 
+ 25 
+ 1 205 
+–
+ 1 205 
+Investment in associates
+–
+–
+–
+ 4 
+–
+–
+ 4 
+ 254 
+ 258 
+Reinsurance assets
+ 25 
+ 69 
+–
+–
+ 2 239 
+ 20 
+ 2 353 
+–
+ 2 353 
+Insurance assets
+–
+ 370 
+–
+–
+–
+–
+ 370 
+–
+ 370 
+Financial assets
+ 7 651 
+ 3 726 
+–
+ 72 
+ 15 835 
+ 1 893 
+ 29 177 
+ 47 
+ 29 224 
+Other assets
+ 899 
+ 100 
+ 214 
+ (210)
+ 2 052 
+ 107 
+ 3 162 
+212
+ 3 374 
+Cash and cash equivalents
+ 165 
+ 9 
+ 111 
+ 56 
+ 1 211 
+ 25 
+ 1 577 
+ 288 
+1 865
+TOTAL SEGMENT ASSETS
+ 9 072 
+ 4 274 
+ 338 
+ (80)
+ 22 174 
+ 2 070 
+ 37 848 
+ 801 
+ 38 649 
+Segment Equity
+Share capital and premium
+ 25 
+ 445 
+ 180 
+ (856)
+ 1 682 
+ 2 229 
+ 3 705 
+ 12 217 
+ 15 922 
+Retained earnings
+ 4 525 
+ 844 
+ (30)
+ 1 770 
+ 4 717 
+ (638)
+ 11 188 
+ (6 962)
+ 4 226 
+Other equity reserves
+ 46 
+ 1 
+–
+ (989)
+ 573 
+ 94 
+ (275)
+(5 328)
+(5 603)
+Non-controlling interests
+–
+–
+–
+ 351 
+–
+–
+ 351 
+1 048
+1 399
+TOTAL SEGMENT EQUITY
+ 4 596 
+ 1 290 
+ 150 
+ 276 
+ 6 972 
+ 1 685 
+ 14 969 
+ 975 
+ 15 944 
+Segment liabilities
+Reinsurance liabilities
+ 30 
+ 5 
+–
+–
+–
+–
+ 35 
+–
+ 35 
+Insurance liabilities
+ 2 077 
+ 633 
+–
+–
+ 13 245 
+ 274 
+ 16 229 
+–
+ 16 229 
+Other liabilities
+ 2 369 
+ 2 346 
+ 188 
+ (356)
+ 1 957 
+ 111 
+ 6 615 
+ (174)
+ 6 441 
+TOTAL SEGMENT LIABILITIES
+ 4 476 
+ 2 984 
+ 188 
+ (356)
+ 15 202 
+ 385 
+ 22 879 
+ (174)
+ 22 705 
+TOTAL SEGMENT EQUITY AND 
+LIABILITIES
+ 9 072 
+ 4 274 
+ 338 
+ (80)
+ 22 174 
+ 2 070 
+ 37 848 
+ 801 
+ 38 649 
+OUTsurance Group Limited Consolidated annual financial statements for the year ended 30 June 2025
+64
+64
+
+--- PAGE 66 (matched: geographic_foreign_revenue) ---
+Notes to the consolidated annual financial statements continued
+4. 	
+Segment information continued
+	
+Geographical segmentation continued
+Southern Africa and OHL Group consolidation
+Australia
+Ireland
+OHL Group
+South Africa
+OGL Group
+R million
+OUTsurance
+OUTsurance
+Life
+Admini-
+stration
+services
+OHL central
+ and
+ consolidation
+ adjustments
+Youi 
+Group
+OUTsurance
+Ireland
+Total
+Treasury
+Company 
+and
+consolidation
+adjustments
+Total
+Segment statement of financial 
+position information
+As at 30 June 2024
+Segment assets
+Property and equipment
+ 143 
+–
+ 12 
+ 192 
+ 833 
+ 25 
+ 1 205 
+–
+ 1 205 
+Investments in associates
+–
+–
+–
+ 138 
+ 330 
+–
+ 468 
+ 338 
+ 806 
+Reinsurance assets
+ 27 
+ 112 
+–
+–
+ 1 430 
+ 18 
+ 1 587 
+–
+ 1 587 
+Insurance assets
+–
+ 251 
+–
+–
+–
+–
+ 251 
+–
+ 251 
+Financial assets
+ 6 609 
+ 3 326 
+–
+ 330 
+ 12 825 
+ 1 696 
+ 24 786 
+ 1 683 
+ 26 469 
+Other assets
+ 725 
+ 119 
+ 165 
+ (463)
+ 1 586 
+ 104 
+ 2 236 
+ 11 
+ 2 247 
+Cash and cash equivalents
+ 299 
+ 118 
+ 155 
+ 42 
+ 843 
+ 9 
+ 1 466 
+ 226 
+ 1 692 
+TOTAL SEGMENT ASSETS
+ 7 803 
+ 3 926 
+ 332 
+ 239 
+ 17 847 
+ 1 852 
+ 31 999 
+ 2 258 
+ 34 257 
+Segment Equity
+Share capital and premium
+ 25 
+ 445 
+ 180 
+ (1 991)
+ 1 519 
+ 2 038 
+ 2 216 
+ 13 270 
+ 15 486 
+Retained earnings
+ 3 868 
+ 629 
+ 47 
+ 2 965 
+ 3 592 
+ (236)
+ 10 865 
+ (7 576)
+ 3 289 
+Other equity reserves
+ 69 
+ 6 
+ 2 
+ (1 200)
+ 973 
+ (56)
+ (206)
+ (4 484)
+ (4 690)
+Non-controlling interests
+–
+–
+–
+ 295 
+–
+–
+ 295 
+ 1 007 
+ 1 302 
+TOTAL SEGMENT EQUITY
+ 3 962 
+ 1 080 
+ 229 
+ 69 
+ 6 084 
+ 1 746 
+ 13 170 
+ 2 217 
+ 15 387 
+Segment liabilities
+Reinsurance liabilities
+ 25 
+ 3 
+–
+–
+–
+–
+ 28 
+–
+ 28 
+Insurance liabilities
+ 1 945 
+ 646 
+–
+–
+ 10 295 
+ 20 
+ 12 906 
+–
+ 12 906 
+Other liabilities1
+ 1 871 
+ 2 197 
+ 103 
+ 170 
+ 1 468 
+ 86 
+ 5 895 
+ 41 
+ 5 936 
+TOTAL SEGMENT LIABILITIES
+ 3 841 
+ 2 846 
+ 103 
+ 170 
+ 11 763 
+ 106 
+ 18 829 
+ 41 
+ 18 870 
+TOTAL SEGMENT EQUITY AND 
+LIABILITIES
+ 7 803 
+ 3 926 
+ 332 
+ 239 
+ 17 847 
+ 1 852 
+ 31 999 
+ 2 258 
+ 34 257 
+1	 The revolving credit facility of R1 350 million in OUTsurance Holdings Limited is included in the central and consolidation adjustments column but is largely offset by the consolidation entry relating to the intercompany 
+lease liability.
+OUTsurance Group Limited Consolidated annual financial statements for the year ended 30 June 2025
+65
+65
+
+--- PAGE 67 (matched: geographic_foreign_revenue) ---
+Notes to the consolidated annual financial statements continued
+4. 	
+Segment information continued
+Reconciliation of normalised earnings to headline earnings attributable to ordinary shareholders as per note 13.
+R million
+2025
+2025
+2024
+Normalised earnings per segment report
+ 4 728 
+3 536 
+Taxation on capital gain in respect of the OHL share trust wind-up
+ (92)
+–
+Adjustment for Group treasury shares and treatment of share  
+incentive scheme
+ (30)
+ 2 
+Remeasurement of contingent receivable
+ (27)
+–
+Fair value adjustments on derivative financial instruments
+ 12 
+ (9)
+Amortisation of intangible assets relating to business combinations
+ (4)
+ (4)
+Discounting effect of deferred receivable on associate sold
+ (2)
+–
+HEADLINE EARNINGS ATTRIBUTABLE TO ORDINARY SHAREHOLDERS  
+PER NOTE 13
+ 4 585 
+ 3 525 
+Normalised earnings adjustments are applied where the Group believes that certain transactions create a 
+mismatch between the Group’s accounting and economic performance. Normalised earnings are therefore 
+considered to most accurately reflect the Group’s economic performance.
+Taxation on capital gain: Capital gains tax on the long-term cumulative build up of gain on treasury shares in 
+the OHL Share Trust. Due to the non-operating nature of the wind-up of the share trust, this tax is excluded.
+Adjustment for Group treasury shares: The Group views treasury shares held by group companies as having 
+economic value and therefore adjusts for the impact of the elimination thereof to derive normalised earnings. 
+Dividend income, the tax effect on fair value gains on treasury shares held, and the tax effect on the difference 
+between equity and cash settled treatment of CSP share scheme as well as the difference between actual and 
+effective shareholding in OHL were included in this adjustment.
+Remeasurement of contingent receivable: Remeasurement of the expected remaining proceeds on the sale of 
+held for sale assets in the prior financial year.
+Fair value adjustments: The fair value adjustments on derivative financial instruments relate to gains and losses 
+on hedges of capital investments. These transactions are considered normalised earnings adjustments as they 
+are entered into to manage the Group’s capital and are not part of ordinary operations.
+Amortisation of intangible assets: The Group has always viewed the amortisation of intangible assets relating to 
+business combinations as non-operational in nature and therefore excludes it from the normalised earnings 
+that are presented to the chief operating decision maker.
+5. 	
+Administration and other revenue
+R million
+2025
+2025
+2024
+Government grant received
+ 17 
+ 55 
+Commission income¹
+ 42 
+ 38 
+Fees received from investment advice and investment administration services
+ 24 
+ 29 
+Fees received from contact centre services
+ 367 
+ 376 
+Other income
+–
+ 4 
+TOTAL ADMINISTRATION AND OTHER REVENUE
+ 450 
+ 502 
+1	 Commission income relates to SASRIA commission earned.
+	
+Government grant received
+The Group qualifies for a job-creation incentive associated with call centre activities of Youi and Hastings 
+offshored to South Africa. The incentive is accounted for based on the actual incentive qualified for during the 
+financial year under review. In order to satisfy the requirements of the grant a minimum number of jobs must 
+be created and maintained for previously unemployed individuals.	
+OUTsurance Group Limited Consolidated annual financial statements for the year ended 30 June 2025
+66
+66
+
+--- PAGE 68 (matched: context) ---
+Notes to the consolidated annual financial statements continued
+6. 	
+Investment income and Interest income on financial assets using 
+the effective interest method
+R million
+2025
+2025
+2024
+Investment income:
+ 287 
+ 290 
+Interest – financial assets at fair value through profit or loss
+ 199 
+ 205 
+Dividends – listed equities
+ 61 
+ 56 
+Dividends – unlisted equities
+ 27 
+ 28 
+Dividends – other financial assets
+–
+ 1 
+Interest income on financial assets using the effective interest method
+ 1 349 
+ 1 284 
+Interest – financial assets measured at amortised cost
+ 788 
+ 704 
+Interest – financial assets at fair value through other  
+comprehensive income
+ 561 
+ 580 
+TOTAL INVESTMENT INCOME AND INTEREST INCOME ON FINANCIAL 
+ASSETS USING THE EFFECTIVE INTEREST METHOD
+ 1 636 
+ 1 574 
+7. 	
+Net gains from fair value adjustments on financial assets and change 
+in expected credit losses on financial assets
+R million
+Fair value 
+through profit 
+or loss
+Fair value 
+through other 
+comprehensive 
+income
+Measured
+at amortised
+cost
+Total
+2025
+Net realised gain on financial assets
+ 44 
+– 
+– 
+ 44 
+Net unrealised fair value gain
+ 471 
+– 
+– 
+ 471 
+Net gain from fair value adjustments on 
+financial assets
+ 515 
+– 
+– 
+ 515 
+Expected credit loss on financial assets 
+reversed
+– 
+– 
+ 26 
+ 26 
+Effect on profit or loss
+ 515 
+– 
+ 26 
+ 541 
+Fair value loss on financial assets at fair 
+value through other comprehensive 
+income
+– 
+ (421)
+– 
+ (421)
+Expected credit loss on financial assets
+– 
+ (1)
+– 
+ (1)
+EFFECT ON TOTAL COMPREHENSIVE 
+INCOME
+ 515 
+ (422)
+ 26 
+ 119 
+2024
+Net realised loss on financial assets
+– 
+ (3)
+– 
+ (3)
+Net unrealised fair value gain
+ 54 
+– 
+– 
+ 54 
+Net gain/(loss) from fair value adjustments 
+on financial assets
+ 54 
+ (3)
+– 
+ 51 
+Expected credit loss on financial assets 
+reversed
+– 
+ 3 
+– 
+ 3 
+Effect on profit or loss
+ 54 
+– 
+– 
+ 54 
+Fair value gain on financial assets at fair 
+value through other comprehensive 
+income
+– 
+ 5 
+– 
+ 5 
+EFFECT ON TOTAL COMPREHENSIVE 
+INCOME
+ 54 
+ 5 
+– 
+ 59 
+Refer to note 3.3.1 for the fair value hierarchy of financial instruments measured at fair value, which provides 
+more information on what instruments were measured using quoted market prices and what measurement 
+techniques were used for instruments that do not have quoted market prices.	
+OUTsurance Group Limited Consolidated annual financial statements for the year ended 30 June 2025
+67
+67
+
+--- PAGE 69 (matched: context) ---
+Notes to the consolidated annual financial statements continued
+8. 	
+Net insurance finance expenses
+R million
+OUTsurance
+Youi 
+Group
+OUTsurance 
+Life
+Total
+2025
+Finance expense from insurance 
+contracts issued
+ (135)
+ (185)
+ (132)
+ (452)
+Interest accreted
+ (121)
+ (135)
+ (53)
+ (309)
+Effect of changes in interest rates and other 
+financial assumptions
+ (14)
+ (50)
+ 87 
+ 23 
+Effect of measuring changes in estimates at 
+current rates and adjusting the CSM rates on 
+initial recognition
+–
+–
+ (166)
+ (166)
+Finance income from reinsurance  
+contracts held
+–
+ 95 
+ 61 
+ 156 
+Interest accreted
+–
+ 67 
+ 5 
+ 72 
+Effect of changes in interest rates and other 
+financial assumptions
+–
+ 28 
+ (4)
+ 24 
+Effect of measuring changes in estimates at 
+current rates and adjusting the CSM rates on 
+initial recognition
+–
+–
+ 60 
+ 60 
+NET INSURANCE FINANCE EXPENSES
+ (135)
+ (90)
+ (71)
+ (296)
+2024
+Finance expense from insurance  
+contracts issued
+ (142)
+ (76)
+ (125)
+ (343)
+Interest accreted
+ (131)
+ (82)
+ (32)
+ (245)
+Effect of changes in interest rates and other 
+financial assumptions
+ (11)
+ 6 
+ (56)
+ (61)
+Effect of measuring changes in estimates at 
+current rates and adjusting the CSM rates on 
+initial recognition
+–
+–
+ (37)
+ (37)
+Finance income from reinsurance  
+contracts held
+ 1 
+ 39 
+ 62 
+ 102 
+Interest accreted
+ 1 
+ 40 
+ 11 
+ 52 
+Effect of changes in interest rates and other 
+financial assumptions
+–
+ (1)
+ 26 
+ 25 
+Effect of measuring changes in estimates at 
+current rates and adjusting the CSM rates on 
+initial recognition
+–
+–
+ 25 
+ 25 
+NET INSURANCE FINANCE EXPENSES
+ (141)
+ (37)
+ (63)
+ (241)
+The insurance finance expense and reinsurance finance income were immaterial for OUTsurance Ireland.
+The majority of assets backing the insurance liabilities for OUTsurance and OUTsurance Life are invested in 
+money market portfolios of which the yield curve is similar to what was applied in discounting the insurance 
+liabilities.
+For Youi which has term deposits invested in banks to support their insurance obligations, income earned is a 
+proxy of the yields with similar durations.
+OUTsurance Group Limited Consolidated annual financial statements for the year ended 30 June 2025
+68
+68
+
+--- PAGE 70 (matched: fx_exposure) ---
+Notes to the consolidated annual financial statements continued
+9. 	
+Operating expenses
+The following expenses have been included in the statement of profit or loss and other comprehensive income 
+under operating expenses:
+R million
+2025
+2025
+2024
+Depreciation
+Buildings
+ (124)
+ (87)
+Computer and office equipment
+ (82)
+ (68)
+Furniture and fittings
+ (16)
+ (10)
+Motor vehicles
+ (19)
+ (11)
+Amortisation
+Purchased computer software
+ (9)
+ (6)
+Internally generated computer software
+ (40)
+ (32)
+TOTAL DEPRECIATION AND AMORTISATION
+ (290)
+ (214)
+Employee benefits
+Salaries excluding retirement funding
+(4 680)
+ (4 335)
+Medical aid contributions
+ (177)
+ (180)
+Retirement funding
+ (398)
+ (347)
+Share-based payments
+ (1 481)
+ (651)
+Other staff expenses
+ (35)
+ (36)
+TOTAL EMPLOYEE BENEFITS
+(6 771)
+ (5 549)
+Other disclosable items
+Audit fees1
+ (23)
+ (28)
+ISA 700 external audit fees
+(21)
+ (24)
+Other assurance/regulatory services
+(2)
+ (4)
+Loss on sale of property and equipment
+ (1)
+–
+Consulting and legal fees for professional services
+ (95)
+ (159)
+Investment fees paid
+ (12)
+ (13)
+Foreign exchange gain/(loss)
+ 21 
+ (5)
+Acquisition expenses2
+ (316)
+ (564)
+Marketing and management expenses
+(4 186)
+ (2 869)
+TOTAL OTHER DISCLOSABLE EXPENSES
+(4 612)
+ (3 638)
+TOTAL OPERATING EXPENSES INCLUDING DIRECTLY ATTRIBUTABLE 
+EXPENSES
+ (11 673)
+ (9 401)
+Directly attributable operating expenses3
+ 9 399 
+ 7 755 
+TOTAL OPERATING EXPENSES EXCLUDING DIRECTLY ATTRIBUTABLE 
+EXPENSES
+ (2 274)
+ (1 646)
+1	 No non-audit services provided.
+2	 Acquisition expenses include both standard commission and spotter fees.
+3	 Expenses directly attributable in fulfilling the obligation under the insurance contracts and included in the "Insurance service expense" 
+line in the Statement of profit or loss and other comprehensive income.
+OUTsurance Group Limited Consolidated annual financial statements for the year ended 30 June 2025
+69
+69
+
+--- PAGE 71 (matched: context) ---
+Notes to the consolidated annual financial statements continued
+10. 	
+Finance costs
+R million
+2025
+2025
+2024
+Interest paid – operational financing
+Interest paid on revolving credit facility
+ (33)
+ (57)
+Interest charge on lease liabilities
+ (13)
+ (8)
+Interest on Total Return Swap
+(44)
+–
+Other interest
+(10)
+ (4)
+Guarantee fee
+(29)
+–
+Commitment fee on credit revolving facility
+ (7)
+ (4)
+TOTAL FINANCE COSTS
+ (136)
+ (73)
+11.	
+Taxation
+R million
+2025
+2025
+2024
+South African normal taxation
+Current taxation
+Current year
+ (1 594)
+ (1 030)
+Prior year over provision
+– 
+ 3 
+Deferred taxation
+Current year
+ 159 
+ (104)
+Australian normal taxation
+Current taxation
+Current year
+ (1 081)
+ (516)
+Prior year under provision
+– 
+ (11)
+Deferred taxation
+Current year
+ 54 
+ (134)
+Ireland normal taxation
+Current taxation
+Current year
+– 
+ (2)
+TOTAL TAXATION CHARGE
+ (2 462)
+ (1 794)
+OUTsurance Group Limited Consolidated annual financial statements for the year ended 30 June 2025
+70
+70
+
+--- PAGE 72 (matched: context) ---
+Notes to the consolidated annual financial statements continued
+11.	
+Taxation continued
+The tax on the group’s profit before taxation differs from the theoretical amount that would arise using the 
+basic tax rate of South Africa as follows:
+R million
+2025
+2025
+2024
+PROFIT BEFORE TAXATION
+ 7 681 
+ 6 285 
+Tax rate reconciliation
+Effective tax rate
+ 32.05 
+ 28.54 
+Tax effect of
+(3.64)  
+ (0.71)
+Fair value adjustment1
+1.66
+ 0.19 
+Non-taxable income2
+0.54  
+ 0.08 
+Share-based payment schemes in the Group3
+(0.79)
+ 0.28 
+Capital gains tax
+(1.13)  
+ (0.32)
+Foreign tax rate differential
+(1.52)
+ (1.73)
+Exempt dividends
+0.20  
+ 0.29 
+Equity accounted earnings
+0.67  
+ 0.54 
+Fair value adjustments to financial liabilities
+(0.10)  
+ (0.86)
+Impairment of investment in associate
+–
+ (0.04)
+Change in shareholding of investment in associates
+–
+ 1.15 
+Non-allowable expenses3,4
+(3.17)
+ (0.57)
+Profit/loss on sale of subsidiaries/associates
+–  
+ 0.28 
+Assessment adjustment
+–  
+ (0.14)
+Reversal of deferred tax asset
+–  
+ (0.13)
+Assessed loss utilised
+–  
+ (0.02)
+Deferred tax asset not utilised
+(1.41)
+ (0.54)
+STANDARD INCOME TAXATION RATE IN SOUTH AFRICA
+27.00
+ 27.00 
+1 	 Includes the Capital Gains Tax (CGT) exempt portion on the fair value adjustments of capital assets.	
+2 	 Includes transfers of payroll provisions that are non-taxable in terms of the Income Tax Act.	
+3 	 The effect of the consolidation entries relating to the Youi Group DIS scheme has been included in the tax rate reconciliation due to the 
+differences in classification throughout the Group (refer to note 30). The prior financial year has been updated accordingly.
+4 	 These expenses are non-allowable due to the allocation of the taxable and non-taxable income earned by the entity. This non-taxable 
+income is mainly as a result of income being derived from dividends received in a holding company structure.	
+	
+The increase in the current tax for the Group can be attributed to the tax incurred on the wind-up of the Share 
+Trust, the legislative change relating to the phasing in amounts under IFRS 17 as well as increase in profits in 
+Australia.
+12.	
+Earnings per share
+Earnings per share is calculated by dividing the earnings attributable to shareholders by the weighted number 
+of ordinary shares in issue during the year.
+R million
+2025
+2025
+2024
+Earnings attributable to ordinary shareholders 
+ 4 707 
+ 4 061 
+Weighted average number of ordinary shares in issue (full amount) 
+ 1 537 128 700 
+ 1 529 845 582 
+Earnings per share (cents) 
+ 306.2 
+ 265.5 
+Earnings attributable to ordinary shareholders 
+ 4 707 
+ 4 061 
+Dilutory impact of the share incentive schemes on earnings1
+(24)
+ (68)
+Diluted earnings attributable to ordinary shareholders 
+4 683
+ 3 993 
+Weighted average number of ordinary shares in issue (full amount) 
+1 544 006 450
+ 1 529 845 582 
+Diluted earnings per share (cents) 
+303.3
+ 261.0 
+1	 The dilutory impact relates to the Group’s shareholding diminishing due to the vesting of share options in Group companies.
+OUTsurance Group Limited Consolidated annual financial statements for the year ended 30 June 2025
+71
+71
+
+--- PAGE 73 (matched: fx_exposure) ---
+Notes to the consolidated annual financial statements continued
+13. 	
+Headline earnings per share
+Headline earnings per share is calculated by dividing the adjusted earnings attributable to shareholders by the 
+weighted number of ordinary shares in issue during the year.	
+	
+	
+	
+	
+	
+Headline earnings reconciliation
+2025
+2024
+R million
+Gross
+Net
+Gross
+Net
+ Earnings attributable to ordinary shareholders 
+ 4 707 
+ 4 061 
+ Adjustments for: 
+– Profit on disposal of investments in associates
+ (153)
+ (110)
+ (40)
+ (40)
+– Profit on sale of assets held for sale
+ (35)
+ (23)
+ (52)
+ (52)
+– Impairment of assets held for sale1
+ 10 
+ 10 
+ – 
+ – 
+– Loss on disposal of property and equipment1
+ 1 
+ 1 
+ – 
+ – 
+– Profit on dilution of investments in associates
+ – 
+ – 
+ (511)
+ (448)
+– Impairments of investments in associates1
+ – 
+ – 
+ 9 
+ 9 
+– Realised foreign exchange gain on sale of  
+investment in associate1
+ – 
+ – 
+ (5)
+ (5)
+HEADLINE EARNINGS ATTRIBUTABLE TO ORDINARY 
+SHAREHOLDERS 
+ 4 585 
+ 3 525 
+1 	 There is no tax impact on these headline earnings adjustments as they relate to a net capital loss from a tax perspective. 
+R million
+2025
+2025
+2024
+Headline earnings attributable to ordinary shareholders 
+ 4 585 
+ 3 525 
+Weighted average number of ordinary shares in issue (full amount) 
+ 1 537 128 700 
+ 1 529 845 582 
+Headline earnings per share (cents) 
+ 298.3 
+ 230.4 
+Headline earnings attributable to ordinary shareholders 
+ 4 585 
+ 3 525 
+Dilutory impact of the share incentive schemes on earnings1
+(24)
+ (67)
+Diluted headline earnings attributable to ordinary shareholders 
+4 561
+ 3 458 
+Weighted average number of ordinary shares in issue (full amount) 
+1 544 006 450
+ 1 529 845 582 
+Diluted headline earnings per share (cents) 
+295.4
+ 226.0 
+1 	 The dilutory impact relates to the Group’s shareholding diminishing due to the vesting of share options in Group companies. 
+14. 	
+Dividend per share
+R million
+2025
+2025
+2024
+Total dividends paid during the year 
+ 3 714 
+ 2 259 
+Total dividends declared relating to the profit for the year 
+4 171
+ 3 299 
+Number of issued shares at the end of the year
+ 1 547 231 505 
+ 1 537 535 862 
+Dividend declared per share – Normal (cents) 
+ 237.6 
+ 174.4 
+Dividend declared per share – Special (cents) 
+ 33.1 
+ 40.0 
+TOTAL DIVIDEND 
+ 270.7 
+ 214.4 
+OUTsurance Group Limited Consolidated annual financial statements for the year ended 30 June 2025
+72
+72
+
+--- PAGE 74 (matched: context) ---
+Notes to the consolidated annual financial statements continued
+15.	
+Property and equipment
+R million
+Land and
+buildings
+Computer
+equipment
+Furniture
+fittings
+and office
+equipment
+Motor
+vehicles
+Total
+Year ended 30 June 2025
+Opening net book amount
+ 921 
+ 215 
+ 63 
+ 6 
+ 1 205 
+Cost
+1 281
+659
+149
+8
+2 097
+Accumulated depreciation
+(360)
+(444)
+(86)
+(2)
+(892)
+Additions
+ 188 
+ 111 
+ 69 
+ 5 
+ 373 
+Disposals
+ (154)
+ (2)
+ (31)
+ (5)
+ (192)
+Foreign exchange adjustments
+ (27)
+ (3)
+–
+–
+ (30)
+Depreciation charge
+ (51)
+ (82)
+ (16)
+ (2)
+ (151)
+CLOSING NET BOOK AMOUNT
+ 877 
+ 239 
+ 85 
+ 4 
+ 1 205 
+At 30 June 2025
+Cost
+ 1 066 
+ 700 
+ 168 
+ 6 
+ 1 940 
+Accumulated depreciation
+ (189)
+ (461)
+ (83)
+ (2)
+ (735)
+NET BOOK AMOUNT
+ 877 
+ 239 
+ 85 
+ 4 
+ 1 205 
+OUTsurance Group Limited Consolidated annual financial statements for the year ended 30 June 2025
+73
+73
+
+--- PAGE 79 (matched: context) ---
+Notes to the consolidated annual financial statements continued
+18. 	
+Subsidiaries continued
+Subsidiary
+Nature of
+business
+Country of
+Incorporation
+Issued ordinary shares
+Effective holdings
+2025
+R million
+2024
+R million
+2025
+%
+2024
+%
+Indirectly held via RMI Treasury Company Limited:
+AlphaCode Proprietary Limited
+Holdings company
+South Africa
+ 37 
+ 37 
+ 100 
+ 100 
+Firness International Proprietary Limited
+Holdings company
+South Africa
+ 1 874 
+ 1 874 
+ 100 
+ 100 
+RMI Investment Holdings Proprietary Limited
+Holdings company
+South Africa
+ 835 
+ 835 
+ 100 
+ 100 
+RMI Invest One Proprietary Limited
+Holdings company
+South Africa
+ 26 
+ 26 
+ 100 
+ 100 
+RMI Invest Two Proprietary Limited
+Holdings company
+South Africa
+ 239 
+ 239 
+ 100 
+ 100 
+RMI Invest Three Proprietary Limited
+Holdings company
+South Africa
+ 499 
+ 499 
+ 100 
+ 100 
+RMI Invest Four Proprietary Limited
+Holdings company
+South Africa
+ 69 
+ 69 
+ 100 
+ 100 
+RMI Invest Five Proprietary Limited8
+Holdings company
+South Africa
+ –
+ –
+ 100 
+ 100 
+RMI Invest Six Proprietary Limited8
+Holdings company
+South Africa
+ –
+ –
+ 100 
+ 100 
+RMI Investment Managers Affiliates 1 Proprietary Limited
+Holdings company
+South Africa
+ 248 
+ 248 
+ 100 
+ 100 
+RMI Investment Managers Group Proprietary Limited
+Holdings company
+South Africa
+ 719 
+ 719 
+ 100 
+ 100 
+1 	 The OHL shares previously held by the share trust was acquired by the company during the current financial year. The effective shareholding for the prior financial year is after consolidating the share trust.
+2 	 The company’s investment in RMI Asset Holdings was derecognised following the filing of the liquidation of the company.
+3 	 During the current financial year, the company received R718 000 000 in cash from RMI Treasury Company Limited as a return of capital distribution.
+4 	 During the current financial year, the Group made additional share capital investment of R191 million (€10 million) (2024: R1 870 million (€91.1 million)) in OUTsurance Designated Activity Company and OUTsurance Irish 
+Insurance Holdings Ltd through its interest in OUTsurance International Holdings Proprietary Limited.	
+5 	 As part of the Group’s capital optimisation strategy, the Centurion Head office building and other minor assets were sold internally to OUTsurance Insurance Company Limited. OUTsurance Properties Proprietary Limited 
+declared a final dividend of R7 million and is in the process of being wound-up.
+6 	 Youi New Zealand Proprietary Limited operationally ceased its activities in June 2024 and formally deregistered as a company in the current financial period.	
+7 	 An amount of R10 000 relating to Youi Properties Proprietary Limited issued ordinary capital in the current and prior financial years were excluded due to rounding.	
+8 	 Amounts of R100 relating to these investments were excluded due to rounding.	 	
+OUTsurance Group Limited Consolidated annual financial statements for the year ended 30 June 2025
+78
+78
+
+--- PAGE 80 (matched: fx_exposure) ---
+Notes to the consolidated annual financial statements continued
+18. 	
+Subsidiaries continued
+	
+Investment in Ireland
+During the prior financial year, the Group made additional share capital investments of €91.1 million in Ireland, 
+OUTsurance Irish Insurance Holdings Limited (OUTsurance Irish Holdings), and its 100% owned subsidiary, 
+OUTsurance Designated Activity Company (OUTsurance DAC), the operational entity.
+In addition to the share capital investment, the Group committed capital to fund the growth in OUTsurance DAC 
+by subscribing for additional shares in OUTsurance Irish Holdings to the value of €10 million per year for five 
+years until 2029.
+In line with the capital commitment agreement an investment of €10 million was made on 1 November 2024 at 
+a spot rate of R20.53 with a total foreign exchange gain of R0.1 million.
+Up to 15% of the issued ordinary share capital of OUTsurance Irish Holdings can be made available under the 
+employee share capital scheme in Ireland.
+All subsidiaries are included in the consolidation. The proportion of voting rights in subsidiaries does not differ 
+from the proportion of ordinary shares held. 
+	
+Effective interest in subsidiaries
+In the prior financial year, there was a difference between the effective and actual holdings in associates and 
+subsidiaries as a result of the consolidation by such entities of:
+	• Treasury shares held by them; and
+	• Shares held in them by their share incentive trusts.
+The effective interest held can be compared to the actual interest held by OGL in the statutory share capital of 
+the companies as follows:
+%
+Interest held
+2025
+2024
+Effective
+Actual
+Effective
+Actual
+OUTsurance Holdings Limited
+92.75
+92.75
+92.15
+90.45
+RMI Treasury Company Limited
+100
+100
+100
+100
+RMI Investment Managers
+100
+100
+100
+100
+OUTsurance Group Limited Consolidated annual financial statements for the year ended 30 June 2025
+79
+79
+
+--- PAGE 81 (matched: context) ---
+Notes to the consolidated annual financial statements continued
+18. 	
+Subsidiaries continued
+	
+Effective interest in subsidiaries continued
+R million
+2025
+2025
+2024
+OUTsurance Holdings Limited
+Financial year: 30 June
+Year used for consolidation: 30 June
+Number of shares held
+3 523 520 226
+ 3 436 208 444 
+Equity shares at cost
+ 12 039 
+ 10 068 
+Net profit for the year
+ 5 285 
+ 3 993 
+Results for the year ended 30 June
+Income statement
+Insurance revenue
+ 37 131 
+ 31 913 
+Insurance service expenses
+ (28 668)
+ (24 977)
+Net expenses from reinsurance contracts held
+ (882)
+ (1 347)
+Insurance service result
+ 7 581 
+ 5 589 
+Administration and other income
+ 450 
+ 498 
+Net investment income
+ 2 455 
+ 1 536 
+Investment income
+ 282 
+ 216 
+Interest income on financial assets using the effective interest rate method
+ 1 316 
+ 1 255 
+Net gains from fair value adjustments on financial assets
+ 857 
+ 62 
+Expected credit losses reversed on financial assets
+ –  
+ 3 
+Net insurance finance expenses
+ (296)
+ (241)
+Finance expenses from insurance contracts issued
+ (452)
+ (343)
+Finance income from reinsurance contracts held
+ 156 
+ 102 
+Fair value adjustment to financial liabilities
+ (211)
+ (200)
+Net insurance administration and investment result
+ 9 979 
+ 7 182 
+Operating expenses
+ (2 355)
+ (1 567)
+Finance costs
+ (131)
+ (73)
+Equity accounted earnings
+ 67 
+ 91 
+Profit on sale of subsidiary
+ –  
+ 22 
+Loss on change in shareholding of investments in associates
+ –  
+ (4)
+Profit on sale of associates
+ 176 
+ 44 
+Impairment of investment in asset held for sale
+ (10)
+ –  
+Profit before taxation
+ 7 726 
+ 5 695 
+Taxation
+ (2 441)
+ (1 702)
+PROFIT FOR THE YEAR
+ 5 285 
+ 3 993 
+Profit attributable to:
+Ordinary shareholders
+ 5 151 
+ 3 888 
+Non-controlling interests
+ 134 
+ 105 
+PROFIT FOR THE YEAR
+ 5 285 
+ 3 993 
+Financial position as at 30 June
+Current assets
+ 30 471 
+ 24 932 
+Non-current assets
+ 7 377 
+ 7 067 
+Current liabilities
+ (16 743)
+ (12 810)
+Non-current liabilities
+ (6 136)
+ (6 019)
+Cash flows for the year ended 30 June
+Cash inflow from operating activities
+5 724
+ 2 629 
+Cash outflow from investing activities
+(1 288)
+ (390)
+Cash outflow from financing activities
+ (4 301)
+ (2 267)
+OUTsurance Group Limited Consolidated annual financial statements for the year ended 30 June 2025
+80
+80
+
+--- PAGE 88 (matched: context) ---
+Notes to the consolidated annual financial statements continued
+19.	
+Investment in associates continued
+	
+Alphacode associates
+During the current financial year, in January 2025, an agreement was reached to dispose of Merchant Capital 
+Advisory Services Proprietary Limited (Merchant Capital) (an AlphaCode associate) by way of a company share 
+buy-back. This disposal is tranched over a period of 15 months with total proceeds amounting to R92 million. 
+The investment has been classified as held for sale with an effective date of 31 December 2024. Additiv 
+Proprietary Limited and its 100% subsidiary Additiv Capital Proprietary Limited changed from being previously 
+treated as an associate to a 100%-owned subsidiary as at 30 June 2025. The increase in shareholding is as a 
+result of the acquisition of all the shares not previously held for a nominal amount.
+During the prior financial year, the Group’s shareholding in an AlphaCode associate diluted to 14.7% resulting in 
+the Group losing significant influence and was therefore no longer considered to be an associate. The carrying 
+value of the associate was subsequently revalued to its fair value and then transferred to financial assets at fair 
+value through other comprehensive income.
+	
+CloudBadger Proprietary Limited
+CloudBadger is a banking platform service company operating in South Africa.
+The Sales Purchase Agreement (SPA) for the sale of Cloudbadger was signed on 1 July 2025, following the 
+signing of a Memorandum of Understanding (MOU) in December 2024. The SPA is binding following the 
+conditions precedent and pending approval of the competition commission of the authorities of Eswatini. The 
+investment in Cloudbadger is classified as held for sale as at 30 June 2025.
+During the prior financial year, the Group’s ownership in CloudBadger decreased from 46.0% to 45.0% as a 
+result of ordinary shares issued by the associate. The Group did not acquire any of the ordinary shares issued 
+which gave rise to the dilution of ownership to 45.0% resulting in the Group recognising a loss on change in 
+shareholding of R3.5 million.
+	
+Blue Zebra Insurance Proprietary Limited (BZI)
+The Group’s subsidiary, Youi Holdings had an associate investment in BZI, which is an insurance underwriting 
+agency operating in Australia.
+During the current financial year, Youi Holdings sold its share in BZI which was unconditional as at  
+30 June 2025. The interest was sold to Envest Pty Ltd for a total net proceeds of R526 million, resulting  
+in a profit of R176 million (pre-tax) included in profit or loss. The net proceeds is included in "other receivables" 
+as at 30 June 2025 which was received on 1 July 2025.
+During the prior financial year, Youi Holdings invested a further R38.9 million (A$3.2 million) relating to the 
+2.73% additional investment made on 26 May 2023 which increased the shareholding to 36.9%.
+	
+Investment in AutoGuru Australia Proprietary Limited (AutoGuru)
+At the beginning of the prior financial year, the Group held an equity share (25.09%) in AutoGuru, an Australian 
+based associate, which was sold during the prior financial year for an amount of R67.7 million, resulting in a 
+profit of R50.8 million.
+OUTsurance Group Limited Consolidated annual financial statements for the year ended 30 June 2025
+87
+87
+
+--- PAGE 89 (matched: fx_exposure) ---
+Notes to the consolidated annual financial statements continued
+19.	
+Investment in associates continued
+Profit on sale of associates are as follows:
+R million
+BZI
+2025
+AutoGuru
+2024
+Sales proceeds
+ 526 
+ 68 
+Foreign exchange gain1
+–
+ (8)
+Carrying amount of associate sold
+(350)
+ (16)
+PROFIT ON SALE OF ASSOCIATES
+ 176 
+ 44 
+1	 In the prior year the foreign exchange gain comprises of R5 million relating to the change in exchange rate on the cost price of the 
+original investment and R3 million relates to the gain from entering into a foreign exchange derivative for the sales price.
+Profit on change in shareholding of investment in associates:
+R million
+2024
+Fair value/carrying value of associates after dilution
+ 690 
+Carrying value of associates prior to dilution
+ (207)
+Effect of change in shareholding of investment in associates
+ 483 
+Other equity accounted reserves recycled to profit or loss
+ 26 
+PROFIT ON CHANGE IN SHAREHOLDING OF INVESTMENT IN ASSOCIATES
+ 509 
+Associates classified as held for sale are as follows:
+R million
+Merchant
+ Capital
+CloudBadger
+Total
+2025
+Carrying value at 1 July 2024
+ 58 
+ 135 
+ 193 
+Equity-accounted earnings for the year
+– 
+ (3)
+ (3)
+Dividends received for the year
+ (2)
+– 
+ (2)
+ASSOCIATES RECLASSIFIED AS HELD FOR SALE
+ 56 
+ 132 
+ 188 
+The Group had no classification of associates to held for sale during the prior financial year.
+The table below provides a summary of the financial information of the associates held within the Group:
+R million
+Polar Star
+ Management
+At 30 June 2025
+Statement of financial position
+Current assets
+ 93 
+Non-current assets
+ 1 065 
+Current liabilities
+ (775)
+Non-current liabilities
+ (10)
+EQUITY
+ 373 
+Statement of profit or loss and other comprehensive income
+Revenue
+ 608 
+After tax profit or loss
+ 501 
+Closing balance of cash and cash equivalents
+ 50 
+OUTsurance Group Limited Consolidated annual financial statements for the year ended 30 June 2025
+88
+88
+
+--- PAGE 90 (matched: fx_exposure) ---
+Notes to the consolidated annual financial statements continued
+19.	
+Investment in associates continued
+The table below provides a summary of the financial information of the associates held within the Group:
+R million
+Polar Star
+ Management
+Merchant
+ Capital
+CloudBadger
+Proprietary
+Limited
+Blue Zebra
+Insurance
+Proprietary
+Limited
+At 30 June 2024
+Statement of financial position
+Current assets
+ 99 
+ 492 
+86
+ 1 001 
+Non-current assets
+ 423 
+ 2 
+ 44 
+ 140 
+Current liabilities
+ (38)
+ – 
+ (5)
+ (728)
+Non-current liabilities
+ (6)
+ (307)
+ – 
+ (14)
+EQUITY
+ 478 
+ 187 
+125
+ 399 
+Statement of profit or loss and 
+other comprehensive income
+Revenue
+ 316 
+ 225 
+ 61 
+ 557 
+After tax profit or loss
+ 265 
+ 26 
+ – 
+ 260 
+Closing balance of cash  
+and cash equivalents
+ 45 
+ 28 
+ 9 
+ 683 
+The table below provides a reconciliation of the carrying value of the associates held within the Group:
+R million
+Polar Star
+ Management
+At 30 June 2025
+% of ownership1
+25.0%
+Nature of business
+ Asset
+Management 
+Place of business
+South Africa
+Opening net assets
+ 479 
+Profit for the year
+ 500 
+Foreign currency adjustments
+ (22)
+Dividend
+ (584)
+CLOSING NET ASSETS
+ 373 
+Interest in associates1
+ 95 
+Notional goodwill
+ 161 
+Foreign currency translation reserve attributable to notional goodwill
+ 2 
+CARRYING VALUE
+ 258 
+1	 The percentage of ownership have been rounded to one decimal for disclosure purposes, where the actual ownership percentage is at 
+least two decimals. This will have a slight impact on the interest in associates value being recalculated.
+OUTsurance Group Limited Consolidated annual financial statements for the year ended 30 June 2025
+89
+89
+
+--- PAGE 91 (matched: fx_exposure) ---
+Notes to the consolidated annual financial statements continued
+19.	
+Investment in associates continued
+The table below provides a reconciliation of the carrying value of the associates held within the Group:
+R million
+Polar Star
+ Management
+Merchant
+ Capital
+CloudBadger
+Proprietary
+Limited
+Blue Zebra
+Insurance
+Proprietary
+Limited
+At 30 June 2024
+% of ownership1
+25.0%
+21.2%
+45.0%
+36.9%
+Nature of business
+ Asset
+Management 
+ Fintech 
+Software
+Insurance
+underwriting
+agency
+Place of business
+South Africa
+South Africa
+United States
+of America
+ South Africa 
+ Australia 
+Opening net assets
+ 225 
+ 249 
+ 140 
+ 293 
+Profit/(loss) for the year2
+ 265 
+ (99)
+ – 
+ 260 
+Foreign currency adjustments
+ (13)
+ – 
+ – 
+ (11)
+Dividend
+ – 
+ 3 
+ – 
+ (110)
+Ordinary shares bought back
+ – 
+ – 
+ (2)
+ – 
+Share-based payment reserve movement
+ – 
+ – 
+ (19)
+ –
+Other adjustments to net asset value
+ 2 
+ 34 
+ 6 
+ (33)
+CLOSING NET ASSETS
+ 479 
+ 187 
+ 125 
+ 399 
+Interest in associates1
+ 120 
+ 40 
+ 56 
+ 147 
+Notional goodwill3
+ 161 
+ 20 
+ 79 
+ 179 
+Foreign currency translation reserve 
+attributable to notional goodwill3
+ – 
+ – 
+ 4 
+CARRYING VALUE
+ 281
+ 60 
+ 135 
+ 330 
+1	 The percentage of ownership have been rounded to one decimal for disclosure purposes, where the actual ownership percentage is at 
+least two decimals. This will have a slight impact on the interest in associates value being recalculated.
+2	 A loss for the current financial year of R358 000 relating to CloudBadger was excluded due to rounding.	
+3	 For the notional goodwill on Cloudbadger, R58.0 million relates to the remeasurement to the fair value of our retained investment in 
+CloudBadger on the date of loss of control.
+Additiv and Guidepost were deemed to have an immaterial carrying value respectively and were therefore not 
+shown in the prior financial year tables.
+OUTsurance Group Limited Consolidated annual financial statements for the year ended 30 June 2025
+90
+90
+
+--- PAGE 92 (matched: context) ---
+Notes to the consolidated annual financial statements continued
+20. 	
+Deferred tax
+Deferred tax assets and liabilities are offset when there is a legally enforceable right to offset current tax assets 
+against current tax liabilities and when the deferred taxes relate to the same fiscal authority.	
+Movement
+R million
+Opening 
+Balance
+Profit 
+or loss
+Other 
+compre–
+hensive
+ income
+Equity1
+Closing 
+Balance
+At 30 June 2025
+Deferred tax assets
+Provision relating to staff costs
+ 397 
+ 178 
+ – 
+ (7)
+ 568 
+Other provisions
+ 13 
+– 
+ – 
+ (1)
+ 12 
+Insurance contract assets
+ 103 
+ 54 
+ – 
+ (4)
+ 153 
+Fair value adjustments
+ 3 
+ (8)
+ – 
+ – 
+ (5)
+Service costs on employee benefits
+ (32)
+42
+ – 
+ – 
+ 10 
+Operating lease charges
+ (5)
+ 5 
+ – 
+ – 
+ – 
+Lease liabilities
+ 72 
+ 29 
+ – 
+ (2)
+ 99 
+Financial assets at fair value through other 
+comprehensive income
+ 1 
+ – 
+ – 
+ – 
+ 1 
+Allowances on fixed and intangible assets
+ 26 
+ 7 
+ – 
+ (1)
+ 32 
+Special transfer credit
+ 12 
+ (12)
+ – 
+ – 
+ – 
+Expected loss adjustment
+ 7 
+ – 
+ – 
+ – 
+ 7 
+Other
+ 34 
+ (9)
+ – 
+ 1 
+ 26 
+Reinsurance contract assets
+ (1)
+ 1 
+ – 
+ – 
+ – 
+Total before adjustment relating to offset
+ 630 
+287
+ – 
+ (14)
+903
+Adjustment relating to offset2
+ (323)
+(402)
+TOTAL DEFERRED TAX ASSETS
+ 307 
+ 501 
+Deferred tax liabilities
+Fair value adjustments
+ (199)
+(169)
+ 17 
+ 1 
+(350)
+Investment in associates3
+ (27)
+ 17 
+ – 
+ 1 
+ (9)
+Prepayments
+ (19)
+ 7 
+ – 
+ – 
+ (12)
+Operating lease charges
+ (1)
+ 1 
+ – 
+ – 
+ – 
+Right-of-use assets
+ (68)
+ (26)
+ – 
+ 2 
+ (92)
+Insurance contract liabilities
+ (262)
+ 135 
+ – 
+ – 
+ (127)
+Reinsurance contract assets
+ 39 
+ (8)
+ – 
+ – 
+ 31 
+Capital loss utilised
+ (1)
+ – 
+ – 
+ – 
+ (1)
+Other adjustments
+ 31 
+ (31)
+ – 
+ – 
+ – 
+Total before adjustment relating to offset
+ (507)
+(74)
+ 17 
+ 4 
+(560)
+Adjustment relating to offset2
+ 324 
+402
+TOTAL DEFERRED TAX LIABILITIES
+ (183)
+ (158)
+1	 Included in the equity movement is the movement in the FCTR on the deferred tax balances where applicable.
+2	 The adjustment relating to offset relates to the reclassification of the balance from the underlying companies to disclose the net position 
+per legal entity as the Group does not have a legal right of offset of the underlying companies.
+3	 The Group recognised a deferred tax liability of R9 million during the current financial year following the share buy-back transaction of an 
+associate resulting in a disposal of the associate in the current financial year. As per the share buy-back agreement, this deferred tax 
+liability will be settled within the next financial year. 
+	
+	
+OUTsurance Group Limited Consolidated annual financial statements for the year ended 30 June 2025
+91
+91
+
+--- PAGE 170 (matched: context) ---
+Notes to the consolidated annual financial statements continued
+41.	
+Summary of material accounting policies continued
+41.3 	 Recognition and measurement of insurance contracts continued
+41.3.10	Presentation and disclosure in the statement of profit or loss and other 
+comprehensive income continued 
+	• the change in the risk adjustment for non-financial risk, excluding: 
+	– changes that adjust the CSM because they relate to future services and amounts allocated to the loss 
+component of the LRC.
+	• the amount of the contractual service margin recognised in profit or loss in the period.
+The portion of premiums that relate to the recovery of insurance acquisition cash flows is calculated by using 
+the relevant coverage units as determined for the purpose of amortising the CSM to calculate the portion of 
+premiums that relate to the recovery of the acquisition cost.
+	
+Insurance service expense
+Insurance service expenses consist of incurred claims, other incurred insurance service expenses, amortisation 
+of insurance acquisition costs, changes to past services and changes to future services (i.e. changes in the 
+fulfilment cash flows that results in onerous contracts or the reversal of losses).
+For contracts measured under the GMM, amortisation of the acquisition cash flows reflected in insurance 
+service expense equals the portion recognised as revenue.
+For contract measured under the PAA, where acquisition cost have been deferred, acquisition cash flows are 
+amortised in line with revenue recognition.
+	
+Reinsurance 
+The Group has elected to present income and expenses from reinsurers as a net amount on the statement of 
+comprehensive income. 
+	
+Reinsurance expense
+For reinsurance contracts measured under the PAA, the Group recognises reinsurance premiums paid based on 
+the passage of time over the coverage period of the group of contracts. 
+For reinsurance contracts measured under the GMM, the Group recognises reinsurance expenses as changes in 
+the asset for remaining coverage. Reinsurance expense consists of:
+	• expected incurred claims, 
+	• other directly attributable expenses excluding amounts allocated to the loss recovery component,
+	• changes in the risk adjustment,
+	• CSM release,
+	• Experience adjustments that relates to past premiums paid.
+	
+Amounts recovered from reinsurers
+Amounts recovered from reinsurers consists of recoveries received on claims 
+	• less commission contingent on claims, 
+	• less mandatory reinstatement premiums,
+	• less loss recovery expenses.
+	
+Insurance finance income and expenses
+Insurance finance income and expenses consist of the following: 
+	• Changes of time value of money on the fulfilment cash flows for contracts measured under the GMM.
+	• Effects of financial risk and the changes in financial risk.
+	• Effect of discounting on the LIC for contracts measured under the PAA.
+The Group disaggregate the risk adjustment between insurance service expenses and insurance finance income 
+and expenses.
+The Group accounts for all insurance finance income and expenses (PAA and GMM) in profit or loss.
+OUTsurance Group Limited Consolidated annual financial statements for the year ended 30 June 2025
+169
+169
+
+--- PAGE 171 (matched: geographic_foreign_revenue) ---
+Notes to the consolidated annual financial statements continued
+41.	
+Summary of material accounting policies continued
+41.3 	 Recognition and measurement of insurance contracts continued
+41.3.11 Other
+At each reporting date, the Group disregards the treatment of estimates made in previous interim financial 
+statements. At the financial year-end, the estimates are updated on a year-to-date basis. As a result, the 
+treatment has been modified in the most recent reporting period compared to prior interim financial 
+statements. 
+41.3.12	Transition
+The Group has determined that it has reasonable and supportable information for all insurance contracts in 
+force at the time of transition. Therefore, the Group transitioned all insurance contracts issued and reinsurance 
+held using the full retrospective method. Accordingly, the Group classified and measured each group of 
+insurance contracts as if IFRS 17 has always applied.
+41.4	
+Accounting for profit sharing arrangements
+A profit sharing arrangement has been entered into between OUTsurance and FirstRand Bank Limited. In terms 
+of this profit sharing arrangement, ninety percent of the operating profit generated on the homeowners’ 
+insurance business referred by FirstRand Bank Limited businesses is paid to FirstRand Bank Limited by way of a 
+biannual preference dividend. Operating losses incurred are for the Group’s account. The Group however, 
+retains the right to offset such losses against future profits generated in the determination of any preference 
+dividends to be paid to the preference shareholder.
+These shareholders for preference share dividends are accounted for as a financial liability on the face of the 
+statement of financial position. The profit attributable to the preference shareholder is the fair value movement 
+and the payment of a dividend is treated as a partial settlement of the liability. No reference is made to future 
+profit estimates as these profit-sharing arrangements are executory in nature, i.e. the other party has certain 
+performance obligations to satisfy in order to share in the profit.
+The profitability of the profit sharing business is reviewed on a monthly basis to ensure that the Group is not 
+exposed to uneconomical risks over which it has no day-to-day management control.
+The policy for the recognition and measurement of insurance contracts applied to the profit sharing 
+arrangements is similar to the policy under 41.3 above.
+A profit sharing arrangement has been entered into between the OUTsurance Life and Shoprite Investments 
+Limited. In terms of this profit sharing arrangement, a portion of the operating profit generated on the funeral 
+insurance business distributed through the Shoprite distribution network is paid to Shoprite Investments 
+Limited by way of an annual preference dividend. Operating losses incurred are for the Group’s account. 
+41.5	
+Segment reporting
+The Group’s products and services are managed by various business units along geographical lines and product 
+categories. The segment information is presented by each distinct revenue-generating area representing groups 
+of similar products, consistent with the way the Group manages the business. Given the nature of operations, 
+there are no major single customers within any of the segments. 
+Operating segments are reported in a manner consistent with the internal reporting provided to the chief 
+operating decision-makers when making operating decisions and for allocating resources and assessing 
+performance. The chief operating decision maker has been identified as the group executive committee 
+(“EXCO”). Segments with a majority of revenue earned from charges to external customers and whose revenue, 
+results or assets are 10% or more of all the segments, are reported separately. Certain reporting adjustments 
+are provided separately to reconcile to IFRS Accounting Standards reported earnings.
+41.6	
+Foreign Currency
+41.6.1	 Functional and presentation currency
+Items included in the financial statements of each of the Group’s entities are measured using the currency of 
+the primary economic environment in which the entity operates (the functional currency).
+The consolidated financial statements are presented in South African Rand (R), which is the functional and 
+presentation currency of OUTsurance Holdings Limited.
+None of the Group entities operate in a hyperinflationary environment.
+OUTsurance Group Limited Consolidated annual financial statements for the year ended 30 June 2025
+170
+170
+
+--- PAGE 172 (matched: fx_exposure) ---
+Notes to the consolidated annual financial statements continued
+41.	
+Summary of material accounting policies continued
+41.6 	 Foreign Currency continued
+41.6.2	 Transactions and balances
+Foreign currency transactions are translated into the functional currency using the exchange rates prevailing at 
+the dates of the transactions. Monetary assets and liabilities in foreign currencies are translated to South 
+African Rand using the rates of exchange ruling at the financial year-end. Foreign exchange gains and losses 
+resulting from the settlement of such transactions and from the translation at year-end exchange rates of 
+monetary assets and liabilities denominated in foreign currencies are recognised in profit or loss.
+41.6.3	 Group companies
+	• Assets and liabilities for each reporting date presented are translated at the closing rate at the date of that 
+statement of financial position;
+	• income and expenses for each statement of profit or loss and other comprehensive income are translated at 
+the average exchange rate for the financial year. If this average is not a reasonable approximation of the 
+cumulative effect of the rates prevailing on the transaction date, the income and expenses are translated at 
+the transaction date rate; 
+	• all resulting exchange differences are recognised as a separate component of other comprehensive income 
+(foreign currency translation reserve); and
+	• items that are recognised directly in equity are translated using the historical rate.
+When a foreign operation is partially disposed of or sold, and control is lost, the Group’s portion of the 
+cumulative amount of the exchange differences that were recorded in other comprehensive income are 
+reclassified to profit or loss when the gain or loss on disposal is recognised. For partial disposals where control 
+is retained, the Group re-attributes the proportionate share of the cumulative exchange differences, recognised 
+in other comprehensive income to the non- controlling interest of the foreign operation.
+41.7	
+Property and equipment
+Property and equipment is carried at historical cost less accumulated depreciation and impairment. Historical 
+cost includes expenditure that is directly attributable to the acquisition of property and equipment.
+Gains or losses on disposals are determined by comparing sales proceeds with the carrying amount of the 
+asset, and are included in profit or loss. Repairs and renewals are charged to profit or loss when the 
+expenditure is incurred.
+	
+Depreciation
+Depreciation is calculated using the straight-line method to allocate historical cost to the residual values over 
+the estimated useful lives, as follows:
+Building fixtures and owner occupied property	
+between 20 and 50 years
+Computer equipment	
+2 to 11 years
+Fittings and office equipment 	
+5 to 13 years
+Motor vehicles	
+5 years
+Land is not depreciated
+Annual reviews of the residual values and useful lives of the assets are conducted in order to evaluate the 
+continued appropriateness of the above policy. Assets that are subject to depreciation are reviewed for 
+impairment whenever events or changes in circumstances indicate that the carrying amount may not be 
+recoverable. Where the carrying amount of an asset is greater than its estimated recoverable amount, it is 
+immediately written down to its recoverable amount. The recoverable amount is the higher of the asset’s fair 
+value less costs of disposal and value in use.
+	
+Owner-occupied properties
+Owner-occupied properties are held by the Group for use in the supply of services or, for its own administration 
+purposes.
+OUTsurance Group Limited Consolidated annual financial statements for the year ended 30 June 2025
+171
+171
+
+--- PAGE 173 (matched: context) ---
+Notes to the consolidated annual financial statements continued
+41.	
+Summary of material accounting policies continued
+41.8	
+Intangible assets
+41.8.1	 Computer software development costs
+Costs associated with research activities and maintaining computer software are recognised as an expense as 
+incurred.
+Costs that are directly attributable to identifiable software products controlled by the Group are recognised as 
+intangible assets if certain criteria are met. These costs comprise of all directly attributable costs necessary to 
+create, produce and prepare the asset for its intended use.
+Development costs are recognised as an intangible asset when all of the following criteria are met:
+	• The technical feasibility of the development can be demonstrated.
+	• The Group is able to demonstrate its intention and ability to complete and use the software.
+	• It can be demonstrated how the software product will generate probable future economic benefits.
+	• It can be demonstrated that adequate technical, financial and other resources to complete the development 
+and to use or sell the software product are available.
+	• The expenditure attributable to the software product during its development can be reliably measured.
+Development costs that do not meet these criteria are recognised as an expense as incurred. Development 
+costs previously recognised as an expense are not recognised as an asset in a subsequent period.
+Computer software development costs are recognised as assets from the point where the recognition criteria 
+above are satisfied, and are amortised once the asset is ready for use, on a straight line basis over the expected 
+useful life.
+The carrying amount of intangible assets are assessed annually for indication of impairment.
+The intangibles are subsequently measured at cost less accumulated amortisation and impairment.
+Amortisation is calculated using the straight-line method to allocate historical cost to the residual values over 
+the estimated useful lives as follows:
+Purchased computer software	
+2 to 7 years
+Internally generated computer 	
+5 to 10 years software
+The amortisation charge is reflected in operating expenses in profit or loss.
+41.9	
+Leases under IFRS 16
+41.9.1	 General
+Agreements where the counterparty retains control of the underlying asset are classified as leases. 	
+Leases are recognised as a right-of-use asset with a corresponding lease liability at the date at which the leased 
+asset is available for use by the Group. Each lease payment is allocated between the liability and finance cost. 
+The finance cost is charged to profit or loss over the lease period so as to produce a constant periodic rate of 
+interest (the incremental borrowing rate) on the remaining balance of the liability for each period. The right-of-
+use asset is depreciated over the shorter of the asset’s useful life and the lease term on a straight-line basis.
+Lease terms are negotiated on an individual basis and contain a wide range of different terms and conditions. 
+Periods covered by an option to extend the lease is included if the Group is reasonably certain to exercise that 
+option taking into account, among others, the remaining term of the original lease, refurbishments, changing 
+technology and cost-saving initiatives. The lease agreements do not impose any covenants, but leased assets 
+may not be used as security for borrowing purposes.
+Assets and liabilities arising from a lease are initially measured on a present value basis discounted using the 
+lessee’s incremental borrowing rate. 
+The incremental borrowing rate utilised by the Group for the various lease assets is as follows: 
+	• Properties – a risk-free rate with a market risk premium/spread added to it.
+	• Vehicles – the prime lending rate.
+	• Equipment – the prime lending rate.	
+In determining the incremental borrowing rate, the expiry date of each individual lease contract is considered in 
+setting the forward risk-free rate applicable on the date of the termination of the lease to valuation date.
+OUTsurance Group Limited Consolidated annual financial statements for the year ended 30 June 2025
+172
+172
+
+--- PAGE 175 (matched: context) ---
+Notes to the consolidated annual financial statements continued
+41.	
+Summary of material accounting policies continued
+41.10	 Impairment review – Non financial assets
+A periodic review of the carrying amount of the Group’s assets is conducted and, where there are indications 
+that the value of an asset may be impaired, an impairment loss is recognised.
+An impairment loss is recognised for the amount by which the asset’s carrying amount exceeds its recoverable 
+amount. The recoverable amount is the higher of an asset’s fair value less costs of disposal and value in use. 
+The difference between the carrying amount and the recoverable amount is charged to profit or loss for the 
+financial year in which the impairment is identified, to reduce the carrying amount of such impaired asset to its 
+estimated recoverable amount. Should an event occur after the recognition of an impairment, which increases 
+the recoverable amount of the previously impaired asset, the impairment of the asset, or a portion thereof, is 
+reversed through profit or loss. The adjusted carrying value may not exceed what the carrying value would have 
+been had the impairment not been recognised before.
+41.11	 Assets held for sale
+Non-currents assets are classified as held-for-sale if it is highly probable that they will be recovered primarily 
+through sale rather than through continuing use.
+They are measured at the lower of their carrying amount and fair value less costs to sell, except for assets such 
+as deferred tax assets, assets arising from employee benefits, financial assets and investment property that are 
+carried at fair value and groups of contracts within the scope of IFRS 17 Insurance Contracts, which are 
+specifically exempt from this requirement.
+Once classified as held-for-sale, assets are no longer depreciated or amortised, and any equity-accounted 
+investee is no longer equity accounted.
+An impairment loss is recognised for any initial or subsequent write-down of the asset to fair value less costs to 
+sell. A gain is recognised for any subsequent increases in fair value less costs to sell of an asset, but not in 
+excess of any cumulative impairment loss previously recognised. A gain or loss not previously recognised by the 
+date of the sale of the non-current asset (or disposal group) is recognised at the date of derecognition.
+Consideration deferred overtime, is recognised at the cash value of the deferred consideration at the date of 
+the sale.
+Consideration contingent on the outcome of certain performance measures, post the sale of an asset, is initially 
+recognised at the best estimate of the consideration at the date of the sale, and subsequently remeasured at 
+the fair value of the consideration receivable at each reporting period.  
+41.12	 Financial instruments 
+41.12.1	General
+The Group recognises a financial asset or a financial liability on its statement of financial position when and 
+only when, it becomes a party to the contractual provisions of the instrument.
+Purchases and sales of financial assets in the ordinary course of business are recognised and derecognised, as 
+applicable, on trade-date being the date on which the group commits to purchase or sell the asset.
+The Group classifies its financial assets in the following measurement categories:
+	• financial assets at fair value through profit or loss (FVPL);
+	• financial assets at fair value through other comprehensive income (FVOCI); and
+	• financial assets at amortised cost.
+Financial liabilities are classified in the following categories:
+	• financial liabilities at fair value through profit or loss (FVPL); and
+	• financial liabilities at amortised cost.
+Management determines the classification of its financial instruments at initial recognition. Financial assets are 
+not reclassified subsequent to their initial recognition, unless the Group changes its business model for 
+managing financial assets. In such a case, all affected financial assets are reclassified prospectively from the 
+reclassification date.
+At initial recognition, the Group measures a financial asset or financial liability at its fair value plus, in the case 
+of an asset not at fair value through profit or loss, the transaction costs that are directly attributable to the 
+acquisition of the financial asset. Transaction costs of financial assets carried at fair value through profit or loss 
+are expensed in profit or loss.
+OUTsurance Group Limited Consolidated annual financial statements for the year ended 30 June 2025
+174
+174
+
+--- PAGE 176 (matched: fx_exposure) ---
+Notes to the consolidated annual financial statements continued
+41.	
+Summary of material accounting policies continued
+41.12	 Financial instruments continued
+41.12.1	General continued 
+The Group assesses the business model in which a financial asset is held at a portfolio level. Information 
+considered in determining the applicable business model includes:
+	• policies and objectives for the relevant portfolio;
+	• how the performance and risks of the portfolio are managed, evaluated and reported to management; and
+	• the frequency, volume and timing of sales in prior periods, sales expectation for future periods, and the 
+reasons for such sales.
+The contractual cash flow characteristics of financial assets are assessed with reference to whether the cash 
+flows represent solely payments of principal and interest (SPPI).
+Principal is defined as the fair value of the financial asset on initial recognition. However, the principal may 
+change over time, e.g. on repayment of the principal. Interest is defined as consideration primarily for the time 
+value of money, the credit risk of the principal outstanding, other basic lending risks and costs and a profit margin.
+In assessing whether contractual cash flows are SPPI compliant, contractual terms that could change the 
+contractual cash flows so that it would not meet the condition for SPPI are considered, including:
+	• contingent events that could change the amount or timing of cash flows;
+	• leverage features;
+	• prepayment and extension features;
+	• non-recourse arrangements; and
+	• features that modify the time value of money (e.g. periodic reset of interest rates).
+A prepayment feature meets the SPPI criterion if the prepayment amount substantially represents unpaid 
+amounts of principal and interest, which may include compensation for early termination of the contract. 
+For a financial asset acquired at a premium or discount to its contractual nominal amount, a feature that 
+permits or requires prepayment at an amount that substantially represents the contractual par amount plus 
+accrued contractual interest (which may include compensation for early termination of the contract) is 
+considered SPPI compliant if the fair value of the prepayment feature is insignificant on initial recognition.
+Equity instruments are instruments that meet the definition of equity from the issuer’s perspective i.e. 
+instruments that do not contain a contractual obligation to pay and that evidence a residual interest in the 
+issuer’s net assets.
+The Group subsequently measures all equity investments at fair value through profit or loss, except where the 
+Group’s management has elected, at initial recognition, to irrevocably designate an equity investment at FVOCI. 
+The Group’s policy is to designate equity investments as FVOCI when those investments are held for purposes 
+other than to generate investment returns. When this election is used, fair value gains and losses are 
+recognised in OCI and are not subsequently reclassified to profit or loss, including on disposal. Impairment 
+losses (and reversal of impairment losses) are not reported separately from other changes in fair value. 
+Dividends are recognised in profit or loss when the Group’s right to receive payments is established.
+41.12.2	Financial instruments at fair value through other comprehensive income (FVOCI)
+Financial assets that are held for collection of contractual cash flows and for selling the financial assets, where 
+the assets cash flows represent solely payments of principal and interest, are measured at FVOCI, if these 
+financial assets are not designated at FVPL. 
+Debt instruments
+Interest income calculated using the effective interest rate method, foreign exchange gains and losses and 
+impairment are recognised in profit or loss. Other movements in the carrying amount are taken through OCI. 
+When the financial asset is derecognised, the cumulative gain or loss previously recognised in OCI is 
+reclassified to profit or loss.
+Equity instruments
+Other movements, including foreign exchange gains and losses in the carrying amount are taken through, 
+OCI. When the equity instrument is derecognised, the cumulative gain or loss previously recognised in OCI is 
+transferred within equity.
+Financial assets classified as FVOCI comprise various debt investments in money market and capital market 
+instruments, including government bonds, collective investment schemes and unlisted equity.
+OUTsurance Group Limited Consolidated annual financial statements for the year ended 30 June 2025
+175
+175
+
+--- PAGE 177 (matched: fx_exposure) ---
+Notes to the consolidated annual financial statements continued
+41.	
+Summary of material accounting policies continued
+41.12	 Financial instruments continued
+41.12.3	 Financial instruments at fair value through profit or loss (FVPL)
+Financial assets not classified at amortised cost or FVOCI are measured at FVPL. In addition, on initial 
+recognition the Group may irrevocably designate a financial asset that otherwise meets the requirements to be 
+measured at amortised cost or at FVOCI as at FVPL if doing so eliminates or significantly reduces an accounting 
+mismatch that would otherwise arise.
+Net gains or losses, including any interest or dividend income and foreign exchange gains and losses are 
+recognised in profit or loss.
+Financial assets classified as FVPL comprise:
+	• Collective investment schemes
+	• Unsecured loans
+	• Ordinary shares
+	• Debt instruments
+	• NCNR preference shares
+	• Zero coupon deposits
+	• Derivative financial instruments
+	• Contingent consideration receivable
+Financial liabilities designated at fair value through profit or loss comprise preference shares held in terms of a 
+profit-sharing arrangements as these are managed on a fair value basis and the investment contract liability 
+where the value is driven by the fair value of the asset (i.e., Zero-coupon deposits) backing the investment 
+contract liability. Net gains and losses including interest expense and foreign exchange gains and losses are 
+recognised in profit or loss, unless they arise from derivatives designated as economic hedging instruments in 
+net investment hedges.
+41.12.4	Financial instruments measured at amortised cost
+Financial assets that are held for collection of contractual cash flows where those cash flows represent solely 
+payments of principal and interest are measured at amortised cost using the effective interest method, if these 
+financial assets are not designated at FVPL.
+Interest income, foreign exchange gains and losses and impairments are recognised in profit or loss. Any gain 
+or loss arising on derecognition is recognised directly in profit or loss.
+Financial assets classified as amortised cost comprise:
+	• Redeemable preference shares
+	• Other receivables
+	• Term deposits
+	• Loan facility
+	• Cash and cash equivalents
+Financial liabilities are measured at amortised cost using the effective interest method. Net gains and losses 
+including interest expense and foreign exchange gains and losses are recognised in profit or loss as part of 
+finance cost. Any gain or loss arising on derecognition is recognised directly in profit or loss.
+41.12.5	 Derivatives
+Derivatives are initially recognised at fair value on the date on which the derivative contract is entered into and 
+are subsequently remeasured at fair value through profit or loss. All derivatives are carried as assets when fair 
+value is positive and as liabilities when fair value is negative.
+The Group uses derivatives for the following reasons:
+	• to offset the interest rate risk inherent in some of the life insurance products underwritten by the Group. 
+The Group has elected not to apply hedge accounting to the asset-liability matching strategy;
+	• to offset the exchange rate exposure inherent in certain Group cross-border transactions; and
+	• to offset the equity price risk contained in the share based payment schemes.
+OUTsurance Group Limited Consolidated annual financial statements for the year ended 30 June 2025
+176
+176
+
+--- PAGE 178 (matched: context) ---
+Notes to the consolidated annual financial statements continued
+41.	
+Summary of material accounting policies continued
+41.12	 Financial instruments continued 
+41.12.6	Impairment
+The Group recognises loss allowances for expected credit losses (ECL) on:
+	• financial assets measured at amortised cost
+	• debt investments measured at FVOCI
+	• financial guarantee contracts
+	• loan commitments
+The Group measures loss allowances at an amount equal to lifetime ECL, except for the following, which are 
+measured as 12-month ECL:
+	• financial assets that are determined to have low credit risk at the reporting date;
+	• financial assets where credit risk has not increased significantly since initial recognition; and
+	• financial assets which are callable on demand or within a period of 12 months from reporting date.
+Lifetime ECL are the ECL that result from all possible default events over the expected life of a financial 
+instrument. 12-month ECL are the portion of ECL that results from default events that are possible within the 
+12 months after the reporting date. In all cases, the maximum period considered when estimating ECL is the 
+maximum contractual period over which the Group is exposed to credit risk. 
+At each reporting date, the Group assesses whether financial assets measured at amortised cost and FVOCI are 
+credit impaired. The Group writes off a financial instrument when the entity has no reasonable expectation of 
+recovery of the outstanding balance of the instrument. Determining when to write off financial assets is a 
+matter of judgement and incorporates both quantitative and qualitative information. Evidence that a financial 
+asset is credit-impaired includes:
+	• significant financial difficulty of the issuer or debtor;
+	• a breach of contract, such as a default or delinquency in payments;
+	• a restructuring of an amount due to the Group on terms that would not otherwise be considered by  
+the Group;
+	• it becoming probable that the issuer or debtor will enter bankruptcy or other financial reorganisation; or
+	• the disappearance of an active market for that financial asset because of financial difficulties.
+A financial asset that has been renegotiated due to a deterioration in the borrower’s condition is usually 
+considered to be credit-impaired unless there is evidence that the risk of not receiving contractual cash flows 
+has reduced significantly and there are no other indicators of impairment. In assessing whether an investment 
+in sovereign debt is credit-impaired, the Group considers the following factors:
+	• the market’s assessment of creditworthiness as reflected in the bond yields;
+	• the rating agencies’ assessment of creditworthiness;
+	• the country’s ability to access the capital markets for new debt issuance;
+	• the probability of debt being restructured, resulting in holders suffering losses through voluntary or 
+mandatory debt forgiveness; and
+	• the international support mechanisms in place to provide the necessary support as ‘lender of last resort’ to 
+the country as well as the intention, communicated in public statements, of governments and agencies to 
+access those mechanisms, including an assessment of the depth of the mechanisms and the capacity to fulfil 
+the required criteria.
+Loss allowances for ECL on financial assets measured at amortised cost is deducted from the gross carrying 
+amount of the financial assets. Loss allowances for ECL on debt investments measured at FVOCI is recognised 
+in OCI and does not reduce the carrying amount of the financial asset in the statement of financial position.
+The gross carrying amount of a financial asset is written off to the extent that there is no realistic prospects 
+of recovery by the Group. Financial assets that are written off may still be subject to enforcement activities in 
+order to comply with the Group’s procedures for recovery of amounts due.
+OUTsurance Group Limited Consolidated annual financial statements for the year ended 30 June 2025
+177
+177
+
+--- PAGE 179 (matched: context) ---
+Notes to the consolidated annual financial statements continued
+41.	
+Summary of material accounting policies continued
+41.12	 Financial instruments continued 
+41.12.7	 Derecognition
+The Group derecognises a financial asset:
+	• when the contractual rights to the asset expires; or
+	• where there is a transfer of the contractual rights to receive the cash flows of the financial asset in a 
+transaction in which:
+	– substantially all of the risks and rewards of ownership of the financial asset are transferred; or
+	– the Group neither transfers nor retains substantially all of the risks and rewards of ownership and it does 
+not retain control of the financial asset.
+The Group derecognises a financial liability when it is extinguished, i.e. when the obligation specified in the 
+contract is discharged, cancelled or expires. A substantial modification of the terms and conditions of an 
+existing financial liability or part of an existing financial liability is accounted for as an extinguishment of the 
+original financial liability and recognition of a new one.
+The group only considers quantitative indicators in assessing whether there is a modification or 
+extinguishment. On derecognition, the difference between the carrying amount of the financial liability, 
+including related unamortised costs, and the amount paid for it is included in profit or loss.
+41.12.8	 Modifications
+When the contractual cash flows of a financial asset are renegotiated or otherwise modified and the 
+renegotiation or modification does not result in the derecognition of that financial asset, the group recalculates 
+the gross carrying amount of the financial asset and recognises a modification gain or loss in profit or loss.  
+The gross carrying amount of the financial asset is recalculated as the present value of the renegotiated or 
+modified contractual cash flows that are discounted at the financial asset’s original effective interest rate or, 
+when applicable, the revised effective interest rate. Any costs or fees incurred adjust the carrying amount of the 
+modified financial asset and are amortised over the remaining term of the modified financial asset.
+41.12.9	 Measurement of fair value
+The fair value of financial instruments traded in an organised financial market is measured at the closing price 
+for financial assets and financial liabilities. The fair value of the financial instruments that are not traded in an 
+organised financial market is determined using a variety of methods and assumptions that are based on market 
+conditions and risk existing at reporting date, including independent appraisals and discounted cash flow 
+methods. Fair values represent an approximation of possible value, which may differ from the value that will 
+finally be realised.
+41.13	 Cash and cash equivalents
+Cash and cash equivalents include cash on hand and short-term deposits held with banks. All balances included 
+in cash and cash equivalents have a maturity date of less than three months from the date of acquisition.
+Short-term deposits with banks are considered to be instruments which are highly liquid and have maturity 
+dates of not more than three months from the reporting date. Short-term deposits which cannot be accessed 
+within this period are classified as financial assets.
+41.14	 Provisions
+The group recognises provisions when it has a present legal or constructive obligation as a result of past events 
+and it is probable that an outflow of resources embodying economic benefits will be required to settle the 
+obligation and a reliable estimate of the amount of the obligation can be made. Provisions are measured at the 
+present value of management’s best estimate of the expenditure required to settle the present obligation at the 
+end of the reporting period. Where applicable, a pre-tax discount rate that reflects current market assessments 
+of the time value of money and the risks specific to the liability is used to determine the present value.
+41.15	 Contingent Liabilities
+	
+The group discloses a contingent liability where: 
+	• it has a possible obligation arising from past events, the existence of which will be confirmed only by the 
+occurrence or non-occurrence of one or more uncertain future events not wholly within the control of the 
+enterprise; or 
+	• a present obligation that arises from past events but is not recognised because:
+	– it is not probable that an outflow of resources will be required to settle an obligation; or 
+	– the amount of the obligation cannot be measured with sufficient reliability. 
+OUTsurance Group Limited Consolidated annual financial statements for the year ended 30 June 2025
+178
+178
+
+--- PAGE 180 (matched: fx_exposure) ---
+Notes to the consolidated annual financial statements continued
+41.	
+Summary of material accounting policies continued
+41.16	 Share capital 
+Ordinary shares are classified as equity when there is no obligation to transfer cash or other assets. Ordinary 
+shares and non-redeemable non-cumulative preference shares together with share premium are classified as 
+equity. Incremental costs directly attributable to the issue of equity instruments are shown in equity as a 
+deduction from the proceeds, net of taxation.
+	
+Treasury shares
+Where the OUTsurance Holdings Share Trust purchases the Group’s equity share capital, the consideration paid 
+is deducted from total shareholders’ equity as treasury shares until they are reissued or cancelled. Where such 
+shares are subsequently sold or reissued, any consideration received is included in shareholders’ equity.
+On consolidation, the cost of the shares acquired is deducted from equity. Subsequently, any proceeds on the 
+re-issue or cancellation of these shares is recognised directly in shareholder’s equity.
+Any net income in relation to treasury shares is eliminated in the Group’s results. Dividends paid in respect of 
+treasury shares are similarly eliminated in the Group’s results.
+	
+Dividends paid
+Dividends payable on ordinary shares are recognised in equity in the period in which there is unconditional 
+certainty that the dividend will become payable, which would include approval of the dividend declaration by 
+the Group’s Board of directors, regardless of whether the formalities of the payment thereof have been finalised. 
+Dividends declared after the reporting date are not recognised but disclosed as a post reporting date event.
+41.17	 Other reserves
+Other reserves recognised by the Group include: 
+	
+Comprehensive income reserve
+The Group has certain debt investments (from the segregated portfolios) measured at FVOCI. For these 
+investments, changes in fair value are accumulated within the FVOCI reserve within equity. The accumulated 
+changes in fair value are transferred to profit or loss when the investment is derecognised or impaired. 
+	
+Foreign currency translation reserve 
+Exchange differences arising on translation of the foreign controlled entity are recognised in other 
+comprehensive income, as described in the accounting policies, and accumulated in a separate reserve within 
+equity. The cumulative amount is reclassified to profit or loss when the net investment is disposed of.
+	
+Share based payments reserve
+The share-based payments reserve is used to recognise:
+	• 	the grant date fair value of options issued to employees but not exercised;
+	• 	the grant date fair value of shares issued to employees;
+	• 	the grant date fair value of deferred shares granted to employees but not yet vested; and
+	• 	the issue of shares held by Employee Share Trust to employees.
+	
+Equity accounted reserve
+This is the Group’s proportionate share of the associates equity reserves.
+	
+Transactions with non-controlling interests
+The Group treats transactions with non-controlling interests that do not result in a loss of control as 
+transactions with equity owners of the group. A change in ownership interest results in an adjustment between 
+the carrying amounts of the controlling and non-controlling interests to reflect their relative interests in the 
+subsidiary. Any difference between the amount of the adjustment to non-controlling interests and any 
+consideration paid or received is recognised in a separate reserve within equity attributable to owners of  
+the Group.
+OUTsurance Group Limited Consolidated annual financial statements for the year ended 30 June 2025
+179
+179
+
+--- PAGE 181 (matched: context) ---
+Notes to the consolidated annual financial statements continued
+41.	
+Summary of material accounting policies continued
+41.18	 Current and deferred tax
+The income tax expense for the period comprises current and deferred tax. Current tax comprises tax payable 
+as calculated on the basis of the expected taxable income for the financial year, using tax rates substantively 
+enacted at the reporting date. Adjustments to provisions made for tax payable in previous financial years as a 
+result of a change in the estimated amount payable, or to the extent that actual assessments differ from the 
+provision created in prior financial years, are charged or credited to the current financial year profit or loss.
+Deferred tax is provided using the liability method, for all temporary differences arising between the tax bases 
+of assets and liabilities and their carrying values for financial reporting purposes. However, if the deferred tax 
+arises from initial recognition of an asset or liability in a transaction other than a business combination that at 
+the time of the transaction affects neither accounting nor taxable profit nor loss, it is not accounted for. Where 
+a different tax rate will be applicable to the tax year in which such assets or liabilities are realised, those tax 
+rates are used to determine deferred tax. 
+Deferred tax assets and liabilities are offset when there is a legally enforceable right to offset current tax assets 
+against current tax liabilities and when the deferred tax assets and liabilities relate to income taxes levied by 
+the same tax authority on either the same taxable entity or different taxable entities where there is an intention 
+to settle the balances on a net basis.
+Insurance liabilities are recognised in full for accounting purposes and, to the extent that accounting losses 
+arise, deferred tax assets are created as these will be reversed upon the release of such short-term insurance 
+provisions.
+Deferred tax assets relating to the carry-forward of unused tax losses are recognised in profit or loss to the 
+extent that it is probable that future taxable income will be available against which the unused tax losses can 
+be utilised.
+Taxation in respect of South African life insurance operations is determined using the five fund method 
+applicable to life insurance companies. The taxation of life insurers in South Africa was amended to introduce a 
+separate tax fund for risk products sold in tax periods beginning on or after 1 January 2016. From 1 July 2016, 
+OUTsurance Life has allocated all risk products except one to the risk fund.
+Indirect taxes comprise Value Added Tax. All transactions are accounted for net of the relevant Value Added Tax 
+component.
+Tax is recognised in profit or loss except to the extent that it relates to items recognised in other 
+comprehensive income or directly in equity, in which case it is recognised in other comprehensive income or 
+changes in equity.
+National Treasury released the Draft Taxation Laws Amendment Bill, 2022 on 29 July 2022, which was 
+subsequently promulgated in January 2023 and enacted in December 2022.
+This amendment, amended section 28 of the Act to cater for the implementation of IFRS 17. The changes 
+consist of changes in terminology and a phase-in period of six years for life insurers and three years for  
+non-life insurers.
+The Group has determined that the global minimum top-up tax – which it is required to pay under Pillar two 
+legislation – is an income tax under IAS 12. The Group has applied a temporary relief and determined that no 
+tax is payable for the forthcoming year. The Group has performed an impact assessment of its potential 
+exposure in relation to the Global Minimum Tax (GMT) legislation and based on the outcome of the impact 
+assessment, the Group does not anticipate being subject to a material top-up tax exposure in any of the 
+jurisdictions in which it operates for the current financial year. However, the Group will monitor the relief 
+requirements annually and will account for the current tax when it is incurred. The Group has adopted the 
+temporary mandatory relief for deferred taxes in relation to the GMT in terms of IAS12.
+OUTsurance Group Limited Consolidated annual financial statements for the year ended 30 June 2025
+180
+180
+
+--- PAGE 188 (matched: context) ---
+Separate statement of comprehensive income 
+for the year ended 30 June
+R million
+ 
+Company
+2025
+ 
+Company
+2025
+Company
+2024
+Profit for the year
+ 3 086 
+ 2 338 
+Other comprehensive income for the year
+ – 
+ – 
+TOTAL COMPREHENSIVE INCOME FOR THE YEAR
+ 3 086 
+ 2 338 
+Attributable to: 
+Equity holders of the company 
+ 3 086 
+ 2 338 
+OUTsurance Group Limited Separate annual financial statements for the year ended 30 June 2025
+187
+187
+
+--- PAGE 189 (matched: receivables_payables) ---
+Separate statement of financial position
+as at 30 June
+R million
+Notes
+ 
+Company
+2025
+ 
+Company
+2025
+Company
+2024
+Assets
+Investment in subsidiaries 
+ 7 
+13 100
+ 13 093 
+Investment in associate 
+ 8 
+ – 
+ 2 
+Financial assets 
+Measured at fair value through profit or loss 
+ 9 
+ 10 
+ 10 
+Measured at amortised cost 
+ 9 
+ 3 
+ 101 
+Other receivables 
+ –  
+ 4 
+Tax receivable 
+ –  
+ 1 
+Cash and cash equivalents
+ 10 
+ 201 
+ 187 
+TOTAL ASSETS
+ 13 314 
+ 13 398 
+Equity
+Share capital and premium 
+ 11 
+ 16 229 
+ 15 667 
+Accumulated loss 
+ 12 
+ (2 927)
+ (2 282)
+TOTAL EQUITY
+ 13 302 
+ 13 385 
+Liabilities
+Trade and other payables 
+ 13 
+ 12 
+ 13 
+TOTAL LIABILITIES
+ 12 
+ 13 
+TOTAL EQUITY AND LIABILITIES
+ 13 314 
+ 13 398 
+OUTsurance Group Limited Separate annual financial statements for the year ended 30 June 2025
+188
+188
+
+--- PAGE 190 (matched: context) ---
+Separate statement of changes in equity
+for the year ended 30 June
+R million
+BALANCE AS AT 30 JUNE 2023
+–  
+ 15 452 
+ (2 356)
+ 13 096 
+Total comprehensive income for the year 
+ –  
+ –  
+ 2 338 
+ 2 338 
+Issue of ordinary shares 
+ –  
+ 215 
+ –  
+ 215 
+Dividends paid 
+ –  
+ –  
+ (2 264)
+ (2 264)
+BALANCE AS AT 30 JUNE 2024
+ –  
+ 15 667 
+ (2 282)
+ 13 385 
+Total comprehensive income for the year 
+ –  
+ –  
+ 3 086 
+ 3 086 
+Issue of ordinary shares 
+ –  
+ 562 
+ –  
+ 562 
+Dividends paid 
+ –  
+ –  
+ (3 731)
+ (3 731)
+BALANCE AS AT 30 JUNE 2025
+ –  
+ 16 229 
+ (2 927)
+ 13 302 
+Notes
+ 11 
+ 11 
+ 12 
+1	 Share capital of R154 723 in the current financial year (R153 754 in the prior financial year) has been excluded due to rounding.
+ 
+Share
+capital1
+Share
+premium
+ Retained
+income/
+(accumulated
+loss)
+Total 
+equity
+ 
+Share
+capital1
+Share
+premium
+ Retained
+income/
+(accumulated
+loss)
+Total 
+equity
+OUTsurance Group Limited Separate annual financial statements for the year ended 30 June 2025
+189
+189
+
+--- PAGE 193 (matched: context) ---
+Notes to the separate annual financial statements continued
+3.	
+Financial risk management continued 
+Credit risk  
+Credit risk is the risk that one party to a financial instrument will cause a financial loss for the other party by 
+failing to discharge an obligation. The key areas where the company is exposed to credit risk are:
+	• Other receivables; and
+	• Cash and cash equivalents.	
+Significant concentrations of credit risk, if applicable, are disclosed in the financial statements. The credit 
+exposure to any one counterparty is managed by the board of directors and by setting transaction/exposure 
+limits, which are reviewed at each board and audit and risk committee meeting. The creditworthiness of 
+existing and potential clients is monitored by the board.	
+The table below provides information on the credit risk exposure by credit ratings at year-end:
+R million
+BBB
+Not rated
+Total
+BBB
+Not rated
+Total
+30 June 2025
+Cash and cash equivalents
+ 201 
+–
+ 201 
+TOTAL
+ 201 
+–
+ 201 
+BB
+Not rated
+Total
+30 June 2024
+Other receivables 
+–
+ 4 
+ 4 
+Cash and cash equivalents 
+ 187 
+–
+ 187 
+TOTAL
+ 187 
+ 4 
+ 191 
+The maximum exposure to credit risk at the end of the reporting period is the carrying amount of each class of 
+financial asset in the tables above.
+Where available, the company utilises the credit ratings per counterparty as provided by each of the major 
+credit rating agencies to determine the credit quality of a specific instrument. Where the instrument credit 
+rating is not available, the credit rating of the counterparty as provided by the major credit ratings agencies  
+is utilised. 
+In instances where the credit rating for the counterparty is not available, the company utilises the credit rating 
+provided by a service provider amended to take into account the credit risk appetite of the company. The 
+internal methodology of the service provider provides a credit rating which assesses the counterparty’s credit 
+quality based on its financial standing. Should the service provider not provide a credit rating, the counterparty 
+is shown as unrated. The ratings disclosed are long-term international scale, local currency ratings.
+	
+Long-term investment grade
+BB Speculative quality. ‘BB’ ratings indicate that there is a possibility of credit risk developing, particularly as the 
+result of adverse economic change over time; however, business or financial alternatives may be available to 
+allow financial commitments to be met. Securities rated in this category are not investment grade.
+OGL has evaluated the expected credit loss (ECL) on its cash and cash equivalents and concluded that the 
+amount is immaterial.
+Not rated – The credit exposure for the assets listed above is considered acceptable by the board even though 
+certain assets do not have a formal rating.
+OUTsurance Group Limited Separate annual financial statements for the year ended 30 June 2025
+192
+192
+
+--- PAGE 194 (matched: receivables_payables) ---
+Notes to the separate annual financial statements continued
+3.	
+Financial risk management continued
+	
+Liquidity risk and asset liability matching
+Liquidity risk is the risk that an entity will encounter difficulty in meeting obligations associated with financial 
+liabilities. The company’s liabilities are matched by appropriate assets and it has significant liquid resources to 
+cover its obligations. The company’s liquidity and ability to meet such calls are monitored quarterly at the board 
+meetings.
+R million
+Call to 
+6 months
+7–12
+months
+More than
+1 year/no
+contractual
+maturity
+Total
+30 June 2025
+Assets
+Financial assets measured at fair value 
+through profit or loss 
+ – 
+ – 
+ 10 
+ 10 
+Financial assets measured at  
+amortised cost 
+ 3 
+ – 
+ – 
+ 3 
+Cash and cash equivalents 
+ 201 
+ – 
+ – 
+ 201 
+TOTAL ASSETS
+ 204 
+ – 
+ 10 
+ 214 
+Liabilities
+Trade and other payables
+ 12 
+ – 
+ – 
+ 12 
+TOTAL LIABILITIES
+ 12 
+ – 
+ – 
+ 12 
+30 June 2024
+Assets
+Financial assets measured at fair value 
+through profit or loss 
+ – 
+ – 
+ 10 
+ 10 
+Financial assets measured at  
+amortised cost 
+ 101 
+ – 
+ – 
+ 101 
+Other receivables 
+ 4 
+ – 
+ – 
+ 4 
+Cash and cash equivalents 
+ 187 
+ – 
+ – 
+ 187 
+TOTAL ASSETS
+ 292 
+ – 
+ 10 
+ 302 
+Liabilities
+Trade and other payables
+ 13 
+ – 
+ – 
+ 13 
+TOTAL LIABILITIES
+ 13 
+ – 
+ – 
+ 13 
+OUTsurance Group Limited Separate annual financial statements for the year ended 30 June 2025
+193
+193
+
+--- PAGE 195 (matched: context) ---
+Notes to the separate annual financial statements continued
+3.	
+Financial risk management continued
+Financial instruments measured at fair value 
+The table below analyses financial instruments carried at fair value, by level of fair value hierarchy. The different 
+levels are based on the extent that quoted prices are used in the calculation of the fair value of the financial 
+instruments. These levels are defined as follows:	
+Level 1 – fair value is based on quoted market prices (unadjusted) in active markets for identical instruments as 
+measured at the reporting date. 
+Level 2 – fair value is determined from inputs other than quoted prices that are observable for the asset or 
+liability, either directly (for example prices) or indirectly (for example derived from prices). 
+Level 3 – fair value is determined from inputs for the asset or liability that are not based on observable market 
+data.	
+R million
+Level 1
+Level 2
+Level 3
+Total
+carrying
+amount
+30 June 2025
+Financial assets measured at fair value 
+through profit or loss
+Unlisted equity securities
+ – 
+– 
+ 10 
+ 10 
+TOTAL FINANCIAL ASSETS VALUED  
+AT FAIR VALUE
+ – 
+ –
+ 10 
+ 10 
+R million
+ 
+Company
+2025
+ 
+Company
+2025
+Company
+2024
+Reconciliation of movement in level 3 assets 
+ 10 
+ 190 
+Balance at the beginning of the year 
+–
+ (184)
+Disposals (sales and redemptions) 
+–
+ 14 
+Fair value movement 
+–
+ (10)
+Dividends received from the OUTsurance Equity Trust 2 
+–
+–
+BALANCE AT THE END OF THE YEAR 
+ 10 
+ 10 
+R million
+Level 1
+Level 2
+Level 3
+Total
+carrying
+amount
+30 June 2024
+Financial assets measured at fair value 
+through profit or loss
+Unlisted equity securities
+–
+–
+ 10 
+ 10 
+TOTAL FINANCIAL ASSETS VALUED  
+AT FAIR VALUE
+–
+–
+ 10 
+ 10 
+The fair values of the above instruments were determined as follows:	
+	
+	
+	
+Level 3
+The financial asset is not exposed to any market related fluctuations and as a result equity risk is considered 
+immaterial.	
+	
+	
+	
+OUTsurance Group Limited Separate annual financial statements for the year ended 30 June 2025
+194
+194
+
+--- PAGE 199 (matched: context) ---
+Notes to the separate annual financial statements continued
+8.	
+Investments in associate
+R million
+ 
+Company
+2025
+ 
+Company
+2025
+Company
+2024
+Unlisted associate 
+Ordinary shares at cost 
+ – 
+ 9 
+Accumulated impairment of investment in associate 
+–
+ (7)
+TOTAL INVESTMENTS IN ASSOCIATE
+ – 
+ 2 
+Additiv Proprietary Limited 
+Number of shares 
+–
+ 400 
+% of equity 
+–
+ 40.8 
+Principal place of business 
+ n/a 
+ Centurion 
+Additiv Capital Proprietary Limited 
+Number of shares 
+ – 
+ 500 
+% of equity 
+–
+ 33.0 
+Principal place of business 
+ n/a 
+ Centurion 
+Additiv Proprietary Limited and its 100% subsidiary Additiv Capital Proprietary Limited changed from being 
+previously treated as an associate to a 100%-owned subsidiary as at 30 June 2025. The increase in shareholding 
+is as a result of the acquisition of all of the shares not previously held for a nominal amount.	
+9.	
+Financial assets
+R million
+ 
+Company
+2025
+ 
+Company
+2025
+Company
+2024
+Measured at fair value through profit or loss 
+Equity securities 
+   Unlisted investments 
+ 10 
+ 10 
+BALANCE AT THE END OF THE YEAR 
+ 10 
+ 10 
+The movements in the fair value of the investment in The SA SME Fund Limited with a carrying value of  
+R10 million (2024: R10 million) were immaterial in the current and prior financial year.	
+R million
+ 
+Company
+2025
+ 
+Company
+2025
+Company
+2024
+Preference share investment measured at amortised cost
+Balance at the beginning for the year 
+ 101 
+ 202 
+Unwind of modification adjustment/dividend income earned 
+ 4 
+ 14 
+Receipts 
+ (128)
+ (115)
+Expected credit loss expense reversed 
+ 26 
+–
+BALANCE AT THE END OF THE YEAR 
+ 3 
+ 101 
+10.	
+Cash and cash equivalents
+R million
+ 
+Company
+2025
+ 
+Company
+2025
+Company
+2024
+Cash at bank and in hand 
+ 201 
+ 187 
+Cash and cash equivalents represent current accounts and a call deposit. The fair value approximates the 
+carrying value. 
+OUTsurance Group Limited Separate annual financial statements for the year ended 30 June 2025
+198
+198
+
+--- PAGE 200 (matched: receivables_payables) ---
+Notes to the separate annual financial statements continued
+11.	
+Share capital and premium
+R million
+ 
+Number 
+ of shares 
+ Ordinary 
+ share  
+ capital 
+ R million 
+ Share 
+ premium 
+ R million 
+ Total 
+ R million 
+Share capital and share premium as  
+at 30 June 2023 
+ 1 532 408 776 
+ –   
+ 15 452 
+ 15 452 
+Additional shares issued during the year 
+ 5 127 086 
+– 
+ 215 
+ 215 
+Share capital and share premium as  
+at 30 June 2024 
+ 1 537 535 862 
+– 
+ 15 667 
+ 15 667 
+Additional shares issued during the year 
+ 9 695 643 
+– 
+ 562 
+ 562 
+Share capital and share premium as  
+at 30 June 2025 
+ 1 547 231 505 
+– 
+ 16 229 
+ 16 229 
+Ordinary shares 
+The total authorised number of ordinary shares is 2 000 000 000, with a par value of R0.0001 per share.  
+The total number of issued ordinary shares increased by 9 695 643 during the year (2024: 5 127 086) to  
+1 547 231 505 as at 30 June 2025 (2024: 1 537 535 862). 
+During the current financial year the company issued 12 079 169 ordinary shares at a value of R588 million, 
+another 5 552 510 ordinary shares at a value of R339 million and 829 477 ordinary shares at a value of  
+R63 million on 16 September, 14 October 2024 and 20 June 2025 respectively. These shares issued during the 
+current financial year were in exchange for OHL shares. 8 765 513 ordinary shares at a value of R428 million 
+were cancelled on 11 October 2024 following an asset distribution (OGL shares) by OHL to its shareholders. 
+During the prior financial year the company issued 980 207 ordinary shares at a value of R40 million and  
+4 146 879 ordinary shares at a value of R175 million on 15 November 2023 and 26 June 2024 respectively. 
+These shares issued during the prior financial year were in exchange for 11 740 624 OHL shares. 
+The unissued share capital is under the control of the board of directors until the forthcoming annual general 
+meeting.
+Preference shares  
+The total authorised number of cumulative, redeemable, par value preference shares is 100 000 000 with a par 
+value of R0.0001 per share. The issued number of par value preference shares is nil (2024: nil).
+The total authorised number of cumulative, redeemable, no par value preference shares is 100 000 000. The 
+issued number of no par value preference shares is nil (2024: nil). 
+The company created a new class of 100 000 000 authorised, cumulative, redeemable, no par value preference 
+shares in the 2016 financial year. None of these preference shares have been issued yet.
+12.	
+Accumulated loss 
+R million
+ 
+Company
+2025
+ 
+Company
+2025
+Company
+2024
+Accumulated loss 
+ 2 927 
+ 2 282 
+13.	
+Trade and other payables  
+R million
+ 
+Company
+2025
+ 
+Company
+2025
+Company
+2024
+Trade and other payables 
+ 12 
+ 13 
+OUTsurance Group Limited Separate annual financial statements for the year ended 30 June 2025
+199
+199
+
+--- PAGE 201 (matched: receivables_payables) ---
+Notes to the separate annual financial statements continued
+14.	
+Cash utilised by operations  
+R million
+ 
+Company
+2025
+ 
+Company
+2025
+Company
+2024
+Reconciliation of profit before taxation to cash generated from operations: 
+Profit before taxation 
+ 3 092 
+ 2 348 
+Adjusted for: 
+Dividend income 
+ (3 876)
+ (2 393)
+Dividend in specie income 
+ (427)
+–
+Interest income 
+ (26)
+ (21)
+Expected credit loss expense reversed 
+ (26)
+–
+Fair value gain 
+–
+ (5)
+Impairments 
+ 1 248 
+ 55 
+Other non-cash income and expenses 
+ (2)
+–
+Changes in working capital 
+  Other receivables 
+ 4 
+ 5 
+     Trade and other payables 
+ (1)
+ (4)
+TOTAL CASH UTILISED BY OPERATIONS 
+ (14)
+ (15)
+15.	
+Taxation paid
+R million
+ 
+Company
+2025
+ 
+Company
+2025
+Company
+2024
+Taxation per statement of financial position at the beginning of the year 
+ 1 
+ 1 
+Charge to income statement 
+ (6)
+ (10)
+Adjustment for deferred tax charge 
+–
+ 8 
+Taxation per statement of financial position at the end of the year 
+–
+ (1)
+TAXATION PAID
+ (5)
+ (2)
+16. 	
+Dividend per share
+R million
+ 
+Company
+2025
+ 
+Company
+2025
+Company
+2024
+Total dividends paid during the year 
+ 3 731 
+ 2 264 
+Total dividends declared relating to the earnings for the year  
+4 188
+ 3 299 
+Number of ordinary shares in issue 
+ 1 547 231 505 
+ 1 537 535 862 
+Dividend declared per share (cents) 
+– Interim 
+ 88.6 
+ 61.2 
+– Final 
+149.0
+ 113.2 
+– Special 
+ 33.1 
+ 40.0 
+TOTAL DIVIDEND PER SHARE DECLARED
+270.7
+ 214.4 
+17.	
+Related parties
+Principal shareholders 
+Details of major shareholders are disclosed in the directors’ report. The principal shareholders are Remgro 
+Limited and Royal Bafokeng Holdings Proprietary Limited.	
+Key management personnel 
+Only OGL’s directors are key management personnel. Information on directors’ emoluments and their 
+shareholding in the company appears in note 39 to the consolidated annual financial statements and in the 
+directors’ report respectively.	
+OUTsurance Group Limited Separate annual financial statements for the year ended 30 June 2025
+200
+200
+
+--- PAGE 202 (matched: context) ---
+Notes to the separate annual financial statements continued
+17.	
+Related parties continued
+Subsidiaries and associates  
+Details of investments in subsidiaries and associates are disclosed in note 18 and note 19 of the consolidated 
+annual financial statements.	
+The following companies are subsidiaries of OGL:
+	• AlphaCode Proprietary Limited (100% held via RMI Treasury Company Limited) 
+	• Additiv Proprietary Limited and Additiv Capital Proprietary Limited (100%) (was an associate in the prior 
+financial year)
+	• Main Street 1353 Proprietary Limited (51% held directly and 49% held via OUTsurance Holdings Limited) 
+	• OUTsurance Holdings Limited (92.75% actual holding) 
+	• RMI Asset Holdings Proprietary Limited (100%) (final stage of liquidation and yearend was changed to  
+31 January 2025) 
+	• RMI Investment Holdings Proprietary Limited (100% held via RMI Treasury Company Limited) 
+	• RMI Invest One Proprietary Limited (100% held via RMI Investment Holdings Proprietary Limited) 
+	• RMI Invest Two Proprietary Limited (100% held via RMI Investment Holdings Proprietary Limited) 
+	• RMI Invest Three Proprietary Limited (100% held via RMI Investment Holdings Proprietary Limited) 
+	• RMI Invest Four Proprietary Limited (100% held via RMI Investment Holdings Proprietary Limited) 
+	• RMI Invest Five Proprietary Limited (100% held via RMI Investment Holdings Proprietary Limited) 
+	• RMI Invest Six Proprietary Limited (100% held via RMI Investment Holdings Proprietary Limited) 
+	• RMI Investment Managers Affiliates 1 Proprietary Limited (100% held via RMI Investment Managers Group 
+Proprietary Limited) 
+	• RMI Investment Managers Group Proprietary Limited (100% held via RMI Treasury Company Limited) 
+	• RMI Treasury Company Limited (100%)
+R million
+ 
+Company
+2025
+ 
+Company
+2025
+Company
+2024
+Related party transactions 
+Transactions of OGL and its subsidiary companies with: 
+Principal shareholders 
+Dividends paid 
+ 1 660 
+ 1 014 
+Key management personnel 
+Dividends paid 
+ 9 
+ 3 
+Subsidiaries 
+ Effect on the statement of profit or loss: 
+ Dividends received 
+OUTsurance Holdings Limited 
+ 4 303 
+ 2 132 
+RMI Treasury Company Limited 
+ –   
+ 220 
+Main Street 1353 Proprietary Limited 
+ –   
+ 31 
+Management fee expense to OUTsurance Insurance Company Limited
+ (6)
+ (5)
+Impairment loss
+RMI Treasury Company Limited 
+ (1 248)
+ – 
+Main Street 1353 Proprietary Limited 
+ –   
+ (55)
+Effect on the statement of financial position:
+Return of capital distribution against the investment
+RMI Treasury Company Limited
+ (718)
+ –   
+Associates  
+Effect on the statement of profit or loss:
+– Interest received 
+– 
+ 1 
+Effect on the statement of financial position: 
+– Loan receivable from associate (included under "other receivables")  
+–
+ 4 
+ All related party transactions are entered into on an arm’s length basis. 
+OUTsurance Group Limited Separate annual financial statements for the year ended 30 June 2025
+201
+201
+
+--- PAGE 203 (matched: receivables_payables) ---
+Notes to the separate annual financial statements continued
+18.	
+Events after the reporting period 
+Dividend 
+The board of directors approved the declaration of an ordinary dividend of 149.0 cents per ordinary share and a 
+special dividend of 33.1 cents per ordinary share on 12 September 2025, payable on 20 October 2025. This is a 
+non-adjusting event. 
+There are no other matters which are material to the financial affairs of the Group that occurred between the 
+reporting date and date of the approval of the financial statements.
+19.	
+Current/non-current split of assets and liabilities 
+R million
+Current
+Non-current
+Total
+30 June 2025
+Assets
+Investment in subsidiaries
+–
+ 13 100 
+13 100
+Financial assets measured at fair value through profit  
+or loss 
+–  
+ 10 
+ 10 
+Financial assets measured at amortised cost 
+ 3 
+–  
+ 3 
+Cash and cash equivalents
+ 201 
+–  
+ 201 
+TOTAL ASSETS
+ 204 
+ 13 110 
+ 13 314 
+Liabilities
+Trade and other payables 
+ 12 
+–  
+ 12 
+TOTAL LIABILITIES
+ 12 
+–  
+ 12 
+30 June 2024
+Assets
+Investment in subsidiaries
+–  
+ 13 093 
+ 13 093 
+Investment in associate
+–  
+ 2 
+ 2 
+Financial assets measured at fair value through profit  
+or loss 
+–  
+ 10 
+ 10 
+Financial assets measured at amortised cost 
+ 101 
+–  
+ 101 
+Other receivables 
+ 4 
+–  
+ 4 
+Tax receivable 
+ 1 
+–  
+ 1 
+Cash and cash equivalents 
+ 187 
+–  
+ 187 
+TOTAL ASSETS
+ 293 
+ 13 105 
+ 13 398 
+Liabilities
+Trade and other payables 
+ 13 
+–  
+ 13 
+TOTAL LIABILITIES
+ 13 
+–  
+ 13 
+OUTsurance Group Limited Separate annual financial statements for the year ended 30 June 2025
+202
+202
+
+--- PAGE 204 (matched: context) ---
+Shareholder information
+As at 30 June 2025
+As at 30 June 2024
+Number of 
+shareholders
+Shares held
+ (000’s)
+%
+Number of 
+shareholders
+Shares held
+ (000’s)
+%
+Analysis of shareholding
+Remgro
+1
+469 449
+30.3
+1
+469 449
+30.5
+Royal Bafokeng Holdings
+2
+196 935
+12.7
+2
+216 935
+14.1
+Public Investment Corporation
+11
+148 600
+9.6
+5
+168 751
+11.0
+Coronation Fund Managers 
+(on behalf of clients)
+*
+95
+80 610
+5.3
+Total of shareholders holding 
+more than 5%
+14
+814 984
+52.6
+103
+935 745
+60.9
+Other
+24 971
+732 248
+47.4
+24 188
+601 791
+39.1
+TOTAL
+24 985
+1 547 232
+100.0
+24 293
+1 537 536
+100.0
+Shareholder type
+Corporates
+666 384
+43.0
+686 384
+44.6
+Unit trusts
+310 848
+20.1
+253 768
+16.5
+Pension funds
+198 523
+12.8
+222 753
+14.5
+Private investors
+44 052
+2.9
+42 482
+2.8
+Insurance companies and banks
+33 394
+2.2
+43 875
+2.9
+Other
+294 031
+19.0
+288 275
+18.7
+TOTAL
+1 547 232
+100.0
+1 537 536
+100.0
+Public and non-public shareholders
+Public
+24 973
+877 477
+56.8
+24 283
+848 263
+55.2
+Non-public
+12
+669 755
+43.2
+10
+689 273
+44.8
+– Corporates
+3
+666 384
+43.0
+3
+686 384
+44.6
+– Directors and associates
+9
+3 371
+0.2
+7
+2 889
+0.2
+TOTAL
+24 985
+1 547 232
+100.0
+24 293
+1 537 536
+100.0
+Geographic ownership
+South Africa
+1 260 644
+81.5
+1 363 959
+88.7
+International
+286 588
+18.5
+173 577
+11.3
+TOTAL
+1 547 232
+100.0
+1 537 536
+100.0
+*	 Less than 5%.
+The information above is extracted from the shareholder analysis provided by Orient Capital Limited.
+OUTsurance Group Limited Consolidated annual financial statements for the year ended 30 June 2025
+203
+203
+

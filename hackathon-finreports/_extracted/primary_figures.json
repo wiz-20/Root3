@@ -1,0 +1,26 @@
+{
+  "_meta": {
+    "unit": "millions of original currency, most-recent-fiscal-year figure quoted in each company's extraction notes",
+    "basis_note": "Where a company had no single officially-disclosed line (e.g. 'cost of sales' for telcos/insurers/REITs), the field is left null rather than approximated from unrelated cost components."
+  },
+  "angloamerican":   {"currency": "USD", "revenue": 18533,     "cost_of_sales": null,     "trade_receivables": 4057,    "trade_payables": 4956,    "inventory": 3819},
+  "angloashanti":    {"currency": "USD", "revenue": 9893,      "cost_of_sales": 5022,     "trade_receivables": 672,     "trade_payables": 1015,    "inventory": 1251},
+  "aspen":           {"currency": "ZAR", "revenue": 43363,     "cost_of_sales": 24234,    "trade_receivables": 10646,   "trade_payables": 10675,   "inventory": 18009},
+  "bhp":             {"currency": "USD", "revenue": 51262,     "cost_of_sales": null,     "trade_receivables": 4253,    "trade_payables": 6670,    "inventory": 6978},
+  "bid":             {"currency": "ZAR", "revenue": 235591.182,"cost_of_sales": 177918.144,"trade_receivables": 25275.650,"trade_payables": 36389.836,"inventory": 19262.680},
+  "bidvest group":   {"currency": "ZAR", "revenue": null,      "cost_of_sales": null,     "trade_receivables": 205.745571,"trade_payables": 14.128060,"inventory": null},
+  "clicks":          {"currency": "ZAR", "revenue": 51426.992, "cost_of_sales": 36428.426,"trade_receivables": 3139.516, "trade_payables": 10912.537,"inventory": 7818.704},
+  "glencore":        {"currency": "USD", "revenue": 247535,    "cost_of_sales": 241672,   "trade_receivables": 23826,   "trade_payables": 35614,   "inventory": 33955},
+  "gold fields":     {"currency": "USD", "revenue": 4500.7,    "cost_of_sales": 2747.0,   "trade_receivables": 251.4,   "trade_payables": 643.9,   "inventory": 1079.8},
+  "mtn":             {"currency": "ZAR", "revenue": 188001,    "cost_of_sales": null,     "trade_receivables": 34304,   "trade_payables": 57942,   "inventory": 1213},
+  "naspe":           {"currency": "USD", "revenue": 10848,     "cost_of_sales": null,     "trade_receivables": 608,     "trade_payables": 1170,    "inventory": 347},
+  "nepi":            {"currency": "EUR", "revenue": 624.348,   "cost_of_sales": null,     "trade_receivables": 113.533, "trade_payables": 179.289, "inventory": null},
+  "out":             {"currency": "ZAR", "revenue": 37131,     "cost_of_sales": null,     "trade_receivables": 4,       "trade_payables": 12,      "inventory": null},
+  "pepkor":          {"currency": "ZAR", "revenue": 95340,     "cost_of_sales": 57388,    "trade_receivables": 14606,   "trade_payables": 16890,   "inventory": 18618},
+  "prosus":          {"currency": "USD", "revenue": 9705,      "cost_of_sales": 5198,     "trade_receivables": 570,     "trade_payables": 1109,    "inventory": 271},
+  "sanlam":          {"currency": "ZAR", "revenue": 112282,    "cost_of_sales": null,     "trade_receivables": 20014,   "trade_payables": 30800,   "inventory": null},
+  "shaftesbury":     {"currency": "GBP", "revenue": 216.3,     "cost_of_sales": null,     "trade_receivables": 155.1,   "trade_payables": 98.1,    "inventory": null},
+  "shoprite":        {"currency": "ZAR", "revenue": 256682,    "cost_of_sales": 191259,   "trade_receivables": 3506,    "trade_payables": 24474,   "inventory": 29748},
+  "valterra":        {"currency": "ZAR", "revenue": 108987,    "cost_of_sales": 90769,    "trade_receivables": 3698,    "trade_payables": 23438,   "inventory": 30087},
+  "vodacom":         {"currency": "ZAR", "revenue": 167652,    "cost_of_sales": null,     "trade_receivables": 18676,   "trade_payables": 19839,   "inventory": 2112}
+}
