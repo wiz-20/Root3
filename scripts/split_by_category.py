@@ -1,6 +1,6 @@
 """
 Splits financials_extracted.csv into 3 separate files matching the exact
-3-category structure the team is using (per Fatan's original request):
+3-category structure the team:
 
   1. Income statement basics: revenue, cost of sales, operating expenses,
      trade receivables, trade payables
@@ -30,17 +30,17 @@ COMMON = [
 ]
 
 CATEGORY_1 = COMMON + [
-    "revenue_zar_m", "revenue_m", "revenue",
-    "cost_of_sales_zar_m", "cost_of_sales_m", "cost_of_sales",
+    "revenue_zar_millions", "revenue_millions", "revenue",
+    "cost_of_sales_zar_millions", "cost_of_sales_millions", "cost_of_sales",
     "operating_expenses",
-    "trade_receivables_zar_m", "trade_receivables_m", "trade_receivables",
-    "trade_payables_zar_m", "trade_payables_m", "trade_payables",
+    "trade_receivables_zar_millions", "trade_receivables_millions", "trade_receivables",
+    "trade_payables_zar_millions", "trade_payables_millions", "trade_payables",
     "notes",
 ]
 
 CATEGORY_2 = COMMON + [
-    "inventory_zar_m", "inventory_m", "inventory",
-    "trade_receivables_zar_m", "trade_receivables_m", "trade_receivables",
+    "inventory_zar_millions", "inventory_millions", "inventory",
+    "trade_receivables_zar_millions", "trade_receivables_millions", "trade_receivables",
     "imports_exports",
     "working_capital_notes",
     "notes",
@@ -55,9 +55,9 @@ CATEGORY_3 = COMMON + [
 ]
 
 CATEGORIES = [
-    ("category1_income_statement.csv", CATEGORY_1),
-    ("category2_trade_working_capital.csv", CATEGORY_2),
-    ("category3_fx_exposure.csv", CATEGORY_3),
+    ("external_transactional_statement.csv", CATEGORY_1),
+    ("external_trade_working_capital.csv", CATEGORY_2),
+    ("external_fx_exposure.csv", CATEGORY_3),
 ]
 
 
