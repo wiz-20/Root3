@@ -29,9 +29,36 @@ cross_border = pd.read_csv(CROSS_BORDER_DIR)
 trade_finance = pd.read_csv(TRADE_DIR)
 transactional_banking = pd.read_csv(TRANSACTIONAL_DIR)
 
+dates = [["2025-01-01", "2025-12-31"], ["2025-01-01", "2025-12-31"], ["2024-07-01", "2025-06-30"], ["2024-07-01", "2025-06-30"], ["2024-07-01", "2025-06-30"], ["2024-07-01", "2025-06-30"], ["2024-09-01", "2025-08-31"], ["2025-01-01", "2025-12-31"],
+         ["2025-01-01", "2025-12-31"], ["2025-01-01", "2025-12-31"], ["2024-04-01", "2025-03-31"], ["2025-01-01", "2025-12-31"], ["2024-07-01", "2025-06-30"], ["2024-10-01", "2025-09-30"], ["2024-04-01", "2025-03-31"], ["2025-01-01", "2025-12-31"], ["2025-01-01", "2025-12-31"],
+         ["2024-07-01", "2025-06-30"], ["2025-01-01", "2025-12-31"], ["2024-04-01", "2025-03-31"]]
+
+
+cross_border = cross_border.sort_values(by="entity_name", ascending=True).reset_index(drop=True)
+cross_border["date"] = pd.to_datetime(cross_border["date"])
+
+entities = cross_border["entity_name"].drop_duplicates().tolist()
+
+date_ranges = {
+    entity: (pd.Timestamp(dates[i][0]), pd.Timestamp(dates[i][1]))
+    for i, entity in enumerate(entities)
+}
+
+cross_border["start_date"] = cross_border["entity_name"].map(
+    lambda x: date_ranges[x][0]
+)
+
+cross_border["end_date"] = cross_border["entity_name"].map(
+    lambda x: date_ranges[x][1]
+)
+
+cross_border = cross_border[
+    (cross_border["date"] >= cross_border["start_date"]) &
+    (cross_border["date"] <= cross_border["end_date"])
+]
 
 revenue_df = (
-    cross_border[(cross_border["direction"] == "inbound") & (cross_border["date"] > "2025-06-30")]
+    cross_border[cross_border["direction"] == "inbound"]
     .loc[:, ["entity_name", "value_zar"]]
     .groupby("entity_name")["value_zar"]
     .sum()
@@ -39,15 +66,25 @@ revenue_df = (
 )
 
 expense_df = (
-    cross_border[(cross_border["direction"] == "outbound") & (cross_border["date"] > "2025-06-30")]
+    cross_border[cross_border["direction"] == "outbound"]
     .loc[:, ["entity_name", "value_zar"]]
     .groupby("entity_name")["value_zar"]
     .sum()
     .reset_index()
 )
 
-cross_border_summary = pd.DataFrame(revenue_df.merge(expense_df, on="entity_name"))
+cross_border_summary = pd.DataFrame(
+    revenue_df.merge(expense_df, on="entity_name")
+)
 
-cross_border_summary.columns = ["entity_name", "foreign_revenue", "foreign_expenses"]
+cross_border_summary.columns = [
+    "entity_name",
+    "foreign_revenue",
+    "foreign_expenses"
+]
 
-print(cross_border_summary)
+
+#Write the analysis data to the gold layer (as .csv files)
+GOLD_DIR = ROOT / "gold"
+GOLD_DIR.mkdir(parents=True, exist_ok=True)
+cross_border_summary.to_csv(GOLD_DIR / "cross_border_gold.csv", index=False)
