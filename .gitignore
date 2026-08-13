@@ -17,3 +17,14 @@ __pycache__/
 !hackathon-finreports/_extracted/multi_year_audit.csv
 !hackathon-finreports/_extracted/financials_multiyear.csv
 !hackathon-finreports/_extracted/financials_multiyear_ml.csv
+!hackathon-finreports/_extracted/pillar_spend_long.csv
+!hackathon-finreports/_extracted/pillar_spend_wide.csv
+!hackathon-finreports/_extracted/wallet_model.csv
+!hackathon-finreports/_extracted/opportunity_ranking.csv
+
+# Raw Syn Bank internal datasets - large (~430MB combined), hackathon-provided, not ours to
+# redistribute; every teammate needs their own local copy at the repo root to re-run
+# scripts/build_pillar_spend.py.
+/transactional_banking.csv
+/cross_border_payments.csv
+/trade_finance.csv
