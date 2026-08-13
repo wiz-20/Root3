@@ -1,0 +1,130 @@
+entity_name,fiscal_year,pillar,pillar_key,internal_spend_zar,transaction_count,window_start,window_end,window_days,partial_window
+Anglo American,2024,Foreign / Cross-Border,foreign_cross_border,1580250709.3799999,2167,2024-01-01,2024-12-31,366,False
+Anglo American,2024,Trade & Working Capital,trade_working_capital,877891595.87,381,2024-01-01,2024-12-31,366,False
+Anglo American,2024,Transactional Banking,transactional_banking,9357267843.397358,33737,2024-01-01,2024-12-31,366,False
+Anglo American,2025,Foreign / Cross-Border,foreign_cross_border,1205528246.5900002,1778,2025-01-01,2025-12-31,365,False
+Anglo American,2025,Trade & Working Capital,trade_working_capital,658734619.87,287,2025-01-01,2025-12-31,365,False
+Anglo American,2025,Transactional Banking,transactional_banking,7675305136.527518,28345,2025-01-01,2025-12-31,365,False
+AngloGold Ashanti,2024,Foreign / Cross-Border,foreign_cross_border,849746021.08,1483,2024-01-01,2024-12-31,366,False
+AngloGold Ashanti,2024,Trade & Working Capital,trade_working_capital,491125521.41999996,288,2024-01-01,2024-12-31,366,False
+AngloGold Ashanti,2024,Transactional Banking,transactional_banking,1776898985.976956,7605,2024-01-01,2024-12-31,366,False
+AngloGold Ashanti,2025,Foreign / Cross-Border,foreign_cross_border,901207403.01,1557,2025-01-01,2025-12-31,365,False
+AngloGold Ashanti,2025,Trade & Working Capital,trade_working_capital,419427730.92,264,2025-01-01,2025-12-31,365,False
+AngloGold Ashanti,2025,Transactional Banking,transactional_banking,1787474976.4118857,7874,2025-01-01,2025-12-31,365,False
+Aspen Pharmacare,2024,Foreign / Cross-Border,foreign_cross_border,1439253945.85,3750,2023-07-01,2024-06-30,366,False
+Aspen Pharmacare,2024,Trade & Working Capital,trade_working_capital,394815032.97,356,2023-07-01,2024-06-30,366,False
+Aspen Pharmacare,2024,Transactional Banking,transactional_banking,3095743218.0299997,33893,2023-07-01,2024-06-30,366,False
+Aspen Pharmacare,2025,Foreign / Cross-Border,foreign_cross_border,1370773631.0099998,3769,2024-07-01,2025-06-30,365,False
+Aspen Pharmacare,2025,Trade & Working Capital,trade_working_capital,369167494.88,345,2024-07-01,2025-06-30,365,False
+Aspen Pharmacare,2025,Transactional Banking,transactional_banking,3038965452.65,34226,2024-07-01,2025-06-30,365,False
+BHP Group,2024,Foreign / Cross-Border,foreign_cross_border,2083260326.9899998,2309,2023-07-01,2024-06-30,366,False
+BHP Group,2024,Trade & Working Capital,trade_working_capital,1204214139.0300002,418,2023-07-01,2024-06-30,366,False
+BHP Group,2024,Transactional Banking,transactional_banking,14596423841.388393,39431,2023-07-01,2024-06-30,366,False
+BHP Group,2025,Foreign / Cross-Border,foreign_cross_border,2174463452.41,2411,2024-07-01,2025-06-30,365,False
+BHP Group,2025,Trade & Working Capital,trade_working_capital,1278706407.09,418,2024-07-01,2025-06-30,365,False
+BHP Group,2025,Transactional Banking,transactional_banking,15134861552.116905,40286,2024-07-01,2025-06-30,365,False
+Bid Corporation,2024,Foreign / Cross-Border,foreign_cross_border,3964725873.0299997,6301,2023-07-01,2024-06-30,366,False
+Bid Corporation,2024,Trade & Working Capital,trade_working_capital,1607745023.54,824,2023-07-01,2024-06-30,366,False
+Bid Corporation,2024,Transactional Banking,transactional_banking,9109760251.150002,61345,2023-07-01,2024-06-30,366,False
+Bid Corporation,2025,Foreign / Cross-Border,foreign_cross_border,5181307317.13,8327,2024-07-01,2025-06-30,365,False
+Bid Corporation,2025,Trade & Working Capital,trade_working_capital,1964199815.46,953,2024-07-01,2025-06-30,365,False
+Bid Corporation,2025,Transactional Banking,transactional_banking,11209239149.210001,74061,2024-07-01,2025-06-30,365,False
+Clicks Group,2024,Foreign / Cross-Border,foreign_cross_border,941830171.8599999,2512,2023-09-01,2024-08-31,366,False
+Clicks Group,2024,Trade & Working Capital,trade_working_capital,89982502.10000001,77,2023-09-01,2024-08-31,366,False
+Clicks Group,2024,Transactional Banking,transactional_banking,188665645.39,2982,2023-09-01,2024-08-31,366,False
+Clicks Group,2025,Foreign / Cross-Border,foreign_cross_border,1034949930.79,2555,2024-09-01,2025-08-31,365,False
+Clicks Group,2025,Trade & Working Capital,trade_working_capital,76274371.57,55,2024-09-01,2025-08-31,365,False
+Clicks Group,2025,Transactional Banking,transactional_banking,202535908.02,3048,2024-09-01,2025-08-31,365,False
+Glencore,2024,Foreign / Cross-Border,foreign_cross_border,2297123194.34,1479,2024-01-01,2024-12-31,366,False
+Glencore,2024,Trade & Working Capital,trade_working_capital,1162932340.9099998,263,2024-01-01,2024-12-31,366,False
+Glencore,2024,Transactional Banking,transactional_banking,3942974120.832519,6638,2024-01-01,2024-12-31,366,False
+Glencore,2025,Foreign / Cross-Border,foreign_cross_border,2410043842.85,1508,2025-01-01,2025-12-31,365,False
+Glencore,2025,Trade & Working Capital,trade_working_capital,1029595873.09,250,2025-01-01,2025-12-31,365,False
+Glencore,2025,Transactional Banking,transactional_banking,4292625043.112292,6964,2025-01-01,2025-12-31,365,False
+Gold Fields,2024,Foreign / Cross-Border,foreign_cross_border,856821421.48,1625,2024-01-01,2024-12-31,366,False
+Gold Fields,2024,Trade & Working Capital,trade_working_capital,537170675.79,302,2024-01-01,2024-12-31,366,False
+Gold Fields,2024,Transactional Banking,transactional_banking,1559149631.8945987,7040,2024-01-01,2024-12-31,366,False
+Gold Fields,2025,Foreign / Cross-Border,foreign_cross_border,963885343.37,1716,2025-01-01,2025-12-31,365,False
+Gold Fields,2025,Trade & Working Capital,trade_working_capital,526330650.36999995,299,2025-01-01,2025-12-31,365,False
+Gold Fields,2025,Transactional Banking,transactional_banking,1578243379.9498143,7153,2025-01-01,2025-12-31,365,False
+MTN Group,2024,Foreign / Cross-Border,foreign_cross_border,6288829029.6,10178,2024-01-01,2024-12-31,366,False
+MTN Group,2024,Trade & Working Capital,trade_working_capital,1270006626.35,780,2024-01-01,2024-12-31,366,False
+MTN Group,2024,Transactional Banking,transactional_banking,10478244626.349998,70311,2024-01-01,2024-12-31,366,False
+MTN Group,2025,Foreign / Cross-Border,foreign_cross_border,6434127410.610001,10731,2025-01-01,2025-12-31,365,False
+MTN Group,2025,Trade & Working Capital,trade_working_capital,1535840439.23,779,2025-01-01,2025-12-31,365,False
+MTN Group,2025,Transactional Banking,transactional_banking,10356401316.56,69949,2025-01-01,2025-12-31,365,False
+NEPI Rockcastle,2024,Foreign / Cross-Border,foreign_cross_border,190483080.64000002,797,2024-01-01,2024-12-31,366,False
+NEPI Rockcastle,2024,Trade & Working Capital,trade_working_capital,2659075.52,8,2024-01-01,2024-12-31,366,False
+NEPI Rockcastle,2024,Transactional Banking,transactional_banking,34949096.79,820,2024-01-01,2024-12-31,366,False
+NEPI Rockcastle,2025,Foreign / Cross-Border,foreign_cross_border,286840911.06000006,1104,2025-01-01,2025-12-31,365,False
+NEPI Rockcastle,2025,Trade & Working Capital,trade_working_capital,3796699.6,8,2025-01-01,2025-12-31,365,False
+NEPI Rockcastle,2025,Transactional Banking,transactional_banking,44101219.83,1074,2025-01-01,2025-12-31,365,False
+Naspers,2024,Foreign / Cross-Border,foreign_cross_border,1448618628.75,2982,2023-07-01,2024-03-31,275,True
+Naspers,2024,Trade & Working Capital,trade_working_capital,32953547.980000004,26,2023-07-01,2024-03-31,275,True
+Naspers,2024,Transactional Banking,transactional_banking,1037395683.22,8160,2023-07-01,2024-03-31,275,True
+Naspers,2025,Foreign / Cross-Border,foreign_cross_border,1910780745.69,3933,2024-04-01,2025-03-31,365,False
+Naspers,2025,Trade & Working Capital,trade_working_capital,33580074.66,28,2024-04-01,2025-03-31,365,False
+Naspers,2025,Transactional Banking,transactional_banking,1340878143.9,10855,2024-04-01,2025-03-31,365,False
+Naspers,2026,Foreign / Cross-Border,foreign_cross_border,2205860573.7799997,4132,2025-04-01,2026-03-31,365,False
+Naspers,2026,Trade & Working Capital,trade_working_capital,59390575.93,29,2025-04-01,2026-03-31,365,False
+Naspers,2026,Transactional Banking,transactional_banking,1464257069.4500003,10922,2025-04-01,2026-03-31,365,False
+OUTsurance Group,2024,Foreign / Cross-Border,foreign_cross_border,414141805.09000003,1351,2023-07-01,2024-06-30,366,False
+OUTsurance Group,2024,Trade & Working Capital,trade_working_capital,39604088.65,42,2023-07-01,2024-06-30,366,False
+OUTsurance Group,2024,Transactional Banking,transactional_banking,241503733.17000002,3889,2023-07-01,2024-06-30,366,False
+OUTsurance Group,2025,Foreign / Cross-Border,foreign_cross_border,828998615.28,2449,2024-07-01,2025-06-30,365,False
+OUTsurance Group,2025,Trade & Working Capital,trade_working_capital,84125905.6,63,2024-07-01,2025-06-30,365,False
+OUTsurance Group,2025,Transactional Banking,transactional_banking,282537714.06,4507,2024-07-01,2025-06-30,365,False
+Pepkor Holdings,2024,Foreign / Cross-Border,foreign_cross_border,6368770824.74,13672,2023-10-01,2024-09-30,366,False
+Pepkor Holdings,2024,Trade & Working Capital,trade_working_capital,1453236185.72,1029,2023-10-01,2024-09-30,366,False
+Pepkor Holdings,2024,Transactional Banking,transactional_banking,34487226509.94999,310654,2023-10-01,2024-09-30,366,False
+Pepkor Holdings,2025,Foreign / Cross-Border,foreign_cross_border,6820268483.08,14592,2024-10-01,2025-09-30,365,False
+Pepkor Holdings,2025,Trade & Working Capital,trade_working_capital,1579227897.3600001,1051,2024-10-01,2025-09-30,365,False
+Pepkor Holdings,2025,Transactional Banking,transactional_banking,34269229606.280006,309124,2024-10-01,2025-09-30,365,False
+Prosus,2024,Foreign / Cross-Border,foreign_cross_border,1511083599.79,3075,2023-07-01,2024-03-31,275,True
+Prosus,2024,Trade & Working Capital,trade_working_capital,51629535.54,13,2023-07-01,2024-03-31,275,True
+Prosus,2024,Transactional Banking,transactional_banking,1498260244.26,12392,2023-07-01,2024-03-31,275,True
+Prosus,2025,Foreign / Cross-Border,foreign_cross_border,1946962029.1599998,3908,2024-04-01,2025-03-31,365,False
+Prosus,2025,Trade & Working Capital,trade_working_capital,14581795.870000003,11,2024-04-01,2025-03-31,365,False
+Prosus,2025,Transactional Banking,transactional_banking,1946252994.2,16421,2024-04-01,2025-03-31,365,False
+Prosus,2026,Foreign / Cross-Border,foreign_cross_border,2081823073.67,4236,2025-04-01,2026-03-31,365,False
+Prosus,2026,Trade & Working Capital,trade_working_capital,34638117.88,14,2025-04-01,2026-03-31,365,False
+Prosus,2026,Transactional Banking,transactional_banking,1919062631.3400002,16736,2025-04-01,2026-03-31,365,False
+Sanlam,2024,Foreign / Cross-Border,foreign_cross_border,2772545883.7799997,5291,2024-01-01,2024-12-31,366,False
+Sanlam,2024,Trade & Working Capital,trade_working_capital,200318057.63,136,2024-01-01,2024-12-31,366,False
+Sanlam,2024,Transactional Banking,transactional_banking,27156505878.129997,224896,2024-01-01,2024-12-31,366,False
+Sanlam,2025,Foreign / Cross-Border,foreign_cross_border,2739542104.31,5290,2025-01-01,2025-12-31,365,False
+Sanlam,2025,Trade & Working Capital,trade_working_capital,174713804.85,100,2025-01-01,2025-12-31,365,False
+Sanlam,2025,Transactional Banking,transactional_banking,22158038717.399998,181080,2025-01-01,2025-12-31,365,False
+Shaftesbury Capital plc,2024,Foreign / Cross-Border,foreign_cross_border,107648447.78999999,567,2024-01-01,2024-12-31,366,False
+Shaftesbury Capital plc,2024,Trade & Working Capital,trade_working_capital,6227439.37,6,2024-01-01,2024-12-31,366,False
+Shaftesbury Capital plc,2024,Transactional Banking,transactional_banking,11921838.66,460,2024-01-01,2024-12-31,366,False
+Shaftesbury Capital plc,2025,Foreign / Cross-Border,foreign_cross_border,129521585.45,628,2025-01-01,2025-12-31,365,False
+Shaftesbury Capital plc,2025,Trade & Working Capital,trade_working_capital,5717852.23,11,2025-01-01,2025-12-31,365,False
+Shaftesbury Capital plc,2025,Transactional Banking,transactional_banking,12051344.96,482,2025-01-01,2025-12-31,365,False
+Shoprite Holdings,2024,Foreign / Cross-Border,foreign_cross_border,3306000311.06,5114,2023-07-01,2024-06-30,366,False
+Shoprite Holdings,2024,Trade & Working Capital,trade_working_capital,1233294166.1,691,2023-07-01,2024-06-30,366,False
+Shoprite Holdings,2024,Transactional Banking,transactional_banking,10375517593.32,67478,2023-07-01,2024-06-30,366,False
+Shoprite Holdings,2025,Foreign / Cross-Border,foreign_cross_border,3465615564.5600004,5513,2024-06-30,2025-06-29,365,False
+Shoprite Holdings,2025,Trade & Working Capital,trade_working_capital,1473372761.28,687,2024-06-30,2025-06-29,365,False
+Shoprite Holdings,2025,Transactional Banking,transactional_banking,10275161827.64,67340,2024-06-30,2025-06-29,365,False
+The Bidvest Group,2024,Foreign / Cross-Border,foreign_cross_border,1703520513.74,3216,2023-07-01,2024-06-30,366,False
+The Bidvest Group,2024,Trade & Working Capital,trade_working_capital,1159728398.19,748,2023-07-01,2024-06-30,366,False
+The Bidvest Group,2024,Transactional Banking,transactional_banking,4261991321.2000003,33995,2023-07-01,2024-06-30,366,False
+The Bidvest Group,2025,Foreign / Cross-Border,foreign_cross_border,1663002641.63,3264,2024-07-01,2025-06-30,365,False
+The Bidvest Group,2025,Trade & Working Capital,trade_working_capital,1149158737.05,716,2024-07-01,2025-06-30,365,False
+The Bidvest Group,2025,Transactional Banking,transactional_banking,4361987017.03,34883,2024-07-01,2025-06-30,365,False
+Valterra Platinum,2024,Foreign / Cross-Border,foreign_cross_border,163439276.29,344,2024-01-01,2024-12-31,366,False
+Valterra Platinum,2024,Trade & Working Capital,trade_working_capital,131315236.45,70,2024-01-01,2024-12-31,366,False
+Valterra Platinum,2024,Transactional Banking,transactional_banking,38332581.79343733,255,2024-01-01,2024-12-31,366,False
+Valterra Platinum,2025,Foreign / Cross-Border,foreign_cross_border,205797108.97,388,2025-01-01,2025-12-31,365,False
+Valterra Platinum,2025,Trade & Working Capital,trade_working_capital,125227594.8,70,2025-01-01,2025-12-31,365,False
+Valterra Platinum,2025,Transactional Banking,transactional_banking,51688276.3557158,279,2025-01-01,2025-12-31,365,False
+Vodacom Group,2024,Foreign / Cross-Border,foreign_cross_border,2260458097.42,4191,2023-07-01,2024-03-31,275,True
+Vodacom Group,2024,Trade & Working Capital,trade_working_capital,117235551.63,59,2023-07-01,2024-03-31,275,True
+Vodacom Group,2024,Transactional Banking,transactional_banking,179757731.82999998,1940,2023-07-01,2024-03-31,275,True
+Vodacom Group,2025,Foreign / Cross-Border,foreign_cross_border,2972646126.1000004,5582,2024-04-01,2025-03-31,365,False
+Vodacom Group,2025,Trade & Working Capital,trade_working_capital,186227056.9,109,2024-04-01,2025-03-31,365,False
+Vodacom Group,2025,Transactional Banking,transactional_banking,243999340.58,2639,2024-04-01,2025-03-31,365,False
+Vodacom Group,2026,Foreign / Cross-Border,foreign_cross_border,3086828168.54,5781,2025-04-01,2026-03-31,365,False
+Vodacom Group,2026,Trade & Working Capital,trade_working_capital,157095898.91000003,104,2025-04-01,2026-03-31,365,False
+Vodacom Group,2026,Transactional Banking,transactional_banking,249802559.87,2594,2025-04-01,2026-03-31,365,False

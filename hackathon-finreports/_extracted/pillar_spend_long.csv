@@ -1,0 +1,61 @@
+entity_id,entity_name,sector,internal_spend_zar,pillar,pillar_key,transaction_count
+E03,Anglo American,mining,996378910.4,Foreign / Cross-Border,foreign_cross_border,1467
+E03,Anglo American,mining,632016627.58,Trade & Working Capital,trade_working_capital,305
+E03,Anglo American,mining,7557961123.382788,Transactional Banking,transactional_banking,27158
+E04,AngloGold Ashanti,mining,848492695.06,Foreign / Cross-Border,foreign_cross_border,1527
+E04,AngloGold Ashanti,mining,515693855.49,Trade & Working Capital,trade_working_capital,305
+E04,AngloGold Ashanti,mining,1981950189.4240954,Transactional Banking,transactional_banking,8621
+E19,Aspen Pharmacare,industrials_pharma,1412986990.35,Foreign / Cross-Border,foreign_cross_border,3653
+E19,Aspen Pharmacare,industrials_pharma,532422716.56,Trade & Working Capital,trade_working_capital,426
+E19,Aspen Pharmacare,industrials_pharma,3552115830.72,Transactional Banking,transactional_banking,38525
+E01,BHP Group,mining,2082856263.1200001,Foreign / Cross-Border,foreign_cross_border,2191
+E01,BHP Group,mining,1444550118.15,Trade & Working Capital,trade_working_capital,471
+E01,BHP Group,mining,16787717532.892805,Transactional Banking,transactional_banking,45011
+E10,Bid Corporation,consumer,6165601154.27,Foreign / Cross-Border,foreign_cross_border,9812
+E10,Bid Corporation,consumer,1878698744.5,Trade & Working Capital,trade_working_capital,974
+E10,Bid Corporation,consumer,12928061539.31,Transactional Banking,transactional_banking,87025
+E12,Clicks Group,consumer,1005496789.56,Foreign / Cross-Border,foreign_cross_border,2606
+E12,Clicks Group,consumer,63867542.63,Trade & Working Capital,trade_working_capital,60
+E12,Clicks Group,consumer,197714520.05,Transactional Banking,transactional_banking,3018
+E02,Glencore,mining,2323926326.28,Foreign / Cross-Border,foreign_cross_border,1464
+E02,Glencore,mining,1085073575.85,Trade & Working Capital,trade_working_capital,242
+E02,Glencore,mining,4440267898.284198,Transactional Banking,transactional_banking,7571
+E05,Gold Fields,mining,899750778.16,Foreign / Cross-Border,foreign_cross_border,1688
+E05,Gold Fields,mining,695385751.85,Trade & Working Capital,trade_working_capital,341
+E05,Gold Fields,mining,1732419648.7053783,Transactional Banking,transactional_banking,7826
+E16,MTN Group,telecoms,6209646180.28,Foreign / Cross-Border,foreign_cross_border,10492
+E16,MTN Group,telecoms,1443169160.97,Trade & Working Capital,trade_working_capital,784
+E16,MTN Group,telecoms,10436284748.23,Transactional Banking,transactional_banking,69939
+E13,NEPI Rockcastle,real_estate,304225516.69,Foreign / Cross-Border,foreign_cross_border,1175
+E13,NEPI Rockcastle,real_estate,3904356.82,Trade & Working Capital,trade_working_capital,8
+E13,NEPI Rockcastle,real_estate,48368287.3,Transactional Banking,transactional_banking,1184
+E15,Naspers,tech,2053358828.74,Foreign / Cross-Border,foreign_cross_border,3930
+E15,Naspers,tech,45388341.4,Trade & Working Capital,trade_working_capital,28
+E15,Naspers,tech,1459238505.49,Transactional Banking,transactional_banking,10935
+E07,OUTsurance Group,insurance,1136816776.21,Foreign / Cross-Border,foreign_cross_border,3234
+E07,OUTsurance Group,insurance,78607464.9,Trade & Working Capital,trade_working_capital,86
+E07,OUTsurance Group,insurance,342922994.92,Transactional Banking,transactional_banking,5374
+E11,Pepkor Holdings,consumer,6655520139.92,Foreign / Cross-Border,foreign_cross_border,14202
+E11,Pepkor Holdings,consumer,1533077406.45,Trade & Working Capital,trade_working_capital,1077
+E11,Pepkor Holdings,consumer,34195052214.99,Transactional Banking,transactional_banking,309881
+E14,Prosus,tech,1973314428.53,Foreign / Cross-Border,foreign_cross_border,4010
+E14,Prosus,tech,32376358.75,Trade & Working Capital,trade_working_capital,11
+E14,Prosus,tech,1933025582.07,Transactional Banking,transactional_banking,16702
+E08,Sanlam,insurance,2664890263.89,Foreign / Cross-Border,foreign_cross_border,4940
+E08,Sanlam,insurance,152336222.4,Trade & Working Capital,trade_working_capital,99
+E08,Sanlam,insurance,19247480404.64,Transactional Banking,transactional_banking,159191
+E20,Shaftesbury Capital plc,real_estate,111379150.66,Foreign / Cross-Border,foreign_cross_border,607
+E20,Shaftesbury Capital plc,real_estate,8340761.67,Trade & Working Capital,trade_working_capital,12
+E20,Shaftesbury Capital plc,real_estate,12046811.59,Transactional Banking,transactional_banking,455
+E09,Shoprite Holdings,consumer,3356217810.79,Foreign / Cross-Border,foreign_cross_border,5181
+E09,Shoprite Holdings,consumer,1539090586.51,Trade & Working Capital,trade_working_capital,720
+E09,Shoprite Holdings,consumer,10593350645.5,Transactional Banking,transactional_banking,67562
+E18,The Bidvest Group,industrials_pharma,1614257873.59,Foreign / Cross-Border,foreign_cross_border,3156
+E18,The Bidvest Group,industrials_pharma,1464030785.52,Trade & Working Capital,trade_working_capital,878
+E18,The Bidvest Group,industrials_pharma,4730573885.43,Transactional Banking,transactional_banking,38740
+E06,Valterra Platinum,mining,202511540.88,Foreign / Cross-Border,foreign_cross_border,380
+E06,Valterra Platinum,mining,115378320.23,Trade & Working Capital,trade_working_capital,70
+E06,Valterra Platinum,mining,51594211.615112424,Transactional Banking,transactional_banking,278
+E17,Vodacom Group,telecoms,2910734803.48,Foreign / Cross-Border,foreign_cross_border,5543
+E17,Vodacom Group,telecoms,180738873.83,Trade & Working Capital,trade_working_capital,113
+E17,Vodacom Group,telecoms,249580595.32,Transactional Banking,transactional_banking,2636
