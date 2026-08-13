@@ -39,11 +39,25 @@ The naive version of this (proxy = consolidated group revenue) produced a **R9.5
 - **Sanlam & OUTsurance, Pillar 2/3:** internal captured flow *exceeds* the top-down proxy (flagged `internal flow exceeds top-down proxy`). Plausible explanation: insurers run large treasury/float activity that a simple receivables+payables+inventory proxy doesn't capture — not a data error, but the proxy underestimates insurers specifically.
 - **Pillar 3 coverage is thin (4/20).** Foreign-revenue % is disclosed as a clean number for MTN, Naspers, Sanlam, Vodacom only. The other 16 companies have real internal cross-border transaction activity (see `pillar_spend_wide.csv`) with no external wallet to compare it to yet — this is exactly where the cut bottom-up SENS/JSE segment-data work would help most, if there's time on Saturday.
 
+## Addendum — ML training table (multi-year, Share % as target)
+
+Faten's plan is to train a model predicting **Share of Wallet %** (per pillar) from a client's financial profile. That target needs internal capture and external financials to both vary per training row — pairing the 43-row `financials_multiyear_ml.csv` panel against a single trailing-12-month internal snapshot (`pillar_spend_wide.csv`) would only give 20 truly independent data points, since the same internal numbers would repeat 2-3x per company.
+
+Fix: `scripts/build_pillar_spend_multiyear.py` computes internal pillar spend separately for each of the 43 company-years, using a trailing-12-month window ending at *that year's own disclosed fiscal year-end* (all 43 rows have one). `scripts/build_wallet_model_multiyear.py` then combines that with `financials_multiyear_ml.csv` into **`wallet_model_multiyear.csv`** — 43 rows, ready to use as features (financials) + targets (`share_pct_pillar1/2/3`).
+
+**Caveats specific to this table:**
+- 3/43 rows (Naspers/Prosus/Vodacom FY2024, all 31-March fiscal year end) have a `partial_window=True` flag — their internal window is 9 months, not 12, because the raw data starts 2023-07-01. Not dropped, just flagged.
+- Label coverage: `share_pct_pillar1` 43/43, `share_pct_pillar2` 40/43, `share_pct_pillar3` only 17/43 (foreign-revenue % is rarely disclosed as a clean number) — Pillar 3 is too thin to train on reliably as-is.
+- Shaftesbury Capital plc discloses foreign revenue as literally 0% - this makes the Pillar 3 wallet proxy exactly 0 while it still has real internal cross-border transaction activity, which would produce an infinite "share %". Handled explicitly (`zero_wallet_flag_pillar3=True`, share left as null rather than `inf`) rather than silently breaking downstream ML code.
+- Same `top_down_reliability` tiering as `wallet_model.csv` applies here (23 `moderate` ZAR-reporter rows, 20 `low` foreign-currency rows) — worth including as a model feature/stratum rather than ignoring, since it's a real, known confound.
+
 ## Files produced
 
 - `hackathon-finreports/_extracted/pillar_spend_long.csv`, `pillar_spend_wide.csv` — internal side
 - `hackathon-finreports/_extracted/wallet_model.csv` — full per-client, per-pillar model with all caveat columns
 - `hackathon-finreports/_extracted/opportunity_ranking.csv` — clients ranked by total Rand gap, reliability tier included
+- `hackathon-finreports/_extracted/pillar_spend_multiyear_long.csv` / `_wide.csv` — internal side, fiscal-year-aligned, 43 company-years
+- `hackathon-finreports/_extracted/wallet_model_multiyear.csv` — **the ML training table**: 43 rows, financial features + `share_pct_pillar1/2/3` targets
 
 ## Assumptions & limitations (for the methodology appendix)
 
