@@ -1,0 +1,21 @@
+folder,chosen_file,method,year_detected,flag,excerpt_file,excerpt_pages
+angloamerican,AA annual-report-full-2025.pdf,fallback_no_afs_label,2025,no AFS-labeled file found; used newest annual/integrated report; Folder contains a file referencing 'AGA' (AngloGold Ashanti's ticker) - verify this isn't misfiled.,angloamerican_excerpt.txt,55
+angloashanti,ERDEC25.pdf,fallback_no_afs_label,,no AFS-labeled file found; used newest annual/integrated report,angloashanti_excerpt.txt,37
+aspen,Aspen_FY2025_AFS.pdf,afs_match,2025,,aspen_excerpt.txt,66
+bhp,5. 2025 Annual Report.pdf,fallback_no_afs_label,2025,no AFS-labeled file found; used newest annual/integrated report,bhp_excerpt.txt,37
+bid,Bidcorp-2025-AFS.pdf,afs_match,2025,,bid_excerpt.txt,47
+bidvest group,Bidvest_FY2025_Company AFS.pdf,afs_match,2025,Bidvest FY2025 AFS available is Company-level only; Group FY2025 AFS not in folder (only Group FY2024 present).,bidvest_group_excerpt.txt,12
+clicks,Clicks_FY2025_AFS.pdf,afs_match,2025,,clicks_excerpt.txt,39
+glencore,Glencore 2025 Annual Report.pdf,fallback_no_afs_label,2025,no AFS-labeled file found; used newest annual/integrated report,glencore_excerpt.txt,79
+gold fields,AFR2025.pdf,afs_match,2025,,gold_fields_excerpt.txt,79
+mtn,17.03.2025 - MTN Group - AFS.pdf,afs_match,2025,,mtn_excerpt.txt,79
+naspe,Naspers_FY2026_AFS.pdf,afs_match,2026,,naspe_excerpt.txt,111
+nepi,NEPI Rockcastle N.V. Annual Report 2025_18 Mar_reduced.pdf,fallback_no_afs_label,2025,no AFS-labeled file found; used newest annual/integrated report,nepi_excerpt.txt,45
+out,ogl-annual-financial-statements-2025.pdf,afs_match,2025,,out_excerpt.txt,56
+pepkor,Pepkor annual financial statements 2025.pdf,afs_match,2025,,pepkor_excerpt.txt,64
+prosus,Prosus_FY2026_Annual Report 2026.pdf,fallback_no_afs_label,2026,no AFS-labeled file found; used newest annual/integrated report,prosus_excerpt.txt,82
+sanlam,Sanlam-AFS-2023.pdf,afs_match,2023,Latest AFS-labeled file is 2023; FY2025 only available as Integrated Report / unclear 'FY24.pdf'.,sanlam_excerpt.txt,141
+shaftesbury,Shaftesbury Capital Annual Report 2025.pdf,fallback_no_afs_label,2025,no AFS-labeled file found; used newest annual/integrated report,shaftesbury_excerpt.txt,29
+shoprite,shp-afs-2025.pdf,afs_match,2025,,shoprite_excerpt.txt,71
+valterra,AFS.pdf,afs_match,,,valterra_excerpt.txt,56
+vodacom,Vodacom_FY2026_AFS.pdf,afs_match,2026,,vodacom_excerpt.txt,80

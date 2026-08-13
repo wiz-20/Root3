@@ -1,0 +1,44 @@
+canonical,target_year,source_folder,chosen_file,flag,excerpt_file,excerpt_pages
+angloamerican,2024,hackathon-finreports-2024/anglo,aa-annual-report-full-2024.pdf,no AFS-labeled file found; used newest annual/integrated report,angloamerican_2024_excerpt.txt,45
+angloashanti,2024,hackathon-finreports-2024/ashanti,AGA-AR24.pdf,no AFS-labeled file found; used newest annual/integrated report,angloashanti_2024_excerpt.txt,90
+aspen,2024,hackathon-finreports-2024/aspen,FY-2024-Annual-Results-Presentation.pdf,no AFS-labeled file found; used newest annual/integrated report,aspen_2024_excerpt.txt,0
+bhp,2024,hackathon-finreports-2024/bhp,240827_bhpannualreport2024.pdf,no AFS-labeled file found; used newest annual/integrated report,bhp_2024_excerpt.txt,42
+bid,2024,hackathon-finreports-2024/bidcorp,Bidcorp-2024-Results.pdf,no AFS-labeled file found; used newest annual/integrated report,bid_2024_excerpt.txt,3
+bidvest group,2024,hackathon-finreports-2024/bidvest,fy2024-booklet.pdf,no AFS-labeled file found; used newest annual/integrated report,bidvest_group_2024_excerpt.txt,13
+clicks,2024,hackathon-finreports-2024/clicks,CGL-YE24-Annual-financial-statements.pdf,,clicks_2024_excerpt.txt,40
+glencore,2024,hackathon-finreports-2024/glencore,GLEN-2024-Annual-Report.pdf,no AFS-labeled file found; used newest annual/integrated report,glencore_2024_excerpt.txt,78
+gold fields,2024,hackathon-finreports-2024/gold fields,afs-2024.pdf,,gold_fields_2024_excerpt.txt,89
+mtn,2024,hackathon-finreports-2024/mtn,MTN-Group-FY-24-Annual-Financial-Statements.pdf,,mtn_2024_excerpt.txt,79
+naspe,2024,hackathon-finreports-2024/naspers,annual-financial-statements.pdf,,naspe_2024_excerpt.txt,5
+nepi,2024,hackathon-finreports-2024/nepi,NEPI_Rockcastle_Annual_Report_2024.pdf,no AFS-labeled file found; used newest annual/integrated report,nepi_2024_excerpt.txt,41
+out,2024,hackathon-finreports-2024/outsurance,ogl_annual-financial-statements_2024.pdf,,out_2024_excerpt.txt,52
+pepkor,2024,hackathon-finreports-2024/pepkor,Pepkor-annual-financial-statements-2024.pdf,,pepkor_2024_excerpt.txt,65
+prosus,2024,hackathon-finreports-2024/prosus,finacial-statements.pdf,no AFS-labeled file found; used newest annual/integrated report,prosus_2024_excerpt.txt,69
+sanlam,2024,hackathon-finreports-2024/sanlam,annual-results-presentation-2024.pdf,no AFS-labeled file found; used newest annual/integrated report; Latest AFS-labeled file is 2023; FY2025 only available as Integrated Report / unclear 'FY24.pdf'.,sanlam_2024_excerpt.txt,0
+shaftesbury,2024,hackathon-finreports-2024/shaftesbury,fy24-press-release.pdf,no AFS-labeled file found; used newest annual/integrated report,shaftesbury_2024_excerpt.txt,9
+shoprite,2024,hackathon-finreports-2024/shoprite,shp-afs-2024.pdf,,shoprite_2024_excerpt.txt,67
+valterra,2024,hackathon-finreports-2024/valterra,annual-financial-statements-2024-1.pdf,,valterra_2024_excerpt.txt,56
+vodacom,2024,hackathon-finreports-2024/vodacom,results-booklet.pdf,no AFS-labeled file found; used newest annual/integrated report,vodacom_2024_excerpt.txt,32
+angloamerican,2025,hackathon-finreports-2025/angloamerican,AA annual-report-full-2025.pdf,no AFS-labeled file found; used newest annual/integrated report; Folder contains a file referencing 'AGA' (AngloGold Ashanti's ticker) - verify this isn't misfiled.,angloamerican_2025_excerpt.txt,55
+angloashanti,2025,hackathon-finreports-2025/angloashanti,ERDEC25.pdf,no AFS-labeled file found; used newest annual/integrated report,angloashanti_2025_excerpt.txt,37
+aspen,2025,hackathon-finreports-2025/aspen,Aspen_FY2025_AFS.pdf,,aspen_2025_excerpt.txt,66
+bhp,2025,hackathon-finreports-2025/bhp,5. 2025 Annual Report.pdf,no AFS-labeled file found; used newest annual/integrated report,bhp_2025_excerpt.txt,37
+bid,2025,hackathon-finreports-2025/bid,Bidcorp-2025-AFS.pdf,,bid_2025_excerpt.txt,47
+bidvest group,2025,hackathon-finreports-2025/bidvest group,Bidvest_FY2025_Company AFS.pdf,Bidvest FY2025 AFS available is Company-level only; Group FY2025 AFS not in folder (only Group FY2024 present).,bidvest_group_2025_excerpt.txt,12
+clicks,2025,hackathon-finreports-2025/clicks,Clicks_FY2025_AFS.pdf,,clicks_2025_excerpt.txt,39
+glencore,2025,hackathon-finreports-2025/glencore,Glencore 2025 Annual Report.pdf,no AFS-labeled file found; used newest annual/integrated report,glencore_2025_excerpt.txt,79
+gold fields,2025,hackathon-finreports-2025/gold fields,AFR2025.pdf,,gold_fields_2025_excerpt.txt,79
+mtn,2025,hackathon-finreports-2025/mtn,MTN FY25 Integrated Report low res (28042026).pdf,no AFS-labeled file found; used newest annual/integrated report,mtn_2025_excerpt.txt,5
+naspe,2025,hackathon-finreports-2025/naspe,Naspers_FY2025_Annual Financial Statements.pdf,,naspe_2025_excerpt.txt,105
+nepi,2025,hackathon-finreports-2025/nepi,NEPI Rockcastle N.V. Annual Report 2025_18 Mar_reduced.pdf,no AFS-labeled file found; used newest annual/integrated report,nepi_2025_excerpt.txt,45
+out,2025,hackathon-finreports-2025/outsurance,ogl-annual-financial-statements-2025.pdf,,out_2025_excerpt.txt,56
+pepkor,2025,hackathon-finreports-2025/pepkor,Pepkor annual financial statements 2025.pdf,,pepkor_2025_excerpt.txt,64
+prosus,2025,hackathon-finreports-2025/prosus,Prosus_FY2025_Annual Report.pdf,no AFS-labeled file found; used newest annual/integrated report,prosus_2025_excerpt.txt,73
+sanlam,2025,hackathon-finreports-2025/sanlam,Sanlam-AFS-2025-spreads.pdf,Latest AFS-labeled file is 2023; FY2025 only available as Integrated Report / unclear 'FY24.pdf'.,sanlam_2025_excerpt.txt,106
+shaftesbury,2025,hackathon-finreports-2025/shaftesbury,Shaftesbury Capital Annual Report 2025.pdf,no AFS-labeled file found; used newest annual/integrated report,shaftesbury_2025_excerpt.txt,29
+shoprite,2025,hackathon-finreports-2025/shoprite,shp-afs-2025.pdf,,shoprite_2025_excerpt.txt,71
+valterra,2025,hackathon-finreports-2025/valterra,AFS (1).pdf,,valterra_2025_excerpt.txt,58
+vodacom,2025,hackathon-finreports-2025/vodacom,vodacom-consolidated-and-separate-financial-statements-2025.pdf,no AFS-labeled file found; used newest annual/integrated report,vodacom_2025_excerpt.txt,77
+naspe,2026,hackathon-finreports-2026/naspers,naspers-annual-financial-statements-2026.pdf,,naspe_2026_excerpt.txt,111
+prosus,2026,hackathon-finreports-2026/prosus,prosus-financial-results-fy26-booklet.pdf,no AFS-labeled file found; used newest annual/integrated report,prosus_2026_excerpt.txt,11
+vodacom,2026,hackathon-finreports-2026/vodacom,results-booklet-AFY.pdf,no AFS-labeled file found; used newest annual/integrated report,vodacom_2026_excerpt.txt,20

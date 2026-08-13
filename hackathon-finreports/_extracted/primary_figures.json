@@ -12,15 +12,15 @@
   "clicks":          {"currency": "ZAR", "revenue": 51426.992, "cost_of_sales": 36428.426,"trade_receivables": 3139.516, "trade_payables": 10912.537,"inventory": 7818.704},
   "glencore":        {"currency": "USD", "revenue": 247535,    "cost_of_sales": 241672,   "trade_receivables": 23826,   "trade_payables": 35614,   "inventory": 33955},
   "gold fields":     {"currency": "USD", "revenue": 8751.3,    "cost_of_sales": 3680.8,   "trade_receivables": 380.7,   "trade_payables": 908.1,   "inventory": 1156.0},
-  "mtn":             {"currency": "ZAR", "revenue": 188001,    "cost_of_sales": null,     "trade_receivables": 34304,   "trade_payables": 57942,   "inventory": 1213},
-  "naspe":           {"currency": "USD", "revenue": 10848,     "cost_of_sales": null,     "trade_receivables": 608,     "trade_payables": 1170,    "inventory": 347},
+  "mtn":             {"currency": "ZAR", "revenue": 226707,    "cost_of_sales": null,     "trade_receivables": null,    "trade_payables": null,    "inventory": null},
+  "naspe":           {"currency": "USD", "revenue": 7181,      "cost_of_sales": 4289,     "trade_receivables": 241,     "trade_payables": 365,     "inventory": 321},
   "nepi":            {"currency": "EUR", "revenue": 624.348,   "cost_of_sales": null,     "trade_receivables": 113.533, "trade_payables": 179.289, "inventory": null},
   "out":             {"currency": "ZAR", "revenue": 37131,     "cost_of_sales": null,     "trade_receivables": 4,       "trade_payables": 12,      "inventory": null},
   "pepkor":          {"currency": "ZAR", "revenue": 95340,     "cost_of_sales": 57388,    "trade_receivables": 14606,   "trade_payables": 16890,   "inventory": 18618},
-  "prosus":          {"currency": "USD", "revenue": 9705,      "cost_of_sales": 5198,     "trade_receivables": 570,     "trade_payables": 1109,    "inventory": 271},
-  "sanlam":          {"currency": "ZAR", "revenue": 112282,    "cost_of_sales": null,     "trade_receivables": 20014,   "trade_payables": 30800,   "inventory": null},
+  "prosus":          {"currency": "USD", "revenue": 6170,      "cost_of_sales": 3546,     "trade_receivables": 202,     "trade_payables": 318,     "inventory": 255},
+  "sanlam":          {"currency": "ZAR", "revenue": 102903,    "cost_of_sales": null,     "trade_receivables": 18629,   "trade_payables": 36891,   "inventory": null},
   "shaftesbury":     {"currency": "GBP", "revenue": 216.3,     "cost_of_sales": null,     "trade_receivables": 155.1,   "trade_payables": 98.1,    "inventory": null},
   "shoprite":        {"currency": "ZAR", "revenue": 256682,    "cost_of_sales": 191259,   "trade_receivables": 3506,    "trade_payables": 24474,   "inventory": 29748},
-  "valterra":        {"currency": "ZAR", "revenue": 108987,    "cost_of_sales": 90769,    "trade_receivables": 3698,    "trade_payables": 23438,   "inventory": 30087},
-  "vodacom":         {"currency": "ZAR", "revenue": 167652,    "cost_of_sales": null,     "trade_receivables": 18676,   "trade_payables": 19839,   "inventory": 2112}
+  "valterra":        {"currency": "ZAR", "revenue": 116330,    "cost_of_sales": 87772,    "trade_receivables": 4095,    "trade_payables": 21923,   "inventory": 32931},
+  "vodacom":         {"currency": "ZAR", "revenue": 152227,    "cost_of_sales": null,     "trade_receivables": 28536,   "trade_payables": 44057,   "inventory": 2287}
 }
