@@ -10,7 +10,7 @@ produces one excerpt file per (company, year) pair for agent-assisted Step 3
 extraction.
 
 Outputs:
-  hackathon-finreports/_extracted/multi_year/<canonical>_<year>_excerpt.txt
+  hackathon-finreports/_extracted/multi_year/<company>_<year>_excerpt.txt
   hackathon-finreports/_extracted/multi_year_audit.csv
 """
 
@@ -36,6 +36,7 @@ YEAR_DIRS = {
     2024: ROOT / "hackathon-finreports-2024",
     2025: ROOT / "hackathon-finreports-2025",
     2026: ROOT / "hackathon-finreports-2026",
+    
 }
 
 # Canonicalize each year-folder's naming to the same entity keys used in
