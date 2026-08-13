@@ -42,9 +42,8 @@ ENTITY_NAMES = {
 NUMERIC_FIELDS = ["revenue", "cost_of_sales", "trade_receivables", "trade_payables", "inventory"]
 
 # The fiscal year actually covered by the report content, as stated in each company's
-# extraction notes - NOT the year in the filename (those can mismatch: e.g. MTN's AFS
-# filename is dated March 2025 but the statements are for FY2024; Gold Fields/AngloGold/
-# Valterra have no year in their filename at all, so fiscal_year_detected is blank there).
+# extraction notes - NOT the year in the filename 
+# Gold Fields/AngloGold/Valterra have no year in their filename at all, so fiscal_year_detected is blank there).
 # This is the trustworthy column to filter/group on.
 CONTENT_FISCAL_YEAR = {
     "angloamerican": 2025,
@@ -56,17 +55,17 @@ CONTENT_FISCAL_YEAR = {
     "clicks": 2025,
     "glencore": 2025,
     "gold fields": 2025,
-    "mtn": 2024,
-    "naspe": 2026,
+    "mtn": 2025,
+    "naspe": 2025,
     "nepi": 2025,
     "out": 2025,
     "pepkor": 2025,
-    "prosus": 2026,
-    "sanlam": 2023,
+    "prosus": 2025,
+    "sanlam": 2025,
     "shaftesbury": 2025,
     "shoprite": 2025,
-    "valterra": 2024,
-    "vodacom": 2026,
+    "valterra": 2025,
+    "vodacom": 2025,
 }
 
 # Most companies in this set report FY2025 or FY2026; anything older is flagged so it
@@ -91,16 +90,16 @@ FIELD_ORDER = [
     "currency",
     "fx_rate_to_zar",
     "fx_rate_date",
-    "revenue_m",
-    "revenue_zar_m",
-    "cost_of_sales_m",
-    "cost_of_sales_zar_m",
-    "trade_receivables_m",
-    "trade_receivables_zar_m",
-    "trade_payables_m",
-    "trade_payables_zar_m",
-    "inventory_m",
-    "inventory_zar_m",
+    "revenue_millions",
+    "revenue_zar_millions",
+    "cost_of_sales_millions",
+    "cost_of_sales_zar_millions",
+    "trade_receivables_millions",
+    "trade_receivables_zar_millions",
+    "trade_payables_millions",
+    "trade_payables_zar_millions",
+    "inventory_millions",
+    "inventory_zar_millions",
     "revenue",
     "cost_of_sales",
     "operating_expenses",
@@ -154,8 +153,8 @@ def main():
         }
         for key in NUMERIC_FIELDS:
             value = figures.get(key)
-            row[f"{key}_m"] = value
-            row[f"{key}_zar_m"] = round_or_none(value, rate) if rate is not None else None
+            row[f"{key}_millions"] = value
+            row[f"{key}_zar_millions"] = round_or_none(value, rate) if rate is not None else None
 
         for key in FIELD_ORDER:
             if key in rec:
