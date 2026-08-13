@@ -1,0 +1,2311 @@
+Source: fy2024-booklet.pdf
+Target fiscal year: 2024
+Narrowing found only 13 pages - dumping FULL document (24 pages) instead, likely a results presentation/press release rather than a full AFS.
+================================================================================
+
+--- PAGE 1 (full dump) ---
+Audited summarised results
+2024
+for the year ended  
+30 June
+People and 
+products behind a 
+brighter future
+
+--- PAGE 2 (full dump) ---
+The Bidvest Group Limited Audited summarised results for the year ended 30 June 2024
+“Bidvest delivered a solid performance. Five of the seven divisions 
+reported growth in profits, four of those impressive double-digit 
+profit increases”
+Mpumi Madisa, Chief executive
+Cash generated  
+by operations 
++15.3%
+R14.0bn
+Trading  
+profit
++8.5%
+R12.4bn
+Revenue
++6.7%
+R122.6bn
+HEPS
++6.6%
+1 912.6  
+cents
+Basic EPS 
++6.6%
+1 873.8  
+cents
+Normalised
+HEPS
++4.3%
+1 964.8  
+cents
+Total dividend 
++4.3%
+914  
+cents
+ROFE
+-100bps
+37.3%
+Salient
+features
+for the financial year ended 30 June 2024
+
+--- PAGE 3 (full dump) ---
+1
+Introduction
+Bidvest has delivered a solid performance, with the underlying 
+themes of these results demonstrating consistency in 
+performance, strong cash flow and growth, which are the 
+Group’s coveted attributes.
+This year’s result is also characterised by increased innovation 
+and technology deployment across all our operating regions. 
+Our considered and focused corporate action execution has 
+resulted in our maiden hygiene services entry in the Asia-
+Pacific market and the doubling of our Australian facilities 
+management operations. 
+Despite the pressure points of volume contractions in 
+renewables and new vehicles, the overall results are testament 
+to the value of Bidvest’s diversified portfolio. 
+Five out of the seven divisions reported profit growth with four 
+delivering impressive double-digit increases. The remaining 
+two divisions, Commercial Products and Automotive, faced 
+headwinds due to the high renewables base and a declining 
+new vehicle market. 
+We remain confident in our growth strategy and ability to 
+create sustainable value. To ensure a strong pipeline, we 
+deployed almost R5.0 billion on eleven acquisitions and growth 
+capital expenditure, both domestically and offshore. These 
+investments added to our geographic footprint (Consolidated 
+Property Services in Australia, RHS in Singapore), further 
+diversified the portfolio (Interloc Freight Services, Green Home 
+Products, Brandability), and augmented key offerings through 
+additional scale (Robinson Services, OSS Contracts, Principal 
+Hygiene, Synergy Waste, Pure Hygiene, Roan Systems). 
+Strong cash generation and conversion in the second half 
+allowed us to reduce gearing from the interim stage, and to 
+end in line with the prior year. And yet again, we delivered an 
+excellent value-adding return for shareholders. 
+Following a portfolio review, we made a significant strategic 
+decision to dispose of Bidvest Bank and FinGlobal, thereby 
+positioning these businesses for their next phase of 
+sustainable growth, whilst recycling capital for the Group. The 
+remaining short-term insurance businesses, whose focus is 
+primarily vehicle insurance cover and related value-added 
+products, transferred to Automotive effective 1 July 2024.
+Highlights 
+Top-line growth together with vigorous gross margin 
+management and excellent expense control culminated in 
+Group trading profit increasing 8.5%. 
+Message to
+shareholders
+Cash flow from operating activities grew strongly by 18.7%, 
+which is more than double net income growth, after paying 
+more to our equity and debt capital providers. The Group’s 
+cash conversion after working capital investment and capital 
+expenditure improved markedly from 76.4% to 83.4%. 
+HEPS and Normalised HEPS1, a measurement used by 
+management to assess the underlying business performance, 
+grew by 6.6% and 4.3%, respectively. As a result of the growth 
+capex and working capital investment referenced earlier, 
+Return on Funds Employed (ROFE) moderated from 38.3% 
+at year end to 37.3%. Return on Invested Capital (ROIC) of 
+16.1% compares to 17.3% in the prior year. The spread over 
+our weighted cost of capital was maintained.
+The Group declared a final dividend of 447.0 cents per share.
+Note 1: Normalised HEPS excludes acquisition costs, amortisation of acquired customer 
+contracts and the impact of one-off taxation events 
+Financial overview
+Group revenue grew 6.7% to R122.6 billion (FY2023: 
+R114.9 billion), with acquisitions boosting the growth rate by 
+2.9%. In largely stagnant markets, price inflation, a weaker 
+rand against major currencies, and new business gains, were 
+the key growth drivers. 
+Expense management was excellent and operating expenses 
+increased by only 2.4%, and an exceptional 0.8% on an 
+organic basis. This is the net result of less overtime but higher 
+wage costs, business restructuring and rationalisation, lower 
+costs due to reduced loadshedding, but higher utility costs 
+and general inflationary pressures.
+Trading profit grew by 8.5% to R12.4 billion, with acquisitions 
+boosting growth by 2.9%. The trading profit margin improved 
+slightly to 10.1% (FY2023 10.0%). 
+Product innovation and extended ranges to meet shifts 
+in customer demands, together with tight cost control, 
+resulted in Branded Products’ outstanding trading profit 
+result (+21.1%), surpassing the billion-rand mark for the first 
+time. New business wins, unrivalled service and product 
+bundling, as well as strong inbound leisure travel, culminated 
+in excellent profit growth (+18.7%) in Services South Africa. 
+Services International reported impressive growth (+12.4%) 
+as innovative offerings set our businesses apart in competitive 
+segments, and the result was boosted by acquisitions that 
+delivered in line with expectations. Constant global demand 
+for minerals and very strong oil and gas activity, together 
+with a positive price mix, supported a solid result (+7.3%) 
+from Freight, off a multi-year high base, despite agricultural 
+seasonality. Strong net interest income growth and a much-
+improved cost-to-income ratio in Bidvest Bank, were the
+
+--- PAGE 4 (full dump) ---
+The Bidvest Group Limited Audited summarised results for the year ended 30 June 2024
+2
+primary drivers of core profit growth (+38.6%) in Financial 
+Services. Commercial Products delivered a satisfactory result 
+(-9.0%) given that profit growth from 12 of the 18 operating 
+companies in the division was achieved, notwithstanding the 
+decline in renewable sales and the overstocked inventory 
+channel. Automotive new vehicle volumes declined in line with 
+the market trend, resulting in excess new inventory, margin 
+pressure and negative operating leverage (-24.8%). 
+Acquisition costs were incurred in the acquisition of 
+Consolidated and RHS as well as nine bolt-on transactions 
+locally and abroad. The amortisation of acquired customer 
+contracts increased from R345.5 million to R413.8 million at 
+30 June 2024, mainly due to the two mentioned acquisitions 
+and a weaker average rand. 
+Net capital items of R147.5 million largely represent an 
+impairment of the Disposal group held for sale as well as other 
+property, plant and equipment. 
+Net finance charges were 24.8% higher at R2.5 billion 
+(FY2023: R2.0 billion). Excluding IFRS16, fair value 
+adjustments and hedge costs, the increase was 28.2%, which 
+was as a result of R3.4 billion higher gross debt, driven by 
+corporate action, the investment in working capital and capex, 
+together with higher global interest rates. The Group’s average 
+cost of funding is 6.5% - pre-tax (FY2023: 5.4%).
+Share of associate profits amounted to R136.8 million, largely 
+attributable to Adcock Ingram’s associate holdings. 
+The Group’s effective tax rate, excluding capital items, is 
+25.2% (FY2023: 26.6%). The main reason for the year-on-year 
+decrease is the net of a higher corporate tax rate in the UK, an 
+offshore tax refund and related tax provision reversal. 
+Basic earnings per share (EPS) increased from 1 757.3 cents 
+to 1 873.8 cents, or 6.6%, mainly due to a solid operational 
+performance diluted by significantly higher net finance 
+charges, increased acquisition costs and customer contract 
+amortisation in the current period, moderated by net lower 
+taxation. 
+Cash generated by operations of R14.0 billion grew 15.3% 
+YoY. The Group absorbed R2.1 billion of working capital, 
+R0.5 billion less than a year ago. A further R0.7 billion was 
+absorbed in inventory, which was impacted by reduced 
+renewable energy product and vehicle sales. 
+Bidvest’s net debt decreased by R3.2 billion – from 
+31 December 2023 - to R22.7 billion, as at 30 June 2024, 
+with 64.4% of net debt offshore. Available debt funding, mainly 
+from the multicurrency syndicated revolving credit facility, 
+was utilised for acquisitions concluded during the period. The 
+Group successfully refinanced and upsized maturing local 
+bonds and preference shares, totalling R3.0 billion, at more 
+attractive interest rate spreads. Robust cash generated by the 
+operations was invested in working capital, increased capital 
+investment and paying dividends to shareholders. 
+Notwithstanding the higher gross debt, our covenant net 
+debt to adjusted EBITDA of 1.7x is unchanged and compares 
+to 2.0x as at 31 December 2023. Interest cover was 7.0x 
+(FY2023: 8.2x). Group cash conversion is 83.4%, compared to 
+76.4% in the comparative period. 
+Corporate action
+Bidvest started FY2024 with a full M&A pipeline, mainly 
+representing opportunities to scale and diversify existing 
+businesses and/or geographic presence. The eleven 
+transactions concluded have advanced the Group’s 
+internationalisation in the niche areas of hygiene services and 
+facilities management, while also augmenting our SA portfolio. 
+At interim stage, we reported on the acquisition of 
+Consolidated and RHS, as well as several bolt-on acquisitions 
+– Robinsons Service, Pure Hygiene, Principal Hygiene, 
+Synergy Waste, OSS Contracts, Roan Systems, Brandability, 
+Green Home and Interloc. Post year end, on 3 July 2024, 
+we announced our proposed acquisition of Citron Hygiene, a 
+provider of washroom hygiene products and services in the 
+USA, Canada and the UK. The acquisition is subject to the UK 
+Competition and Markets Authority approval. We have also 
+obtained approvals from the SA Competition Commission for 
+the acquisition of Dekra, a vehicle testing station business, 
+Wearcheck, a condition monitoring specialist and we closed 
+the NexGen, which is a UK-based specialised facilities 
+management company, transaction.
+During the year, strategic advancements pivoted Automotive 
+into greater brand, service and product diversification. In 
+Freight, there was continued engagement with Transnet with 
+regards to terminal operations. Subsequent to year end, 
+the decision to dispose of Bidvest Bank and FinGlobal was 
+taken, and the remaining Financial Services businesses were 
+transferred to Automotive.
+Prospects
+There is an undertone of positive sentiment regarding growth 
+in the medium- to longer term. Consequently, we expect 
+market conditions in all our operating territories to start 
+improving.
+Following an incident free and successful national South African 
+election, which resulted in the formation of a Government of 
+National Unity (GNU), there are strong signs of a business 
+friendlier environment in SA. 
+Reforms in the electricity and logistics sectors are critical to 
+unlock structurally higher and inclusive economic growth in our 
+home base. It is therefore pleasing that the recent performance 
+of SA’s national energy provider, Eskom, has exceeded all 
+forecasts, and is starting to restore confidence in business and 
+society, which is urgently needed to support future investment 
+in the country. The imperative now is to accelerate energy 
+transition reforms, including rapid transmission expansion, 
+electricity distribution industry reform and the continued 
+expansion of new generation capacity. 
+SA’s transport and logistics utility, Transnet, is making 
+progress in implementing its recovery plan, which is closely 
+aligned to the country’s  Freight Logistics Roadmap (FLR). 
+The government-led National Logistics Crisis Committee, 
+in which business participates, is actively implementing the 
+FLR, although it is generally acknowledged that additional 
+interventions are required to improve performance. This 
+Message to shareholders continued
+
+--- PAGE 5 (full dump) ---
+3
+remains at the core of unlocking value for the country’s entire 
+supply chain and to ensure sustainable economic growth. 
+In the UK and Europe there are early signs of a more positive 
+macro environment. 
+Operationally, we expect to face headwinds in the first half 
+of the year from no export maize volumes and the ongoing, 
+elevated renewable energy sales base. On the upside, the 
+travel and tourism industry remains buoyant with a strong 
+forward order book. We believe FY2024 was the trough in 
+new vehicle sales volumes, and we should benefit from our 
+brand diversification strategy. The bolt-on acquisitions closed 
+in recent weeks will contribute positively. There is also strong 
+momentum in our businesses evident in new business wins 
+and the ever-growing product and service baskets. 
+The Bidvest Bank and FinGlobal disposal process is underway, 
+and management aims to identify a suitable acquirer/s by end 
+of the 2024 calendar year. The transaction/s will be subject to 
+several relevant regulatory approvals.
+We have a portfolio of excellent, everyday essential assets 
+that are set to benefit from the global megatrends that 
+are becoming evident. We continue to pursue operational 
+excellence, while shaping our portfolio for the future. This, we 
+intend to do through innovation that makes a positive impact 
+and derives cost benefits for us and our customers, whilst at 
+the same time, creating social value and mutual benefit for our 
+communities and others who rely on Bidvest.
+The Group
+Bidvest encourages a performance-driven, decentralised 
+business model that continually seeks scale and growth. 
+We fully empower the leadership across our diverse areas of 
+operations – Services International, Services South Africa, 
+Branded Products, Freight, Commercial Products, Financial 
+Services, Automotive and Adcock Ingram – which acts as a 
+remarkable catalyst for increased value creation. 
+Segmental Reviews
+Services International
+Services International delivered another impressive result 
+with trading profit growing by 12.4% to R3.8 billion. 
+Excluding the acquisition of Consolidated, growth was a 
+very respectable 5.0% despite the rescoping of a significant 
+facilities management contract in SA towards the end of 
+the prior year. Both the hygiene services and the facilities 
+management clusters, which are broadly equal in size, 
+delivered pleasing increases in revenue and profitability. In 
+SA, innovative offerings, new business successes and well 
+controlled expenses, were highlights of the year. The hygiene 
+business in the UK is strong and profit growth is matching 
+continued hygiene pool growth. Client retention and securing 
+new business proved challenging in the facilities management 
+sector in the UK, while business momentum remained 
+pleasingly solid in Ireland. These businesses remain at the 
+forefront of innovation and delivering solutions that assist 
+customers in fulfilling their sustainability ambitions. Organically, 
+profit growth in Australia was subdued due to a negative 
+revenue mix and input cost pressure in a challenging economic 
+environment with the property sector under real pressure. New 
+business wins were reasonable. Consolidated performed in line 
+with expectations. The integration of the two businesses was 
+brought forward and is currently in progress. Since the entry 
+into the hygiene services market in Singapore, investment has 
+been made in people, systems and processes to gear the 
+business up to capture the growth opportunities that exist. 
+Cash generation was excellent, and the ROFE remained stable 
+at 133.0%. 
+Collaboration across territories, particularly with regards 
+to innovation and sustainability-enhancing solutions, are 
+key competitive advantages that management expects to 
+continue to materialise in new business wins and retention. 
+The envisaged integrated operations in Australia should deliver 
+synergies, both revenue and costs, as this business pursues 
+its growth ambitions, and adds to its scale. 
+Freight
+A solid trading profit of R2.3 billion, up 7.3%, was delivered, 
+off a high base with double digit percentage growth reported 
+over the previous two years. Growth continues to be driven 
+by global demand for minerals, domestic demand for gas and 
+positive price mix. The bulk of the profitability continues to be 
+derived from the terminal and related operations, supported 
+by healthy throughput, even though agricultural volumes were 
+markedly lower in the second half. The butane spheres at 
+Bidvest Tank Terminals were successfully commissioned, and 
+the multi-purpose tanks were fully operational soon after year-
+end. Buoyant oil and gas activity as well as higher dry bulk 
+volumes imported and exported via Namibian ports manifested 
+in a phenomenal result out of that country. International 
+clearing and forwarding operations benefitted from new 
+business wins and the consolidation of the warehousing 
+and road freight business units yielded good synergies. The 
+restructuring and repositioning of activities linked to railed 
+container services started to bear fruit. Despite continued 
+capital investment, the ROFE remained stable at 54.4%. 
+Management does not expect to handle any maize shipments 
+in the first half of the financial year, and this will impact 
+profitability. Additional multi-purpose tank capacity was 
+commissioned in August and the building of additional fuel 
+tanks should be complete towards the end of the financial 
+year. The division remains actively engaged with regards to 
+investment opportunities in SA and Namibia. 
+Services South Africa
+Trading profit grew by an excellent 18.7% to R1.3 billion. This 
+resulted from impressive results in the Hospitality, Security & 
+Aviation and Travel clusters all reflecting double digit growth, 
+together with pleasing results from the Allied cluster. The 
+Security cluster, the largest in this division, delivered excellent 
+new business growth as its unrivalled bundle of security 
+services and technology innovation in tracking services set 
+these businesses apart in a very competitive market. The 
+acquisition of Interloc proved hugely accretive and value-
+adding to the cargo service offering. Passenger volumes 
+through the multiple airport lounges exceeded pre-Covid 
+volumes. This, together with improved catering contract 
+profitability resulted in an exceptional Hospitality cluster
+
+--- PAGE 6 (full dump) ---
+The Bidvest Group Limited Audited summarised results for the year ended 30 June 2024
+4
+result. The leisure inbound market was particularly buoyant 
+while the corporate travel demand was subdued, but overall 
+resilient with good growth in conferencing and events. We 
+are watching potential global agent consolidation and system 
+disaggregation closely. The Allied cluster reflected steady 
+growth with bottled water demand continuing to grow and 
+investment in rental assets that generate recurring revenue 
+in laundry and garment services. ROFE remained stable 
+at 103.9%.
+The unparalleled service and product offering across the 
+division will continue to drive business wins. The inbound 
+leisure order book is very strong. The acquisition of 
+Wearcheck, a condition monitoring specialist business, will 
+further diversify our SA service offering in this growing market. 
+Commercial Products
+Although trading profit declined by 9.0% to R1.3 billion, this 
+was a satisfactory result given the significant contribution from 
+renewable product sales in the prior year. Profit growth from 12 
+of the 18 operating companies in the division was achieved, 
+despite fierce competition in a stagnant market. Within the 
+Trade cluster, the biggest profit contributor to the division, the 
+specialist electrical businesses performed strongly as industrial 
+and commercial demand for engineering solutions continue 
+unabated, while the plumbing wholesale operation held its 
+own as range extension initiatives in the solar and water 
+segments yielded benefit. In the DIY/Tools/Workwear and 
+Packaging clusters improved factory recoveries and healthy 
+sales, together with tight cost management, culminated in 
+exceptional growth. The Warehousing and General Industrial 
+clusters delivered higher profits regardless of noticeable 
+revenue mix changes while the Leisure cluster delivered a poor 
+result as discretionary leisure spend shrunk. Improved gross 
+profit margin and flat operating expenses were a highlight, but 
+working capital absorption, particularly in renewable inventory, 
+needs attention. The ROFE declined to 22.1%.
+The order book for commercial engineering solutions is healthy 
+and will be delivered during the year. Cycling the base of 
+renewable energy sales to consumers will remain challenging 
+during the first half of FY2025. Opportunities for volume 
+growth exists in the energy, water and industrial sectors as well 
+as cross-border exports. 
+Branded Products
+Branded Products delivered an outstanding result with 
+R1.0 billion in trading profit, 21.1% ahead of the prior year. This 
+is the first time this division surpassed the one billion mark. 
+Continuing the trend at half year, all three clusters delivered 
+double digit profit growth. The Office Products and Office and 
+Leisure clusters benefitted from phenomenal office furniture 
+sales focused on innovative, cutting-edge workplace wellness 
+products, an expanded offering, strong office automation 
+sales as well as an acquisition within the promotional and 
+corporate branding space. Despite price pressure, negative 
+revenue mix, the collapse of the SA Post Office and the 
+scrapping of e-Tolls negatively impacting the business, the 
+Data, Print and Packaging cluster delivered a strong result. 
+Bolt-on acquisitions augmented the product range to include 
+biodegradable packaging and additional mobile computing 
+and barcoding solutions to deliver on changing customer 
+needs while, organically, the businesses continue to supply 
+basic printing and packaging solutions in the most cost-
+effective manner. Notwithstanding depressed consumer 
+demand, the Consumer Products cluster benefitted from 
+product innovation as well as efficiency gains. Tight operational 
+cost control was again a feature throughout the division. The 
+ROFE improved to an impressive 38.8% from 33.5%. 
+The strategy of expansion and product innovation, organically 
+and through bolt-on acquisitions, continues unabated. 
+Automotive
+Trading profit in Automotive declined by 24.8% to 
+R688.0 million. This is disappointing, but an understandable 
+result given the weak and very competitive automotive trading 
+environment. Consumers are experiencing considerable strain 
+on disposable income, negatively impacting demand. In SA, 
+new vehicle units declined 8%, more than the 6% reported for 
+the industry due to McCarthy’s brand mix being misaligned 
+to current demand trends. During the year, management 
+has engaged with several new brand owners to secure 
+representation. Dealer points for Mahindra, FAW, JeTour, 
+GAC and LDV are now operational. Appropriate support will 
+continue for the traditional brands represented. The number 
+of used vehicles sold grew slightly while the focus remained 
+on the sourcing of good reasonably priced vehicles and 
+expanding activity levels whilst aligning the expense base 
+appropriately. The 100bps decrease in margin realised, 
+together with an extra R1.0 billion in funds employed, mainly 
+in new inventory, resulted in ROFE almost halving Y-o-Y 
+to 21.4%. 
+The short-term insurance businesses, transferred from the 
+Financial Services division, which focus primarily on vehicle 
+insurance cover and related value-added products, aligns 
+to the strategy of diversifying into allied automotive services. 
+These, as well as the recently acquired Dekra and Serco, 
+will add scale and reduce profit cyclicality. The Automotive 
+divisional executive team was restructured to focus on 
+delivering an end-to-end automotive solution.
+Financial Services 
+Divisional trading profit continued to improve, with trading 
+profit 38.6% higher at R642.6 million. The core business 
+trading profit increased by 62.8% to R533.0 million as 
+investment income declined by R26.6 million. Bidvest 
+Bank performed well, supported by higher interest rates, a 
+favourable funding mix, 24.1% and 3.2% loan and advances 
+as well as leased asset growth, respectively. The deposit 
+base grew by 4.2% to R8.3 billion and all regulatory ratios 
+remained very healthy. FinGlobal delivered an excellent result. 
+The insurance and related businesses achieved muted gross 
+written premium growth given the downturn in vehicle sales 
+and a tight insurance market. Good progress has been made 
+in terms of strategic technology upgrades and migration to 
+enhance operational efficiency. Costs were well contained 
+across all businesses and ROFE improved to 20.2%.
+Message to shareholders continued
+
+--- PAGE 7 (full dump) ---
+5
+As announced on 3 July 2024, a strategic decision was 
+taken to dispose of Bidvest Bank and FinGlobal as dedicated 
+financial services ownership is required for the continued 
+sustainability and prosperity of these companies. The disposal 
+of Bidvest Life is underway. 
+Adcock Ingram
+Bidvest owns an effective 64.8% share in Adcock Ingram 
+(Adcock), post Adcock repurchasing 6 million shares in 
+the market. 
+Revenue growth was supported by average price realisation 
+of 5.0% and a mix benefit of almost 2.0%. Organic volumes 
+declined by less than 1.0%, a substantial recovery from the 
+5.0% decline experienced in the first six months of the financial 
+year. The second half of the financial year benefitted from 
+increased demand for Adcock’s winter products, driven by 
+a rise in cold and flu cases and other respiratory illnesses. 
+With pressure on the gross margin consequent to a weaker 
+Rand and a less favourable sales mix, the focus on control 
+of operating expenses resulted in trading profit growing to 
+R1.2 billion. Adcock increased market share and maintained 
+its position as the leading pharmaceutical player in the South 
+African private market. 
+For more detailed results commentary, please visit  
+www.adcockingram.co.za.
+Bidvest Properties and Corporate 
+The Group owns a significant property portfolio comprising 
+133 properties, which is largely Bidvest occupied. Bidvest 
+Properties delivered a good result with trading profit up by 
+7.8% to R685.3 million. Average vacancies declined further, 
+new developments were rentalised and rental escalations 
+secured. The portfolio spanning South Africa, Namibia and 
+the UK has an externally valued market value of more than 
+R10.0 billion, double its book value. 
+Corporate costs remained well controlled and incurred in the 
+governance, financial and strategic support provided from the 
+corporate office. Group socio-economic initiatives, such as the 
+Bidvest Supplier Development Program, the SASCOC Team 
+SA sponsorship, and the school sanitation project, among 
+many others, advanced over the year under review. 
+For and on behalf of the board
+BF MOHALE, Chairman
+NT MADISA, Chief executive
+Johannesburg, South Africa
+30 August 2024
+Dividend declaration
+In line with the Group dividend policy, the directors have declared a final gross cash dividend of 447.0 cents (357.6 cents net of 
+dividend withholding tax, where applicable) per ordinary share for the year ended 30 June 2024 to those members registered on the 
+record date, being Friday, 27 September 2024. The dividend has been declared from income reserves. A dividend withholding tax of 
+20% will be applicable to all shareholders who are not exempt.
+Share code:
+BVT 
+ISIN:
+ZAE000117321 
+Company registration number:
+1946/021180/06 
+Company tax reference number:
+9550162714 
+Gross cash dividend amount per share (cents):
+447.0000
+Net dividend amount per share (cents):
+357.6000
+Issued shares at declaration date:
+340 274 346 
+Declaration date:
+Monday, 2 September 2024 
+Last day to trade cum dividend:
+Monday, 23 September 2024 
+First day to trade ex-dividend: 
+Wednesday, 25 September 2024
+Record date: 
+Friday, 27 September 2024
+Payment date: 
+Monday, 30 September 2024
+Share certificates may not be dematerialised or rematerialised between Wednesday, 25 September 2024 and Friday, 
+27 September 2024, both days inclusive. 
+For and on behalf of the board
+Ms. Nonqaba Katamzi 
+Company Secretary
+
+--- PAGE 8 (full dump) ---
+The Bidvest Group Limited Audited summarised results for the year ended 30 June 2024
+6
+PricewaterhouseCoopers Inc., 4 Lisbon Lane, Waterfall City, Jukskei View, 2090 
+Private Bag X36, Sunninghill, 2157, South Africa 
+T: +27 (0) 11 797 4000, F: +27 (0) 11 209 5800, www.pwc.co.za 
+Chief Executive Officer: L S Machaba 
+The Company's principal place of business is at 4 Lisbon Lane, Waterfall City, Jukskei View, where a list of directors' names is available for inspection. 
+Reg. no. 1998/012055/21,  VAT reg.no. 4950174682.
+Independent auditor’s report on the summary consolidated financial statements 
+To the shareholders of The Bidvest Group Limited      
+Opinion 
+The summary consolidated financial statements of The Bidvest Group Limited, set out on pages 7 to 20, which 
+comprise the summary consolidated statement of financial position as at 30 June 2024, the summary 
+consolidated statements of comprehensive income, changes in equity and cash flows for the year then ended, 
+and related notes, are derived from the audited consolidated financial statements of The Bidvest Group Limited 
+for the year ended 30 June 2024. 
+In our opinion, the accompanying summary consolidated financial statements are consistent, in all material 
+respects, with the audited consolidated financial statements, in accordance with the requirements of the JSE 
+Limited Listings Requirements for summary financial statements, as set out in the notes to the summary 
+consolidated financial statements, and the requirements of the Companies Act of South Africa as applicable to 
+summary financial statements. 
+Summary consolidated financial statements 
+The summary consolidated financial statements do not contain all the disclosures required by IFRS Accounting 
+Standards and the requirements of the Companies Act of South Africa as applicable to annual financial 
+statements. Reading the summary consolidated financial statements and the auditor’s report thereon, therefore, 
+is not a substitute for reading the audited consolidated financial statements and the auditor’s report thereon.   
+The audited consolidated financial statements and our report thereon 
+We expressed an unmodified audit opinion on the audited consolidated financial statements in our report dated 
+2 September 2024. That report also includes communication of key audit matters. Key audit matters are those 
+matters that, in our professional judgement, were of most significance in our audit of the consolidated financial 
+statements of the current period. 
+Director’s responsibility for the summary consolidated financial statements 
+The directors are responsible for the preparation of the summary consolidated financial statements in accordance 
+with the requirements of the JSE Limited Listings Requirements for summary financial statements, set out in the 
+notes to the summary consolidated financial statements, and the requirements of the Companies Act of South 
+Africa as applicable to summary financial statements.
+Auditor’s responsibility 
+Our responsibility is to express an opinion on whether the summary consolidated financial statements are 
+consistent, in all material respects, with the audited consolidated financial statements based on our procedures, 
+which were conducted in accordance with International Standard on Auditing (ISA) 810 (Revised), Engagements 
+to Report on Summary Financial Statements. PricewaterhouseCoopers Inc.  
+Director: A Tshesane 
+Registered Auditor  
+Johannesburg, South Africa    
+30 August 2024
+
+--- PAGE 9 (full dump) ---
+7
+Summarised consolidated 
+income statement for the year ended 30 June 
+ 2024 
+ 2023 
+ % 
+R000s 
+ Audited 
+ Audited 
+ Change 
+Revenue 
+ 122 615 986 
+ 114 911 518 
+6.7 
+Non-interest revenue 
+ 122 309 811 
+ 114 587 864 
+Net interest revenue 
+ 306 175 
+ 323 654 
+Cost of revenue 
+ (87 739 492)
+ (81 570 287)
+7.6 
+Gross profit 
+ 34 876 494 
+ 33 341 231 
+4.6 
+Operating expenses 
+(22 908 200)
+ (22 307 729)
+2.7 
+Net impairment losses on financial assets 
+8 268
+ (61 549)
+113.4
+Other income 
+438 973
+ 471 101 
+(6.8)
+Trading profit 
+ 12 415 535 
+ 11 443 054 
+8.5 
+Share-based payment expense
+ (362 538)
+ (347 865)
+Acquisition costs and customer contracts amortisation
+ (475 356)
+ (390 495)
+Net capital items
+ (147 546)
+ (128 963)
+Profit before finance charges and associate income 
+ 11 430 095 
+ 10 575 731 
+8.1 
+Net finance charges 
+ (2 506 296)
+ (2 007 477)
+24.8 
+Finance income 
+ 207 474
+ 88 629 
+Finance charges 
+ (2 713 770)
+ (2 096 106)
+Share of profit of associates and joint ventures 
+ 136 863 
+ 125 872 
+8.7 
+Current year earnings 
+ 136 819 
+ 125 872 
+8.7 
+Net capital items 
+ 44 
+ – 
+Profit before taxation 
+ 9 060 662 
+ 8 694 126 
+4.2 
+Taxation 
+ (2 289 050)
+ (2 327 902)
+(1.7)
+Profit for the year 
+ 6 771 612 
+ 6 366 224 
+6.4 
+Attributable to 
+Shareholders of the Company 
+ 6 368 975 
+ 5 972 689 
+6.6 
+Non-controlling interest 
+ 402 637 
+ 393 535 
+2.3 
+ 6 771 612 
+ 6 366 224 
+6.4 
+Basic earnings per share (cents) 
+ 1 873,8 
+ 1 757,3 
+6.6 
+Diluted basic earnings per share (cents) 
+ 1 869,0 
+ 1 752,9 
+6.6 
+Supplementary Information 
+Normalised headline earnings per share (cents) ˜ 
+ 1 964,8 
+ 1 884,7 
+4.3 
+Headline earnings per share (cents) 
+ 1 912,6 
+ 1 794,8 
+6.6 
+Diluted headline earnings per share (cents) 
+ 1 907,6 
+ 1 790,4 
+6.5 
+Shares in issue 
+Total (‘000) 
+ 339 888 
+ 339 888 
+Weighted (‘000) 
+ 339 888 
+ 339 877 
+Diluted weighted (‘000) 
+ 340 769 
+ 340 729 
+˜ refer normalised headline earnings note for detailed definition.
+
+--- PAGE 10 (full dump) ---
+The Bidvest Group Limited Audited summarised results for the year ended 30 June 2024
+8
+ 2024 
+ 2023 
+ % 
+ R000s 
+ Audited 
+ Audited 
+ Change 
+Supplementary Information continued 
+Headline earnings 
+The following adjustments to attributable profit were taken into account in the calculation 
+of headline earnings: 
+Profit attributable to shareholders of the Company 
+ 6 368 975 
+ 5 972 689 
+6.6 
+Impairment of property, plant and equipment, right-of-use assets, goodwill and intangible 
+assets 
+ 30 314 
+ 63 760 
+Property, plant and equipment # 
+ 33 453 
+ 12 667 
+Right-of-use assets # 
+ 9 090 
+ 3 207 
+Intangible assets # 
+ 1 083 
+ 62 173 
+Taxation effect 
+ (11 809)
+ (13 002)
+Non-controlling interest 
+ (1 503)
+ (1 285)
+Net loss on disposal of interests in subsidiaries and disposal and closure of businesses 
+ 100 000 
+ 138 551 
+Loss on disposal and closure # 
+ – 
+ 138 551 
+Impairment of disposal group assets held for sale # 
+76 832
+ – 
+Impairment of identifiable asset of disposal group #
+23 168
+ –
+Net loss (profit) on disposal of property, plant and equipment and intangible assets 
+ 1 390 
+ (38 126)
+Property, plant and equipment#
+ 3 920 
+ (44 971)
+Taxation effect 
+ (2 365)
+ 6 873 
+Non-controlling interest 
+ (165)
+ (28)
+Compensation received on loss or impairment of property plant and equipment 
+ – 
+ (36 624)
+Compensation received # 
+ – 
+ (42 664)
+Taxation effect 
+ – 
+ 6 040 
+Non-headline items included in equity accounted earnings of associated and joint venture 
+companies 
+ (29)
+ – 
+Non-headline items 
+ (44)
+ – 
+Non-controlling interest 
+ 15 
+ – 
+Headline earnings 
+ 6 500 650 
+ 6 100 250 
+6.6 
+# Items above included as capital items on summarised consolidated income statement. 
+Normalised headline earnings per share 
+Normalised headline earnings per share is a measurement used by the chief operating decision makers, Ms Mpumi Madisa and the Group 
+executive directors. The calculation of normalised headline earnings per share excludes acquisition costs, amortisation of acquired customer 
+contracts, the impact of one-off taxation events (refund of withholding tax and IFRIC 23 provision reversed) and is based on the normalised 
+headline earnings attributable to ordinary shareholders, divided by the weighted average number of ordinary shares in issue during the 
+period. The presentation of normalised headline earnings is not an IFRS Accounting Standards requirement.
+ 2024 
+ 2023 
+ % 
+R000s 
+ Audited 
+ Audited 
+ Change 
+Headline earnings 
+ 6 500 650 
+ 6 100 250 
+Acquisition costs 
+ 61 567 
+ 45 040 
+Amortisation of acquired customer contracts
+ 413 789 
+ 345 455 
+Taxation effect
+ (99 180)
+ (82 299)
+Impact of one-off taxation events
+(196 334)
+ – 
+Non-controlling interest
+ (2 512)
+ (2 879)
+Normalised headline earnings 
+ 6 677 980 
+ 6 405 567 
+4.3 
+Summarised consolidated 
+income statement for the year ended 30 June continued
+
+--- PAGE 11 (full dump) ---
+9
+Summarised consolidated statement of other 
+comprehensive income for the year ended 30 June
+ 2024 
+ 2023 
+R000s 
+ Audited 
+ Audited 
+Profit for the year 
+ 6 771 612 
+ 6 366 224 
+Other comprehensive (expense) income net of taxation 
+Items that may be reclassified subsequently to profit or loss 
+ (577 937)
+ 811 594 
+(Decrease) increase in foreign currency translation reserve 
+Exchange differences arising during the year 
+ (320 810)
+ 835 747
+Decrease in fair value of cash flow hedges 
+ (257 127)
+ (24 153)
+Fair value loss arising during the period 
+ (369 542)
+ (35 252)
+Taxation effect for the year 
+ 112 415 
+ 11 099 
+Other comprehensive (expense) income transferred to profit or loss 
+ (60 716)
+ 443 852 
+Realisation of exchange differences on disposal of subsidiaries 
+–
+ (13)
+Hedging (losses) gains reclassified 
+ (80 955)
+ 591 820 
+Taxation effect 
+ 20 239 
+ (147 955)
+Items that will not be reclassified subsequently to profit or loss 
+Changes in the fair value of financial assets recognised through other comprehensive income 
+ 1 818
+ 9 888 
+Defined benefit (surplus) obligations 
+ (1 324)
+ 37 696
+Net remeasurement of defined benefit (surplus) obligations during the year 
+ (1 695)
+ 51 638 
+Taxation effect for the year 
+ 371 
+ (13 942)
+Total comprehensive income for the year 
+ 6 133 453
+ 7 669 254 
+Attributable to 
+Shareholders of the Company 
+ 5 752 779 
+ 7 256 875 
+Non-controlling interest 
+ 380 674 
+ 412 379 
+ 6 133 453
+ 7 669 254
+
+--- PAGE 12 (full dump) ---
+The Bidvest Group Limited Audited summarised results for the year ended 30 June 2024
+10
+Summarised consolidated statement of 
+cash flows for the year ended 30 June
+ 2024 
+ 2023 
+R000s 
+ Audited 
+ Audited 
+Cash flows from operating activities 
+ 5 998 996 
+ 5 055 038 
+Profit before finance charges and associate income 
+ 11 430 095 
+ 10 575 731 
+Dividends from associates 
+ 112 426 
+ 25 196 
+Acquisition costs 
+ 61 567 
+ 45 040 
+Depreciation and amortisation 
+ 4 220 606 
+ 3 894 145 
+Share based payment expense 
+ 361 392 
+ 347 135 
+Impairment of goodwill and intangibles 
+ 1 083 
+ 62 173 
+Impairment of property, plant and equipment and right-of-use assets 
+ 42 543 
+ 15 874 
+Fair value adjustment to investments 
+(98 316)
+ (168 721)
+Loss on disposal of interests in subsidiaries and associates, and closure of businesses 
+ – 
+ 138 551 
+Decrease in life assurance fund 
+ – 
+ (71 413)
+Remeasurement of post-retirement obligations 
+ 301 
+ (11 885)
+Other non-cash items 
+ (42 030)
+ (72 896)
+Cash generated by operations before changes in working capital 
+ 16 089 667 
+ 14 778 930 
+Changes in working capital 
+ (2 079 834)
+ (2 625 235)
+Increase in inventories 
+ (733 672)
+ (2 733 997)
+Increase in trade receivables 
+ (113 623)
+ (866 070)
+Increase in banking and other advances 
+ (772 004)
+ (877 589)
+(Decrease) Increase in trade and other payables and provisions 
+(838 133)
+ 1 623 341 
+Increase in amounts owed to bank depositors 
+ 377 598 
+ 229 080 
+Cash generated by operations* 
+14 009 833
+ 12 153 695 
+Net finance charges paid 
+ (2 397 913)
+ (1 815 181)
+Taxation paid 
+ (2 352 695)
+ (2 382 321)
+Dividends paid by the Company 
+ (3 079 383)
+ (2 722 501)
+Dividends paid by subsidiaries 
+ (180 846)
+ (178 654)
+Cash flows from investment activities 
+ (7 139 575)
+ (5 897 723)
+Net additions to property, plant and equipment 
+ (3 380 656)
+ (3 186 341)
+Net additions to intangible assets 
+ (167 528)
+ (196 105)
+Acquisition of subsidiaries, businesses, associates and investments 
+ (5 717 904)
+ (5 190 631)
+Disposal of subsidiaries, businesses, associates and investments 
+ 2 126 513
+ 2 675 354 
+Cash flows from financing activities 
+ 1 604 843 
+ (2 453 947)
+Acquisition of treasury shares in settlement of share based payment liabilities 
+ (596 431)
+ (414 678)
+Repayment of lease liabilities 
+ (1 473 753)
+ (1 380 997)
+Acquisition of non-controlling interests 
+ (328 285)
+ (556 546)
+Disposal of non-controlling interests 
+ – 
+ 187 710 
+Borrowings raised 
+5 640 817
+ 4 234 337 
+Borrowings repaid 
+(1 637 505)
+ (4 523 773)
+Net increase (decrease) in cash and cash equivalents 
+ 464 264 
+ (3 296 632)
+Net cash and cash equivalents at the beginning of the year 
+ 7 560 841 
+ 10 476 688 
+Net cash and cash equivalents of disposal group held for sale 
+ – 
+ (71 005)
+Exchange rate adjustment 
+ (225 624)
+ 451 790 
+Net cash and cash equivalents at end of the year 
+ 7 799 481 
+ 7 560 841 
+Net cash and cash equivalents comprise: 
+Cash and cash equivalents 
+ 9 096 654 
+ 9 253 504 
+Bank overdrafts included in short-term portion of interest bearing borrowings 
+ (1 297 173)
+ (1 692 663)
+ 
+ 7 799 481
+ 7 560 841
+* Includes dividends from associates
+
+--- PAGE 13 (full dump) ---
+11
+Summarised consolidated statement of 
+financial position for the year ended 30 June
+ 2024 
+ 2023 
+R000s 
+ Audited 
+ Audited 
+ASSETS 
+Non-current assets 
+ 67 812 346 
+ 63 503 817 
+Property, plant and equipment 
+ 17 642 389 
+ 16 457 121 
+Right-of-use assets 
+ 4 397 109 
+ 4 457 814 
+Intangible assets 
+ 15 490 257 
+ 15 388 222 
+Goodwill 
+ 19 664 282 
+ 17 424 831 
+Deferred taxation assets 
+ 1 638 858 
+ 1 607 318 
+Defined benefit pension surplus 
+ 238 190 
+ 344 987 
+Interest in associates and joint ventures 
+ 1 004 352 
+ 811 346 
+Investments 
+ 3 367 944 
+ 3 001 989 
+Currency swap derivative asset 
+ 1 127 020 
+ 1 513 982 
+Banking and other advances 
+ 3 241 945 
+ 2 496 207 
+Current assets 
+ 44 451 392 
+ 43 223 497 
+Inventories 
+ 14 894 387 
+ 14 111 588 
+Short-term portion of banking and other advances 
+ 882 034 
+ 855 768 
+Trade and other receivables 
+ 19 168 125 
+ 18 602 251 
+Taxation 
+ 410 192 
+ 400 386 
+Cash and cash equivalents 
+ 9 096 654 
+ 9 253 504 
+Disposal group assets held for sale 
+ 317 781 
+ 781 208 
+Total assets 
+ 112 581 519 
+ 107 508 522 
+EQUITY AND LIABILITIES 
+Capital and reserves 
+ 38 532 032 
+ 36 331 692 
+Attributable to shareholders of the Company 
+ 35 324 074 
+ 32 992 176 
+Non-controlling interest 
+ 3 207 958 
+ 3 339 516 
+Non-current liabilities 
+ 34 779 773 
+ 32 291 126 
+Deferred taxation liabilities 
+ 4 621 432 
+ 4 631 801 
+Long-term portion of borrowings 
+ 25 845 725 
+ 23 151 013 
+Post-retirement obligations 
+ 57 646 
+ 65 751 
+Long-term portion of provisions 
+ 518 864 
+ 567 657 
+Long-term portion of lease liabilities 
+ 3 736 106 
+ 3 874 904 
+Current liabilities 
+ 39 214 060
+ 38 527 809 
+Trade and other payables 
+ 22 958 643
+ 23 215 138 
+Short-term portion of provisions 
+ 397 802 
+ 639 343 
+Vendors for acquisition 
+ 124 918 
+ 4 108 
+Taxation 
+ 581 426 
+ 761 424 
+Amounts owed to bank depositors 
+ 7 900 463 
+ 7 522 865 
+Short-term portion of borrowings 
+ 5 959 597 
+ 5 205 356 
+Short-term portion of lease liabilities 
+ 1 291 211 
+ 1 179 575 
+Disposal group liabilities held for sale 
+ 55 654 
+ 357 895 
+Total equity and liabilities 
+ 112 581 519
+ 107 508 522 
+Net asset value per share (cents) 
+ 10 393 
+ 9 707
+
+--- PAGE 14 (full dump) ---
+The Bidvest Group Limited Audited summarised results for the year ended 30 June 2024
+12
+Summarised consolidated statement of 
+changes in equity for the year ended 30 June
+ 2024 
+ 2023 
+R000s 
+ Audited 
+ Audited 
+Equity attributable to shareholders of the Company 
+ 35 324 074 
+ 32 992 176 
+Share capital 
+ 17 014 
+ 17 014 
+Share premium 
+ 1 367 796 
+ 1 367 796 
+Foreign currency translation reserve 
+ 528 750 
+ 840 887 
+Balance at beginning of the year 
+ 840 887 
+ 21 376 
+Movement during the year 
+ (312 137)
+ 819 524 
+Realisation of reserve on disposal of subsidiaries 
+ – 
+ (13)
+Hedging reserve 
+ (40 109)
+ 263 960 
+Balance at beginning of the year 
+ 263 960 
+ (154 006)
+Net (losses) gains arising during the year 
+ (436 723)
+ 554 822 
+Deferred tax recognised directly in reserve 
+ 132 654 
+ (136 856)
+Equity-settled share-based payment reserve 
+ 693 734 
+ 623 992 
+Balance at beginning of the year 
+ 623 992 
+ 332 121 
+Arising during the year 
+ 372 974 
+ 338 511 
+Deferred tax recognised directly in reserve 
+ 75 788 
+ 137 670 
+Utilisation during the year 
+ (660 581)
+ (428 357)
+Realisation of reserve on disposal of subsidiaries and disposal group 
+ 36 
+ 552 
+Transfer of equity-settled share-based payment reserve as a result of changes in shareholding of 
+subsidiaries 
+ – 
+ (1 548)
+Transfer to retained earnings 
+ 281 525 
+ 245 043 
+Movement in retained earnings 
+ 32 081 248 
+ 29 200 261 
+Balance at the beginning of the year 
+ 29 200 261 
+ 26 103 669 
+Opening balance IFRS 17 transition adjustment 
+ (118 609)
+ – 
+Attributable profit 
+ 6 368 975 
+ 5 972 689 
+Change in fair value of financial assets recognised through other comprehensive income 
+ 1 600 
+ 9 350 
+Net remeasurement of defined benefit obligations during the year 
+ (1 590)
+ 37 359 
+Transfer of reserves as a result of changes in shareholding of subsidiaries 
+ (8 481)
+ 44 738 
+Net dividends paid 
+ (3 079 383)
+ (2 722 501)
+Transfer from equity-settled share-based payment reserve 
+ (281 525)
+ (245 043)
+Treasury shares 
+ 675 641 
+ 678 266 
+Balance at the beginning of the year 
+ 678 266 
+ 678 663 
+Purchase of shares by subsidiaries 
+ (596 431)
+ (414 678)
+Shares disposed of in terms of share incentive scheme 
+ 593 806 
+ 414 281 
+Equity attributable to non-controlling interests of the Company 
+ 3 207 958 
+ 3 339 516 
+Balance at beginning of the year 
+ 3 339 516 
+ 3 508 709 
+Total comprehensive income 
+ 380 674 
+ 412 379 
+Attributable profit 
+ 402 637 
+ 393 535 
+Movement in foreign currency translation reserve 
+ (8 673)
+ 16 223 
+Movement in cashflow hedging reserve 
+ (13 774)
+ 1 746 
+Changes in the fair value of financial assets recognised through other comprehensive income 
+ 218 
+ 538 
+Net remeasurement of defined benefit obligations during the year 
+ 266 
+ 337 
+Dividends paid 
+ (180 846)
+ (178 654)
+Movement in equity-settled share-based payment reserve 
+ (11 582)
+ 8 624 
+Transfer of equity-settled share-based payment reserve as a result of changes in shareholding of 
+subsidiaries 
+ – 
+ 1 548 
+Transactions with non-controlling interests 
+ (328 285)
+ (368 352)
+Transfer of reserves as a result of changes in shareholding of subsidiaries 
+ 8 481 
+ (44 738)
+Total equity 
+ 38 532 032 
+ 36 331 692
+
+--- PAGE 15 (full dump) ---
+13
+Summarised disaggregated 
+revenue for the year ended 30 June
+ 2024 
+ 2023 
+R000s 
+ Audited 
+ Audited 
+Revenue 
+Sale of goods1
+ 66 749 279
+ 66 957 214 
+Rendering of services2
+ 55 104 990 
+ 48 199 247 
+Commissions and fees earned3
+ 3 139 116 
+ 2 730 013 
+Billings relating to clearing and forwarding transactions4
+ 2 964 306 
+ 2 703 072 
+Net interest5
+ 338 435 
+ 323 654 
+Insurance6
+ 409 814 
+ 697 018 
+128 705 940
+ 121 610 218 
+Inter-group eliminations 
+ (6 089 954)
+ (6 698 700)
+122 615 986 
+ 114 911 518 
+Disaggregation of revenue from contracts with customers 
+Services South Africa2
+ 10 983 916 
+ 9 836 703 
+Services International2
+ 38 407 350 
+ 32 297 793 
+Branded Products1
+ 11 625 967 
+ 10 531 547 
+Adcock Ingram1
+ 9 643 128 
+ 9 131 852 
+Freight2, 4
+ 8 384 546 
+ 7 919 472 
+Commercial Products1
+ 16 250 207 
+ 17 527 871 
+Financial Services3, 5, 6
+ 1 088 682 
+ 975 765 
+Automotive1
+ 24 776 284 
+ 24 489 162 
+Properties2
+–
+ 1 570 
+Corporate and Investments1
+ 3 373 
+ 476 157 
+121 163 453 
+ 113 187 892 
+Geographic disaggregation of revenue from customer contracts 
+Southern Africa 
+ 89 880 929 
+ 88 205 606 
+International 
+ 31 282 524 
+ 24 982 286 
+121 163 453 
+ 113 187 892 
+Reconciliation to Group revenue 
+Revenue from contracts with customers 
+ 121 163 453 
+ 113 187 892 
+Leasing contracts 
+ 736 544 
+ 803 143 
+Gross insurance premiums 
+ 409 814 
+ 596 829 
+Net Interest 
+ 306 175 
+ 323 654 
+ 
+122 615 986
+ 114 911 518
+
+--- PAGE 16 (full dump) ---
+The Bidvest Group Limited Audited summarised results for the year ended 30 June 2024
+14
+Summarised segmental 
+analysis for the Year ended 30 June 
+R000s 
+ 2024
+ Audited 
+ 2023
+ Audited 
+ Percentage
+ Change 
+Segmental revenue 
+Services International 
+ 39 370 083 
+ 33 187 251
+18.6
+Freight 
+ 8 769 063 
+ 8 393 662 
+4.5 
+Commercial Products 
+ 17 910 097 
+ 19 877 467 
+(9.9)
+Services South Africa 
+ 11 732 902 
+ 10 436 000 
+12.4 
+Branded Products 
+ 12 934 962 
+ 11 729 589 
+10.3 
+Automotive 
+ 25 092 568 
+ 24 934 816 
+0.6 
+Financial Services 
+ 2 517 802 
+ 2 732 179 
+(7.8)
+Adcock Ingram 
+ 9 643 128 
+ 9 131 852
+5.6
+Properties 
+ 731 961 
+ 677 489 
+8.0 
+Corporate and investments 
+ 3 374 
+ 509 913 
+(99.3)
+ 128 705 940 
+ 121 610 218 
+5.8 
+Inter group eliminations 
+ (6 089 954)
+ (6 698 700)
+ 122 615 986
+ 114 911 518 
+6.7 
+Geographic region 
+Southern Africa 
+ 97 234 304 
+ 96 469 869 
+0.8 
+International 
+ 31 471 636 
+ 25 140 349 
+25.5 
+ 128 705 940 
+ 121 610 218 
+Segmental trading profit 
+Services International 
+ 3 769 930 
+ 3 352 615 
+12.4 
+Freight 
+ 2 322 203 
+ 2 165 178 
+7.3 
+Commercial Products 
+ 1 297 440 
+ 1 425 635 
+(9.0)
+Services South Africa 
+ 1 268 663 
+ 1 068 453 
+18.7 
+Branded Products 
+ 1 042 399 
+ 860 586 
+21.1 
+Automotive 
+ 688 025 
+ 914 912 
+(24.8)
+Financial Services 
+ 642 576 
+ 463 540 
+38.6 
+Adcock Ingram 
+ 1 236 673 
+ 1 178 199 
+5.0 
+Properties 
+ 685 319 
+ 635 936 
+7.8 
+Corporate and investments 
+ (537 693)
+ (622 000)
+13.6
+ 12 415 535 
+ 11 443 054 
+8.5 
+Geographic region 
+Southern Africa 
+ 9 689 779 
+ 9 156 846 
+5.8 
+International 
+ 2 725 756 
+ 2 286 208 
+19.2 
+ 12 415 535 
+ 11 443 054 
+Earnings before interest, taxation, depreciation and amortisation (EBITDA) 
+Services International 
+ 4 445 898 
+ 3 970 207 
+12,0 
+Freight 
+ 2 584 119 
+ 2 429 650 
+6.4 
+Commercial Products 
+ 1 399 340 
+ 1 523 454 
+(8.1)
+Services South Africa 
+ 1 656 531 
+ 1 387 194 
+19.4 
+Branded Products 
+ 1 133 672 
+ 954 886 
+18.7 
+Automotive 
+ 702 822 
+ 931 029 
+(24.5)
+Financial Services 
+ 853 683 
+ 661 628 
+29.0 
+Adcock Ingram 
+ 1 371 309 
+ 1 313 146 
+4.4 
+Properties 
+ 688 495 
+ 640 542 
+7.5 
+Corporate and investments 
+ (508 884)
+ (600 076)
+(15.2)
+ 14 326 985 
+ 13 211 660 
+8.4 
+Geographic region 
+Southern Africa 
+ 11 103 533
+ 10 491 122 
+5.8 
+International 
+ 3 223 452 
+ 2 720 538 
+18.5 
+ 14 326 985 
+ 13 211 660
+
+--- PAGE 17 (full dump) ---
+15
+R000s 
+ 2024
+ Audited 
+ 2023
+ Audited 
+ Percentage
+ Change 
+Segmental operating assets 
+Services International 
+ 10 896 352 
+ 10 310 945 
+5.7 
+Freight 
+ 9 524 517 
+ 9 252 961 
+2.9 
+Commercial Products 
+ 9 063 254 
+ 8 512 358 
+6.5 
+Services South Africa 
+ 3 723 750 
+ 3 218 736 
+15.7 
+Branded Product 
+ 4 859 857 
+ 4 664 757 
+4.2 
+Automotive 
+ 5 465 650 
+ 5 280 207 
+3.5 
+Financial Services 
+ 9 678 658 
+ 8 765 659 
+10.4 
+Adcock Ingram 
+ 7 030 069 
+ 6 838 055 
+2.8 
+Properties 
+ 4 732 277 
+ 4 455 355 
+6.2 
+Corporate and investments 
+ 1 059 594 
+ 827 863 
+28.0 
+ 66 033 978 
+ 62 126 896 
+6.3 
+Inter group eliminations 
+ (1 197 503)
+ (987 825)
+ 64 836 475 
+ 61 139 071 
+6.0 
+Geographic region
+Southern Africa 
+ 56 841 228 
+ 53 479 938 
+6.3 
+International 
+ 9 192 750 
+ 8 646 958 
+6.3 
+66 033 978
+62 126 896
+ 
+Reconciliation to total assets 
+Operating assets 
+ 64 836 475 
+ 61 139 071 
+6.0 
+Goodwill 
+ 19 664 282 
+ 17 424 831 
+12.9 
+Intangible assets 
+ 15 490 257 
+ 15 388 222 
+0.7 
+Deferred taxation asset 
+ 1 638 858 
+ 1 607 318 
+2.0 
+Currency swap derivative asset 
+ 1 127 020 
+ 1 513 982 
+(25.6)
+Taxation 
+ 410 192 
+ 400 386 
+2.4 
+Cash and cash equivalents 
+ 9 096 654 
+ 9 253 504 
+(1.7)
+Disposal Group assets held for sale 
+ 317 781 
+ 781 208 
+ 112 581 519 
+ 107 508 522 
+4.7 
+Segmental operating liabilities 
+Services International 
+ 8 804 820 
+ 8 124 162 
+8.4 
+Freight 
+ 5 034 175 
+ 5 505 310 
+(8.6)
+Commercial Products 
+ 3 638 047 
+ 3 927 396 
+(7.4)
+Services South Africa 
+ 2 628 988 
+ 2 282 604 
+15.2 
+Branded Products 
+ 2 649 481 
+ 2 649 897 
+–
+Automotive 
+ 2 593 726 
+ 2 993 834 
+(13.4)
+Financial Services 
+ 9 575 327 
+ 9 455 919 
+1.3 
+Adcock Ingram 
+ 2 666 867 
+ 2 566 362 
+3.9 
+Properties 
+ 67 301 
+ 78 073 
+(13.8)
+Corporate and investments 
+ 399 506 
+ 469 501 
+(14.9)
+ 38 058 238 
+ 38 053 058 
+–
+Inter group eliminations 
+ (1 197 503)
+ (987 825)
+ 36 860 735 
+ 37 065 233 
+(0.6)
+Geographic region
+Southern Africa 
+ 30 461 973 
+ 31 098 744 
+(2.0)
+International 
+ 7 596 265 
+ 6 954 314 
+9.2 
+ 38 058 238 
+ 38 053 058 
+Reconciliation to total liabilities 
+Operating liabilities 
+ 36 860 735 
+ 37 065 233 
+(0.6)
+Deferred taxation liabilities 
+ 4 621 432 
+ 4 631 801 
+(0.2)
+Interest bearing borrowings 
+ 31 805 322 
+ 28 356 369 
+12.2
+Vendors for acquisition 
+ 124 918 
+ 4 108 
+n/m
+Taxation 
+ 581 426 
+ 761 424 
+(22.6)
+Disposal group liabilities held for sale 
+ 55 654 
+ 357 895 
+(84.4)
+ 74 049 487 
+ 71 176 830 
+4.0
+
+--- PAGE 18 (full dump) ---
+The Bidvest Group Limited Audited summarised results for the year ended 30 June 2024
+16
+Basis of presentation of 
+summarised consolidated 
+financial statements
+The summarised consolidated financial statements have been prepared in accordance with and containing information required 
+by IAS 34: Interim Financial Reporting as well as the SAICA Financial Reporting Guides as issued by the Accounting Practices 
+Committee and Financial Reporting Pronouncements as issued by Financial Reporting Standards Council and the Companies Act of 
+South Africa and the JSE Limited Listings Requirements. The summarised report does not include all the notes of the type normally 
+included in an annual financial report. Accordingly, this report is to be read in conjunction with the annual report for the year ended 
+30 June 2024 and any public announcements made by the Group during the interim reporting period (IAS34 para 6). Selected 
+explanatory notes are included to explain events and transactions that are significant to an understanding to the changes in the 
+Group’s financial position and performance since the last annual consolidated financial statements as at and for the year ended 
+30 June 2024.
+In preparing these summarised consolidated financial statements, management make judgements, estimates and assumptions that 
+affect the application of accounting policies and the reported amounts of assets and liabilities, income and expense. Actual results 
+may differ from these estimates.
+Significant accounting policies and judgements 
+The accounting policies applied in these summarised consolidated financial statements are the same as those applied in the 
+Group’s consolidated financial statements as at and for the year ending 30 June 2024.
+The adoption of IFRS17 affects two of the Group’s Financial Services operations, Bidvest Insurance Limited and Bidvest Life 
+Limited (BLL). As of 30 June 2023 BLL has been disclosed as a Disposal group held-for-sale. Management has determined that the 
+adoption of, and transition to IFRS17 has not had a material impact on the Group’s consolidated income statement and statement 
+of financial position, consequently the prior period comparatives have not been restated and the current period opening retained 
+earnings has been adjusted by R119 million. 
+The significant judgements made by management in applying the Group’s accounting policies and the key sources of estimation 
+uncertainty were the same as those that applied to the consolidated financial statements as at and for the year ended 
+30 June 2024.
+Significant commitments 
+The project for the refurbishment and repurposing of three old butadiene spheres for butane storage at Bidvest Tank Terminal’s 
+Richards Bay facility was commissioned in October 2023 at a total cost of R180 million. At 30 June 2024, R408 million of the 
+approved R550 million had been spent on 18 additional multi-purpose storage tanks at the same Richards Bay facility. This project 
+was commissioned during July 2024 and all tanks were ready for commercial use from 1 August 2024. In addition, R27 million of 
+the approved R183 million was spent on the development of two additional fuel tanks at the Richards Bay facility which is targeted 
+for commissioning in July 2025.
+Fair value of financial instruments 
+The Group’s investments of R3 368 million (2023: R3 002 million) include R94 million (FY2023: R88 million) recorded at amortised 
+cost, R1 775 million (FY2023: R1 615 million) recorded and measured at fair values using quoted prices (Level 1), asset prices or 
+derived-from prices (Level 2) and R1 473 million (FY2023: R1 272 million) recorded and measured at observable data (Level 3).  
+Fair value losses on Level 3 investments recognised in the income statement totaled R3 million (FY2023: R6 million).
+Analysis of investments at a fair value not determined by observable market data
+Year ended 30 June 
+2024 
+2023 
+R000s
+Audited 
+Audited 
+Balance at the beginning of year
+ 26 650 
+ 118 531 
+Purchases or loan advances
+ 3 418 
+ 1 883 
+Fair value adjustment recognised directly in equity
+ 730 
+ 1 712
+Fair value adjustment arising during the year recognised in the income statement
+ (2 805)
+ (6 080)
+Proceeds on disposal, de-recognition or repayment of loans
+(1 408)
+ (89 396)
+ 26 585 
+ 26 650
+The carrying values of all financial assets and liabilities approximate their fair values, with the exception of interest bearing 
+borrowings of R31 billion whose carrying value is R32 billion.
+
+--- PAGE 19 (full dump) ---
+17
+Significant hedge accounting 
+The Group makes use of fixed-for-fixed, USD / GBP pair, cross currency swaps (CCS) in order to mitigate and hedge Group currency 
+risk. The designated hedged instrument is a US$-denominated Reg S / 144A senior unsecured five-year bond of USD800 million at 
+a fixed coupon rate of 3.625% issued by The Bidvest Group (UK) Plc and guaranteed by The Bidvest Group Limited. The primary 
+purpose of the bond is to secure long term funding for the Group’s foreign acquisitions, whose functional currencies are GBP. The 
+Board of Directors concluded that an effective cashflow hedging relationship exists and IFRS9 hedge accounting has been applied. 
+A R1 billion (£49 million) asset derivative instrument has been disclosed at year end and included in the Consolidated Statement 
+of Financial Position as a non-current asset; R17 million (£727 thousand) was credited to the Consolidated Income Statement 
+via finance charges; a currency valuation adjustment was credited to interest bearing borrowings in the amount of R81 million 
+(£4 million) and R280 million (£12 million) debited to the hedging reserve net of R118 million (£5 million) deferred taxation through the 
+Consolidated Statement of Other Comprehensive Income. On application of hedge accounting the R81 million (£4 million) currency 
+valuation adjustment to borrowings was debited to the Consolidated Statement of Other Comprehensive Income and credited against 
+the unrealised foreign exchange loss initially recognised in the Consolidated Income Statement. The change in the fair value of the 
+derivative instrument, in terms of IFRS9, amounting to a loss of R286 million (£12 million) was recognised in the cash flow hedge 
+reserve given that the hedge relationship was conclude to be effective.
+Business combinations 
+Net acquisition of businesses, subsidiaries, associates and investments
+The Bidvest Group Australia, a component of Bidvest Services International, acquired 100% of the ordinary share capital and 
+voting rights of Consolidated Property Services Pty Ltd Consolidated, effective 20 September 2023. The acquisition price of 
+AUD187 million (R2 billion) was funded from the Group’s international revolving credit facilities. Consolidated is one of the largest 
+professional cleaning service providers across Eastern Australia, servicing high profile commercial and retail sites. The acquisition 
+augments and expands the Group’s hygiene, cleaning and facilities management business in Australia.
+Effective 1 July 2023, Bidvest Services International acquired 100% of the ordinary share capital and voting rights of Rental Hygiene 
+Services Pte Ltd (RHS). RHS provides total hygiene and cleaning solutions, using a comprehensive line of washroom equipment and 
+janitorial consumables, to customers in Singapore. This acquisition was executed to establish a foothold in the ASEAN region. The 
+acquisition price of SGD48 million (R662 million), of which SGD9 million (R128 million) is contingent on the achievement of certain 
+profit targets, was funded from existing facilities and cash resources.
+During the year the Group also made the following less significant “bolt-on” acquisitions, which were funded from existing facilities 
+and cash resources:
+Effective 20 July 2023 Bidvest Services International acquired 100% of the ordinary share capital and voting rights of the Robinson 
+Services group of companies (Robinson), primarily Robinson Services Ltd, Robinson Services Laundry Ltd and Sword Security 
+(NI) Ltd. Robinson delivers key support services including cleaning, security, hygiene, workwear rental and laundering, dust mat 
+rental, window cleaning and specialist services including one off cleans to a range of customers big and small across the Retail, 
+Commercial, Industrial and Hospitality sectors throughout Northern Ireland. The acquisition increases the Group’s footprint in Ireland. 
+The acquisition price was £7 million (R170 million).
+Bidvest Services International acquired 100% of the ordinary share capital and voting rights of the following minor acquisitions: 
+Pure Hygiene Pty Ltd (Australia), effective 1 September 2023, AUD3 million (R42 million); Principal Hygiene Systems Ltd (United 
+Kingdom), effective 6 October 2023, £2 million (R58 million); Synergy Waste Solutions Ltd (United Kingdom), effective 1 February 
+2024, £3 million (R75 million). Bidvest Services International acquired 37.5% of the ordinary share capital and voting rights of Daelibs 
+Pty Ltd, a developer and creator of Facilities Management software, for AUD7 million (R81 million) effective 1 August 2023. These 
+acquisitions assist in expanding the Group’s facilities management service offering and geographic coverage.
+Effective 1 July 2023, Bidvest Services South Africa acquired 100% of the ordinary share capital and voting rights of Interloc Freight 
+Services (Pty) Ltd (Interloc) for R56 million. Interloc provides a neutral air and road freight consolidation facility through which freight 
+forwarders, courier companies and airlines can benefit from operational integration, preferred capacity allocations and cost savings. 
+The acquisition compliments the Group’s existing Bidair Cargo operations.
+Bidvest Branded Products acquired the assets, liabilities and businesses of Brandability Pty Ltd (Brandability), effective 1 October 
+2023, for R51 million. Brandability specialises in the sale of corporate/promotional gifts and apparel, the acquisition complements 
+the existing Waltons offering.
+
+--- PAGE 20 (full dump) ---
+The Bidvest Group Limited Audited summarised results for the year ended 30 June 2024
+18
+Effective 1 July 2023 Bidvest Branded Products acquired 100% of the ordinary share capital and voting rights of the following: Roan 
+Group of companies, primarily Roan Systems Pty Ltd and Roan Safety Products Pty Ltd (Roan). Roan offers products and services 
+for a variety of Information Technology, Production Automation, FMCG, Healthcare and various other sectors and applications. 
+Roan was acquired for R24 million; Green Home Products Pty Ltd (Green Home). Green Home is South Africa’s first and longest 
+running completely compostable food packaging company, whose vision is to provide sustainable packaging for takeaway food 
+throughout Africa, and beyond. Green Home was acquired for R20 million to augment the Group’s existing packaging businesses; 
+Channel Label Solutions Pty Ltd and Printer Distribution Company Pty Ltd for a combined acquisition price of R16 million.
+The following table summaries the assets acquired and liabilities assumed at fair value which have been included in these results 
+from the respective acquisition date. The values represent at acquisition fair values consolidated by the Group.
+R000s 
+Consolidated 
+Property 
+Services
+Rental 
+Hygiene 
+Services
+Other 
+Acquisitions 
+Other 
+Disposals
+Total
+Property, plant and equipment
+ 62 992 
+ 17 337 
+ 21 757 
+ – 
+ 102 086 
+Right-of-use assets
+ 7 623 
+ 9 404 
+ – 
+ – 
+ 17 027
+Deferred taxation
+ (84 788)
+ (29 856)
+ (20 341)
+ – 
+ (134 985)
+Interest in associates and joint ventures
+ – 
+ – 
+ 190 354 
+ – 
+ 190 354 
+Investments and advances1 
+ – 
+ – 
+ 2 394 071 
+(2 114 735)
+279 336
+Inventories
+ 1 116 
+ 12 919 
+ 47 407 
+ – 
+ 61 442 
+Trade and other receivables
+ 439 926 
+ 80 881 
+ 177 119 
+ – 
+ 697 926 
+Cash and cash equivalents
+ 98 138 
+ 32 473 
+ 111 100 
+ – 
+ 241 711 
+Borrowings
+ (82 469)
+ (41 597)
+ (5 176)
+ – 
+ (129 242)
+Trade and other payables and provisions
+ (679 025)
+ (37 275)
+ (224 722)
+ – 
+ (941 022)
+Lease liabilities
+ (7 939)
+ (10 610)
+ – 
+ – 
+ (18 549)
+Taxation
+ 4 964 
+ (8 389)
+ (356)
+ – 
+ (3 781)
+Intangible assets
+ 563 964 
+ 187 264 
+ 97 195 
+ – 
+ 848 423 
+ 324 502 
+ 212 551 
+ 2 788 408 
+(2 114 735)
+ 1 210 726 
+Goodwill
+ 1 960 414 
+ 449 623 
+ 344 672 
+ – 
+ 2 754 709 
+Net assets acquired
+ 2 284 916 
+ 662 174 
+ 3 133 080 
+(2 114 735)
+ 3 965 435 
+Settled as follows:
+Cash and cash equivalents acquired
+ (98 138)
+ (32 473)
+ (111 100)
+ – 
+ (241 711)
+Acquisition prepaid in prior year
+ – 
+ – 
+ (58 500)
+ – 
+ (58 500)
+Acquisition costs
+ – 
+ – 
+ 61 567 
+ – 
+ 61 567 
+Net receivable arising on disposal of subsidiaries and 
+associate
+ – 
+ – 
+ – 
+ (11 778)
+ (11 778)
+Net change in vendors for acquisition
+ – 
+ (127 664)
+ 4 042 
+ – 
+ (123 622)
+Net acquisition of businesses, subsidiaries, 
+associates and investments
+ 2 186 778 
+ 502 037 
+ 3 029 089 
+ (2 126 513)
+ 3 591 391 
+Trade and other receivables stated net of the following 
+loss allowances
+Expected credit loss allowances
+39 771
+780
+253
+ –
+40 804
+Contribution to results for the period
+Revenue
+1 932 679
+245 926
+899 769
+ –
+3 078 374
+Profit
+210 965
+34 008
+ 62 202
+ –
+307 175
+Contribution to results for the period if the acquisitions 
+had been effective on 1 July 2023
+Revenue
+ 2 469 947
+245 926
+982 674
+ –
+3 698 547
+Profit
+269 611
+34 008
+73 850
+ –
+377 469
+* Consideration for the acqusition of Roan, Green Home, Channel Label Solutions and Printer Distribution Company was paid in June 2023, but the acquisition was effective 1 July 2023.
+1 R7 million of advances to BBBEE and other partners, R2 381 million purchases made in the Bidvest Bank investment portfolio and R6 million purchases in the Biidvest Insurance portfolio. 
+R7 million repayment of loans to BBBEE and other partners, R2 073 million disposals made in the Bidvest Bank investment portfolio, and R43 million disposals in the Bidvest Insurance 
+portfolio. 
+Basis of presentation of 
+summarised consolidated 
+financial statements continued
+
+--- PAGE 21 (full dump) ---
+19
+The fair values of the assets and liabilities have been determined for the acquisition of Consolidated and resulted in the identification 
+of definite life customer relationship intangible assets in the amount of AUD46 million (R564 million). The Multi-Period Excess 
+Earnings Method (MPEEM), using cash flows attributable to the customer related intangible asset, was used to value Customer 
+Relationships, which were estimated to have a Remaining Useful Life (RUL) of 20 years. An existing customer attrition rate of 10% 
+was applied to forecasted existing customer revenues. A Weighted Average Cost of Capital (WACC) in a range of 11.8% to 13.6%, 
+plus a premium of 0.25%, was applied in the valuation. No value was assigned to the CPS brand. A portion of the residual Goodwill 
+is supported by the identified trained and assembled workforce.
+The fair values of the assets and liabilities have been determined for the Rental Hygiene Services (RHS) acquisition and resulted in 
+the identification of definite life customer relationship intangible assets in the amount of SGD6 million (R89 million) and indefinite life 
+Brand intangible assets of SGD7 million (R96 million). The MPEEM, using cash flows attributable to the customer related intangible 
+asset, was used to value Customer Relationships, which were estimated to have an RUL of 15 years. An existing customer attrition 
+rate of 13.5% was applied to forecasted existing customer revenues. A WACC in a range of 10.1% to 11.1%, plus a premium of 
+0.25%, was applied in the valuation. The Relief from Royalty Method has been utilised to determine the fair value of the Rental 
+Hygiene Services brand, which is well established and has been in existence since 2002 and therefore concluded to have an 
+indefinite future life. The use of a royalty rate of 3% was informed by market data for similar transactions with similar profitability to 
+RHS. Included in the intangibles acquired is computer software with a carrying value of SGD163 thousand (R2 million) A portion of 
+the residual Goodwill is supported by the identified trained and assembled workforce.
+Management has assessed the fair values of assets and liabilities acquired in Robinson. The application of the MPEEM lead to the 
+identification of a customer relationship intangible in the amount of £4 million (R88 million), using a RUL of 10 years, a customer 
+attrition rate of 10% on forecasted existing customer revenues, and a WACC in a range of 9.0% to 11.0%. A portion of the residual 
+Goodwill is supported by the identified trained and assembled workforce.
+Other minor acquisitions resulted in the identification of further R9 million definite life Customer Relationships, which are estimated to 
+have a RUL of 10 years.
+Goodwill arose on the acquisitions as the anticipated value of future cash flows that were taken into account in determining the 
+purchase consideration exceeded the net assets acquired at fair value. The acquisitions have enabled the Group to expand its 
+range of complementary products and services and, as a consequence, have broadened the Group’s base and geographic reach 
+in the market place.
+There were no significant contingent liabilities identified in the businesses acquired.
+
+--- PAGE 22 (full dump) ---
+The Bidvest Group Limited Audited summarised results for the year ended 30 June 2024
+20
+Disposal group held for sale
+Towards the end of June 2023, the Group entered into a process to dispose of 100% of its shareholding and claims in Bidvest Life 
+Limited (BLL). BLL is a licensed life assurance company and registered financial service provider specialising in income protection, 
+disability, critical illness and life cover. Despite attracting a number of potential buyers, BLL was not sold during the year, however it 
+continues to be actively marketed for sale at a price which is reasonable relative to its fair value.
+ 2024 
+ 2023 
+R000s 
+ Audited 
+ Audited 
+Disposal group liabilities held-for-sale
+Life assurance fund (re-insurers share)
+ – 
+ 302 733 
+Net insurance contract liability
+ 53 791 
+ – 
+Trade and other payables and provisions
+ 1 863 
+ 53 801 
+Lease liability
+ – 
+ 1 361 
+ 55 654 
+ 357 895 
+Disposal group assets held-for-sale
+Property, plant and equipment
+ – 
+ 3 690 
+Right-of-use assets
+ – 
+ 992 
+Life assurance fund
+ – 
+ 583 218 
+Net insurance contract asset
+ 260 232 
+ – 
+Deferred taxation
+ 53 059 
+ 57 757 
+Trade and other receivables
+ 6 581 
+ 34 507 
+Cash and cash equivalents and bank overdrafts
+ 73 509 
+ 71 005 
+Taxation
+ 1 232 
+ 1 232 
+Intangible assets
+ – 
+ 22 316 
+Share based payment reserve
+ – 
+ 426 
+Goodwill
+ – 
+ 6 065 
+394 613
+ 781 208 
+Impairment to net realisable value less cost to sell
+(76 832)
+ – 
+Net carrying value
+ 262 127
+ 423 313
+In determining the fair value less cost to sell the following identifiable assets have been impaired: Property, plant and equipment 
+R2 million; Computer software R15 million; and Goodwill R6 million. The balance of the disposal group was impaired by R77 million.
+Subsequent events
+Following the year end, a formal process was initiated to dismantle the Financial Services segment and dispose of Bidvest Bank and 
+FinGlobal. The remaining Financial Services short-term insurance businesses, which focus primarily on vehicle insurance cover and 
+related value-added products, will be transferred to the Automotive segment.
+Subsequent to 30 June 2024, the Group entered into an agreement to acquire 100% of Citron Hygiene LP (Citron) from Birch Hill 
+Equity Partners and other investors. Citron, headquartered in Toronto, Canada, was founded in 1974 and serves approximately 
+50 000 customer locations from seven branches in Canada, four in the USA and ten in the UK. The acquisition is subject to UK 
+Competition and Markets Authority approval, with a decision expected within five months of submission. The anticipated acquisition 
+will be financed using existing facilities and will be included in the Services International segment.
+Basis of presentation of 
+summarised consolidated 
+financial statements continued
+
+--- PAGE 23 (full dump) ---
+Audit report 
+The auditors, PriceWaterhouseCoopers Inc, have issued their audit opinion on the consolidated financial statements for the year 
+ended 30 June 2024. The audit was conducted in accordance with International Standards on Auditing. They have issued an 
+unmodified opinion. A copy of the auditor’s report together with a copy of the audited consolidated financial statements are available 
+for inspection at the Company’s registered office and/or available through a secure electronic manner at the election of the person 
+requesting inspection.
+These summarised consolidated financial statements have been derived from the consolidated financial statements and are 
+consistent in all material respects with the consolidated financial statements. These summarised provisional consolidated financial 
+statements have been audited by the Company’s auditors who have issued an unmodified opinion. The auditor’s report does not 
+necessarily report on all of the information contained in this announcement. Any reference to future financial information included 
+in this announcement has not been reviewed or reported on by the auditors. Shareholders are advised that, in order to obtain a full 
+understanding of the nature of the auditor’s engagement, they should obtain a copy of that report together with the accompanying 
+financial information from the Company’s registered office.
+Preparer of the summarised consolidated financial statements 
+The consolidated financial statements and final summarised consolidated financial statements have been prepared under 
+the supervision of the Chief Financial Officer, MJ Steyn BCom CA (SA), and were approved by the board of directors on 
+30 August 2024.
+
+--- PAGE 24 (full dump) ---
+bidvest.co.za
+

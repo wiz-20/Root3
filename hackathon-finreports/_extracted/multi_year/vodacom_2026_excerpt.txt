@@ -1,0 +1,2072 @@
+Source: results-booklet-AFY.pdf
+Target fiscal year: 2026
+Total relevant pages extracted: 20
+================================================================================
+
+--- PAGE 12 (matched: context) ---
+International business
+Summary financial information
+Year ended 31 March
+% change
+Rm
+2026 
+2025 
+Reported 
+Normalised*
+Service revenue
+ 
+33 672   
+30 632   
+9.9   
+14.4   
+of which
+Tanzania
+ 
+12 534  
+10 556  
+18.7  
+21.8 
+DRC
+ 
+13 890  
+12 849  
+8.1  
+13.7 
+Mozambique
+ 
+5 428  
+5 533  
+(1.9)  
+3.3 
+Lesotho
+ 
+1 547  
+1 359  
+13.8  
+13.8 
+EBITDA
+ 
+12 088  
+9 456  
+27.8 
+ 31.6 
+Operating profit
+ 
+4 874  
+2 915  
+67.2 
+ 49.7 
+Capital expenditure
+ 
+5 566  
+4 405  
+26.4 
+Service revenue for our International business increased 9.9% (14.4%*) to R33.7 billion, supported by excellent M-Pesa 
+and data growth. From a market perspective, we delivered double-digit local currency service revenue growth of 21.8%* 
+in Tanzania, 13.8%* in Lesotho, and 13.7%* in DRC. Mozambique had a better year, growing service revenue 3.3%* in local 
+currency as the business lapped repricing initiatives. In the fourth quarter, a strong performance in Tanzania supported 
+an acceleration of International business service revenue to 15.6%*, on a normalised basis, up from 15.4%* in the 
+third quarter.
+Customers were up 11.8% to 67.1 million, supported by double-digit growth in DRC, Tanzania and Lesotho. Pleasingly, 
+we posted voice revenue growth in these three markets in the fourth quarter. International business data revenue was 
+R10.5 billion, up 18.7% (23.5%*), and contributed 31.2% of service revenue. This year, data revenue exceeded voice 
+revenue for the first time. The growth in data was supported by strong commercial momentum as we added 3.5 million 
+data customers in the fiscal year to end at 31.3 million customers. Data traffic growth of 32.8% was supported by an 
+18.9% smartphone user growth to reach a penetration level of 42.9% (FY25: 40.9%). 
+M-Pesa revenue was up 18.4% (22.8%*) to R9.9 billion, contributing 29.4% of International business service revenue. 
+The result was supported by double-digit growth in all of the markets. In the fourth quarter, normalised M-Pesa revenue 
+growth remained strong at 23.5%*. Our new growth areas – referred to as ‘beyond core’ – which include lending, savings 
+and merchant services continued to gain traction, and contributed 46.4% of M-Pesa revenue. Loans facilitated across our 
+International business increased 13.0% to R26.7 billion, highlighting the traction of our dual-sided M-Pesa strategy, which 
+provides solutions for both consumers and merchants. 
+International business EBITDA was R12.1 billion and increased by 27.8% (31.6%*), reflecting operational leverage and a 
+soft comparative period for DRC. Tanzania’s growth of 38.8% was particularly strong given it absorbed some one-off costs 
+in the year related to a radio access network swap-out. International business EBITDA margins increased to 34.6% from 
+29.3% in the prior year. Operating profit increased by 67.2%, supported by the EBITDA result and lower associate losses 
+related to Vodacom’s (direct) 6.0% stake in Ethiopia.
+Capital expenditure increased by 26.4% to R5.6 billion, representing an intensity ratio of 15.9%. We continued to invest 
+into 4G coverage and performance, adding 1 040 new 4G sites in this period with 4G sites up by 12.3%. In the year, we also 
+acquired 50 mHz of 3 600 mHz band spectrum in Tanzania for R313.0 million (TZS46.1 billion).
+ 
+Operational review continued
+11
+Vodacom Group Limited
+
+--- PAGE 13 (matched: fx_exposure) ---
+Safaricom 
+Summary financial information (100% basis)1
+Year ended 31 March
+% change
+Year ended 31 March
+% change
+Rm
+2026 
+2025 
+Reported
+KShs m
+2026 
+2 025 
+Reported
+Service revenue
+ 
+55 514  
+52 189 
+6.4
+Service revenue
+ 
+414 137   371 415  
+11.5
+EBITDA
+ 
+29 358 
+24 152 
+21.6
+EBITDA
+ 
+220 262 
+ 172 151 
+27.9
+Net profit attributable 
+to equity holders
+ 
+12 882 
+ 
+9 788   
+31.6 
+Net profit attributable 
+to equity holders
+ 
+95 609 
+ 
+69 799  
+37.0 
+Capital expenditure
+ 
+10 209 
+ 
+12 855   
+(20.6) 
+Capital expenditure
+ 
+74 516 
+ 
+91 273  
+(18.4) 
+Of which Kenya:
+Of which Kenya:
+Service revenue
+ 
+53 733 
+ 
+51 163   
+5.0 
+Service revenue
+ 
+400 794 
+ 364 283 
+10.0
+EBITDA
+ 
+31 320 
+ 
+28 902   
+8.4 
+EBITDA
+ 
+233 886 
+ 205 783 
+13.7
+Capital expenditure
+ 
+7 543 
+ 
+7 339  
+2.8
+Capital expenditure
+ 
+55 785 
+ 
+52 112 
+7.1
+Note:
+1. The Group’s effective interest of 34.94% in Safaricom is accounted for as an investment in associate. Results represent 100% of Safaricom 
+and is for information purposes only. Growth rates are in local currency unless otherwise stated. Safaricom’s results are available at 
+www.safaricom.co.ke/investor-relations-landing/reports/financial-report/financial-results.
+Safaricom Group delivered an excellent year. Service revenue increased 11.5% in shillings, underpinned by double-digit 
+growth in Kenya and accelerated growth in Ethiopia. Safaricom EBITDA increased 27.9% in shillings, as losses in Ethiopia 
+narrowed. In Kenya, EBITDA grew 13.7%, with margins at 56.7%, expanding 2.7ppts. Safaricom’s net income attributable 
+to equity holders grew 37.0% (67.3% excluding IAS 29) as a result of Kenya’s operational excellence and improving scale 
+in Ethiopia.
+Service revenue in Kenya was up 10.0%, underpinned by excellent M-Pesa revenue growth of 13.4%. Kenya’s customer 
+base reached 57.9 million, up 20.1%.  The M-Pesa result was driven by strong customer growth of 14.5% and ongoing 
+platform engagement. The volume of M-Pesa transactions in Kenya grew 25.1%, off a large base, to 46.4 billion. Aligned 
+to our focus on financial inclusion, we continued to scale M-Pesa loans, savings and wealth products. Our wealth assets 
+under management reached KShs 21.0 billion. M-Pesa business payments also continue to support M-Pesa growth with 
+large and micro merchants reaching 3.2 million, up 71.9%.
+Kenyan mobile data revenue grew 14.4% surpassing the value of voice revenue in the year. This growth was supported 
+by customer and traffic growth with strong adoption of our 4G and 5G devices. Voice revenue in Kenya increased 1.3%, a 
+well-managed result. Fixed service and wholesale transit revenue grew 11.7% to KShs 19.1 billion (R2.5 billion), 
+supported by 19.5% growth in consumer fixed revenue. FTTH customers grew 35.0% to 407 080, with homes passed 
+exceeding 800 000. The mobile data and fixed growth was supported by capital expenditure in Kenya of KShs 55.8 billion, 
+equating to 13.5% capital intensity ratio.
+Ethiopia customers reached 13.6 million, up 54.2%, with sites growing to 3 504. Service revenue in local currency 
+increased 130.9%, supported by the customer growth and an acceleration of voice revenue growth. Pricing market repair 
+gained traction in the fourth quarter and is expected to continue in FY2027 as the business targets to get to levels above 
+cost price as published by the regulator. The site rollout was supported by capital expenditure for Ethiopia of KShs 20.0 
+billion (R2.7 billion). EBITDA losses reduced 54.4% in shillings, lapping significant foreign exchange losses and benefitting 
+from improved operational scale. Safaricom Ethiopia continues to see progress towards EBITDA breakeven in FY2027, 
+while targeting a medium-term customer base of 15 to 20 million.   
+As an associate of the Group, Safaricom contributed R4.6 billion to Group operating profit, up 38.3%. On a normalised 
+basis, and excluding hyperinflation impacts, Safaricom’s contribution to our operating profit grew 53.8%. 
+ 
+Operational review continued
+12
+Reviewed Annual Results and cash dividend distribution for the year ended 31 March 2026
+
+--- PAGE 14 (matched: context) ---
+Legal and regulatory matters
+South Africa – Maziv deal approved by competition authorities on appeal
+On 26 November 2025, the Group announced that the Independent Communications Authority of South Africa had approved 
+the Maziv transaction, with all conditions precedent for the transaction met. The Maziv transaction related to Vodacom (Pty) 
+Limited’s (Vodacom South Africa) acquisition of a 30% interest in Maziv Proprietary Limited (Maziv), the entity that houses all 
+the fibre assets owned by Community Investment Ventures Holdings (Pty) Limited (CIVH), including Vumatel (Pty) Limited 
+(Vumatel) and Dark Fibre Africa (Pty) Limited (DFA). In FTTH, Maziv’s footprint has passed 2.3 million homes1. 
+The transaction was implemented on 1 December 2025. For the 30% stake, Vodacom South Africa injected fibre assets and 
+cash, which represented a total initial consideration of R12.6 billion. The cash was funded via preference shares. Vodacom 
+accounts for Maziv as an investment in an associate from 1 December 2025. 
+On 22 December 2025, The Competition Tribunal (Tribunal) conditionally approved the merger in which Vumatel will acquire 
+control of Hero Telecoms (Pty) Ltd (Herotel). Subject to fulfilment of all conditions precedent and on completion of Herotel 
+transaction, Vodacom South Africa expects to pay at least R0.8 billion into Maziv, subject to a fair market value exercise and 
+consistent with our 30% shareholding in Maziv. 
+Safaricom – Transaction to increase shareholding to 55%
+On 4 December 2025, Vodacom advised shareholders that it had agreed to acquire an effective interest in 20% of the issued 
+share capital of Safaricom Plc (Safaricom) for an aggregate consideration of US$2.1 billion (R36.0 billion2), equivalent to 
+KES34.0 per Safaricom share. The details of the acquisition were set out here, and result in Vodacom’s shareholding 
+increasing to 55%. 
+The transaction is currently subject to a status quo order issued by the High Court of Kenya. The application for conservatory 
+order was heard on 27 April 2026, but the matter was postponed to 18 May 2026 for a virtual hearing. Until this ruling is 
+delivered, the status quo remains unchanged. The transaction will become effective once the status quo order is lifted and all 
+conditions precedent under the transaction agreements have been satisfied and the relevant agreements have been 
+completed. 
+Notes:
+1. Unaudited management estimates for the year ended 31 March 2026. As at 31 March 2026, Maziv owned a non-controlling stake in Herotel 
+(49.96%), which provides exposure to an additional fibre footprint. 
+2. Based on the foreign exchange rate at date of SENS publication, 4 December 2025.  
+ 
+Operational review continued
+13
+Vodacom Group Limited
+
+--- PAGE 23 (matched: context) ---
+Rm
+Notes
+2026
+Reviewed
+2025
+Audited
+Revenue
+ 
+3 
+ 
+167 652 
+ 
+152 227 
+Direct expenses
+ 
+(64 262)  
+(59 340) 
+Staff expenses
+ 
+(11 082)  
+(10 435) 
+Publicity expenses
+ 
+(2 257)  
+(1 914) 
+Net credit losses on financial assets
+ 
+(1 897)  
+(2 096) 
+Other operating expenses
+ 
+(24 020)  
+(23 407) 
+Depreciation and amortisation
+ 
+(24 285)  
+(21 934) 
+Impairment losses
+ 
+– 
+ 
+(34) 
+Net profit from associates and joint ventures
+3
+ 
+4 259 
+ 
+2 724 
+Operating profit
+ 
+44 108 
+ 
+35 791 
+Finance income
+ 
+2 061 
+ 
+1 460 
+Finance costs
+ 
+(8 333)  
+(8 093) 
+Net loss on remeasurement and disposal of financial instruments
+ 
+(676)  
+(385) 
+Profit before tax
+ 
+37 160 
+ 
+28 773 
+Taxation
+ 
+(10 423)  
+(8 882) 
+Net profit
+ 
+26 737 
+ 
+19 891 
+Attributable to:
+Equity shareholders
+ 
+20 647 
+ 
+16 598 
+Non-controlling interests
+ 
+6 090 
+ 
+3 293 
+ 
+26 737 
+ 
+19 891 
+Cents
+Notes
+2026
+Reviewed
+2025
+Audited
+Basic earnings per share
+4
+ 
+1 069 
+ 
+859 
+Diluted earnings per share
+4
+ 
+1 039 
+ 
+845 
+ 
+Condensed consolidated 
+income statement
+for the year ended 31 March 2026
+22
+Reviewed Annual Results and cash dividend distribution for the year ended 31 March 2026
+
+--- PAGE 24 (matched: fx_exposure) ---
+Rm
+2026
+Reviewed
+2025
+Audited
+Net profit
+ 
+26 737 
+ 
+19 891 
+Other comprehensive income 
+Foreign currency translation differences, net of tax1
+ 
+(7 957)  
+(2 140) 
+Share of foreign currency translation differences, net of tax, of associates and joint 
+ventures accounted for using the equity method1, 2
+ 
+(640)  
+(5 061) 
+Mark-to-market of financial assets held at fair value through other comprehensive 
+income, net of tax1
+ 
+221 
+ 
+278 
+Mark-to-market gains recognised through profit or loss on disposal of financial 
+assets held at fair value through other comprehensive income, net of tax1
+ 
+(259)  
+(277) 
+Total comprehensive income
+ 
+18 102 
+ 
+12 691 
+Attributable to:
+Equity shareholders
+ 
+13 694 
+ 
+10 394 
+Non-controlling interests
+ 
+4 408 
+ 
+2 297 
+ 
+18 102 
+ 
+12 691 
+Notes:
+1. Other comprehensive income can subsequently be recognised in profit or loss on the disposal of foreign operations or financial assets held 
+at fair value through other comprehensive income.
+2. The movement in foreign currency translation reserve relates to translation of Safaricom’s operations in Ethiopia. The movement in the prior 
+period was driven by the devaluation of the Ethiopian Birr in the first half of the 2025 financial year.
+ 
+Condensed consolidated statement
+of comprehensive income
+for the year ended 31 March 2026
+23
+Vodacom Group Limited
+
+--- PAGE 25 (matched: receivables_payables) ---
+Rm
+Notes
+2026
+Reviewed
+2025
+Audited
+Assets
+Non-current assets
+ 
+189 930 
+ 
+174 325 
+Property, plant and equipment
+ 
+83 733 
+ 
+81 138 
+Intangible assets
+ 
+33 410 
+ 
+29 881 
+Financial assets
+ 
+318 
+ 
+377 
+Investment in associates and joint ventures
+10
+ 
+62 619 
+ 
+53 819 
+Trade and other receivables
+ 
+5 420 
+ 
+4 747 
+Finance receivables
+ 
+3 024 
+ 
+2 882 
+Tax receivable
+ 
+481 
+ 
+434 
+Deferred tax
+ 
+925 
+ 
+1 047 
+Current assets
+ 
+86 503 
+ 
+75 656 
+Financial assets
+ 
+1 552 
+ 
+1 472 
+Mobile financial deposits
+ 
+17 390 
+ 
+13 732 
+Inventory
+ 
+2 112 
+ 
+2 287 
+Trade and other receivables
+ 
+29 986 
+ 
+28 536 
+Finance receivables
+ 
+3 411 
+ 
+3 276 
+Tax receivable
+ 
+843 
+ 
+654 
+Bank and cash balances
+ 
+31 209 
+ 
+25 699 
+Total assets
+ 
+276 433 
+ 
+249 981 
+Equity and liabilities
+Fully paid share capital
+ 
+89 918 
+ 
+89 918 
+Treasury shares
+ 
+(17 287)  
+(17 210) 
+Retained earnings
+ 
+60 641 
+ 
+52 941 
+Other reserves
+ 
+(40 718)  
+(33 630) 
+Equity attributable to owners of the parent
+ 
+92 554 
+ 
+92 019 
+Non-controlling interests
+ 
+14 681 
+ 
+11 633 
+Total equity
+ 
+107 235 
+ 
+103 652 
+Non-current liabilities
+ 
+90 414 
+ 
+70 332 
+Borrowings
+8
+ 
+84 096 
+ 
+64 040 
+Trade and other payables
+ 
+586 
+ 
+386 
+Provisions
+ 
+1 646 
+ 
+1 654 
+Deferred tax
+ 
+4 086 
+ 
+4 252 
+Current liabilities
+ 
+78 784 
+ 
+75 997 
+Borrowings
+8
+ 
+8 781 
+ 
+11 620 
+Trade and other payables
+ 
+46 181 
+ 
+44 057 
+Mobile financial payables
+ 
+17 390 
+ 
+13 732 
+Provisions
+ 
+935 
+ 
+838 
+Tax payable
+ 
+4 109 
+ 
+3 649 
+Dividends payable
+ 
+15 
+ 
+13 
+Bank overdraft 
+ 
+1 373 
+ 
+2 088 
+Total equity and liabilities
+ 
+276 433 
+ 
+249 981 
+ 
+Condensed consolidated statement 
+of financial position
+as at 31 March 2026
+24
+Reviewed Annual Results and cash dividend distribution for the year ended 31 March 2026
+
+--- PAGE 26 (matched: context) ---
+Rm
+Note
+Equity 
+attributable 
+to owners of 
+the parent
+Non-
+controlling 
+interests
+Total equity
+1 April 2024
+ 
+92 764  
+11 064  
+103 828 
+Total comprehensive income
+ 
+10 394  
+2 297  
+12 691 
+Dividends
+ 
+(11 114)  
+(1 805)  
+(12 919) 
+Repurchase and sale of shares
+ 
+(432)  
+–  
+(432) 
+Share-based payments
+ 
+407  
+–  
+407 
+Proceeds on subsidiary share issue and changes in 
+subsidiary holdings
+ 
+–  
+77  
+77 
+31 March 2025 – Audited
+ 
+92 019  
+11 633  
+103 652 
+Total comprehensive income
+ 
+13 694  
+4 408  
+18 102 
+Dividends
+ 
+(12 947)  
+(1 343)  
+(14 290) 
+Repurchase and sale of shares
+ 
+(457)  
+–  
+(457) 
+Share-based payments
+ 
+431  
+–  
+431 
+Changes in subsidiary holdings1
+ 
+(13)  
+–  
+(13) 
+Share of changes in subsidiary holdings of associate
+12.1 
+(173)  
+(17)  
+(190) 
+31 March 2026 – Reviewed
+ 
+92 554  
+14 681  
+107 235 
+Note:
+1. Purchase of Yebo Yethu RF Limited shares by the Innovator Trust from members of the Siyanda employee trust. 
+ 
+Condensed consolidated statement 
+of changes in equity
+for the year ended 31 March 2026
+25
+Vodacom Group Limited
+
+--- PAGE 37 (matched: context) ---
+8 
+Borrowings
+The table below summarises significant movements in term loans for the year ended 31 March 2026.
+2026
+Reviewed
+2025
+Audited
+Denominated 
+currency and 
+nominal 
+value
+Interest
+ rate 
+(all-in)
+Final 
+maturity
+Rm
+Rm
+Million
+Refinanced1
+Vodafone Investments Luxembourg s.a.r.l. 
+–  
+6 053  
+6 000 
+ZAR
+ 9.00% 
+28/11/2025
+Vodafone Investments Luxembourg s.a.r.l. 
+2 000  
+–  
+2 000 
+ZAR
+ 8.13% 
+24/11/2030
+Vodafone Investments Luxembourg s.a.r.l. 
+2 000  
+–  
+2 000 
+ZAR
+ 8.13% 
+24/11/2028
+Repaid2
+Standard Bank of Congo (RDC) SA
+ 
+–  
+162  
+35 
+USD 8.076% 
+5/08/2025
+Standard Bank of Congo (RDC) SA
+ 
+–  
+1 202  
+65 
+USD 6.476% 
+5/08/2025
+Standard Bank of South Africa Limited
+ 
+–  
+1 009  
+50 
+USD 7.290% 
+31/05/2026
+Incurred
+Standard Bank of Congo (RDC) SA
+ 
+450  
+–  
+25 
+USD 7.626% 
+28/11/2026
+Standard Bank of Congo (RDC) SA
+ 
+3 423  
+–  
+200 
+USD 6.276% 
+24/04/2028
+Standard Bank of South Africa Limited
+ 
+970  
+–  
+70 
+USD 6.745% 
+29/04/2029
+Standard Bank of South Africa Limited 
+ 
+509  
+–  
+1 900 MOZ 11.60% 
+29/04/2029
+Bank of China1
+ 
+1 000  
+–  
+1 000 
+ZAR 7.933% 
+24/11/2030
+Investec Bank Limited1
+ 
+1 000  
+–  
+1 000 
+ZAR 7.930% 
+24/11/2028
+Syndicated debt3
+ 
+2 657  
+–  
+2 600 
+ZAR 6.628% 
+2/12/2028
+Syndicated debt3
+ 
+2 725  
+–  
+2 664 
+ZAR 6.978% 
+1/12/2030
+Syndicated debt3
+ 
+2 727  
+–  
+2 664 
+ZAR 7.128% 
+1/12/2032
+Notes:
+1. R 2 000 million of the R6 000 million was refinanced by borrowings incurred from Bank of China and Investec Bank Limited. 
+There was no cash flow impact on refinancing R4 000 million with Vodafone Investments Luxembourg s.a.r.l.
+2. Included in borrowings repaid was a cash flow impact of R2 296 million.
+3. The Group issued preference shares to the value of R7 928 million to Standard Bank of South Africa Limited, ABSA Bank 
+Limited, Depfin Investments (Pty) Ltd, Rapvest Investments (Pty) Ltd and Rand Merchant Bank for the acquisition of 
+Maziv (Pty) Limited (Note 10). 
+Included in borrowings repaid and borrowings incurred in the statement of cash flows are cash outflows 
+and cash inflows of R4 854 million (2025: R6 505 million) and R3 581 million (2025: R6 014 million) 
+respectively relating to cash movements on committed borrowing facilities of Vodafone Egypt. Also included 
+in borrowings repaid is repayments on lease liabilities of R4 874 million (2025: R5 437 million) which are 
+classified as borrowings.
+The Group continues to monitor developments relating to the South African interest rate benchmark reform, 
+specifically the transition from the Johannesburg Interbank Average Rate (JIBAR) to the South African Rand 
+Overnight Index Average (ZARONIA), as announced by the South African Reserve Bank. The cessation of JIBAR 
+has been scheduled for 31 December 2026.The Group is assessing the potential impact of this transition on 
+its JIBAR-linked exposures, contracts, and risk management processes to ensure a smooth transition to 
+ZARONIA in line with market and regulatory developments.
+ 
+Notes to the condensed consolidated financial statements continued
+for the year ended 31 March 2026
+36
+Reviewed Annual Results and cash dividend distribution for the year ended 31 March 2026
+
+--- PAGE 38 (matched: receivables_payables) ---
+Rm
+2026
+Reviewed
+2025
+Audited
+9
+Cash flows from operating activities
+Profit before tax
+ 
+37 160 
+ 
+28 773 
+Adjusted for:
+Finance income
+ 
+(2 061)  
+(1 460) 
+Finance costs
+ 
+8 333 
+ 
+8 093 
+Net loss on remeasurement and disposal of financial instruments
+ 
+676 
+ 
+385 
+Operating profit
+ 
+44 108 
+ 
+35 791 
+Adjusted for:
+Depreciation and amortisation
+ 
+24 285 
+ 
+21 934 
+Net gain on disposal of property, plant and equipment and intangible 
+assets1
+ 
+(1 239)  
+(100) 
+Impairment losses
+ 
+– 
+ 
+34 
+Impairment of right of use assets
+ 
+37 
+ 
+– 
+Net credit losses on financial assets
+ 
+1 897 
+ 
+2 096 
+Share-based payment
+ 
+492 
+ 
+463 
+Net profit from associates and joint ventures
+ 
+(4 259)  
+(2 724) 
+Insurance proceeds2
+ 
+(173)  
+– 
+Other
+ 
+(250)  
+(44) 
+Cash flows from operations before working capital changes
+ 
+64 898 
+ 
+57 450 
+Decrease/(increase) in inventory
+ 
+87 
+ 
+(24) 
+Increase in trade and other receivables
+ 
+(5 661)  
+(3 582) 
+Increase in mobile financial payables, trade and other payables 
+and provisions
+ 
+6 513 
+ 
+7 021 
+Cash generated from operations
+ 
+65 837 
+ 
+60 865 
+Notes:
+1. The increase mainly relates to profit realised on the transfer of fibre assets as part of the acquisition of Maziv (Pty) Limited 
+(Note 10).
+2. During the year, Vodafone Egypt had a fire incident for which it recognised expected reimbursement where insurance 
+recoveries are receivable, net of the carrying amount written off.
+ 
+Notes to the condensed consolidated financial statements continued
+for the year ended 31 March 2026
+37
+Vodacom Group Limited
+
+--- PAGE 39 (matched: revenue_cos_opex) ---
+10 
+Acquisition of Maziv (Pty) Limited (Maziv)
+During December 2025, the Group acquired a 30% equity interest in Maziv, a South African fibre infrastructure 
+company, following the completion of a series of inter-related agreements with Community Investment 
+Ventures Holdings (Pty) Limited (CIVH). Maziv was established to hold the material fibre network assets of the 
+transaction parties and houses Vumatel (Pty) Limited (Vumatel) and Dark Fibre Africa (Pty) Limited (DFA). 
+Maziv provisions, sells and leases fibre optic infrastructure and related services.
+10.1 
+Classification and significant judgement
+Management exercised judgement in concluding that the Group has significant influence, but not joint 
+control, over Maziv. This assessment is based on the Group’s shareholding, representation on the board and 
+participation in relevant policy-making processes, without the requirement for unanimous consent over 
+relevant activities. Accordingly, the investment is classified as an investment in associate and is accounted for 
+using the equity method in accordance with IAS 28 Investments in Associates and Joint Ventures (IAS 28).
+Consideration transferred 
+The total consideration transferred by the Group amounted to R12 642 million, comprising:
+l cash consideration paid to subscribe for newly issued shares in Maziv; and
+l the contribution of certain fibre-related assets and contractual rights into the Maziv structure in exchange 
+for equity interests, in accordance with the relevant sale and subscription agreements. 
+The consideration transferred was measured at fair value at the transaction date, in accordance with 
+applicable IFRS standards.
+10.2 
+Accounting for contributed assets and linked arrangements
+Certain fibre assets and contractual rights transferred as part of the transaction were assessed individually to 
+determine the appropriate accounting treatment under applicable IFRS standards, including IAS 16 Property, 
+Plant and Equipment, IAS 38 Intangible Assets and IFRS 15 Revenue from Contracts with Customers, where 
+applicable. Where distinct services were identified, revenue was recognised in accordance with IFRS 15.
+10.3  
+Sale and leaseback of fibre assets
+As part of the transaction, certain fibre assets were sold to Maziv and subsequently leased back by the Group. 
+The sale and leaseback arrangements were assessed in accordance with IFRS 16 Leases. The gain recognised 
+on disposal was limited to the portion relating to fibre assets transferred with the intra-group share (30%) of 
+the gain eliminated against the investment in Maziv, in accordance with IAS 28.
+10.4 
+Investment in Maziv
+Following completion of the transaction, the investment in Maziv is recognised as an investment in associate 
+and accounted for using the equity method in accordance with IAS 28. The investment was initially 
+recognised at cost, being the aggregate of the cash consideration, capitalised costs and the fair value of 
+assets and rights transferred. 
+10.5 
+Hero Telecoms (Pty) Limited (Herotel)
+On 22 December 2025, the Competition Tribunal conditionally approved a merger in which Vumatel will 
+acquire control of Herotel, an entity in which Vumatel currently holds a non-controlling stake of 49.96%. 
+Subject to fulfilment of all conditions precedent, on completion of the Herotel transaction, the Group expects 
+to pay at least R0.8 billion into Maziv, subject to a fair market value exercise and consistent with our 30% 
+shareholding in Maziv.
+ 
+Notes to the condensed consolidated financial statements continued
+for the year ended 31 March 2026
+38
+Reviewed Annual Results and cash dividend distribution for the year ended 31 March 2026
+
+--- PAGE 40 (matched: context) ---
+10 
+Acquisition of Maziv (Pty) Limited (South Africa) continued
+10.4 
+Investment in Maziv continued
+The movement in the carrying amount of the Group’s investment in Maziv from the date of acquisition to 
+31 March 2026 is as follows:
+Reconciliation of investment in Maziv (equity-accounted)
+R million
+Cost of investment on acquisition:
+Cash consideration 
+ 
+7 930 
+Capitalised cost
+ 
+143 
+Total cash consideration
+ 
+8 073 
+Fair value of fibre assets and contractual rights contributed
+ 
+4 569 
+Total consideration transferred (initial cost)
+ 
+12 642 
+Group’s share of Maziv’s net identifiable assets at acquisition date
+ 
+6 360 
+Goodwill arising on acquisition
+ 
+6 282 
+Initial carrying amount of investment at acquisition
+ 
+12 642 
+Share of profit after tax from acquisition date to 31 March 2026
+ 
+53 
+Share of other comprehensive income from acquisition date to 31 March 2026
+*
+Elimination of intra-group share (30%) gain made on sale of assets to Maziv
+ 
+(426) 
+Carrying amount of investment in Maziv at 31 March 2026
+ 
+12 269 
+*  Less than a million.
+Cash flows arising from the transaction are presented within investing activities in the consolidated statement 
+of cash flows.
+11 
+Contingent liabilities
+11.1 
+Tax matters
+The Group is regularly subject to an evaluation by tax authorities of its direct and indirect tax filings, the most 
+significant of which are capital allowances, withholding taxes, customs duty and transfer pricing in certain 
+jurisdictions. The consequence of such reviews is that disputes may arise with tax authorities over the 
+interpretation or application of certain tax rules to the Group’s business. The tax laws are in some instances 
+ambiguous and subject to a broad range of interpretations. To address and manage this tax uncertainty, 
+good governance is fundamental to the Group’s business sustainability. All major tax positions taken are 
+subject to review by executive management and are reported to the Board. The Group has support from 
+external advisors with regards to the positions taken in respect of the significant tax matters which confirms 
+the application and interpretation of the tax legislation. The Group has considered all matters in dispute with 
+the relevant tax authorities and has accounted for any exposure identified, if required. The Group has not 
+disclosed all the details in respect of the open tax disputes as these matters are still under the dispute 
+resolution process. These disputes may not necessarily be resolved in a manner that is favourable to 
+the Group.
+11.2 
+Legal contingencies
+The Group is currently involved in various legal disputes across its different jurisdictions and has, in 
+consultation with its legal advisors, assessed the possible outcomes and has determined that adequate 
+provision has been made in respect of all these cases as at 31 March 2026.
+ 
+Notes to the condensed consolidated financial statements continued
+for the year ended 31 March 2026
+39
+Vodacom Group Limited
+
+--- PAGE 41 (matched: context) ---
+12 
+Other matters
+12.1 
+Global Partnership for Ethiopia B.V. (GPE)
+The Group continues to invest in Safaricom Telecommunications Ethiopia Plc (Safaricom Ethiopia) via GPE. 
+The Group’s holding, excluding its indirect interest via its shareholding in Safaricom increased from a holding 
+of 5.74% to 6.02%. In addition, the Group has an indirect interest via its shareholding in Safaricom. Safaricom’s 
+51.67% effective interest in Safaricom Ethiopia increased to 54.17%. The change in holdings reflects 
+Vodafamily’s exclusive participation in recent funding. The Group continues to exercise significant influence 
+over Safaricom Ethiopia and therefore the investment is equity accounted as an associate. 
+12.2 
+Kenneth Makate (Mr Makate) vs Vodacom (Pty) Limited (Vodacom)
+Mr Makate, a former employee of Vodacom, started legal proceedings in 2008 claiming compensation for 
+a business idea that led to the development of a service known as ‘Please Call Me’. On 4 November 2025, 
+the Board approved a settlement agreement and the matter was concluded by the parties out of court. 
+12.3 
+Modernisation of Radio Access Network in Tanzania
+During the year the Group implemented a Radio Access Network modernisation initiative which entails 
+replacement of legacy radio equipment and installation of new modernised radios, which necessitated a 
+reassessment of the expected useful lives of the old equipment. As a result of this change in estimate, 
+depreciation expense increased by R742 million. 
+12.4 
+Acquisition of Safaricom PLC (Safaricom)
+On 4 December 2025, the Group entered into a series of agreements that, upon completion, are expected to 
+increase the Group’s effective interest in Safaricom by 20% and result in Safaricom becoming a subsidiary. 
+The Group will acquire the remaining 12.5% interest in Vodafone Kenya Limited from Vodafone International 
+Holdings B.V., increasing the Group’s effective interest in Safaricom to 39.93%. Upon completion of the 
+acquisition by Vodafone Kenya Limited of an additional 15% equity interest in Safaricom from the 
+Government of the Republic of Kenya, the Group is expected to hold an effective interest of approximately 
+54.93%. 
+The acquisition constitutes a business combination achieved in stages in terms of IFRS 3 Business 
+Combinations and will be accounted for using the acquisition method. At the acquisition date, the Group’s 
+previously held equity interest in Safaricom will be remeasured to fair value, with any remeasurement 
+difference recognised in profit or loss.
+The transaction is currently subject to a status quo order issued by the High Court of Kenya. The application 
+for conservatory order was heard on 27 April 2026, but the matter was postponed to 18 May 2026 for a virtual 
+hearing. Until this ruling is delivered, the status quo remains unchanged. The transaction will become 
+effective once the status quo order is lifted and all conditions precedent under the transaction agreements 
+have been satisfied and the relevant agreements have been completed. 
+13 
+Events after the reporting period
+The Board is not aware of any matter or circumstance arising since the end of the reporting period, not 
+otherwise dealt with herein, which significantly affects the financial position of the Group or the results of its 
+operations or cash flows for the period, other than the following:
+13.1 
+Dividend declared after the reporting date and not recognised as a liability
+A final dividend of R8 415 million (405 cents per ordinary share) for the year ended 31 March 2026, was 
+declared on 8 May 2026, payable on 22 June 2026 to shareholders recorded in the register at the close of 
+business on 19 June 2026. The net dividend after taking into account dividend withholding tax for those 
+shareholders not exempt from dividend withholding tax is 324.00000 cents per share. 
+ 
+Notes to the condensed consolidated financial statements continued
+for the year ended 31 March 2026
+40
+Reviewed Annual Results and cash dividend distribution for the year ended 31 March 2026
+
+--- PAGE 42 (matched: receivables_payables) ---
+14 
+Fair value
+The carrying amounts of financial assets at amortised cost, mobile financial deposits, trade and other 
+receivables, bank and cash balances, bank overdraft, mobile financial payables, licence and spectrum fees 
+payable, and trade and other payables approximate their fair value due to short-term maturity.
+The aggregate fair value of interest bearing borrowings (excluding leases) with a carrying amount of 
+R70 792 million (2025: R56 391 million) amounts to R70 792 million (2025: R56 411 million). Fair value is 
+based on level two of the fair value hierarchy. Estimated interest rates for fixed interest rate financial liabilities 
+are calculated with reference to the applicable zero coupon yield curves at the reporting date, as published 
+by Bloomberg. In the current year the carrying amount of all borrowings approximate their fair value. In the 
+comparative period, where the fair value of the borrowings could be determined by using the discounted cash 
+flow method (with a discount rate based on market-related interest rates) the discount rate was 8.72% for 
+rand-denominated borrowings.   
+14.1 
+Fair value hierarchy
+The table below sets out the valuation basis of financial instruments measured at fair value:
+Rm
+2026
+Reviewed
+2025
+Audited
+Level one1
+Financial assets at fair value through profit or loss
+Unit trust investments
+ 
+521 
+ 
+482 
+Level two2
+Financial assets at fair value through other comprehensive income
+Finance receivables3
+ 
+6 435 
+ 
+6 158 
+Financial assets and liabilities at fair value through profit or loss
+Derivative financial assets4
+ 
+77 
+ 
+25 
+Derivative financial liabilities4
+ 
+(15)  
+(65) 
+ 
+7 018 
+ 
+6 600 
+Notes:
+1.   Level one classification is used when the valuation is determined using quoted prices in an active market for identical 
+assets or liabilities that the entity can access at the valuation date.
+2.   Level two classification is used when valuation inputs used to determine fair value are observable for the asset/(liability), 
+either directly as prices or indirectly when derived from prices. 
+3.   The Group provides financing to customers to acquire devices at an additional contractual charge which is included in 
+finance receivables. The business model under IFRS 9 for finance receivables has been determined to be "hold to collect 
+and sell". Finance receivables are valued using a market approach, with cash flows discounted at the 24-month weighted 
+average credit risk adjusted risk free rate at which finance receivables are sold across multiple financial institutions.
+4.   The fair value of foreign exchange forward contracts and firm commitment assets and liabilities are determined with 
+reference to quoted market prices for similar instruments, being the mid forward rates and spot rates respectively, as at the 
+reporting date. Derivative financial assets and liabilities are included in trade and other receivables and trade and other 
+payables respectively.
+ 
+Notes to the condensed consolidated financial statements continued
+for the year ended 31 March 2026
+41
+Vodacom Group Limited
+
+--- PAGE 43 (matched: context) ---
+Operating results for the year ended 31 March 2026
+Rm
+South 
+Africa
+%
+25/26
+Egypt
+%
+25/26
+IB
+%
+25/26
+Corp/
+Elims
+Group
+%
+25/26
+Safaricom1
+%
+25/26
+Mobile contract revenue
+ 25 237  
+3.5  5 784  
+32.1  
+3 137  13.5  
+(12)  34 146  
+8.4  
+8 476  
+5.2  
+Mobile prepaid revenue
+ 26 728  
+(2.1)  23 574  
+33.4  27 996  11.5  
+–  78 298  11.7  
+41 342  
+6.3 
+Mobile customer revenue
+ 51 965  
+0.5  29 358  
+33.1  31 133  11.7  
+(12)  112 444  10.7  
+49 818  
+6.1 
+Mobile interconnect
+ 
+1 809  
+0.9  2 448  
+5.9  
+944  (17.8)  
+(238)  4 963  
+(0.1)  
+1 266  
+9.9 
+Fixed service revenue
+ 
+5 464  
+7.9  2 364  
+29.1  
+1 348  
+(2.5)  
+(257)  8 919  11.3  
+2 530  
+7.1 
+Other service revenue
+ 
+5 131  14.6  1 915  
+26.2  
+247  
+4.2  
+(58)  7 235  17.4  
+1 900  
+9.3 
+Service revenue
+ 64 369  
+2.1  36 085  
+30.2  33 672  
+9.9  
+(565)  133 561  10.6  
+55 514  
+6.4 
+Equipment revenue
+ 19 901  
+1.9  
+202  
+16.1  
+327  (46.7)  
+(7)  20 423  
+0.5  
+911  (50.6) 
+Non-service revenue
+ 
+8 352  
+2.1  5 071  
+76.9  
+985  
+(4.4)  
+(740)  13 668  22.3  
+550  
+(7.1) 
+Revenue
+ 92 622  
+2.1  41 358  
+34.5  34 984  
+8.4  (1 312)  167 652  10.1  
+56 975  
+4.3 
+Direct expenses
+ (39 421)  
+1.8  (15 463)  
+36.6  (9 931)  
+0.2  
+553  (64 262)  
+8.3 
+Staff expenses
+ (5 491)  
+0.1  (1 812)  
+38.6  (2 574)  
+(0.1)  (1 205)  (11 082)  
+6.2 
+Publicity expenses
+ (1 003)  
+7.4  
+(561)  
+37.2  
+(684)  20.4  
+(9)  (2 257)  17.9 
+Net credit gains/(losses) on 
+financial instruments
+ (1 335)  
+(5.2)  
+(274)  146.8  
+(288)  (50.1)  
+–  (1 897)  
+(9.5) 
+Impairment losses
+ 
+(22)  
+–  
+–  (100.0)  
+–  
+–  
+22  
+–  
+– 
+Other operating expenses
+ (10 994)  
+2.8  (4 435)  
+7.4  (9 467)  
+1.3  
+876  (24 020)  
+2.6 
+Depreciation and 
+amortisation
+ (13 909)  
+7.5  (3 552)  
+11.6  (6 803)  17.2  
+(21)  (24 285)  10.7 
+Net profit/(loss) from 
+associates and joint 
+ventures
+ 
+53  
+–  
+3  
+–  
+(363)  (37.2)  
+4 566  4 259  56.4  
+Operating profit
+ 20 500  
+(0.2)  15 264  
+48.9  
+4 874  67.2  
+3 470  44 108  23.2  
+19 783  35.4 
+EBITDA
+ 33 001  
+(1.7)  18 628  
+38.5  12 088  27.8  (1 091)  62 626  12.8  
+29 358  21.6 
+EBITDA margin (%)
+ 
+35.6 
+ 
+45.0 
+ 
+34.6 
+ 
+37.4 
+ 
+51.5 
+Included in service 
+revenue:
+Financial services revenue
+ 
+3 718  
+8.1  3 147  
+41.7  
+9 901  18.4  
+–  16 766  19.6  
+24 495  
+8.2 
+Note:
+1. The Group’s effective interest of 34.94% in Safaricom is accounted for as an investment in associate. The above results represent 100% of 
+the results of Safaricom, including the net fair value adjustments on tangible and intangible assets, excluding goodwill, that rose on 
+acquisition and are for information purposes only. 
+ 
+Supplementary information
+42
+Reviewed Annual Results and cash dividend distribution for the year ended 31 March 2026
+
+--- PAGE 54 (matched: context) ---
+For purposes of this engagement, we are not responsible for updating or reissuing any reports or opinions on any 
+historical financial information used in compiling the Pro-forma financial information, nor have we, in the course of this 
+engagement, performed an audit or review of the financial information used in compiling the Pro-forma financial 
+information.
+The purpose of Pro-forma financial information included in the Reviewed Annual results for the year ended 
+31 March 2026 is solely to illustrate how the unadjusted financial information of the entity has been impacted by the pro-
+forma adjustments, as described in the basis of preparation. Accordingly, we do not provide any assurance that the actual 
+outcome of the adjustments would have been as presented.
+A reasonable assurance engagement to report on whether the Pro-forma financial information has been compiled, in all 
+material respects, on the basis of the applicable criteria involves performing procedures to assess whether the applicable 
+criteria used by the directors in the compilation of the Pro-forma financial information provides a reasonable basis for 
+presenting the significant effects directly attributable to the Pro-forma adjustments, and to obtain sufficient appropriate 
+evidence about whether:
+l The related Pro-forma adjustments give appropriate effect to those criteria; and
+l The Pro-forma financial information reflects the proper application of those adjustments to the unadjusted financial 
+information.
+Our procedures selected depend on our judgment, having regard to our understanding of the nature of the Group, the 
+pro-forma adjustments in respect of which the Pro-forma financial information has been compiled, and other relevant 
+engagement circumstances.
+Our engagement also involves evaluating the overall presentation of the Pro-forma financial information.
+We believe that the evidence we have obtained is sufficient and appropriate to provide a basis for our opinion.
+Opinion
+In our opinion, the Pro-forma financial information, has been compiled, in all material respects, on the basis specified in 
+the JSE Listings Requirements and described in the basis of preparation paragraphs on page 54 of the reviewed annual 
+results for the year ended 31 March 2026. 
+Ernst & Young Inc.
+Director: Warren Kinnear CA(SA)
+Registered Auditor
+8 May 2026
+ 
+Supplementary information continued
+53
+Vodacom Group Limited
+
+--- PAGE 55 (matched: fx_exposure) ---
+Pro-forma financial information disclosure
+The presentation of the pro-forma financial information and related reconciliations as detailed below on pages 54 – 60, 
+is the responsibility of the board of directors of Vodacom Group Limited.
+l ‘Normalised’ results have been presented to assist the user in understanding the underlying growth trends and
+adjusts for:
+– the impact of trading foreign exchanges;
+– the impact of foreign currency translation on a constant currency basis; 
+– the impact of hyperinflation accounting (IAS 29); and
+– the merger, acquisition and disposal activities during the current year and on a constant currency basis in the prior 
+year, where applicable.
+l ‘Operating free cash flow’ and ‘free cash flow’ has been presented to provide users with relevant information and 
+measures used by the Group to assess performance. 
+Collectively, the pro-forma financial information.
+The pro-forma financial information has been prepared for illustrative purposes only and may not fairly present the 
+financial position, changes in equity, and results of operations or cash flows of Vodacom Group Limited. The pro-forma 
+financial information is presented in accordance with the JSE Listings Requirements and the SAICA Guide on Pro-forma 
+financial information. The compilation of the pro-forma financial information for the year ended 31 March 2026 as 
+presented in Table A to Table E, as well as the constant currency information, along with the respective notes, has been 
+reported/reviewed on by Group’s auditor, Ernst & Young Inc.
+Tables A to D
+The reconciliation below presents the normalised growth which has been adjusted for trading foreign exchange gains/losses 
+as well as foreign exchange translations, hyperinflation accounting, mergers, acquisitions and disposals where applicable, tax 
+related adjustments where applicable, all at a constant currency rate to show a like-for-like comparison of results.
+ 
+Supplementary information continued
+54
+Reviewed Annual Results and cash dividend distribution for the year ended 31 March 2026
+
+--- PAGE 56 (matched: context) ---
+TABLE A: Reconciliation of normalised values for the year ended 31 March 2026 
+Foreign exchange
+Rm
+Reported1
+Trading 
+FX2
+Translation 
+FX3
+Hyper 
+inflation4
+Acquisitions5
+Normalised*
+Revenue
+Group
+ 
+167 652   
+–   
+–   
+–   
+4   
+167 656  
+South Africa
+ 
+92 622  
+–  
+–  
+–  
+4  
+92 626 
+Egypt
+ 
+41 358  
+–  
+–  
+–  
+–  
+41 358 
+International
+ 
+34 984  
+–  
+–  
+–  
+–  
+34 984 
+Service revenue
+Group
+ 
+133 561  
+–  
+–  
+–  
+(13)  
+133 548 
+South Africa
+ 
+64 369  
+–  
+–  
+–  
+(13)  
+64 356 
+Egypt
+ 
+36 085  
+–  
+–  
+–  
+–  
+36 085 
+International
+ 
+33 672  
+–  
+–  
+–  
+–  
+33 672 
+Financial services revenue
+Group
+ 
+16 766  
+–  
+–  
+–  
+–  
+16 766 
+South Africa
+ 
+3 718  
+–  
+–  
+–  
+–  
+3 718 
+Egypt
+ 
+3 147  
+–  
+–  
+–  
+–  
+3 147 
+International (M-Pesa)
+ 
+9 901  
+–  
+–  
+–  
+–  
+9 901 
+Tanzania
+ 
+4 985  
+–  
+–  
+–  
+–  
+4 985 
+DRC
+ 
+3 157  
+–  
+–  
+–  
+–  
+3 157 
+Mozambique
+ 
+1 423  
+–  
+–  
+–  
+–  
+1 423 
+Total expenses
+Group
+ 
+103 517  
+(167)  
+–  
+–  
+4  
+103 354 
+South Africa
+ 
+58 244  
+14  
+–  
+–  
+4  
+58 262 
+Egypt
+ 
+22 545  
+(139)  
+–  
+–  
+–  
+22 406 
+International
+ 
+22 944  
+(39)  
+–  
+–  
+–  
+22 905 
+EBITDA
+Group
+ 
+62 626  
+167  
+–  
+–  
+8  
+62 801 
+South Africa
+ 
+33 001  
+(14)  
+–  
+–  
+8  
+32 995 
+Egypt
+ 
+18 628  
+139  
+–  
+–  
+–  
+18 767 
+International
+ 
+12 088  
+39  
+–  
+–  
+–  
+12 127 
+Net profit /(loss) from 
+associates and joint ventures
+Group
+ 
+4 259  
+461  
+–  
+272  
+(53)  
+4 939 
+International
+ 
+(363)  
+90  
+–  
+59  
+–  
+(214) 
+Safaricom
+ 
+4 565  
+372  
+–  
+213  
+–  
+5 150 
+Operating profit
+Group
+ 
+44 108  
+629  
+–  
+272  
+(1 411)  
+43 598 
+South Africa
+ 
+20 500  
+(14)  
+–  
+–  
+(1 411)  
+19 075 
+Egypt
+ 
+15 264  
+139  
+–  
+–  
+–  
+15 403 
+International
+ 
+4 874  
+129  
+–  
+59  
+–  
+5 062 
+Operating free cash flow
+Group
+ 
+33 034  
+–  
+–  
+–  
+–  
+33 034 
+ 
+Supplementary information continued
+55
+Vodacom Group Limited
+
+--- PAGE 59 (matched: context) ---
+TABLE D: Reconciliation of normalised growth for the quarter ended
+31 March 2026
+Rm
+Reported1
+Translation 
+FX3 Normalised*
+Revenue
+Group
+ 
+42 169   
+–   
+42 169  
+Egypt
+ 
+10 305  
+–  
+10 305 
+International
+ 
+8 305  
+–  
+8 305 
+Service revenue
+Group
+ 
+33 149  
+–  
+33 149 
+Egypt
+ 
+8 951  
+–  
+8 951 
+International
+ 
+8 125  
+–  
+8 125 
+Financial services revenue
+Egypt
+ 
+830  
+–  
+830 
+International
+ 
+2 452  
+–  
+2 452 
+31 March 2025
+Rm
+Reported1
+Translation 
+FX3 Normalised*
+Revenue
+Group
+ 
+39 158   
+(1 746)   
+37 412  
+Egypt
+ 
+8 694  
+(729)  
+7 965 
+International
+ 
+8 714  
+(1 015)  
+7 699 
+Service revenue
+Group
+ 
+31 404  
+(1 518)  
+29 886 
+Egypt
+ 
+7 906  
+(663)  
+7 243 
+International
+ 
+7 886  
+(855)  
+7 031 
+Financial services revenue
+Egypt
+ 
+660  
+(55)  
+605 
+International
+ 
+2 224  
+(238)  
+1 986 
+31 March 2026
+%
+% change6
+Translation
+FX3 ppts
+Normalised*
+% change  
+Revenue
+Group
+ 7.7  
+ 5.0  
+ 12.7  
+Egypt
+ 18.5 
+ 10.9 
+ 29.4 
+International
+ (4.7) 
+ 12.6 
+ 7.9 
+Service revenue
+Group
+ 5.6 
+ 5.3 
+ 10.9 
+Egypt
+ 13.2 
+ 10.4 
+ 23.6 
+International
+ 3.0 
+ 12.6 
+ 15.6 
+Financial services revenue
+Egypt
+ 25.8 
+ 11.4 
+ 37.2 
+International
+ 10.3 
+ 13.2 
+ 23.5 
+ 
+Supplementary information continued
+58
+Reviewed Annual Results and cash dividend distribution for the year ended 31 March 2026
+
+--- PAGE 60 (matched: fx_exposure) ---
+Notes:
+1. The financial information relating to revenue, service revenue, financial services revenue, total expenses, EBITDA, operating profit, net 
+profit from associates and joint ventures and operating free cash flow are extracted without adjustment from the condensed consolidated 
+financial statements for the year ended 31 March 2026.
+2. Trading foreign exchange adjustments (FX) are foreign exchange gains/losses on foreign denominated monetary assets and liabilities 
+resulting from trading activities of entities within the Group, which is included with other operating expenses as per the condensed 
+consolidated income statement.
+3. The Group’s presentation currency is the South African rand. Our International businesses utilise a number of functional currencies, for 
+example the United States dollar, Tanzanian shilling, Mozambican metical, and Egyptian pound. Translation foreign exchange (FX) arises 
+from the translation of the results, at average rates, of subsidiaries’ functional currencies to Vodacom’s presentation currency, being rand. 
+For year-end purposes, IFRS monthly results are translated at the prevailing average monthly exchange rate and the translated value is 
+accumulated for the year. For the pro-forma financial information for the year ended 31 March 2026, these exchange variances are 
+eliminated by applying the average rate for the year ended 31 March 2026 (which is derived by dividing the individual subsidiary’s translated 
+rand value with the functional currency for the period as applicable to each specified line item) to the 31 March 2025 numbers, thereby 
+giving a user a view of the performance, which excludes exchange variances. The effective translation rates for pro-forma financial 
+information are similar to those used for IFRS purposes. The prevailing exchange rates for the current and comparative periods are disclosed 
+on page 51.
+4. Hyperinflation adjustments are IAS29 adjustments to Ethiopia’s results as a result of operating in a hyperinflationary economy. Effective 
+30 June 2025, Ethiopia is no longer classified as a hyperinflationary economy for the purposes of IAS 29 Financial Reporting in 
+Hyperinflationary Economies (IAS 29). This assessment is based on inflation data and economic indicators, including the IMF World 
+Economic Outlook (April 2025), which reflect a sustained decline in inflationary pressures below the thresholds typically associated with 
+hyperinflation. As a result, the Group’s associate operating in Ethiopia has discontinued the application of IAS 29 from this date. 
+5. Acquisitions are the adjustments processed relating to the Maziv transaction.
+6. For tables A, B, C and D mergers, acquisitions and disposals adjust for the start-up operating and finance costs associated with the Group’s 
+direct and indirect exposure in Safaricom Telecommunications Ethiopia Plc (Ethiopia). The Group, excluding its indirect interest via its 
+shareholding in Safaricom, has an effective interest of 5.93% in Ethiopia. In addition, the Group has indirect exposure through Safaricom’s 
+53.4% effective interest in the consortium. 
+7. The percentage change relates to the year-on-year percentage growth calculated as the percentage change between the year-to-date 
+ended 31 March 2026 and year-to-date 31 March 2025 value.
+*  Normalised growth presents performance on a comparable basis. This adjusts for trading foreign exchange, foreign currency fluctuation on 
+a constant currency basis (using the current year as the base), hyperinflation accounting and excludes the impact of merger, acquisition and 
+disposal activities, at a constant currency basis where applicable, to show a like-for-like comparison of results. 
+ 
+Supplementary information continued
+59
+Vodacom Group Limited
+
+--- PAGE 61 (matched: context) ---
+TABLE E: Reconciliation of operating free cash flow and free cash flow
+Year ended 31 March
+Rm
+ 
+2026  
+2025 
+Cash generated from operations1
+ 
+65 849   
+61 125 
+Cash capital expenditure2
+ 
+(20 915)  
+(20 957) 
+Lease liability payments3
+ 
+(7 352)  
+(7 263) 
+Movement in amounts due to M-Pesa account holders4
+ 
+(4 548)  
+(2 967) 
+Operating free cash flow
+ 
+33 034  
+29 938 
+Tax paid1
+ 
+(9 818)  
+(8 066) 
+Finance income received5
+ 
+1 936  
+1 367 
+Finance costs paid5
+ 
+(5 140)   
+(5 911) 
+Net dividends (paid) to non-controlling shareholders and received from associates6
+ 
+1 830  
+859 
+Free cash flow
+ 
+21 842  
+18 187 
+Spectrum net payments
+ 
+(1 886)  
+(3 753) 
+Free cash flow after spectrum payments
+ 
+19 956  
+14 434 
+The reconciliation presents the reconciliation of cash generated from operators to free cash flow. Free cash flow 
+excludes the movement in amounts due to M-Pesa account holders and held on their behalf. Management excludes 
+these balances to present a view of the true commercial cash conversion in the operation.
+Notes:
+1. Extracted from the condensed consolidated statement of cash flows for the year ended 31 March 2026 and adjusted for merger 
+and acquisition costs of R11.6 million (FY25: R260million).
+2. Consists of capital expenditure additions including software and the movement in capital creditors and disposals of assets. 
+3. Lease liability payments includes interest on lease liabilities of R2 478 million (FY25: R1 826 million).
+4. Movements included in cash generated from operations relate to money held on behalf of M-Pesa customers, which is not available for use 
+by the Group. 
+5. This represents the finance costs paid of R7 618 million (FY25: R7 737 million), as extracted from the condensed consolidated statement of 
+cash flows for the year ended 31 March 2026, net of interest on lease liabilities of R2 478 million (FY25: R1 826 million).
+6. This represents net dividend paid to non-controlling shareholders of R1 343 million (FY25: R1 805 million) and dividends received from 
+associates of R3 164 million (FY25: R2 664 million).
+ 
+Supplementary information continued
+60
+Reviewed Annual Results and cash dividend distribution for the year ended 31 March 2026
+

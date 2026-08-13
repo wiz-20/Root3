@@ -1,0 +1,8486 @@
+Source: Bidvest_FY2025_Company AFS.pdf
+Target fiscal year: 2025
+Narrowing found only 12 pages - dumping FULL document (41 pages) instead, likely a results presentation/press release rather than a full AFS.
+================================================================================
+
+--- PAGE 1 (full dump) ---
+The Bidvest Group Limited
+Audited Annual
+Financial Statements
+for the year ended
+30 June 2025
+
+--- PAGE 2 (full dump) ---
+The Bidvest Group Limited
+Corporate information
+for the year ended 30 June 2025
+Nature of business
+Country of incorporation
+Registered office
+2196
+The Company is an investment holding company, listed on the JSE Limited, with subsidiaries operating in the 
+services, trading and distribution industries.
+Republic of South Africa
+Second Floor
+Bidvest House
+18 Crescent Drive
+Melrose Arch
+1
+
+--- PAGE 3 (full dump) ---
+
+
+--- PAGE 4 (full dump) ---
+
+
+--- PAGE 5 (full dump) ---
+PricewaterhouseCoopers Inc. 
+  
+4 Lisbon Lane, Waterfall City, Jukskei View, 2090 
+  
+Private Bag X36, Sunninghill, 2157 
+  
+T: +27 (0) 11 797 4000, F: +27 (0) 11 209 5800 
+  
+Chief Executive Officer: L S Machaba 
+  
+The Company's principal place of business is at 4 Lisbon Lane, Waterfall City, Jukskei View, where a 
+list of directors' names is available for inspection. 
+www.pwc.co.za 
+Reg. no. 1998/012055/21, VAT reg.no. 4950174682 
+Independent auditor’s report 
+To the shareholders of The Bidvest Group Limited 
+Report on the audit of the separate financial statements 
+Our opinion 
+In our opinion, the separate financial statements present fairly, in all material respects, the separate 
+financial position of The Bidvest Group Limited (the Company) as at 30 June 2025, and its separate 
+financial performance and separate cash flows for the year then ended in accordance with IFRS 
+Accounting Standards and the requirements of the Companies Act of South Africa. 
+What we have audited 
+The Bidvest Group Limited's separate financial statements set out on pages 16 to 40 comprise: 
+ 
+the company statement of financial position as at 30 June 2025; 
+ 
+the company statement of comprehensive income for the year then ended; 
+ 
+the company statement of changes in equity for the year then ended; 
+ 
+the company statement of cash flows for the year then ended; and 
+ 
+the notes to the financial statements, including material accounting policy information. 
+Basis for opinion 
+We conducted our audit in accordance with International Standards on Auditing (ISAs). Our 
+responsibilities under those standards are further described in the Auditor’s responsibilities for the audit 
+of the separate financial statements section of our report. 
+We believe that the audit evidence we have obtained is sufficient and appropriate to provide a basis for our 
+opinion.  
+Independence 
+We are independent of the Company in accordance with the Independent Regulatory Board for Auditors’ 
+Code of Professional Conduct for Registered Auditors (IRBA Code) and other independence requirements 
+applicable to performing audits of financial statements in South Africa. We have fulfilled our other ethical 
+responsibilities in accordance with the IRBA Code and in accordance with other ethical requirements
+
+--- PAGE 6 (full dump) ---
+5 
+ 
+applicable to performing audits in South Africa. The IRBA Code is consistent with the corresponding 
+sections of the International Ethics Standards Board for Accountants’ International Code of Ethics for 
+Professional Accountants (including International Independence Standards). 
+Our audit approach 
+Final materiality 
+ 
+R309 million, which represents 1% of total assets 
+ 
+Key audit matters 
+ 
+Impairment assessment of investments in subsidiaries 
+  
+As part of designing our audit, we determined materiality and assessed the risks of material misstatement 
+in the separate financial statements. In particular, we considered where the Directors made subjective 
+judgements; for example, in respect of significant accounting estimates that involved making assumptions 
+and considering future events that are inherently uncertain. As in all of our audits, we also addressed the 
+risk of management override of internal controls, including among other matters, consideration of 
+whether there was evidence of bias that represented a risk of material misstatement due to fraud. 
+In terms of the IRBA Rule on Enhanced Auditor Reporting for the Audit of Financial Statements of Public 
+Interest Entities, published in Government Gazette Number 49309 dated 15 September 2023 (EAR Rule), 
+we report final materiality and audit scope below. 
+Final materiality 
+The scope of our audit was influenced by our application of materiality. An audit is designed to obtain 
+reasonable assurance whether the separate financial statements are free from material misstatement. 
+Misstatements may arise due to fraud or error. They are considered material if individually or in 
+aggregate, they could reasonably be expected to influence the economic decisions of users taken on the 
+basis of the separate financial statements. 
+Based on our professional judgement, we determined certain quantitative thresholds for materiality, 
+including the final materiality for the separate financial statements as a whole as set out in the table below. 
+These, together with qualitative considerations, helped us to determine the scope of our audit and the 
+nature, timing and extent of our audit procedures and to evaluate the effect of misstatements, both 
+individually and in aggregate on the separate financial statements as a whole. 
+ 
+Separate financial statements 
+Final materiality 
+R309 million 
+How we 
+determined it 
+1% of total assets 
+Rationale for the 
+materiality 
+benchmark 
+applied 
+We chose total assets as the benchmark because, in our view, it is the 
+benchmark against which the performance of the Company is most commonly 
+measured by users and is a generally accepted benchmark for holding 
+companies.
+
+--- PAGE 7 (full dump) ---
+6 
+Separate financial statements 
+We chose 1% which is consistent with quantitative materiality thresholds used 
+for holding companies and is further based on our professional judgement after 
+consideration of qualitative factors that impact the Company. 
+Key audit matters 
+Key audit matters are those matters that, in our professional judgement, were of most significance in our 
+audit of the separate financial statements of the current period. These matters were addressed in the 
+context of our audit of the separate financial statements as a whole, and in forming our opinion thereon, 
+and we do not provide a separate opinion on these matters. 
+In terms of ISA 701 Communicating key audit matters in the independent auditor’s report / the EAR Rule 
+(as applicable), we are required to report key audit matters and the outcome of audit procedures or key 
+observations with respect to the key audit matters, and these are included below. 
+Key audit matter 
+How our audit addressed the key audit 
+matter 
+Impairment assessment of investments in 
+subsidiaries 
+Refer to note 8 of the separate financial 
+statements. 
+As at 30 June 2025, the Company recognised 
+investments in subsidiaries with a closing 
+carrying value of R30 billion in the separate 
+statement of financial position. 
+Investments in subsidiaries are required to be 
+tested for impairment if there is an indicator of 
+impairment in accordance with International 
+Accounting Standard 36 Impairment of assets 
+(“IAS 36”). 
+Management performed their annual assessment 
+of impairment indicators as required by the 
+standard. The net asset value of each subsidiary, 
+as determined for the purpose of the impairment 
+calculation, was calculated and compared to the 
+respective subsidiary’s investment carrying value 
+as recorded. 
+We reperformed management’s comparison of the 
+net asset value of each subsidiary to its carrying 
+value to identify if an impairment indicator 
+existed. 
+Using our valuation expertise, we assessed the 
+valuation methodology applied by management 
+against generally accepted valuation methods and 
+IAS 36, noting no inconsistencies. 
+We independently calculated the discount rates, 
+using independently obtained data such as the 
+cost of debt, adjusting for the contribution of lease 
+discount rates to the cost of debt in accordance 
+with IFRS Accounting Standard 16 Leases, the 
+risk-free rate, market risk premiums, debt/equity 
+ratios as well as the beta of comparable 
+companies. 
+We performed an independent discounted 
+cashflow calculation using our independent 
+assumptions, as applicable, to the relevant 
+investments where an impairment indicator was 
+identified. 
+For the recoverable amount calculations 
+performed, we performed procedures over key 
+assumptions and inputs utilised in our 
+independent impairment test which included the 
+following:
+
+--- PAGE 8 (full dump) ---
+Key audit matter 
+How our audit addressed the key audit 
+matter 
+Management performed an impairment 
+assessment for investments in subsidiaries where 
+an indicator of impairment was identified. The 
+enterprise value, as determined for the purpose of 
+the impairment calculation, was calculated using 
+the discounted cash flow (“DCF”) model. 
+This process involves significant judgement and 
+estimation, particularly in determining: 
+
+Forecasted cash flows which incorporate
+growth rates in revenue;
+
+Terminal values; and
+
+Discount rates.
+The impairment assessment of the investments in 
+subsidiaries is considered to be a matter of most 
+significance to the current year audit due to the 
+significant judgements and estimates made by 
+management in determining the key assumptions 
+used in the recoverable amount calculation. 
+
+We agreed cash flow forecasts to approved
+budgets.
+
+We determined the growth projections
+using an appropriate average of
+historically achieved growth rates.
+
+We compared the terminal growth rates to
+long-term consensus inflation rates
+obtained from independent sources.
+
+We performed an independent
+impairment calculation utilising the
+assumptions calculated above.
+Based on the above procedures performed, we did 
+not identify any further material impairments 
+compared to those recognised by management. 
+Other information 
+The Directors are responsible for the other information. The other information comprises the information 
+included in the document titled "The Bidvest Group Limited Audited Consolidated Annual Financial 
+Statements for the year ended 30 June 2025" and the document titled “The Bidvest Group Limited 
+Audited Annual Financial Statements for the year ended 30 June 2025", which include(s) the Directors’ 
+Report, the Audit Committee’s Report and the Declaration by the Company Secretary as required by the 
+Companies Act of South Africa, which we obtained prior to the date of this auditor’s report, and the other 
+sections of the document titled "The Bidvest Group Integrated Report for the year ended 30 June 2025”, 
+which is expected to be made available to us after that date. The other information does not include the 
+consolidated or the separate financial statements and our auditor’s reports thereon. 
+Our opinion on the separate financial statements does not cover the other information and we do not and 
+will not express an audit opinion or any form of assurance conclusion thereon. 
+In connection with our audit of the separate financial statements, our responsibility is to read the other 
+information identified above and, in doing so, consider whether the other information is materially 
+inconsistent with the separate financial statements or our knowledge obtained in the audit, or otherwise 
+appears to be materially misstated. 
+If, based on the work we have performed on the other information that we obtained prior to the date of 
+this auditor’s report, we conclude that there is a material misstatement of this other information, we are 
+required to report that fact. We have nothing to report in this regard. 
+7
+
+--- PAGE 9 (full dump) ---
+8 
+Responsibilities of the Directors for the separate financial statements1
+The Directors are responsible for the preparation and fair presentation of the separate financial 
+statements in accordance with IFRS Accounting Standards and the requirements of the Companies Act of 
+South Africa, and for such internal control as the Directors determine is necessary to enable the 
+preparation of separate financial statements that are free from material misstatement, whether due to 
+fraud or error. 
+In preparing the separate financial statements, the Directors are responsible for assessing the Company's 
+ability to continue as a going concern, disclosing, as applicable, matters related to going concern and using 
+the going concern basis of accounting unless the Directors either intend to liquidate the Company or to 
+cease operations, or have no realistic alternative but to do so. 
+Auditor's responsibilities for the audit of the separate financial 
+statements 
+Our objectives are to obtain reasonable assurance about whether the separate financial statements as a 
+whole are free from material misstatement, whether due to fraud or error, and to issue an auditor’s report 
+that includes our opinion. Reasonable assurance is a high level of assurance, but is not a guarantee that an 
+audit conducted in accordance with ISAs will always detect a material misstatement when it exists. 
+Misstatements can arise from fraud or error and are considered material if, individually or in the 
+aggregate, they could reasonably be expected to influence the economic decisions of users taken on the 
+basis of these separate financial statements. 
+As part of an audit in accordance with ISAs, we exercise professional judgement and maintain professional 
+scepticism throughout the audit. We also: 
+
+Identify and assess the risks of material misstatement of the separate financial statements, whether
+due to fraud or error, design and perform audit procedures responsive to those risks, and obtain
+audit evidence that is sufficient and appropriate to provide a basis for our opinion. The risk of not
+detecting a material misstatement resulting from fraud is higher than for one resulting from error,
+as fraud may involve collusion, forgery, intentional omissions, misrepresentations, or the override
+of internal control.
+
+Obtain an understanding of internal control relevant to the audit in order to design audit
+procedures that are appropriate in the circumstances, but not for the purpose of expressing an
+opinion on the effectiveness of the Company's internal control.
+
+Evaluate the appropriateness of accounting policies used and the reasonableness of accounting
+estimates and related disclosures made by the Directors.
+
+Conclude on the appropriateness of the Directors' use of the going concern basis of accounting and,
+based on the audit evidence obtained, whether a material uncertainty exists related to events or
+conditions that may cast significant doubt on the Company's ability to continue as a going concern.
+If we conclude that a material uncertainty exists, we are required to draw attention in our auditor’s
+report to the related disclosures in the separate financial statements or, if such disclosures are
+inadequate, to modify our opinion. Our conclusions are based on the audit evidence obtained up to
+the date of our auditor’s report. However, future events or conditions may cause the Company to
+cease to continue as a going concern.
+1 The examination of controls over the maintenance and integrity of the Company's website is beyond the scope of 
+the audit of the financial statements. Accordingly, we accept no responsibility for any changes that may have 
+occurred to the financial statements since they were initially presented on the website.
+
+--- PAGE 10 (full dump) ---
+9 
+
+Evaluate the overall presentation, structure and content of the separate financial statements,
+including the disclosures, and whether the separate financial statements represent the underlying
+transactions and events in a manner that achieves fair presentation.
+We communicate with the Directors regarding, among other matters, the planned scope and timing of the 
+audit and significant audit findings, including any significant deficiencies in internal control that we 
+identify during our audit. 
+We also provide the Directors with a statement that we have complied with relevant ethical requirements 
+regarding independence, and to communicate with them all relationships and other matters that may 
+reasonably be thought to bear on our independence, and where applicable, actions taken to eliminate 
+threats or safeguards applied. 
+From the matters communicated with the Directors, we determine those matters that were of most 
+significance in the audit of the separate financial statements of the current period and are therefore the 
+key audit matters. We describe these matters in our auditor’s report unless law or regulation precludes 
+public disclosure about the matter or when, in extremely rare circumstances, we determine that a matter 
+should not be communicated in our report because the adverse consequences of doing so would 
+reasonably be expected to outweigh the public interest benefits of such communication. 
+Report on other legal and regulatory requirements  
+Audit tenure 
+In terms of the IRBA Rule published in Government Gazette Number 39475 dated 4 December 2015, we 
+report that PricewaterhouseCoopers Inc. has been the auditor of The Bidvest Group Limited for seven 
+years. 
+a 
+LEGITOSIGN1 
+PricewaterhouseCoopers Inc. 
+Director: A Tshesane 
+Registered Auditor 
+Johannesburg, South Africa 
+29 August 2025
+
+--- PAGE 11 (full dump) ---
+The Bidvest Group Limited
+Directors' report
+for the year ended 30 June
+The directors have pleasure in presenting their report for the year ended 30 June 2025.
+Nature of business
+Financial results
+Share capital
+Special resolutions
+Dividends
+Declaration date
+Last day to trade cum dividend
+First day to trade ex-dividend
+Record date
+Payment date
+The directors are of the opinion that the financial statements set out on pages 10 to 40 fairly present the financial position of the Company as at 
+30 June 2025 and the results of its operations and cash flows for the year then ended. 
+The Company is an investment holding company, listed on the JSE Limited, with subsidiaries operating in the services, trading and distribution 
+industries.
+The directors are satisfied that the Company has adequate resources to continue in operational existence for the foreseeable future. 
+Accordingly, the directors continue to adopt the going  concern basis in preparing the financial statements.
+ Monday, 22 September 2025 
+17 013 717 unissued ordinary shares, 5% of the issued share capital of the company as at 25 October 2024, were placed under the control of 
+the directors at the Annual General Meeting (AGM) held on 29 November 2024. The Company did not issue any shares during the year to 
+settle share replacement and appreciation rights (2024: nil). Further details of the authorised and issued share capital appears in note 13 of the 
+annual financial statements.
+The following Special resolutions were passed at the AGM held on 29 November 2024:
+● non-executive directors' remuneration for FY25;
+● general authority to repurchase shares subject to the provisions of the MoI and the requirements of the JSE; and
+● general authority to provide direct or indirect financial assistance to all related and inter-related entities in terms of section 44 and 45 
+of the Companies Act.
+The directors declared an interim gross cash dividend of 470 cents (376.00000 cents net of dividend withholding tax, where applicable) per 
+ordinary share paid to ordinary shareholders recorded in the register on the record date, being Friday, 28 March 2025. The dividend was 
+declared from income reserves.
+Subsequent to the year end, the board has declared a final gross cash dividend of 453 cents (362.4000 cents net of dividend withholding tax, 
+where applicable) per ordinary share for the year ended 30 June 2024 to those shareholders recorded in the register on the record date, being 
+Friday, 26 September 2025. The salient dates are:
+The dividend will be paid out of income reserves. A dividend withholding tax of 20% will be applicable to all shareholders who are not exempt.
+ Monday, 1 September 2025 
+ Tuesday, 23 September 2025 
+ Friday, 26 September 2025 
+ Monday, 29 September 2025 
+10
+
+--- PAGE 12 (full dump) ---
+The Bidvest Group Limited
+Directors' report
+for the year ended 30 June
+Subsequent events
+Directorate
+Ms NT Madisa (CEO)
+Mr BF Mohale (Chairman)          
+Ms L Boyce      
+Ms FN Khanyile
+Ms MG Khumalo
+Ms SN Mabaso-Koyana
+Mr DS Masata
+Appointed 9 September 2024
+Ms GC McMahon
+Dr RD Mokate
+Mr K Shuenyane
+Mr MJ Steyn
+Mr NW Thomson
+Retired 29 November 2024
+Directors' interest
+The aggregate interest of the directors in the share capital of the Company at 30 June 2025 were:
+2025
+2024
+Number of 
+shares 
+Number of 
+shares 
+Beneficial
+309 909
+           
+252 282
+      
+Held in terms of The Bidvest Incentive Scheme
+Replacement rights ¹
+42 500
+             
+51 250
+        
+Appreciation rights
+-
+                   
+40 000
+        
+Directors' shareholdings
+Beneficial
+2025
+2024
+Number of 
+shares 
+Number of 
+shares 
+Direct
+Direct
+Director
+Ms NT Madisa
+205 047
+           
+147 420
+      
+Mr MJ Steyn
+72 913
+             
+72 913
+        
+Ms GC McMahon
+31 949
+             
+31 949
+        
+Total
+309 909
+           
+252 282
+      
+The interests of the directors remained unchanged from the end of the financial year to date of this report.
+¹ - All remaining replacement rights expire on 11 December 2025.
+The names of the directors who were in office during the period 1 September 2024 to 29 August 2025 are as follows:
+The directors are not aware of any material event which occurred after the reporting date and up to the date of this report that would have a 
+material impact on the annual financial statements.
+The individual beneficial interests declared by the current directors and officers in the Company’s  share capital at 30 June 2025, all held 
+directly, were:
+11
+
+--- PAGE 13 (full dump) ---
+The Bidvest Group Limited
+Directors' report
+for the year ended 30 June
+Directors’ and officers’ disclosure of interest in contracts
+Company Secretary
+The business and postal addresses of the secretary, which is also the registered addresses of the Company, is Bidvest House, 18 Crescent 
+Drive, Melrose Arch, Melrose, Johannesburg, 2196.
+During the financial year, no contracts were entered into in which directors and officers of the Company had an interest and which significantly 
+affected the business of the Company. The directors had no interest in any third party or company responsible for managing any of the 
+business activities of the Company.
+During the year under review, and in compliance with paragraph 3.84(h) of the JSE Listings Requirements, the board evaluated Ms NC 
+Katamzi, the Company Secretary during the 2025 financial year, and was satisfied that she was competent, suitably qualified and experienced. 
+Furthermore, since she was not a director, nor was she related to or connected to any of the directors, thereby negating a potential conflict of 
+interest, it was agreed that she maintained an arm’s-length relationship with the board.
+12
+
+--- PAGE 14 (full dump) ---
+The Bidvest Group Limited
+Audit committee report
+for the year ended 30 June
+• Ms SN Mabaso-Koyana (Independent Non-executive director and Chairman) – appointed 2021
+• Ms L Boyce (Independent Non-executive director) – appointed 2021
+• Ms MG Khumalo (Independent Non-executive director) – appointed 2022
+• Ms RD Mokate (Independent Non-executive director) – appointed 2018
+• Mr K Shuenyane (Independent Non-executive director) – appointed 2023
+• Mr NW Thomson (Independent Non-executive director) – appointed 2018, retired 29 November 2024
+28 Nov
+24 Feb
+27 Feb
+29 May
+26 Aug
+28 Aug
+Audit
+2024
+2025
+2025
+2025
+2025
+2025
+a
+a
+a
+a
+a
+a
+a
+A
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+A
+a
+a
+a
+a
+a
+a
+¹ - Retired 29 November 2024
+A - Apologies
+Statutory duties  
+External auditor 
+The Group Audit Committee (“the Committee”) is pleased to present its report in terms of section 94 of the Companies Act, 71 of 2008 as 
+amended (“the Companies Act”), the King Code of Governance for South Africa, 2016 (“King IV”) and the Johannesburg Stock Exchange (“JSE”) 
+Listing Requirements for the financial year ended 30 June 2025. The Committee has conducted its work in accordance with the written terms of 
+reference approved by the board. 
+In addition to its statutory responsibilities, the Committee’s main objective is to assist the board in fulfilling its oversight responsibilities, 
+particularly in relation to the evaluation of the adequacy and effectiveness of accounting policies, internal controls, financial and corporate 
+reporting processes, and assessing the effectiveness of the internal auditors.
+The appointment of all members of the Committee is subject to shareholders’ approval at the next annual general meeting to be held on Monday, 
+1 December 2025. The profiles of the members, including their qualifications, can be viewed on the Group website, www.bidvest.co.za/non-
+executive-directors.php. 
+The Committee nominated and recommended the re-appointment of the external auditor, PricewaterhouseCoopers Inc, to the shareholders in 
+compliance with the Companies Act and the appointment of Ms A Tshesane as the designated auditor for the 2026 financial year. 
+The Bidvest board has mandated the Committee as the audit committee of all Group companies which have a statutory requirement to have an 
+audit committee, with the exception of companies which have established committees under banking or insurance legislation.
+The Committee is satisfied that it has performed the statutory requirements for an audit committee as set out in the Companies Act as well as the 
+functions set out in the terms of reference and that it has therefore complied with its legal, regulatory, and other responsibilities.
+There were no Reportable Irregularities for The Bidvest Group Limited. No complaints about the financial reporting were brought to the attention 
+of the Audit Committee.
+The Committee satisfied itself that the audit firm is accredited and that PricewaterhouseCoopers Inc was independent of the Company, and the 
+evaluation included consideration of the criteria relating to independence proposed by the Independent Regulatory Board for Auditors. 
+Frequency and attendance of meetings 
+During the year under review, six meetings were held:
+Composition 
+As at the date of this report the Committee comprises the following members, who have the necessary skills and experience to fulfil the duties of 
+the committee: 
+The Committee ensured that the designated external audit partner has not exceeded a five year tenure in this role. The Committee, in 
+consultation with executive management, agreed to the engagement letter, terms, audit plan and budgeted audit fees. 
+Mr K Shuenyane
+Mr NW Thomson¹
+Ms SN Mabaso-Koyana (chair)
+Ms L Boyce
+Ms MG Khumalo
+Dr RD Mokate
+13
+
+--- PAGE 15 (full dump) ---
+The Bidvest Group Limited
+Audit committee report
+for the year ended 30 June
+• nominate the external auditor for appointment by the shareholders;
+• approve the annual audit fee and terms of engagement of the external auditor;
+• monitor and report on the independence of the external auditor in the annual financial statements;
+• review the quality and effectiveness of the external audit process and performance against their audit plan.
+• the appointment, performance assessment and/or dismissal of the internal auditor; 
+• to approve the internal audit charter and the internal audit plan; and 
+• to ensure that the internal audit function is subject to an independent quality review as and when the committee determines it
+appropriate
+• obtaining independent assurance on the effectiveness of the IT internal controls; 
+• overseeing the value delivery on IT and monitoring the return on investments on significant IT projects;
+• overseeing that data is considered a corporate data and protected and secured accordingly;
+• overseeing that artificial intelligence is used responsibly in accordance with the Group’s Code of AI Practices; and
+• ensuring that IT forms an integral part of the Company’s risk management.
+ • ensure that there is a process for the committee to be informed of any reportable irregularities as defined in the Auditing Profession Act, 
+2005, identified and reported by the external auditor; 
+Risk management 
+The Committee is responsible for reviewing the effectiveness of systems for internal control, financial reporting and financial risk management 
+and considering the major findings of any internal investigations into control weaknesses, fraud or misconduct and management's response 
+thereto. We have considered and relied on the work of the Risk committee and the Social, Ethics and Transformation committee on the non-
+financial related risk areas.
+The Committee, in conjunction with the Risk Committee, is responsible for:
+An anonymous ethics line is in place. The service is managed by Deloitte and is independent of Bidvest. All calls reported are in total anonymity 
+and without fear of discrimination. Monthly reports are provided by the independent service provider. The monitoring of reports from this service is 
+shared between this Committee and the Social, Ethics and Transformation committee. The Committee is satisfied that appropriate disciplinary, 
+criminal and civil actions have been taken where necessary.
+Key audit matters 
+The external auditors determined that the impairment assessment of the investment in subsidiaries is a key audit matter. The Committee has 
+applied its mind, and concurs with the external auditors given the judgement involved in determining appropriate growth and discount rates in the 
+impairment calculations. The Committee agrees with the conclusions reached by management that no further impairments are required.
+Internal audit 
+The Committee has satisfied itself that the internal audit function was appropriately independent. The internal audit charter and the internal audit 
+plan were approved by the Committee. Internal audit has access to the Committee, primarily through its chairman.
+The Committee has the following responsibilities for internal audit: 
+The Committee has reviewed the performance, qualifications and expertise of the Chief Audit Executive, Ms LC Berrington, and is satisfied with 
+the appropriateness of her expertise.
+• define a policy for non-audit services and pre-approve non-audit services to be provided by the external auditor; 
+Combined assurance 
+The Committee is of the view that the framework in place for combined assurance is adequate and is achieving the objective of an effective, 
+integrated approach across the disciplines of risk management, compliance and audit. 
+Internal financial control 
+The Committee has considered the reports of management, internal audit and external audit in arriving at its conclusion that the Company’s 
+system of internal controls and risk management is effective and that the internal financial controls form a sound basis for the preparation of 
+reliable financial statements. No material breakdown in controls was identified during the year.
+The Committee ensured that the auditors did not provide any prohibited services, nor any services that include a threat of self-review. Non-audit 
+services are pre-approved in terms of the delegation of authority matrix and are generally of an assurance nature, and are not material in relation 
+to the external audit fee.
+The Committee has the following responsibilities for external audit:
+ •Recommends the appointment of external auditor and oversees the external audit process. In this regard the Committee must: 
+14
+
+--- PAGE 16 (full dump) ---
+
+
+--- PAGE 17 (full dump) ---
+The Bidvest Group Limited
+Company statement of comprehensive income
+for the year ended 30 June
+2025
+2024
+Notes
+R
+R
+Dividend revenue
+2
+3 544 337 438
+       
+2 447 098 981
+   
+ Subsidiaries
+3 543 798 438
+       
+2 446 020 981
+   
+ Associates
+539 000
+                 
+1 078 000
+          
+Guarantee fees
+27 033 251
+            
+34 545 824
+        
+Administration expenses
+(893)
+                       
+(1 804)
+                
+Impairment of investments in subsidiaries and associates
+3
+(459 671 198)
+         
+(14 107 319)
+       
+Loss on deregistration of subsidiaries and associates
+3
+(30 900)
+                  
+(31 581)
+              
+Reversal of impairment of other loans
+3
+11 285 849
+            
+4 100 401
+          
+Waiver of loan receivable and loss on disposal of subsidiaries
+3
+(9 418 960)
+             
+-
+                     
+Operating profit
+3
+3 113 534 587
+       
+2 471 604 502
+   
+Finance income
+2 644
+                     
+3
+                        
+Profit before taxation
+3 113 537 231
+       
+2 471 604 505
+   
+Taxation
+4
+(12 376 007)
+           
+(11 505 320)
+       
+Profit for the year attributable to shareholders
+3 101 161 224
+       
+2 460 099 185
+   
+Total comprehensive income for the year
+3 101 161 224
+       
+2 460 099 185
+   
+The Bidvest Group Limited
+Company statement of cash flows
+for the year ended 30 June
+2025
+2024
+Notes
+R
+R
+Cash inflow (outflow) from operating activities
+268 127 892
+          
+(773 413 780)
+     
+Cash generated by operations¹
+5
+3 395 665 420
+       
+2 321 068 716
+   
+Finance income
+2 644
+                     
+3
+                        
+Taxation paid
+6
+(7 224 419)
+             
+(11 596 924)
+       
+Dividends paid
+7
+(3 120 315 753)
+      
+(3 082 885 575)
+  
+Cash effects of investment activities
+(192 825 519)
+         
+780 224 832
+      
+Proceeds on disposal of subsidiary
+2 000 000
+              
+-
+                     
+Return of share capital by subsidiary
+388 632
+                 
+-
+                     
+Repayment of loans by subsidiaries
+42 000 000
+            
+776 124 431
+      
+Increase in advances to subsidiaries
+(210 000 000)
+         
+-
+                     
+Repayment of amounts owing to Group companies
+(38 500 000)
+           
+-
+                     
+Repayments received on other loans
+11
+11 285 849
+            
+4 100 401
+          
+Increase in cash and cash equivalents
+75 302 373
+            
+6 811 052
+          
+Cash and cash equivalents at beginning of year
+13 871 079
+            
+7 060 027
+          
+Cash and cash equivalents at end of year
+89 173 452
+            
+13 871 079
+        
+¹ - Includes dividends received of R3 544.7 million (2024: R2 447,1 million). 
+16
+
+--- PAGE 18 (full dump) ---
+The Bidvest Group Limited
+Company statement of financial position
+at 30 June
+2025
+2024
+Notes
+R
+R
+ASSETS
+Non-current assets
+29 823 823 826
+     
+30 500 581 986
+ 
+Investments in subsidiaries
+8
+29 385 029 539
+     
+30 061 787 699
+ 
+Interest in associates
+9
+1 531 540
+              
+1 531 540
+          
+Amounts owing by Group companies
+10
+437 262 747
+          
+437 262 747
+      
+Other investments and loans
+11
+-
+                         
+-
+                     
+Current assets
+1 145 266 358
+       
+145 489 842
+      
+Investment in subsidiary held-for-sale
+8
+589 567 736
+          
+-
+                     
+Amounts owing by Group companies
+10
+260 763 219
+          
+96 981 287
+        
+Trade and other receivables
+205 745 571
+          
+34 545 824
+        
+Taxation
+16 380
+                   
+91 652
+               
+Cash and cash equivalents
+12
+89 173 452
+            
+13 871 079
+        
+Total assets
+30 969 090 184
+     
+30 646 071 828
+ 
+EQUITY AND LIABILITIES
+Capital and reserves
+13
+30 205 870 780
+     
+29 844 472 346
+ 
+Current liabilities
+763 219 404
+          
+801 599 482
+      
+Amounts owing to Group companies
+14
+749 091 344
+          
+787 591 546
+      
+Trade and other payables
+14 128 060
+            
+14 007 936
+        
+Total equity and liabilities
+30 969 090 184
+     
+30 646 071 828
+ 
+The Bidvest Group Limited
+Company statement of changes in equity
+for the year ended 30 June
+2025
+2024
+R
+R
+Share capital
+17 013 718
+            
+17 013 718
+        
+Balance at beginning of the year
+17 013 718
+            
+17 013 718
+        
+Shares issued during the year
+-
+                             
+-
+                         
+Share premium
+1 367 796 164
+       
+1 367 796 164
+   
+Balance at beginning of the year
+1 367 796 164
+       
+1 367 796 164
+   
+Shares issued during the year
+-
+                             
+-
+                         
+Share issue costs 
+-
+                             
+-
+                         
+Equity-settled share-based payment reserve
+15
+2 900 050 019
+       
+2 519 949 512
+   
+Balance at beginning of the year
+2 519 949 512
+       
+2 202 131 366
+   
+Arising during the year
+380 100 507
+          
+317 818 146
+      
+Movement in retained earnings
+25 921 010 879
+     
+25 939 712 952
+ 
+Balance at beginning of the year
+25 939 712 952
+     
+26 562 312 611
+ 
+Total comprehensive income for the year
+3 101 161 224
+       
+2 460 099 185
+   
+Dividends paid
+(3 120 315 753)
+      
+(3 082 885 575)
+  
+Unclaimed dividends written back
+452 456
+                 
+186 731
+             
+Equity attributable to shareholders of the Company
+30 205 870 780
+     
+29 844 472 346
+ 
+17
+
+--- PAGE 19 (full dump) ---
+The Bidvest Group Limited
+Notes to the Company financial statements
+for the year ended 30 June
+1.
+Accounting Policies
+1.1
+1.2
+NEW AND REVISED ACCOUNTING STANDARDS
+Accounting standards and interpretations effective for the first time in the 30 June 2025 financial year
+Standard / interpretation 
+ Reporting periods 
+beginning on or 
+after 
+IAS 1: Non-current Liabilities with 
+Covenants (Amendment to IAS 1) 
+1 January 2024 
+Standard / interpretation 
+Accounting standards and interpretations not yet effective at 30 June 2025
+IFRS 7 & IFRS 9: Amendments to the
+Classification and
+Measurement of
+Financial Instruments (Amendments to
+IFRS 9 and IFRS 7)) 
+1 January 2026 
+IFRS 18: Presentation and Disclosure in 
+Financial Statements 
+1 January 2027 
+The financial statements have been prepared in accordance with IFRS® accounting standards, the interpretations adopted by the International Accounting 
+Standards Board (IASB), the SAICA Financial Reporting Guides as issued by the Accounting Practices Committee and the Financial Reporting 
+Pronouncements as issued by the Financial Reporting Standards Council, the JSE Listing Requirements and in terms of the requirements of the Companies 
+Act of South Africa.
+The financial statements are prepared on the historical cost basis.
+The preparation of financial statements in conformity with IFRS® accounting standards requires the Board of Directors to make judgements, estimates and 
+assumptions that affect the application of policies and reported amounts of assets and liabilities, income and expenses. Although estimates and associated 
+assumptions are based on historical experience and various other factors that are believed to be reasonable under the circumstances (the results of which 
+form the basis of making the judgements about carrying values of assets and liabilities that are not readily apparent from other sources), the actual outcome 
+may differ from these estimates. The estimates and underlying assumptions are reviewed on an ongoing basis. Revisions to accounting estimates are 
+recognised in the period in which the estimate is revised, if the revision affects only that period, or in the period of the revision and future periods if the 
+revision affects both current and future periods. 
+Except as detailed below, the accounting policies have been applied consistently to all periods presented in these financial statements. The financial 
+statements are presented in South African Rands, which is the Company’s functional and presentation currency. 
+The Bidvest Group Limited has prepared consolidated financial statements which have been authorised for issue on the same day as these separate financial 
+statements. The consolidated and separate financial statements, in combination, comprise the annual financial statements of the Company as required by the 
+Companies Act of South Africa.
+BASIS OF PREPARATION
+Description
+ The adoption of the above new standards didn't have an impact on the company's financial statements. 
+These amendments: 
+ 
+●clarify the requirements for the timing of recognition and derecognition of some financial 
+assets and liabilities, with a new exception for some financial liabilities settled through an 
+electronic cash transfer system; 
+ 
+●clarify and add further guidance for assessing whether a financial asset meets the solely 
+payments of principal and interest (SPPI) criterion; 
+ 
+●add new disclosures for certain instruments with contractual terms that can change cash 
+flows (such as some instruments with features linked to the achievement of environment, 
+social and governance (ESG) targets); and 
+ 
+●make updates to the disclosures for equity instruments designated at Fair Value through 
+Other Comprehensive Income (FVOCI). 
+The objective of IFRS 18 is to set out requirements for the presentation and disclosure of 
+information in general purpose financial statements (financial statements) to help ensure they 
+provide relevant information that faithfully represents an entity’s assets, liabilities, equity, 
+income and expenses.
+IFRS 18 replaces IAS 1 ‘Presentation of Financial Statements’ and focuses on updates to the 
+statement of profit or loss with a focus on the structure of the statement of profit or loss; 
+required disclosures in the financial statements for certain profit or loss performance 
+measures that are reported outside an entity’s financial statements (that is, management-
+defined performance measures); and enhanced principles on aggregation and disaggregation 
+which apply to the primary financial statements and notes in general.
+Many of the other existing principles in IAS 1 are retained, with limited changes. IFRS 18 will 
+not impact the recognition or measurement of items in the financial statements, but it might 
+change what an entity reports as its ‘operating profit or loss’.
+The OECD Pillar Two model rules took effect from 1 January 2024. All countries in which the Group operates, except Singapore, have reported effective rates in excess of 15% and 
+therefore qualify for a safe harbour exemption such that no top-up tax will apply. The estimated potential top-up for Singapore is not material.
+Description
+These amendments clarify how conditions with which an entity must comply within twelve 
+months after the reporting period affect the classification of a liability. The amendments also 
+aim to improve information an entity provides related to liabilities subject to these 
+amendments. 
+ These new standards are not expected to have a material impact on the company's financial statements. 
+18
+
+--- PAGE 20 (full dump) ---
+The Bidvest Group Limited
+Notes to the Company financial statements
+for the year ended 30 June
+1.3
+REVENUE RECOGNITION
+1.4
+TAXATION
+1.5
+INVESTMENTS IN SUBSIDIARIES
+1.6
+ASSOCIATES
+1.7
+CASH AND CASH EQUIVALENTS
+1.8
+1.9
+1.10
+Classification and subsequent measurement
+The Company extended a guarantee to the external funders of The Bidvest Group (UK) PLC ("PLC"). PLC is charged a Guarantee fee for the benefit derived 
+from this guarantee. The guarantee fee is recognised in profit and loss annually once the benefit derived from the guarantee can be measured reliably.
+Current taxation comprises tax payable calculated on the basis of the expected taxable income for the year, using the tax rates enacted or substantially 
+enacted at the financial position date, and any adjustment of tax payable for previous years.
+The Company recognises dividend revenue from its subsidiaries and associates when the right to receive payment is established and can be estimated 
+reliably.
+Income taxation comprises current tax. An income tax expense is recognised in profit or loss.
+An associate is a company over which the Company has significant influence, but not control. Significant influence is the power to participate in the financial 
+and operating policy decisions of a company but has no control over those policies.
+The Company carries its investment in associates at cost less any accumulated impairment losses.  
+For the purpose of the statement of cash flows, cash and cash equivalents comprise cash on hand and deposits held on call with banks, all of which are 
+available for use by the Company unless otherwise stated. 
+A financial instrument is a contract that gives rise to a financial asset in one entity and a financial liability or equity instrument in another entity. The Company 
+recognises financial assets and financial liabilities at the date when it becomes a party to the contractual provisions of the instrument.
+DISTRIBUTIONS TO SHAREHOLDERS
+FINANCIAL INSTRUMENTS
+The Company classifies financial assets in each of the IFRS 9 measurement categories based on the Company’s business model for managing the financial 
+asset and the cash flow characteristics of the financial asset.
+The grant by the company of options over its equity instruments to the employees of subsidiary companies is treated as a capital contribution. The share 
+based payment expense is recognised over the vesting period as an increase to investments in subsidiaries, with a corresponding credit to the Equity settled 
+share-based payment reserve.
+Distributions to shareholders are accounted for once they have been approved by the board of directors.
+Trade receivables without a significant financing component are initially measured at the transaction price. Other financial assets and financial liabilities are 
+initially measured at fair value. Transaction costs that are directly attributable to the acquisition or issue of financial assets and financial liabilities (other than 
+financial assets and financial liabilities at fair value through profit or loss) are added to or deducted from the fair value of the financial assets or financial 
+liabilities, as appropriate, on initial recognition. Transaction costs directly attributable to the acquisition of financial assets or financial liabilities at fair value 
+through profit or loss are recognised immediately in profit or loss.  
+EQUITY SETTLED SHARE-BASED PAYMENT RESERVE
+The Company carries its investments in subsidiaries at cost less accumulated impairment losses. The recoverable value of investments are assessed 
+annually, using discounted cashflow models. Where the carrying value exceeds the estimated recoverable amount, such investments are written down to 
+their recoverable amounts. Where the company has made a decision to deregister or liquidate a subsidiary, the investment is written down to its net realisable 
+value. Refer to note 8 for the detailed inputs used in performing the discounted cashflow models.
+19
+
+--- PAGE 21 (full dump) ---
+The Bidvest Group Limited
+Notes to the Company financial statements
+for the year ended 30 June
+1.10
+Financial assets are classified into the following category:
+Derecognition
+Financial liabilities are classified as measured at amortised cost using the effective interest method and comprise of, payables to fellow subsidiaries and trade 
+payables.
+ •Financial assets at amortised cost
+A financial asset is measured at amortised cost if the financial asset is held in order to collect contractual cash flows, the contractual terms of the financial 
+asset give rise to cash flows that are solely payments of principal and interest on the principal amount outstanding. Financial assets measured at amortised 
+cost comprise of trade and other receivables, cash and cash equivalents and receivables from group companies These assets are subsequently measured at 
+amortised cost using the effective interest method. The amortised cost is reduced by expected credit losses. Interest income, foreign exchange gains and 
+losses and impairments are recognised in profit or loss. Any gain or loss on derecognition is recognised in profit or loss as and when applicable.
+FINANCIAL INSTRUMENTS (continued)
+In assessing whether contractual cash flows are solely payments of principal and interest, ‘principal’ is defined as the fair value of the financial asset on initial 
+recognition. ‘Interest’ is defined as consideration for the time value of money and for the credit risk associated with the principal amount outstanding during a 
+particular period of time for other basic lending risks and costs as well as profit margin. In assessing whether the contractual cash flows are solely payments 
+of principal and interest, the Company considers the contractual terms of the instrument. This includes assessing whether the financial asset contains a 
+contractual term that could change the timing or amount of the contractual cash flows such that it would not meet this condition. In making this assessment, 
+the Company considers: contingent events that would change the amount or timing of the cash flows; terms that may adjust the contractual coupon rate, 
+including variable rate features; prepayment and extension features; and terms that limit the Company claim to cash flows from specified assets.
+An issued Financial Guarantee Contract ("FGC")  is a financial liability and is recognised at fair value on initial recognition. The fair value is determined using 
+a differential method that quantifies the economic benefit of the FGC to the holder. The present value of this differential over the term of the loan would 
+therefore be the initial fair value. Subsequently, the FGC is measured at the ‘higher of’: The IFRS 9 Expected Credit Loss (ECL) allowance, and the amount 
+initially recognised (i.e. fair value) less any cumulative amount of income/ amortisation recognised.
+Financial assets are derecognised when the Company realises the rights to the benefits specified in the contract, the rights expire, or the Company 
+surrenders or otherwise loses control of the contractual rights that comprise the financial asset. On derecognition, the difference between the carrying amount 
+of the financial asset and proceeds receivable are recognised in profit or loss.
+Financial liabilities are derecognised when the obligation specified in the contract is discharged, cancelled or expires. The Company also derecognises a 
+financial liability when its terms are modified and the cash flows of the modified liability are substantially different, in which a new financial liability based on 
+the modified terms is recognised at fair value. On derecognition, the difference between the carrying amount of the financial liability, including related 
+unamortised costs, and the amount paid for it, is recognised in profit or loss. There were no modifications to financial liabilities during the current or prior 
+financial years.
+Financial liabilities are classified into the following category:
+20
+
+--- PAGE 22 (full dump) ---
+Notes to the Company financial statements
+for the year ended 30 June
+1.10
+Impairment
+1,11
+The following key sources of uncertainty have been identified:
+ Judgments and estimates used in assessing the impairment of investments in subsidiaries are elucidated in note  8. Investments in subsidiaries. 
+The Group Audit Committee is satisfied that the critical accounting policies are appropriate to the Company.
+Key sources of uncertainty
+Investments in subsidiaries 
+The Company has assessed the carrying value of Investments in subsidiaries to determine whether any of the amounts have been impaired. The recoverable 
+values were assessed using the greater of value-in-use and fair value less cost to sell methods based on actual results and forecasts for future years (refer 
+note 8. Investment in subsidiaries). 
+Critical accounting judgements in applying the Company's accounting policies
+ Judgements made in the application of IFRS accounting standards that have a significant risk of causing a material adjustment to the carrying amounts of 
+assets and liabilities within the next financial year are discussed below: 
+The company has assessed the loans receivable from group companies and noted no material impairments given the low probability of default.
+The credit rating of the financial institutions where cash and cash equivalents are held are considered to identify whether there has been a significant 
+increase in credit risk. Where the institution has a healthy credit rating that has not been adjusted downwards due to institution specific factors, it is an 
+indication that credit risk has not increased. Refer to note 12 for a list of banks that the Company deals with, as well as their credit ratings.
+SIGNIFICANT ESTIMATES AND JUDGEMENTS
+The Board of Directors has considered the Company's critical accounting policies, key sources of uncertainty and areas where critical accounting judgements 
+were required in applying the Company's accounting policies.
+Critical accounting policies
+- evidence of working capital deficiencies or liquidity problems in subsidiaries, which could be the result of financing or cash management decisions taken by 
+the company;
+The qualitative factors considered when assessing whether or not there has been a SICR included:
+Loans to subsidiaries have no fixed repayment terms, are interest free and therefore payable on demand. If the loan is in stage 1, a fully performing asset, 
+then the loss allowance can be calculated as a 12-month ECL. Twelve-month ECLs are the portion of ECLs that result from default events that are possible 
+within the 12 months after the reporting date (or a shorter period if the expected life of an instrument is less than 12 months). Lifetime ECLs are the ECLs that 
+result from all possible default events over the expected life of a financial instrument. 
+- adjusting dividend declarations by subsidiaries; and
+ECLs are probability weighted averages on credit losses with the likelihood of the respective defaults occurring as the weighting. Three elements are 
+considered:
+ •Probability of default (“PD”) – is the percentage likelihood that the borrower will not be able to repay its debt within some period.
+ •Loss given default (“LGD”) – is the percentage that could be lost in the event of a default by the borrower not paying its debt (principal and interest).
+ •Exposure at default (“EAD”) – is the outstanding balance of the loan – how much the company is owed at balance sheet date.
+Under a 12-month ECL scenario, the impairment loss is limited to the effect of discounting the amount due on the loans at the effective interest rate (present 
+value). Since the effective interest rate is 0% and all strategies indicate that the company would fully recover the outstanding balance of the loan, discounting 
+would have no impact on the ECL. However, forward-looking information, in the form of forecasted operating results for the fellow subsidiary is also 
+considered. 
+- refinancing or extensions of funding facilities.
+The Company adopts a repayment 'over time' strategy for loans advanced which could be recovered in a number of ways:
+- changes in the enterprise values of the underlying operations and indicators of decline in values.
+- adverse forecasts for the subsidiaries' operating results;
+FINANCIAL INSTRUMENTS (continued)
+The company applies the general approach for assessing impairments because loans do not fall within the scope of the simplified approach. The general 
+model requires recognising expected credit losses ("ECL") in line with the stage of the financial asset and if there is no significant increase in credit risk 
+("SICR"), the loss allowance is based on 12-month ECL, alternatively the loss allowance is based on lifetime ECL.
+21
+
+--- PAGE 23 (full dump) ---
+Notes to the Company financial statements
+for the year ended 30 June
+2025
+2024
+R
+R
+2.
+Dividend revenue
+Subsidiaries
+Bidvest Bank Limited
+170 000 000
+          
+118 900 000
+      
+Bidvest Branded Products Holdings Pty Ltd
+622 000 000
+          
+244 436 751
+      
+Bidvest Commercial Products Holdings Pty Ltd
+184 600 000
+          
+194 652 500
+      
+Bidvest Electrical Holdings Pty Ltd
+40 400 000
+            
+226 800 000
+      
+Bidvest Freight Pty Ltd
+925 500 000
+          
+1 030 000 000
+   
+Bidvest Industrial Holdings Pty Ltd
+900 000 000
+          
+-
+                         
+Bidvest Insurance Group Limited
+37 550 000
+            
+-
+                         
+Bidvest Namibia Limited
+101 526 316
+          
+43 900 000
+        
+Bidvest Properties Holdings Pty Ltd
+129 500 000
+          
+136 900 000
+      
+Bidvest Services Division Pty Ltd²
+32 200 000
+            
+138 510 860
+      
+McCarthy Pty Ltd
+135 957 500
+          
+196 300 000
+      
+New Frontiers Tours Pty Ltd
+-
+                         
+4 790 813
+          
+Quadrel Travel Management Pty Ltd
+28 464 300
+            
+16 500 000
+        
+Home of Living Brands Pty Ltd
+-
+                         
+69 263 249
+        
+Bid Finserv Capital Pty Ltd
+178 712 322
+          
+-
+                         
+Pureau Fresh Water Company Pty Ltd
+28 022 000
+            
+-
+                         
+Other
+29 366 000
+            
+25 066 808
+        
+3 543 798 438
+       
+2 446 020 981
+   
+Associates
+"K"-Line Shipping (South Africa) Pty Ltd
+539 000
+                 
+1 078 000
+          
+3 544 337 438
+       
+2 447 098 981
+   
+3.
+Operating profit
+Determined after charging (crediting):
+Impairment (reversal of impairment) of investments in subsidiaries and associates
+459 671 198
+          
+14 107 319
+        
+- Sebenza Forwarding & Shipping Pty Ltd
+-
+                         
+5 011 249
+          
+- Bushbreaks and More Pty Ltd
+-
+                         
+6 195 724
+          
+- Dinatla Property Services Pty Ltd
+-
+                         
+2 900 346
+          
+- Home of Living Brands Group Limited
+310 000 000
+          
+-
+                         
+- BidFinserv Capital Pty Ltd
+150 059 830
+          
+-
+                         
+- Master Currency  Pty Ltd
+(388 632)
+                
+-
+                         
+Loss on deregistration of subsidiaries and associates
+30 900
+                   
+31 581
+               
+- Taemane Cleaning Services Pty Ltd
+-
+                         
+31 581
+               
+- Waltons Stationers Pty Ltd
+30 900
+                   
+-
+                         
+Waiver of loan receivable and loss on disposal of subsidiaries
+9 418 960
+              
+-
+                         
+- Bidvest Asset Management Pty Ltd
+- Loss on disposal
+5 200 000
+              
+-
+                         
+- Waiver of loan receivable
+4 218 960
+              
+-
+                         
+Reversal of impairment of loans receivable
+(11 285 849)
+           
+(4 100 401)
+         
+During the current period Bid Services Division (Mauritius) Limited received $11,2 million as a refund of the tax withheld by the Indian Tax Authorities in respect of the proceeds of the 
+sale of the company’s 162 million ordinary shares held in Mumbai International Airport Limited (“MIAL”) to Adani Airport Holdings Limited in February 2021. The company subsequently 
+resolved to return share capital of $13,5 million, R253,0 million, to its sole shareholder Bid Services Division Pty Ltd. 
+50% of the money received was utilised to settle the liability owing to Old Mutual.
+The remaining $7,5 million or R126,5 million was declared as a dividend to The Bidvest Group Limited and used to subscribe for additional shares in The Bidvest Group (UK) PLC. 
+² - Includes a dividend received from Bid Services Division (Mauritius) Limited of R126,7 million that was processed through a loan account.
+22
+
+--- PAGE 24 (full dump) ---
+Notes to the Company financial statements
+for the year ended 30 June
+2025
+2024
+R
+R
+4.
+Taxation
+Current taxation
+7 299 691
+              
+9 310 320
+          
+Current year
+7 299 692
+              
+9 310 320
+          
+Prior year
+(1)
+                           
+-
+                         
+Foreign withholdings tax
+5 076 316
+              
+2 195 000
+          
+Total taxation per statement of comprehensive income
+12 376 007
+            
+11 505 320
+        
+%
+%
+0,4
+                         
+0,5
+                     
+Dividend income
+30,7
+                       
+26,7
+                   
+Prior year adjustment
+-
+                         
+-
+                     
+Withholding taxes
+(0,2)
+                        
+(0,1)
+                    
+(3,9)
+                        
+(0,1)
+                    
+27,0
+                       
+27,0
+                   
+5.
+Operating profit
+3 113 534 587
+       
+2 471 604 502
+   
+452 758 000
+            
+(116 639 683)
+       
+459 671 198
+          
+14 107 319
+        
+30 900
+                   
+31 581
+               
+-
+                             
+(126 677 332)
+     
+(11 285 849)
+           
+(4 100 401)
+         
+9 418 960
+              
+-
+                         
+Other non-cash items
+(5 077 209)
+             
+(850)
+                   
+(171 199 747)
+         
+(34 545 824)
+       
+572 580
+            
+649 721
+             
+3 395 665 420
+       
+2 321 068 716
+   
+6.
+Taxation paid
+91 652
+                   
+48
+                      
+(7 299 691)
+             
+(11 505 320)
+       
+(16 380)
+                  
+(91 652)
+              
+Amount paid
+(7 224 419)
+             
+(11 596 924)
+       
+2025
+2024
+cents
+cents
+7.
+470,0
+                     
+467,0
+                 
+xxx
+447,0
+                   
+470,0
+                     
+914,0
+                 
+Impairment of investments in subsidiaries and associates
+Reversal of impairment of loans receivable
+³ - Represents dividends not received in cash but allocated against loan accounts. Refer to note 2 for further details in this regard.
+Taxation for the year as a percentage of profit before taxation
+Loss on deregistration of subsidiaries and associates
+Cash generated by operations
+Increase in trade and other payables
+Non-deductible impairment losses
+Retained to finance working capital
+The reconciliation of the effective tax rate with the company tax rate is as follows:
+Waiver of loan receivable and loss on disposal of subsidiaries
+Dividend in specie received³
+Decrease in trade and other receivables
+Adjustment for non-cash items
+Cash generated by operations
+Per statement of comprehensive income
+Amount receivable at beginning of year
+Rate of South African company taxation
+Dividend paid to shareholders on 31 March 2025 (2024: Dividend paid to shareholders on 2 April 2024)
+Distributions to shareholders are accounted for once they have been approved by the board of directors.
+Dividends per share
+Amount receivable at end of year
+Dividend to be paid to shareholders on 29 September 2025 (2024: Dividend paid to shareholders on                        
+30 September 2024)
+23
+
+--- PAGE 25 (full dump) ---
+Notes to the Company financial statements
+for the year ended 30 June
+2025
+2024
+R
+R
+8.
+Shares at cost 
+27 720 146 066
+     
+28 271 522 005
+ 
+2 850 518 283
+       
+2 519 949 511
+   
+Accumulated impairments
+(1 185 634 810)
+      
+(729 683 817)
+     
+29 385 029 539
+     
+30 061 787 699
+ 
+589 567 736
+            
+-
+                           
+29 974 597 275
+     
+30 061 787 699
+ 
+2025
+Shares at cost 
+Share-based 
+payments 
+allocated to 
+subsidiaries
+Accumulated 
+impairments
+Shares at cost 
+less impairment
+3 693 842 427
+    
+1 214 847 830
+     
+-
+                               
+4 908 690 257
+     
+3 031 542 373
+    
+232 407 468
+        
+-
+                               
+3 263 949 841
+     
+7 435 793 262
+    
+371 216 615
+        
+-
+                               
+7 807 009 877
+     
+1 246 352 105
+    
+353 366 103
+        
+-
+                               
+1 599 718 208
+     
+3 230 391 444
+    
+281 614 577
+        
+-
+                               
+3 512 006 021
+     
+1 020 430 611
+    
+30 010 379
+          
+-
+                               
+1 050 440 990
+     
+752 755 340
+       
+194 439 278
+        
+-
+                               
+947 194 618
+        
+4 364 217 154
+    
+27 784 601
+          
+-
+                               
+4 392 001 755
+     
+910 000 000
+       
+18 588 775
+          
+(509 796 380)
+           
+418 792 395
+        
+510 314 396
+       
+107 318 204
+        
+-
+                               
+617 632 600
+        
+607 238 638
+       
+-
+                           
+-
+                               
+607 238 638
+        
+917 268 316
+       
+18 924 453
+          
+(675 838 430)
+           
+260 354 339
+        
+27 720 146 066
+2 850 518 283
+   
+(1 185 634 810)
+      
+29 385 029 539
+ 
+Bidvest Bank Holdings Limited
+540 036 000
+       
+49 531 736
+          
+-
+                               
+589 567 736
+        
+28 260 182 066
+2 900 050 019
+   
+(1 185 634 810)
+      
+29 974 597 275
+ 
+2024
+Shares at cost 
+as previously 
+stated
+Share-based 
+payments 
+allocated to 
+subsidiaries⁵
+Accumulated 
+impairments
+Shares at cost 
+less impairment⁵
+3 693 842 427
+    
+1 062 228 487
+     
+-
+                                 
+4 756 070 914
+     
+3 031 542 373
+    
+196 114 372
+        
+-
+                                 
+3 227 656 745
+     
+7 435 793 262
+    
+317 588 158
+        
+-
+                                 
+7 753 381 420
+     
+1 246 352 105
+    
+320 322 728
+        
+-
+                                 
+1 566 674 833
+     
+3 230 391 444
+    
+242 644 199
+        
+-
+                                 
+3 473 035 643
+     
+1 020 430 611
+    
+25 405 363
+          
+-
+                                 
+1 045 835 974
+     
+752 755 340
+       
+165 082 394
+        
+-
+                                 
+917 837 734
+        
+4 364 217 154
+    
+24 297 065
+          
+-
+                                 
+4 388 514 219
+     
+910 000 000
+       
+17 049 937
+          
+(199 796 380)
+           
+727 253 557
+        
+540 036 000
+       
+39 791 206
+          
+-
+                                 
+579 827 206
+        
+510 314 396
+       
+95 067 593
+          
+-
+                                 
+605 381 989
+        
+607 238 638
+       
+-
+                           
+-
+                                 
+607 238 638
+        
+928 608 255
+       
+14 358 009
+          
+(529 887 437)
+           
+413 078 827
+        
+ 28 271 522 005     2 519 949 511           (729 683 817)
+  30 061 787 699 
+Bidvest Commercial Products Holdings Pty Ltd
+Bidvest Insurance Group Pty Ltd
+Investment in subsidiary held-for-sale⁴
+Share-based payments allocated to subsidiaries
+Bidvest Industrial Holdings Pty Ltd
+The Bidvest Group (UK) Plc
+Bidvest Freight Pty Ltd
+Bidvest Branded Products Holdings Pty Ltd
+Bidvest Commercial Products Holdings Pty Ltd
+Bidvest Insurance Group Pty Ltd
+Bidvest Namibia Pty Ltd
+Other
+Bidvest Bank Holdings Limited
+⁵ - In the prior year the Share-based payments allocated to subsidiaries were erroneously not allocated to individual investments. In the current year the IFRS 
+2 share-based payments were allocated to individual investments. This error has been corrected for the current and comparative period in accordance with 
+IAS 8. This has no impact of the primary statements.
+Bidvest Electrical Holdings Pty Ltd
+Bidvest Namibia Pty Ltd
+Other ⁶
+Bidvest Industrial Holdings Pty Ltd
+Investments in subsidiaries
+Investment in subsidiary held-for-sale⁴
+McCarthy Limited
+Bidvest Properties Holdings Pty Ltd
+Home of Living Brands Holdings Pty Ltd
+The Bidvest Group (UK) Plc
+Bidvest Freight Pty Ltd
+Bidvest Branded Products Holdings Pty Ltd
+⁴ - During the period the Financial Services segment was dismantled and a formal process was initiated to dispose of Bidvest Bank and FinGlobal. The 
+remaining Financial Services short-term insurance businesses, which focus primarily on vehicle insurance cover and related value added products (VAPS), 
+were transferred to the Automotive segment. Bidvest Bank is a full service bank offering customers foreign exchange, fleet, business and personal financial 
+solutions. FinGlobal is a cross-border financial services company providing premier financial emigration services to South Africans all over the world. Bidvest 
+Bank and FinGlobal constituted the majority of the Financial Services Segment. On 12 December 2024 Access Bank PLC (Access Bank) agreed to acquire 
+100% of the share capital and claims in Bidvest Bank Holdings Limited, subject to regulatory approvals for R2.8 billion. Access Bank, domiciled in Nigeria, is 
+a full-service commercial bank with over 60 million customers globally, through a network of over 700 branches in 23 countries across three continents. 
+Regulatory approvals are expected within the next three months.
+McCarthy Limited
+Bidvest Properties Holdings Pty Ltd
+Home of Living Brands Holdings Pty Ltd
+Bidvest Electrical Holdings Pty Ltd
+⁶ - Following the disposal by Bid Finserv Capital Pty Ltd of their only assets in FinGlobal, the investment was impaired by R150,1 million to its realisable 
+value.
+24
+
+--- PAGE 26 (full dump) ---
+Notes to the Company financial statements
+for the year ended 30 June
+8.
+2025
+DCF growth rate
+DCF terminal rate
+Pre-tax discount 
+rate^
+5,0% - 5,6%
+5,1%
+18,7%
+4,4% - 4,5%
+4,6%
+15.7%
+5,5% -5,8%
+5,6%
+17,0%
+5,5% - 5,7%
+5,5%
+17,7%
+5,3% - 5,5%
+5,5%
+19,2%
+4,0% - 4,5%
+4,7%
+18,3%
+4,0% - 4,5%
+4,7%
+18,3%
+2,8% - 3,2%
+2.5%
+16,7%
+13,0% - 15,0%
+15,0%
+17,0%
+8,0% - 15,0%
+5,8%
+15,0%
+5,5% - 5,6% 
+5,5%
+17,7%
+2,8% - 6,3%
+4,6% - 6,0%
+15,7% - 19,6%
+2024
+DCF growth rate
+DCF terminal rate
+Pre-tax discount 
+rate
+5,3% - 6,4%
+5,4%
+20,6%
+4,6% - 5,0%
+4,9%
+15,7%
+5,7% - 6,9%
+5,8%
+18,7%
+5,9% - 6,4%
+5,8%
+19,4%
+5,6% - 5,9%
+5,8%
+20,8%
+6,1% - 6,5%
+6,2%
+22,7%
+4,3% - 5,2%
+4,9%
+19,4%
+3,0% - 3,3%
+2,8%
+18,2%
+4,8% - 30%
+5,8%
+14,7%
+6,1% - 6,5%
+6,2%
+22,7%
+5,6% - 5,9%
+5,8%
+15,4%
+5,9%  - 6,4%
+5,8%
+14,7%
+3,0% to 6,9%
+2,8% to 6,2%
+14,7% to 22,7%
+Increase 
+(decrease) in 
+equity value       
+due to a 2% 
+increase in rate
+Increase 
+(decrease) in 
+equity value     
+due to a 2% 
+decrease in rate
+Growth rate
+             41 222 390 
+       (38 685 247)
+Terminal growth rate
+             37 570 063 
+       (27 546 764)
+Discount rate
+           (44 093 796)
+        60 622 601 
+A focus on taking advantage of new opportunities, fine-tuning of the business model and improving trading margins in the Bidvest Electrical Holdings Pty Ltd 
+businesses has resulted in an increase in the growth rates applied for this investment.
+^ - 2025 pre-tax discount rates were impacted by significant decrease in risk free rates.
+There have been no significant judgements in determining whether or not the entity controls the underlying entities as shares are owned 100% and no 
+significant NCI exists, and no restrictions on access to rights to assets exist.
+McCarthy Limited
+Bidvest Properties Holdings Pty Ltd
+Bidvest Bank Holdings Limited
+Bidvest Electrical Holdings Pty Ltd
+Bidvest Namibia Pty Ltd
+Other
+A sensitivity analysis was performed for all other investments which did not result in a significant impact.
+A 2% increase or decrease in the variables used in the Home of Living Brands Holdings Pty Ltd impairment calculation in the current year has the below 
+impact on the impairment assessment:
+An aggregated impairment of R14,1 million were raised against three smaller investments in the 2024 financial year. 
+Macro-economic pressure impacting consumers has led to a downturn in sales volumes and overall profitability in Home of Living Brands Holdings Pty Ltd. 
+The future forecasts were rebased, considering current circumstances and future opportunities, which also necessitated an adjustment to the growth rates 
+applied in the DCF. The valuation resulted in an additional R310,0 million impairment.
+Home of Living Brands Holdings Pty Ltd
+Bidvest Insurance Group Pty Ltd
+McCarthy Limited
+Bidvest Properties Holdings Pty Ltd
+Cost less accumulated impairment are disclosed for material subsidiaries as required in terms of IFRS® accounting standards. 
+Investments in subsidiaries (continued)
+Investments in subsidiaries are firstly considered for impairment with reference to their net asset values. If this method indicates an impairment risk, the 
+recoverable amount is determined using the value-in-use method. A five year discounted cash flow ("DCF") is performed with the below inputs used in this 
+assessment: 
+Home of Living Brands Holdings Pty Ltd
+Bidvest Electrical Holdings Pty Ltd
+Bidvest Namibia Pty Ltd
+Other
+Bidvest Industrial Holdings Pty Ltd
+The Bidvest Group (UK) Plc
+Bidvest Freight Pty Ltd
+Bidvest Branded Products Holdings Pty Ltd
+Bidvest Commercial Products Holdings Pty Ltd
+Bidvest Industrial Holdings Pty Ltd
+The Bidvest Group (UK) Plc
+Bidvest Freight Pty Ltd
+Bidvest Branded Products Holdings Pty Ltd
+Bidvest Commercial Products Holdings Pty Ltd
+Bidvest Insurance Group Pty Ltd
+25
+
+--- PAGE 27 (full dump) ---
+Notes to the Company financial statements
+for the year ended 30 June
+2025
+2024
+R
+R
+9.
+Interest in associates
+Unlisted
+477 037
+                 
+477 037
+             
+Interest free advances
+1 054 503
+              
+1 054 503
+          
+1 531 540
+              
+1 531 540
+          
+Directors' valuation of unlisted associates
+1 531 540
+              
+1 531 540
+          
+10.
+Long-term non-interest bearing loans
+437 262 747
+          
+437 262 747
+      
+Net short-term non-interest bearing loans
+260 763 219
+          
+96 981 287
+        
+Short-term non-interest bearing loans
+366 725 079
+          
+202 602 804
+      
+Impairments
+(105 961 860)
+         
+(105 621 517)
+     
+698 025 966
+          
+534 244 034
+      
+11.
+Loan receivable - Vendor for acquisition
+-
+                             
+11 285 849
+        
+Impairment allowance
+-
+                             
+(11 285 849)
+       
+Net carrying value
+-
+                             
+-
+                         
+Details of loans receivable are included in Annexure A. The loans are unsecured, interest free and payable on 
+demand. 
+Amounts owing by Group companies
+Details of significant associates are included in Annexure A. The loans are unsecured, interest free and have no 
+fixed terms of repayment.
+Management has the intention, and has put plans in place to collect the amounts owing from Group Companies 
+classified as short-term, in the next 12 months. Based on available information and the financial position of the 
+subsidiaries, the subsidiaries will be in a position to repay the amounts owing in the next 12 months.
+The Bidvest Commercial Products segment through Electech Power Solutions Pty Ltd took advantage of the 
+increased demand for renewable energy in the 2024 and 2025 financial year. As a result the segment has a 
+higher investment in working capital and a decision was made not to call this loan for a further 12 months. The 
+loans receivable from the Commercial Products segment has accordingly been classified as non-current.
+Other investments and loans
+26
+
+--- PAGE 28 (full dump) ---
+Notes to the Company financial statements
+for the year ended 30 June
+12.
+Cash and cash equivalents
+The company and its subsidiaries conducts business with the following major banks:
+Short-term 
+Long-term 
+South African banks
+Absa Bank
+P-1.za
+Baa3
+The Standard Bank of South Africa
+P-1.za
+Baa3
+First National Bank
+P-1.za
+Baa3
+Nedbank 
+P-1.za
+Baa3
+Investec
+P-1.za
+Baa3
+International banks 
+International banks
+Bank of America
+P-1
+Aa2
+Barclays Bank
+P-1
+A1
+Citibank
+P-1
+Aa3
+2025
+2024
+Number
+Number
+13.
+Capital and reserves
+Share capital
+Authorised 
+27 000 000
+            
+27 000 000
+        
+Issued 
+Balance at beginning of year
+340 274 346
+          
+340 274 346
+      
+Issued for cash
+-
+                         
+-
+                     
+Balance at end of year
+340 274 346
+          
+340 274 346
+      
+R
+R
+Share capital
+             17 013 718 
+         17 013 718 
+Share premium 
+        1 367 796 164 
+    1 367 796 164 
+ Reserves 
+Equity-settled share-based payment reserve
+        2 900 050 019 
+    2 519 949 512 
+Balance at beginning of the year
+        2 519 949 512 
+2 202 131 366
+   
+Arising during the year
+           380 100 507 
+317 818 146
+      
+Retained earnings
+25 921 010 879
+     
+25 939 712 952
+ 
+      25 939 712 952 
+26 562 312 611
+ 
+        3 101 161 224 
+2 460 099 185
+   
+                  452 456 
+186 731
+             
+  Dividends paid 
+       (3 120 315 753)
+(3 082 885 575)
+  
+      30 205 870 780 
+  29 844 472 346 
+14.
+Non-interest bearing loans
+749 091 344
+          
+787 591 546
+      
+   Balance at beginning of year 
+   Profit attributable to shareholders 
+   Unclaimed dividends written-back 
+ 17 013 717 (2024:17 013 717) of the unissued shares are under the control of the directors until the next annual 
+general meeting. 
+Details of loans payable are included in Annexure A.  The loans are unsecured, interest free and have no fixed 
+terms of repayment.
+Amounts owing to Group companies
+ Credit rating  
+ 540 000 000  (2024: 540 000 000)  ordinary shares of 5 cents each
+27
+
+--- PAGE 29 (full dump) ---
+Notes to the Company financial statements
+for the year ended 30 June
+15.
+Share-based payments
+ Average price 
+ Average price 
+Number 
+R
+Number 
+R
+Beginning of the year
+             129 788 
+                291,02                   271 813 
+                272,15 
+Lapsed
+                   (500)
+                301,54                     (5 625)
+                301,54 
+Exercised
+              (48 600)
+                273,44                 (136 400)
+                252,97 
+End of year
+               80 688 
+                301,54                   129 788 
+                291,02 
+                    26 875 
+                250,73 
+                80 688                  301,54                    102 913 
+                 301,54 
+               80 688                 301,54                   129 788 
+                291,02 
+● all SARs must be exercised no later than the 7th anniversary on which they were granted unless approval is obtained from the trustees of the Bidvest 
+Share Incentive Trust.
+● replacement right holders may exercise the rights at such times as the right holder deems fit, but not so as to result in the following proportions of the 
+holder’s total number of instruments being purchased prior to: 50% of total number of instruments at the expiry of three years; 75% of total number of 
+instruments at the expiry of four years; and 100% of total number of instruments at the expiry of five years from the date of the holder’s acceptance of an 
+option; and 
+● all rights must be exercised no later than the 10th anniversary on which they were granted unless approval is obtained from the trustees of the Bidvest 
+Share Incentive Trust.
+● SAR holders in the Scheme may exercise the SARs at such times as the holder deems fit, but not so as to result in the following proportions of the holder’s 
+total number of instruments being purchased prior to: 50% of total number of instruments at the expiry of three years; 75% of total number of instruments at 
+the expiry of four years; and 100% of total number of instruments at the expiry of five years from the date of the holder’s acceptance of an appreciation right; 
+and
+2016
+The replacement rights outstanding at 30 June 2025 have an award price of R301,54 (2024: In the range of R250,73 to R301,54) and a weighted average 
+contractual life of 0,4 (2024: 0,4 to 1,4) years. The average combined value of the Bidvest and Bidcorp shares during the year was R704,74                       
+(2024: R684,71).
+The fair value of services received in return for shares granted is measured based on a modified Black Scholes model. The contractual life of the replacement 
+right is used as an input into this model. 
+Share Appreciation Rights Plan
+The terms and conditions of the SARs Plan are:                                       
+The number and weighted average exercise prices of replacement rights are:
+The Bidvest Share Incentive Scheme (BIS) grants options to employees of the Group to acquire shares in the Company. The share options scheme has been 
+classified as an equity-settled scheme, and therefore an equity-settled share-based payment reserve has been recognised.
+The Bidvest Group Share Appreciation Rights (SARs) Plan was adopted, in 2016, to replaced the BIS and has been classified as an equity-settled scheme, 
+therefore an equity-settled share-based payment reserve has been recognised. Executive directors do not participate in the SARs Plan.
+● Replacement right holders are only entitled to exercise their rights if they are in the employment of the Group in accordance with the terms referred to 
+hereafter, unless otherwise recommended by the Board of the Company to the Trustees of the Bidvest Share Incentive Trust;
+A Conditional Share Plan (CSP), which awards executive directors with a conditional right to receive shares in the Company, free of any cost, is also 
+operated by the Group. As it is anticipated that the participants will receive shares in settlement of their awards, a share-based payment reserve has been 
+recognised. 
+Replacement rights scheme (previously share option scheme)
+Following the unbundling of Bidcorp (30 May 2016), Bidvest option holders exchanged each one of their existing options for one right over one Bidcorp share 
+and one Bidvest share (replacement right). In terms of the amended scheme rules, the original option price was not adjusted, but on exercise of the 
+replacement right, the original option price will be deducted from the combined value of the Bidcorp share and the Bidvest share. The vesting date and lapse 
+dates of the replacement rights will be the same as those of the original options.
+The terms and conditions of the replacement rights are:                                                   
+2025
+2024
+Replacement rights outstanding at 30 June by year of grant are:
+● SAR holders are only entitled to exercise their rights if they are in the employment of the Group in accordance with the terms referred to hereafter, unless 
+otherwise recommended by the Board of the Company to the Trustees of the Bidvest Share Incentive Trust.
+2015
+28
+
+--- PAGE 30 (full dump) ---
+Notes to the Company financial statements
+for the year ended 30 June
+15.
+ Average price 
+ Average price 
+Number 
+R
+Number 
+R
+Beginning of the year
+        17 052 949 
+                187,70              18 008 529 
+                174,30 
+Granted
+          4 904 900 
+                251,69                4 900 300 
+                212,64 
+Lapsed
+           (787 051)
+                191,00              (1 320 269)
+                177,29 
+Exercised
+        (2 624 431)
+                165,72              (4 535 611)
+                164,44 
+End of year
+        18 546 367 
+                207,60              17 052 949 
+                187,70 
+ Average price 
+ Average price 
+Number 
+R
+Number 
+R
+2018
+                  179 250 
+158,75
+2019
+             309 475 
+188,42                  465 088 
+188,42
+2020
+             625 355 
+173,43               1 153 018 
+173,43
+2021
+          1 559 399 
+148,75               2 254 375 
+148,75
+2022
+          2 454 971 
+168,61               3 799 459 
+168,61
+2023
+          4 038 926 
+201,59               4 326 459 
+201,59
+2024
+          4 671 674 
+212,64               4 875 300 
+212,64
+2025
+          4 886 567 
+251,69
+        18 546 367 
+207,60             17 052 949 
+187,70
+The fair value of the SARs granted during the current year and the assumptions used are:
+2025
+2024
+Fair value at measurement date (Rand)
+279,66
+236,27
+Exercise price (Rand)
+251,69
+212,64
+Expected volatility (%)
+30,36
+30,87
+Option life (years)
+4,00-6,00
+4,00-6,00
+Distribution yield (%)
+3,27
+3,80
+Risk-free interest rate (based on the ZAR Bond static yield curve) (%)
+8,09
+8,71
+The volatility is based on the recent historic volatility.
+2025
+2024
+Share-based payments (continued)
+Share Appreciation Rights Plan (continued)
+Share appreciation rights outstanding at 30 June by year of grant are:
+The SARs outstanding at 30 June 2025 have an award price in the range of R188,42 to R251,69 (2024: R148.75 to R212,64) and a weighted average 
+contractual life of 0,4 to 6,4 (2024: 0,4 to 6,4) years. The average value of the Bidvest share during the year was R258,46 (2024: 256,87).
+The fair value of services received in return for shares granted is measured based on a modified Black Scholes model. The contractual life of the SARs is 
+used as an input into this model. 
+2025
+The number and weighted average exercise prices of share appreciation rights are:
+2024
+29
+
+--- PAGE 31 (full dump) ---
+Notes to the Company financial statements
+for the year ended 30 June
+15.
+The number of conditional share awards in terms of the conditional share plan are:
+2025
+2024
+Number
+Number
+Beginning of the year
+               1 789 341 
+           1 592 473 
+Granted during the year
+                  694 900 
+              640 500 
+Awarded during the year
+                (436 089)
+            (347 940)
+Awarded during the year as result of accelerated vesting
+                  (14 710)
+              (15 878)
+Forfeited during the year
+                (114 259)
+              (79 814)
+End of the year
+               1 919 183 
+           1 789 341 
+2025
+2024
+R
+R
+16.
+Contingent liabilities
+38 613 672 236
+     
+30 797 972 700
+ 
+17.
+Related parties
+Directors are related parties to the Company. Details of remuneration paid by fellow subsidiaries to the directors during the 2025 and 2024 years are 
+disclosed in Annexure B of these financial statements.
+The directors have assessed the fair value of the guarantees granted by considering the credit profile of the underlying companies to whom guarantees have 
+been granted, and have determined that the current and subsequent measurement is not material to the financial statements. Accordingly no liability has 
+been recognised in this regard. The liquidity risk pertaining to the guarantees have been disclosed in the liquidity risk section.
+Refer to Annexure A for a detailed list of investments in subsidiaries and loans receivable and payable to subsidiaries. 
+The subsidiaries and associates of the Group are related parties of the Company.  The Company has made loans to, and has received loans from, certain of 
+these entities.
+In respect of guarantees of banking and other facilities utilised by subsidiaries and associates
+The maximum number of shares which may be allocated at any one time under the Replacement Rights, SAR and existing Conditional Share Plan shall not 
+exceed 16 750 000 shares (5% of shares in issue). Based on the closing price the Bidvest and Bidcorp share prices at 30 June 2025, it is estimated that 4 
+000 000 (2024: 7 500 000) Bidvest ordinary shares would be required to settle the Group's share-based payment obligations.
+Conditional share plan
+In terms of the CSP scheme, a conditional right to a share is awarded to executive directors and officers subject to performance and vesting conditions. The 
+vesting period is as follows: 75% of total number of awards vest at the expiry of three years and 25% of total number of awards vest at the expiry of four 
+years from the date of the award, unless otherwise determined by the Board. These share awards do not carry voting rights attributable to ordinary 
+shareholders.
+The fair value of services received in return for the conditional share awards has been determined by multiplying the number of conditional share awards 
+expected to vest, by the share price at the date of the award less discounted anticipated future distribution flows. A total number of 1 392 835 (2024: 1 459 
+015) of the 1 919 183 (2024: 1 789 341) shares are expected to vest, taking into account the performance of the Group to date and forecasts to the end of the 
+performance period, against the targets set at the time of the award. The average discounted share price used in the calculation of the share-based payment 
+charge on the conditional share awards granted during the year is R248,51 (2024: R233,93) per share. These awards will vest in the next three years.
+26 170 (2024: 19 692) conditional share awards were forfeited as a result of performance conditions not being met, 88 089 (2024:  60 122) conditional share 
+awards were forfeited as a result of resignation.
+Details of income received from these related parties are included in the statement of comprehensive income. Refer to Note 2 for a detailed analysis of 
+dividends received from related parties.
+Share-based payments (continued)
+30
+
+--- PAGE 32 (full dump) ---
+Notes to the Company financial statements
+for the year ended 30 June
+18.
+18.1
+Assets at 
+amortised cost 
+Liabilities at 
+amortised cost 
+R
+R
+2025
+-
+                         
+698 025 966
+          
+205 745 571
+          
+89 173 452
+            
+749 091 344
+      
+Trade and other payables
+14 128 060
+        
+992 944 989
+          
+763 219 404
+      
+2024
+-
+                         
+534 244 034
+          
+Trade and other receivables
+34 545 824
+            
+13 871 079
+            
+787 591 546
+      
+Trade and other payables
+14 007 936
+        
+582 660 937
+          
+801 599 482
+      
+18.2 Credit risk
+2025
+2024
+R
+R
+The reconciliation for the loss allowance at 30 June are as follows:
+Opening loss allowance as at 1 July
+(105 621 517)
+         
+(105 621 517)
+     
+Decrease (increase) in loss allowance
+(340 343)
+                
+-
+                         
+Closing loss allowance as at 30 June
+(105 961 860)
+         
+(105 621 517)
+     
+The reconciliation for the loss allowance at 30 June are as follows:
+Opening loss allowance as at 1 July
+(11 285 849)
+           
+(15 386 250)
+       
+Decrease in loss allowance
+11 285 849
+            
+4 100 401
+          
+Closing loss allowance as at 30 June
+-
+                         
+(11 285 849)
+       
+Amounts owing to Group companies
+Amounts owing by Group companies
+Cash and cash equivalents
+Categories of financial instruments
+Other investments and loans
+Amounts owing by Group companies
+Financial instruments and risk management
+Following the receipt in the current year of the remaining R11,2 million (2024: R4,1 million) against the loan receivable from Vendor for acquisition, the full 
+provision against the loan was reversed. 
+Credit risk is the risk of default on a loan receivable due to a borrower failing to make required payments on the loan. The loans receivable are subject to the 
+expected credit loss model. The company applies the general model approach for assessing the impairments because the loans do not fall within the scope of 
+the simplified approach. Refer to accounting policy 1.10 - Impairment for considerations in this regard.
+Based on the above considerations management concluded that no adjustment to the expected credit loss allowance in respect of amounts owing by Group 
+companies was required in the current financial year.
+The company’s risk management is predominantly controlled by the requirements of The Bidvest Group Limited (“Group”) board of directors.
+The Company considered the following risks from its use of financial instruments: credit risk and liquidity risk. 
+Trade and other receivables
+Amounts owing to Group companies
+Other investments and loans
+Other investments and loans
+Amounts owing by Group companies
+Cash and cash equivalents
+31
+
+--- PAGE 33 (full dump) ---
+Notes to the Company financial statements
+for the year ended 30 June
+18.
+18.3 Liquidity risk
+Carrying 
+amount 
+Total
+0 - 12 months
+Thereafter
+2025
+R
+R
+R
+R
+749 091 344
+     
+749 091 344
+      
+749 091 344
+          
+-
+                     
+-
+                    
+38 613 672 236
+ 
+38 613 672 236
+     
+-
+                     
+749 091 344
+     
+39 362 763 580
+ 
+39 362 763 580
+     
+-
+                     
+2024
+787 591 546
+     
+787 591 546
+      
+787 591 546
+          
+-
+                     
+-
+                    
+30 797 972 700
+ 
+30 797 972 700
+     
+-
+                     
+787 591 546
+     
+31 585 564 246
+ 
+31 585 564 246
+     
+-
+                     
+19.
+Subsequent events
+On 23 July 2025 Natco Pharma made a firm offer to acquire all of the issued ordinary shares in Adcock Ingram other than those already held by Natco 
+Pharma, those currently owned by the Company and the treasury shares of Adcock Ingram. The offer is not expected to materially impact the Company's 
+current or future results.  
+Financial instruments and risk management (continued)
+Guarantees can be called upon on default, which can be within the next 12 months. The entire value has therefore been allocated to the short-term bucket. 
+Amounts owing to Group companies
+Terms of the loans guaranteed
+ Amounts owing to Group companies 
+ Terms of the loans guaranteed 
+The company is exposed to liquidity risk arising from loans owing to Group companies, as disclosed in note 14,  and the issue of guarantees to its 
+subsidiaries, as disclosed in note 16. The table below analysis the company's financial liabilities into the relevant maturity groupings based on the contractual 
+maturity dates. Balances due within 12 months equal their carrying balances as the impact of discounting is not significant.
+32
+
+--- PAGE 34 (full dump) ---
+Interest in subsidiaries and associates
+as at 30 June
+Annexure A
+Effective 
+holdings 
+Effective 
+holdings 
+ Shares 
+ Shares⁷ 
+ Indebtedness 
+ Indebtedness 
+ Note 
+2025
+2024
+2025
+2024
+2025
+2024
+%
+%
+R
+R 
+R
+R 
+Significant subsidiaries
+ 
+       
+Adcock Ingram (N)
+Adcock Ingram Holdings Limited
+65
+           
+65
+           
+-
+                             
+-
+                          
+-
+                         
+-
+                  
+Bidvest Automotive (A)
+Autohaus Centurion Pty Ltd                                                                    
+ 
+50
+           
+50
+           
+-
+                             
+-
+                          
+-
+                         
+-
+                  
+Bidvest Automotive Holdings Pty Ltd
+ 
+100
+         
+100
+         
+-
+                             
+-
+                          
+-
+                         
+-
+                  
+Bidvest Car Rental (Botswana) Pty Ltd
+2
+100
+         
+100
+         
+-
+                             
+-
+                          
+-
+                         
+-
+                  
+Bidvest Car Rental (Namibia) Pty Ltd
+12
+100
+         
+100
+         
+-
+                             
+-
+                          
+-
+                         
+-
+                  
+Bidvest McCarthy Brands Pty Ltd
+ 
+100
+         
+100
+         
+-
+                             
+-
+                          
+-
+                         
+-
+                  
+Bidvest Namibia Automotive Otjiwarongo Pty Ltd
+12
+100
+         
+100
+         
+-
+                             
+-
+                          
+-
+                         
+-
+                  
+Bidvest Namibia Automotive Pty Ltd
+12
+100
+         
+100
+         
+-
+                             
+-
+                          
+-
+                         
+-
+                  
+Burchmore's Car Auctions Pty Ltd
+ 
+100
+         
+100
+         
+-
+                             
+-
+                          
+-
+                         
+-
+                  
+Carheim Investments Pty Ltd
+12
+100
+         
+100
+         
+-
+                             
+-
+                          
+-
+                         
+-
+                  
+Cubbi Pty Ltd
+ 
+100
+         
+100
+         
+-
+                             
+-
+                          
+-
+                         
+-
+                  
+Dekra Automotive South Africa Pty Ltd ^
+100
+         
+-
+              
+-
+                             
+-
+                          
+-
+                         
+-
+                  
+Kunene Motor Holdings Limited
+64
+           
+64
+           
+-
+                             
+-
+                          
+-
+                         
+-
+                  
+McCarthy Investments Pty Ltd
+100
+         
+100
+         
+-
+                             
+-
+                          
+-
+                         
+-
+                  
+McCarthy Pty Ltd
+100
+         
+100
+         
+947 194 618
+              
+917 837 734
+        
+3 361 547
+              
+3 361 547
+       
+Melrose Motor Investments Pty Ltd 
+100
+         
+100
+         
+-
+                             
+-
+                          
+-
+                         
+-
+                  
+Novel Motor Company Pty Ltd
+12
+100
+         
+100
+         
+-
+                             
+-
+                          
+-
+                         
+-
+                  
+Bidvest Branded Products (F,G,M)
+-
+                    
+Airport Retail and Luggage Repairs (Coastal) Pty Ltd
+70
+           
+70
+           
+-
+                             
+-
+                          
+-
+                         
+-
+                  
+Amalgamated Appliances Pty Ltd *
+-
+              
+100
+         
+-
+                             
+-
+                          
+-
+                         
+-
+                  
+Bidoffice Furniture Manufacturing Pty Ltd
+ 
+100
+         
+100
+         
+-
+                             
+-
+                          
+-
+                         
+-
+                  
+Bidvest Branded Products Holdings Pty Ltd
+ 
+100
+         
+100
+         
+1 599 718 209
+           
+1 566 674 833
+     
+-
+                         
+-
+                  
+Bidvest Monitoring Solutions Pty Ltd
+ 
+100
+         
+100
+         
+-
+                             
+-
+                          
+-
+                         
+-
+                  
+Bidvest Office Pty Ltd
+ 
+100
+         
+100
+         
+-
+                             
+-
+                          
+-
+                         
+-
+                  
+Bidvest Paperplus Pty Ltd
+ 
+100
+         
+100
+         
+-
+                             
+-
+                          
+-
+                         
+-
+                  
+Brandco Online (Pty) Ltd ^
+100
+         
+-
+              
+-
+                             
+-
+                          
+-
+                         
+-
+                  
+Brandcorp Hong Kong Limited
+5
+100
+         
+100
+         
+-
+                             
+-
+                          
+-
+                         
+-
+                  
+Brandcorp Transformation Corporation Pty Ltd
+100
+         
+100
+         
+-
+                             
+-
+                          
+-
+                         
+-
+                  
+Buena Vista Trading 82 (Pty) Ltd ^
+100
+         
+-
+              
+-
+                             
+-
+                          
+-
+                         
+-
+                  
+Cecil Nurse Namibia Pty Ltd
+12
+100
+         
+100
+         
+-
+                             
+-
+                          
+-
+                         
+-
+                  
+Channel Label Solutions Pty Ltd 
+100
+         
+100
+         
+-
+                             
+-
+                          
+-
+                         
+-
+                  
+Dauphin Office Seating S.A. Pty Ltd *
+-
+              
+100
+         
+1
+                                
+1
+                          
+-
+                         
+-
+                  
+Globe Stationery Manufacturing Company Pty Ltd
+100
+         
+100
+         
+-
+                             
+-
+                          
+-
+                         
+-
+                  
+Green Home Products Pty Ltd *
+-
+              
+100
+         
+-
+                             
+-
+                          
+-
+                         
+-
+                  
+Home of Living Brands Group Limited
+100
+         
+100
+         
+418 792 395
+              
+727 253 557
+        
+-
+                         
+-
+                  
+Home of Living Brands Pty Ltd
+100
+         
+100
+         
+-
+                             
+-
+                          
+-
+                         
+-
+                  
+Kolok (Namibia) Pty Ltd
+12
+100
+         
+100
+         
+-
+                             
+-
+                          
+-
+                         
+-
+                  
+Kolok Pty Ltd
+100
+         
+100
+         
+-
+                             
+-
+                          
+-
+                         
+-
+                  
+Lamobyte Pty Ltd
+100
+         
+100
+         
+-
+                             
+-
+                          
+-
+                         
+-
+                  
+Lithotech Corporate Pty Ltd
+1
+       
+49
+           
+49
+           
+-
+                             
+-
+                          
+-
+                         
+-
+                  
+Lithotech Manufacturing Pinetown Pty Ltd
+100
+         
+100
+         
+-
+                             
+-
+                          
+-
+                         
+-
+                  
+LK Plating (Pty) Ltd ^
+100
+         
+-
+              
+-
+                             
+-
+                          
+-
+                         
+-
+                  
+LK Products (Pty) Ltd ^
+100
+         
+-
+              
+-
+                             
+-
+                          
+-
+                         
+-
+                  
+Lufil Packaging Pty Ltd
+100
+         
+100
+         
+59 244 166
+                
+59 244 166
+          
+(73 462 268)
+           
+(73 462 268)
+    
+Main Street 573 Pty Ltd
+70
+           
+70
+           
+-
+                             
+-
+                          
+-
+                         
+-
+                  
+Minolco (Namibia) Pty Ltd
+12
+100
+         
+100
+         
+-
+                             
+-
+                          
+-
+                         
+-
+                  
+Phakama Print Pty Ltd
+40
+           
+40
+           
+-
+                             
+-
+                          
+-
+                         
+-
+                  
+Roan Systems Pty Ltd *
+-
+              
+100
+         
+-
+                             
+-
+                          
+-
+                         
+-
+                  
+Roan Safety Products Pty Ltd 
+100
+         
+100
+         
+-
+                             
+-
+                          
+-
+                         
+-
+                  
+Silveray Statmark Company Pty Ltd
+100
+         
+100
+         
+9 843 617
+                  
+9 843 617
+            
+(9 843 616)
+             
+(9 843 616)
+      
+SMC Sales Logistics Pty Ltd
+ 
+100
+         
+100
+         
+-
+                             
+-
+                          
+-
+                         
+-
+                  
+Tension Envelope Pty Ltd
+100
+         
+100
+         
+-
+                             
+-
+                          
+-
+                         
+-
+                  
+The Printer Distribution Company Pty Ltd *
+-
+              
+100
+         
+-
+                             
+-
+                          
+-
+                         
+-
+                  
+Waltons Namibia Pty Ltd
+12
+100
+         
+100
+         
+-
+                             
+-
+                          
+-
+                         
+-
+                  
+Whitebord Pty Ltd
+100
+         
+100
+         
+-
+                             
+-
+                          
+-
+                         
+-
+                  
+Zonke Monitoring Systems Pty Ltd
+78
+           
+78
+           
+-
+                             
+-
+                          
+-
+                         
+-
+                  
+Bidvest Commercial (B,E,K)
+-
+                    
+Academy Brushware Pty Ltd#
+100
+         
+100
+         
+-
+                             
+-
+                          
+-
+                         
+-
+                  
+Afcom Group Limited
+100
+         
+100
+         
+10 435 116
+                
+10 435 116
+          
+-
+                         
+-
+                  
+Bellco Electrical Pty Ltd
+100
+         
+100
+         
+-
+                             
+-
+                          
+-
+                         
+-
+                  
+Berzack Brothers Pty Ltd#
+100
+         
+100
+         
+-
+                             
+-
+                          
+-
+                         
+-
+                  
+Bidvest Afcom Pty Ltd#
+100
+         
+100
+         
+-
+                             
+-
+                          
+(44 015 598)
+           
+(44 015 598)
+    
+Bidvest Buffalo Tapes Pty Ltd#
+100
+         
+100
+         
+-
+                             
+-
+                          
+-
+                         
+-
+                  
+Bidvest Commercial Products Holdings Pty Ltd
+100
+         
+100
+         
+3 512 006 021
+           
+3 473 035 643
+     
+343 050 000
+          
+343 050 000
+   
+Bidvest Commercial Products Pty Ltd
+100
+         
+100
+         
+-
+                             
+-
+                          
+-
+                         
+-
+                  
+Bidvest Industrial Pty Ltd
+100
+         
+100
+         
+-
+                             
+-
+                          
+59 712 847
+            
+59 712 847
+     
+Bidvest Industrial Supplies Zambia Limited
+22
+75
+           
+75
+           
+-
+                             
+-
+                          
+-
+                         
+-
+                  
+Bidvest Materials Handling Pty Ltd#
+100
+         
+100
+         
+-
+                             
+-
+                          
+-
+                         
+-
+                  
+Bidvest Namibia Plumblink Pty Ltd
+12
+100
+         
+100
+         
+-
+                             
+-
+                          
+-
+                         
+-
+                  
+ Country of 
+incorporation if 
+not SA 
+33
+
+--- PAGE 35 (full dump) ---
+Interest in subsidiaries and associates
+as at 30 June
+Annexure A
+Effective 
+holdings 
+Effective 
+holdings 
+ Shares 
+ Shares⁷ 
+ Indebtedness 
+ Indebtedness 
+ Note 
+2025
+2024
+2025
+2024
+2025
+2024
+%
+%
+R
+R 
+R
+R 
+ Country of 
+incorporation if 
+not SA 
+Significant subsidiaries
+ 
+       
+Bidvest Commercial (B,E,K) (continued)
+Brandcorp Holdings Pty Ltd
+100
+         
+100
+         
+-
+                             
+-
+                          
+-
+                         
+-
+                  
+Brandcorp Pty Ltd
+100
+         
+100
+         
+-
+                             
+-
+                          
+-
+                         
+-
+                  
+Clockwork Giant Clothing Pty Ltd
+17
+100
+         
+100
+         
+-
+                             
+-
+                          
+-
+                         
+-
+                  
+Eagle Lighting Pty Ltd
+100
+         
+100
+         
+-
+                             
+-
+                          
+-
+                         
+-
+                  
+Electech Power Solutions Pty Ltd
+100
+         
+100
+         
+-
+                             
+-
+                          
+-
+                         
+-
+                  
+G Fox Pty Ltd#
+100
+         
+100
+         
+-
+                             
+-
+                          
+(4 745 699)
+             
+(4 745 699)
+      
+G Fox Swaziland Pty Ltd
+17
+75
+           
+75
+           
+-
+                             
+-
+                          
+-
+                         
+-
+                  
+JMS Technical Soultions Pty Ltd
+100
+         
+100
+         
+-
+                             
+-
+                          
+-
+                         
+-
+                  
+King Pie Holdings Pty Ltd
+ 
+100
+         
+100
+         
+-
+                             
+-
+                          
+-
+                         
+-
+                  
+Plumblink (SA) Pty Ltd
+ 
+100
+         
+100
+         
+-
+                             
+-
+                          
+-
+                         
+-
+                  
+Ram Fasteners Pty Ltd#
+ 
+100
+         
+100
+         
+-
+                             
+-
+                          
+(2 419 199)
+             
+(2 419 199)
+      
+Renttech Holdings Pty Ltd
+ 
+100
+         
+100
+         
+-
+                             
+-
+                          
+-
+                         
+-
+                  
+Renttech South Africa Pty Ltd
+ 
+100
+         
+100
+         
+-
+                             
+-
+                          
+-
+                         
+-
+                  
+Renttech Trading Pty Ltd
+ 
+100
+         
+100
+         
+-
+                             
+-
+                          
+-
+                         
+-
+                  
+Solid State Power Pty Ltd
+ 
+100
+         
+100
+         
+-
+                             
+-
+                          
+-
+                         
+-
+                  
+Technilamp Pty Ltd
+12
+100
+         
+100
+         
+-
+                             
+-
+                          
+-
+                         
+-
+                  
+Southern African Welding and Industrial Supplies Pty Ltd
+12
+100
+         
+100
+         
+-
+                             
+-
+                          
+-
+                         
+-
+                  
+Tuning Fork Pty Ltd  t/a Yamaha
+100
+         
+100
+         
+-
+                             
+-
+                          
+34 499 900
+            
+34 499 900
+     
+Voltex Botswana Pty Ltd
+2
+70
+           
+70
+           
+-
+                             
+-
+                          
+-
+                         
+-
+                  
+Bidvest Electrical Holdings Pty Ltd
+100
+         
+100
+         
+-
+                             
+-
+                          
+-
+                         
+-
+                  
+Voltex MVLV Solutions Pty Ltd
+90
+           
+90
+           
+-
+                             
+-
+                          
+-
+                         
+-
+                  
+Voltex Namibia Pty Ltd
+100
+         
+100
+         
+-
+                             
+-
+                          
+-
+                         
+-
+                  
+Bidvest Steiner Namibia Pty Ltd
+12
+100
+         
+100
+         
+-
+                             
+-
+                          
+-
+                         
+-
+                  
+Voltex Pty Ltd
+100
+         
+100
+         
+617 632 600
+              
+605 381 989
+        
+-
+                         
+-
+                  
+Vulcan Catering Equipment Pty Ltd
+ 
+100
+         
+100
+         
+-
+                             
+-
+                          
+-
+                         
+-
+                  
+Bidvest Financial Services (C)
+Autosure Pty Ltd
+100
+         
+100
+         
+-
+                             
+-
+                          
+-
+                         
+-
+                  
+Autosure Cover Pty Ltd
+100
+         
+100
+         
+-
+                             
+-
+                          
+-
+                         
+-
+                  
+Bid Finserv Capital Pty Ltd
+100
+         
+100
+         
+1
+                                
+150 059 831
+        
+-
+                         
+-
+                  
+Bidvest Asset Management Pty Ltd *
+-
+              
+100
+         
+-
+                             
+7 200 000
+            
+-
+                         
+7 718 960
+       
+Bidvest Bank Holdings Limited
+ 
+100
+         
+100
+         
+-
+                             
+-
+                          
+-
+                         
+-
+                  
+Bidvest Bank Limited
+ 
+100
+         
+100
+         
+589 567 736
+              
+579 827 206
+        
+-
+                         
+-
+                  
+Bidvest Cash Axcess Pty Ltd
+100
+         
+100
+         
+-
+                             
+-
+                          
+-
+                         
+-
+                  
+Bidvest Insurance Brokers Pty Ltd
+ 
+100
+         
+100
+         
+-
+                             
+-
+                          
+-
+                         
+-
+                  
+Bidvest Insurance Group Pty Ltd
+100
+         
+100
+         
+1 050 440 990
+           
+1 045 835 974
+     
+-
+                         
+-
+                  
+Bidvest Insurance Limited
+ 
+100
+         
+100
+         
+-
+                             
+-
+                          
+-
+                         
+-
+                  
+Bidvest Life Limited
+ 
+100
+         
+100
+         
+-
+                             
+-
+                          
+-
+                         
+-
+                  
+Bidvest Merchant Services Pty Ltd
+100
+         
+100
+         
+-
+                             
+-
+                          
+-
+                         
+-
+                  
+Cignet Administration Services Pty Ltd
+100
+         
+100
+         
+-
+                             
+-
+                          
+-
+                         
+-
+                  
+Compendium Group Investment Holdings Pty Ltd 
+100
+         
+100
+         
+-
+                             
+-
+                          
+-
+                         
+-
+                  
+Compendium Insurance Brokers Pty Ltd 
+100
+         
+100
+         
+-
+                             
+-
+                          
+-
+                         
+-
+                  
+Compendium Insurance Brokers (KZN) Pty Ltd
+70
+           
+70
+           
+-
+                             
+-
+                          
+-
+                         
+-
+                  
+Compendium Life Insurance Brokers Pty Ltd 
+100
+         
+100
+         
+-
+                             
+-
+                          
+-
+                         
+-
+                  
+F&I products and Consulting Services Pty Ltd
+100
+         
+100
+         
+-
+                             
+-
+                          
+-
+                         
+-
+                  
+Financial Management International Pty Ltd
+100
+         
+100
+         
+-
+                             
+-
+                          
+-
+                         
+-
+                  
+FinGlobal Australia Limited *
+1
+-
+              
+100
+         
+-
+                             
+-
+                          
+-
+                         
+-
+                  
+Finglobal Migration Pty Ltd *
+-
+              
+100
+         
+-
+                             
+-
+                          
+-
+                         
+-
+                  
+FinGlobal Holdings Pty Ltd *
+-
+              
+100
+         
+-
+                             
+-
+                          
+-
+                         
+-
+                  
+Genesis Insurance Brokers (KZN) (Pty) Ltd
+70
+           
+70
+           
+-
+                             
+-
+                          
+-
+                         
+-
+                  
+Master Currency Pty Ltd
+100
+         
+100
+         
+-
+                             
+-
+                          
+-
+                         
+-
+                  
+Namibia Bureau de Change Pty Ltd
+12
+100
+         
+100
+         
+-
+                             
+-
+                          
+-
+                         
+-
+                  
+Swift Auto Brokers Pty Ltd 
+100
+         
+100
+         
+-
+                             
+-
+                          
+-
+                         
+-
+                  
+Watersure Pty Ltd
+100
+         
+100
+         
+-
+                             
+-
+                          
+-
+                         
+-
+                  
+Bidvest Freight (D)
+African Shipping Limited
+ 
+100
+         
+100
+         
+-
+                             
+-
+                          
+-
+                         
+-
+                  
+Bid Services Division (UK) Limited
+20
+       
+100
+         
+100
+         
+-
+                             
+-
+                          
+-
+                         
+-
+                  
+Bidfreight Intermodal Pty Ltd                                           
+ 
+100
+         
+100
+         
+-
+                             
+-
+                          
+-
+                         
+-
+                  
+Bidfreight Port Operations Pty Ltd
+ 
+100
+         
+100
+         
+-
+                             
+-
+                          
+-
+                         
+-
+                  
+Bidvest Freight Management Services Pty Ltd
+100
+         
+100
+         
+-
+                             
+-
+                          
+-
+                         
+-
+                  
+Bidvest Freight Pty Ltd                                            
+ 
+100
+         
+100
+         
+7 807 009 877
+           
+7 753 381 420
+     
+-
+                         
+-
+                  
+Bidvest Freight Terminals Pty Ltd
+100
+         
+100
+         
+-
+                             
+-
+                          
+-
+                         
+-
+                  
+Bidvest Freight UK Limited
+20
+       
+100
+         
+100
+         
+-
+                             
+-
+                          
+-
+                         
+-
+                  
+Bidvest Outsourced Services Limited
+20
+       
+100
+         
+100
+         
+-
+                             
+-
+                          
+-
+                         
+-
+                  
+Bidvest Property Limited
+20
+       
+100
+         
+100
+         
+-
+                             
+-
+                          
+-
+                         
+-
+                  
+Brentwood Technical Services Limited
+20
+       
+100
+         
+100
+         
+-
+                             
+-
+                          
+-
+                         
+-
+                  
+Bulk Connections Pty Ltd
+ 
+100
+         
+100
+         
+-
+                             
+-
+                          
+-
+                         
+-
+                  
+Cape Container Terminal Leasing Pty Ltd
+100
+         
+100
+         
+-
+                             
+-
+                          
+-
+                         
+-
+                  
+Durban Coal Terminals Company Pty Ltd 
+ 
+100
+         
+100
+         
+-
+                             
+-
+                          
+-
+                         
+-
+                  
+Ensimbini Terminals Pty Ltd
+ 
+50
+           
+50
+           
+-
+                             
+-
+                          
+-
+                         
+-
+                  
+Freightbulk Pty Ltd
+100
+         
+100
+         
+-
+                             
+-
+                          
+-
+                         
+-
+                  
+Island View Storage Limited t/a Bidvest Tank Terminals                                                             
+100
+         
+100
+         
+-
+                             
+-
+                          
+-
+                         
+-
+                  
+Lubrication Specialists Pty Ltd
+12
+100
+         
+100
+         
+-
+                             
+-
+                          
+-
+                         
+-
+                  
+34
+
+--- PAGE 36 (full dump) ---
+Interest in subsidiaries and associates
+as at 30 June
+Annexure A
+Effective 
+holdings 
+Effective 
+holdings 
+ Shares 
+ Shares⁷ 
+ Indebtedness 
+ Indebtedness 
+ Note 
+2025
+2024
+2025
+2024
+2025
+2024
+%
+%
+R
+R 
+R
+R 
+ Country of 
+incorporation if 
+not SA 
+Significant subsidiaries
+Bidvest Freight (D) (continued)
+Luderitz Bulk Terminals Pty Ltd
+12
+100
+         
+100
+         
+-
+                             
+-
+                          
+-
+                         
+-
+                  
+Makana Bid Properties Pty Ltd
+100
+         
+100
+         
+-
+                             
+-
+                          
+-
+                         
+-
+                  
+Manica Group Namibia Pty Ltd
+12
+100
+         
+100
+         
+-
+                             
+-
+                          
+-
+                         
+-
+                  
+Monjasa Namibia Pty Ltd
+12
+57
+           
+57
+           
+-
+                             
+-
+                          
+-
+                         
+-
+                  
+Mozambique Freight Services, Lda
+11
+100
+         
+100
+         
+-
+                             
+-
+                          
+-
+                         
+-
+                  
+Namtank Management Services Pty Ltd
+12
+100
+         
+100
+         
+-
+                             
+-
+                          
+-
+                         
+-
+                  
+Naval Servicos A Navegacao LTDA                             
+11
+100
+         
+100
+         
+-
+                             
+-
+                          
+-
+                         
+-
+                  
+Orca Marine Service Pty Ltd
+12
+100
+         
+100
+         
+-
+                             
+-
+                          
+-
+                         
+-
+                  
+P & I Associates Pty Ltd
+ 
+100
+         
+100
+         
+-
+                             
+-
+                          
+-
+                         
+-
+                  
+Renfreight Pty Ltd
+100
+         
+100
+         
+-
+                             
+-
+                          
+-
+                         
+-
+                  
+Rennie Murray and Company Pty Ltd
+100
+         
+100
+         
+-
+                             
+-
+                          
+-
+                         
+-
+                  
+Rennies Ships Agency Mozambique Limitada
+11
+100
+         
+100
+         
+-
+                             
+-
+                          
+-
+                         
+-
+                  
+Rennies Ships Agency Pty Ltd
+100
+         
+100
+         
+-
+                             
+-
+                          
+-
+                         
+-
+                  
+Safcor Freight Pty Ltd (t/a Bidvest International Logistics)
+64
+           
+64
+           
+-
+                             
+-
+                          
+-
+                         
+-
+                  
+Sebenza Forwarding & Shipping Pty Ltd 
+100
+         
+100
+         
+1
+                                
+1
+                          
+-
+                         
+-
+                  
+Skillion Limited
+100
+         
+100
+         
+-
+                             
+-
+                          
+-
+                         
+-
+                  
+South African Bulk Terminals Pty Ltd
+100
+         
+100
+         
+-
+                             
+-
+                          
+-
+                         
+-
+                  
+South African Container Depots Pty Ltd
+100
+         
+100
+         
+-
+                             
+-
+                          
+-
+                         
+-
+                  
+South African Stevedores Pty Ltd *
+-
+              
+100
+         
+-
+                             
+-
+                          
+-
+                         
+-
+                  
+Walvis Bay Airport Services Pty Ltd
+12
+100
+         
+100
+         
+-
+                             
+-
+                          
+-
+                         
+-
+                  
+Walvis Bay Stevedoring Company Pty Ltd
+12
+55
+           
+55
+           
+-
+                             
+-
+                          
+-
+                         
+-
+                  
+Woker Freight Services Pty Ltd
+12
+100
+         
+100
+         
+-
+                             
+-
+                          
+-
+                         
+-
+                  
+Bidvest Services South Africa (H,J)
+Aquazania Africa Pty Ltd 
+100
+         
+100
+         
+-
+                             
+-
+                          
+-
+                         
+-
+                  
+Aquazania Pty Ltd (Previosuly Pureau Fresh Water Company Pty Ltd)
+100
+         
+100
+         
+72 413 566
+                
+68 656 268
+          
+-
+                         
+-
+                  
+Bidair Cargo Pty Ltd  
+100
+         
+100
+         
+-
+                             
+-
+                          
+-
+                         
+-
+                  
+Bidair Group Pty Ltd * 
+-
+              
+100
+         
+-
+                             
+-
+                          
+-
+                         
+-
+                  
+Bidshelf 94 Pty Ltd (previously Bidtrack Pty Ltd)
+100
+         
+100
+         
+-
+                             
+-
+                          
+-
+                         
+-
+                  
+Bidtrack Pty Ltd (previously Commuter Handling Services Pty Ltd)
+100
+         
+100
+         
+-
+                             
+-
+                          
+-
+                         
+-
+                  
+Bidtravel Pty Ltd 
+100
+         
+100
+         
+-
+                             
+-
+                          
+-
+                         
+-
+                  
+Bidvest (Zambia) Pty Ltd * 
+22
+-
+              
+100
+         
+-
+                             
+-
+                          
+-
+                         
+-
+                  
+Bidvest Catering Services Pty Ltd 
+100
+         
+100
+         
+-
+                             
+-
+                          
+-
+                         
+-
+                  
+Bidvest Magnum Pty Ltd 
+100
+         
+100
+         
+-
+                             
+-
+                          
+-
+                         
+-
+                  
+Bidvest Protea Coin Assets in Transit and Armed Reaction Pty Ltd
+100
+         
+100
+         
+-
+                             
+-
+                          
+-
+                         
+-
+                  
+Bidvest Protea Coin Cargo Protection Pty Ltd
+100
+         
+100
+         
+-
+                             
+-
+                          
+-
+                         
+-
+                  
+Bidvest Protea Coin Fencing Pty Ltd 
+100
+         
+100
+         
+-
+                             
+-
+                          
+-
+                         
+-
+                  
+Bidvest Protea Coin Pty Ltd 
+63
+           
+63
+           
+-
+                             
+-
+                          
+-
+                         
+-
+                  
+Bidvest Protea Coin Technical and Physical Security Pty Ltd
+100
+         
+100
+         
+-
+                             
+-
+                          
+-
+                         
+-
+                  
+Bidvest Travel Holdings Pty Ltd 
+100
+         
+100
+         
+-
+                             
+-
+                          
+-
+                         
+-
+                  
+Bosnandi Laundry Pty Ltd 
+51
+           
+51
+           
+-
+                             
+-
+                          
+-
+                         
+-
+                  
+Bushbreaks & More Pty Ltd 
+100
+         
+100
+         
+1
+                                
+1
+                          
+-
+                         
+-
+                  
+ClickOn Communications Pty Ltd 
+100
+         
+100
+         
+-
+                             
+-
+                          
+-
+                         
+-
+                  
+Cruises International SA Pty Ltd  
+100
+         
+100
+         
+-
+                             
+-
+                          
+-
+                         
+-
+                  
+Cudha SARL 
+11
+50
+           
+50
+           
+-
+                             
+-
+                          
+-
+                         
+-
+                  
+Dinatla Property Services Pty Ltd 
+100
+         
+100
+         
+220 000
+                     
+220 000
+               
+-
+                         
+-
+                  
+EAS Zimbabwe Pvt Ltd * 
+23
+-
+              
+70
+           
+-
+                             
+-
+                          
+-
+                         
+-
+                  
+Execuflora Pty Ltd 
+ 
+100
+         
+100
+         
+-
+                             
+-
+                          
+-
+                         
+-
+                  
+Express Air Services Pty Ltd 
+ 
+100
+         
+100
+         
+-
+                             
+-
+                          
+-
+                         
+-
+                  
+Express Air Services Uganda Limited 
+18
+100
+         
+100
+         
+-
+                             
+-
+                          
+-
+                         
+-
+                  
+Express Air Services Zambia Limited * 
+22
+-
+              
+100
+         
+-
+                             
+-
+                          
+-
+                         
+-
+                  
+First Garment Rental Pty Ltd 
+ 
+100
+         
+100
+         
+-
+                             
+-
+                          
+-
+                         
+-
+                  
+Harvey World Travel Southern Africa Pty Ltd 
+100
+         
+100
+         
+-
+                             
+-
+                          
+-
+                         
+-
+                  
+Hotel Amenities Suppliers Pty Ltd 
+100
+         
+100
+         
+-
+                             
+-
+                          
+-
+                         
+-
+                  
+Interloc Freight Services Pty Ltd  
+100
+         
+100
+         
+-
+                             
+-
+                          
+-
+                         
+-
+                  
+Macardo Lodge Pty Ltd t/a Travelwise                                       
+51
+           
+51
+           
+-
+                             
+-
+                          
+-
+                         
+-
+                  
+New Frontiers Tours Pty Ltd 
+2
+100
+         
+100
+         
+-
+                             
+-
+                          
+-
+                         
+-
+                  
+Nomtsalane Property Services Pty Ltd 
+86
+           
+86
+           
+-
+                             
+-
+                          
+-
+                         
+-
+                  
+Protea Security Services (West Rand) Pty Ltd
+100
+         
+100
+         
+-
+                             
+-
+                          
+-
+                         
+-
+                  
+Pureau Fresh Water Company Pty Ltd
+100
+         
+100
+         
+-
+                             
+-
+                          
+-
+                         
+-
+                  
+Quadrel Travel Manangement Pty Ltd t/a CWT
+90
+           
+90
+           
+3 814 486
+                  
+3 814 486
+            
+-
+                         
+-
+                  
+Rennies Travel (Namibia) Pty Ltd
+12
+100
+         
+100
+         
+-
+                             
+-
+                          
+-
+                         
+-
+                  
+Rennies Travel Pty Ltd t/a Rennies BCD Travel
+100
+         
+100
+         
+-
+                             
+-
+                          
+-
+                         
+-
+                  
+Royalmnandi Duduza Pty Ltd 
+60
+           
+60
+           
+-
+                             
+-
+                          
+-
+                         
+-
+                  
+Royalmnandi Events Pty Ltd 
+100
+         
+100
+         
+-
+                             
+-
+                          
+-
+                         
+-
+                  
+Royalmnandi Food Services Pty Ltd 
+100
+         
+100
+         
+-
+                             
+-
+                          
+-
+                         
+-
+                  
+Set Point Fluid Handling & Analytics (Namibia) Pty Ltd ^
+12
+100
+         
+-
+              
+-
+                             
+-
+                          
+-
+                         
+-
+                  
+Set Point Botswana Pty Ltd ^ 
+2
+100
+         
+-
+              
+-
+                             
+-
+                          
+-
+                         
+-
+                  
+Synerlytic Group Holdings (Pty) Ltd ^ 
+ 
+100
+         
+-
+              
+-
+                             
+-
+                          
+-
+                         
+-
+                  
+Synerlytic Analytical Holdings (Pty) Ltd ^ 
+ 
+100
+         
+-
+              
+-
+                             
+-
+                          
+-
+                         
+-
+                  
+Synerlytic Services (Pty) Ltd ^ 
+ 
+100
+         
+-
+              
+-
+                             
+-
+                          
+-
+                         
+-
+                  
+Synerlytic Analytical Services (Pty) Ltd ^ 
+ 
+100
+         
+-
+              
+-
+                             
+-
+                          
+-
+                         
+-
+                  
+Synerlytic International Holdings Ltd ^ 
+23
+100
+         
+-
+              
+-
+                             
+-
+                          
+-
+                         
+-
+                  
+Top Turf Group Pty Ltd 
+ 
+100
+         
+100
+         
+4 000
+                         
+4 000
+                   
+(4 000)
+                    
+(4 000)
+             
+35
+
+--- PAGE 37 (full dump) ---
+Interest in subsidiaries and associates
+as at 30 June
+Annexure A
+Effective 
+holdings 
+Effective 
+holdings 
+ Shares 
+ Shares⁷ 
+ Indebtedness 
+ Indebtedness 
+ Note 
+2025
+2024
+2025
+2024
+2025
+2024
+%
+%
+R
+R 
+R
+R 
+ Country of 
+incorporation if 
+not SA 
+Significant subsidiaries
+Bidvest Services South Africa (H,J) (continued)
+Top Turf Lesotho Pty Ltd * 
+9
+-
+              
+100
+         
+-
+                          
+-
+                  
+Top Turf Swaziland Pty Ltd
+17
+100
+         
+100
+         
+-
+                             
+-
+                          
+-
+                         
+-
+                  
+Travel Connections Pty Ltd
+ 
+100
+         
+100
+         
+3 875 984
+                  
+3 760 437
+            
+-
+                         
+-
+                  
+UAV and Drone Solutions Pty Ltd
+ 
+100
+         
+100
+         
+-
+                             
+-
+                          
+-
+                         
+-
+                  
+Uniworld Travel Pty Ltd
+100
+         
+100
+         
+-
+                             
+-
+                          
+-
+                         
+-
+                  
+Velocity Road Rehabilitation Holdings Pty Ltd
+100
+         
+100
+         
+-
+                             
+-
+                          
+-
+                         
+-
+                  
+Vericon Outsourcing Pty Ltd
+100
+         
+100
+         
+-
+                             
+-
+                          
+-
+                         
+-
+                  
+Wearcheck Ghana Ltd ^ 
+4
+75
+           
+-
+              
+-
+                             
+-
+                          
+-
+                         
+-
+                  
+Wearcheck Laboratories India Pte Ltd ^
+6
+100
+         
+-
+              
+-
+                             
+-
+                          
+-
+                         
+-
+                  
+Wearcheck Mozambique Limitada ^
+11
+100
+         
+-
+              
+-
+                             
+-
+                          
+-
+                         
+-
+                  
+Wearcheck Namibia Pty Ltd ^
+12
+100
+         
+-
+              
+-
+                             
+-
+                          
+-
+                         
+-
+                  
+Wearcheck PM Ltd ^
+19
+100
+         
+-
+              
+-
+                             
+-
+                          
+-
+                         
+-
+                  
+Wearcheck PM Llc ^
+19
+49
+           
+-
+              
+-
+                             
+-
+                          
+-
+                         
+-
+                  
+Wearcheck Tribology Services Pte Ltd ^
+23
+100
+         
+-
+              
+-
+                             
+-
+                          
+-
+                         
+-
+                  
+Wearcheck Zambia Ltd ^
+22
+100
+         
+-
+              
+-
+                             
+-
+                          
+-
+                         
+-
+                  
+Wearcheck Zimbabwe Pte Ltd ^
+23
+100
+         
+-
+              
+-
+                             
+-
+                          
+-
+                         
+-
+                  
+Workwear Rental Services Pty Ltd
+100
+         
+100
+         
+-
+                             
+-
+                          
+-
+                         
+-
+                  
+World Travel Pty Ltd
+100
+         
+100
+         
+-
+                             
+-
+                          
+(3 349 999)
+             
+(3 349 999)
+      
+WTH Investment Holdings Pty Ltd
+100
+         
+100
+         
+-
+                             
+-
+                          
+-
+                         
+-
+                  
+Zanihold Pty Ltd
+100
+         
+100
+         
+-
+                             
+-
+                          
+-
+                         
+-
+                  
+Bidvest Services International (I)
+Amber Support Solutions Limited
+20
+100
+         
+100
+         
+-
+                             
+-
+                          
+-
+                         
+-
+                  
+Axis Cleaning and Support Services Limited
+20
+100
+         
+100
+         
+-
+                             
+-
+                          
+-
+                         
+-
+                  
+Axis Group Integrated Services Limited
+20
+100
+         
+100
+         
+-
+                             
+-
+                          
+-
+                         
+-
+                  
+Axis Security Services Limited
+20
+100
+         
+100
+         
+-
+                             
+-
+                          
+-
+                         
+-
+                  
+B.I.C Services Pty Ltd
+1
+100
+         
+100
+         
+-
+                             
+-
+                          
+-
+                         
+-
+                  
+Bidvest Cleaning Pty Ltd
+ 
+100
+         
+100
+         
+-
+                             
+-
+                          
+-
+                         
+-
+                  
+Bidvest Facilities Management Pty Ltd
+ 
+100
+         
+100
+         
+-
+                             
+-
+                          
+-
+                         
+-
+                  
+Bidvest Noonan (ROI) Limited
+13
+100
+         
+100
+         
+-
+                             
+-
+                          
+-
+                         
+-
+                  
+Bidvest Noonan (UK) Limited
+20
+100
+         
+100
+         
+-
+                             
+-
+                          
+-
+                         
+-
+                  
+Bidvest Prestige Cleaning Pty Ltd
+12
+100
+         
+100
+         
+-
+                             
+-
+                          
+-
+                         
+-
+                  
+Bidvest Services (ROI) Limited
+13
+100
+         
+100
+         
+-
+                             
+-
+                          
+-
+                         
+-
+                  
+Bidvest Services (UK) Limited
+20
+100
+         
+100
+         
+-
+                             
+-
+                          
+-
+                         
+-
+                  
+Bidvest Services Group (UK) Limited
+20
+100
+         
+100
+         
+-
+                             
+-
+                          
+-
+                         
+-
+                  
+Bidvest Services Holdings Pty Ltd
+ 
+100
+         
+100
+         
+-
+                             
+-
+                          
+-
+                         
+(38 500 000)
+    
+Bidvest Services Pty Ltd
+ 
+100
+         
+100
+         
+-
+                             
+-
+                          
+-
+                         
+-
+                  
+Citron Hygiene LP ^
+3
+100
+         
+-
+              
+-
+                             
+-
+                          
+-
+                         
+-
+                  
+Citron Hygiene UK Limited ^
+20
+100
+         
+-
+              
+-
+                             
+-
+                          
+-
+                         
+-
+                  
+Citron Hygiene US Corp ^
+21
+100
+         
+-
+              
+-
+                             
+-
+                          
+-
+                         
+-
+                  
+Citron Hygiene US Holdco Inc ^
+3
+100
+         
+-
+              
+-
+                             
+-
+                          
+-
+                         
+-
+                  
+Citron Hygiene Holdings Inc ^
+3
+100
+         
+-
+              
+-
+                             
+-
+                          
+-
+                         
+-
+                  
+Citron Hygiene GP Inc ^
+3
+100
+         
+-
+              
+-
+                             
+-
+                          
+-
+                         
+-
+                  
+Hygiene LTIP Inc ^
+3
+100
+         
+-
+              
+-
+                             
+-
+                          
+-
+                         
+-
+                  
+Citron Hygiene Canada Inc ^
+3
+100
+         
+-
+              
+-
+                             
+-
+                          
+-
+                         
+-
+                  
+CLM Safety Limited
+20
+100
+         
+100
+         
+-
+                             
+-
+                          
+-
+                         
+-
+                  
+Consolidated Property Services Pty Ltd 
+1
+100
+         
+100
+         
+-
+                             
+-
+                          
+-
+                         
+-
+                  
+Cordant Cleaning Limited
+20
+100
+         
+100
+         
+-
+                             
+-
+                          
+-
+                         
+-
+                  
+Cordant Security Limited
+20
+100
+         
+100
+         
+-
+                             
+-
+                          
+-
+                         
+-
+                  
+Cordant Thistle Limited
+20
+100
+         
+100
+         
+-
+                             
+-
+                          
+-
+                         
+-
+                  
+Countrywide Healthcare Limited  ^ 
+20
+100
+         
+-
+              
+-
+                             
+-
+                          
+-
+                         
+-
+                  
+Countrywide Healthcare Holdings Limited  ^ 
+20
+100
+         
+-
+              
+-
+                             
+-
+                          
+-
+                         
+-
+                  
+Crane Midco Limited
+20
+100
+         
+100
+         
+-
+                             
+-
+                          
+-
+                         
+-
+                  
+Dartry Laundry Limited (“Dartry”)
+20
+100
+         
+100
+         
+-
+                             
+-
+                          
+-
+                         
+-
+                  
+Dinosi Cleaning Services Pty Ltd
+ 
+55
+           
+55
+           
+-
+                             
+-
+                          
+-
+                         
+-
+                  
+Direct365Online Limited
+20
+100
+         
+100
+         
+-
+                             
+-
+                          
+-
+                         
+-
+                  
+Egroup Protective Services Group Pty Ltd   ^ 
+1
+100
+         
+-
+              
+-
+                             
+-
+                          
+-
+                         
+-
+                  
+Epsilon Test Services Limited
+20
+100
+         
+100
+         
+-
+                             
+-
+                          
+-
+                         
+-
+                  
+Future Carpet Cleaning Services Limited
+20
+100
+         
+100
+         
+-
+                             
+-
+                          
+-
+                         
+-
+                  
+Future Cleaning (Southwest) Limited
+20
+100
+         
+100
+         
+-
+                             
+-
+                          
+-
+                         
+-
+                  
+Future Cleaning FCS Limited
+13
+100
+         
+100
+         
+-
+                             
+-
+                          
+-
+                         
+-
+                  
+Future Cleaning Services Limited
+20
+100
+         
+100
+         
+-
+                             
+-
+                          
+-
+                         
+-
+                  
+Hygiene Matters Limited
+13
+100
+         
+100
+         
+-
+                             
+-
+                          
+-
+                         
+-
+                  
+Ikhayelihle Royalserve Cleaning Services Pty Ltd
+100
+         
+100
+         
+-
+                             
+-
+                          
+-
+                         
+-
+                  
+Industro-Clean Botswana Pty Ltd
+2
+100
+         
+100
+         
+-
+                             
+-
+                          
+-
+                         
+-
+                  
+Just Ask Estate Services Limited  ^ 
+20
+100
+         
+-
+              
+-
+                             
+-
+                          
+-
+                         
+-
+                  
+Karmarton Limited
+13
+100
+         
+100
+         
+-
+                             
+-
+                          
+-
+                         
+-
+                  
+Lehlangene Facilities Management Pty Ltd
+ 
+100
+         
+100
+         
+-
+                             
+-
+                          
+-
+                         
+-
+                  
+L. Lynch (H20) Solutions Limitedv
+13
+100
+         
+100
+         
+-
+                             
+-
+                          
+-
+                         
+-
+                  
+L. Lynch Interact Limited
+13
+100
+         
+100
+         
+-
+                             
+-
+                          
+-
+                         
+-
+                  
+LTP Mast and Infrastructure Services Pty Ltd
+ 
+100
+         
+100
+         
+-
+                             
+-
+                          
+-
+                         
+-
+                  
+Mayflower Hygiene Supplies (London) Limited
+20
+100
+         
+100
+         
+-
+                             
+-
+                          
+-
+                         
+-
+                  
+Mayflower Hygiene Supplies (Ireland) Limited
+13
+100
+         
+100
+         
+-
+                             
+-
+                          
+-
+                         
+-
+                  
+Mediguard WIC Cleaning Services (Lesotho) Pty Ltd
+9
+51
+           
+51
+           
+-
+                             
+-
+                          
+-
+                         
+-
+                  
+36
+
+--- PAGE 38 (full dump) ---
+Interest in subsidiaries and associates
+as at 30 June
+Annexure A
+Effective 
+holdings 
+Effective 
+holdings 
+ Shares 
+ Shares⁷ 
+ Indebtedness 
+ Indebtedness 
+ Note 
+2025
+2024
+2025
+2024
+2025
+2024
+%
+%
+R
+R 
+R
+R 
+ Country of 
+incorporation if 
+not SA 
+Significant subsidiaries
+ 
+       
+Bidvest Services International (H,I)(continued)
+Nexgen Facilities Services Limited  ^ 
+20
+100
+         
+-
+              
+-
+                             
+-
+                          
+-
+                         
+-
+                  
+Nexgen Facilities Services London Limited  ^ 
+20
+100
+         
+-
+              
+-
+                             
+-
+                          
+-
+                         
+-
+                  
+Nexgen London Limited  ^ 
+20
+100
+         
+-
+              
+-
+                             
+-
+                          
+-
+                         
+-
+                  
+Noonan Topco Limited
+20
+100
+         
+100
+         
+-
+                             
+-
+                          
+-
+                         
+-
+                  
+Personnel Hygiene Services Limited
+20
+100
+         
+100
+         
+-
+                             
+-
+                          
+-
+                         
+-
+                  
+PHS Bidco Limited
+20
+100
+         
+100
+         
+-
+                             
+-
+                          
+-
+                         
+-
+                  
+PHS Compliance Limited
+20
+100
+         
+100
+         
+-
+                             
+-
+                          
+-
+                         
+-
+                  
+PHS Group Limited
+20
+100
+         
+100
+         
+-
+                             
+-
+                          
+-
+                         
+-
+                  
+PHS Holdings Limited
+20
+100
+         
+100
+         
+-
+                             
+-
+                          
+-
+                         
+-
+                  
+PHS Hygiene Pty Ltd *
+1
+-
+              
+100
+         
+-
+                             
+-
+                          
+-
+                         
+-
+                  
+PHS Investments Limited
+20
+100
+         
+100
+         
+-
+                             
+-
+                          
+-
+                         
+-
+                  
+PHS Serkonten SAU
+20
+100
+         
+100
+         
+-
+                          
+-
+                  
+PHS Services Limited
+16
+100
+         
+100
+         
+-
+                             
+-
+                          
+-
+                         
+-
+                  
+PHS Serkon SAU
+20
+100
+         
+100
+         
+-
+                             
+-
+                          
+-
+                         
+-
+                  
+PHS Washrooms Limited
+20
+100
+         
+100
+         
+-
+                             
+-
+                          
+-
+                         
+-
+                  
+PHS Western Limited
+20
+100
+         
+100
+         
+-
+                             
+-
+                          
+-
+                         
+-
+                  
+Prestige Cleaning Services Pty Ltd
+100
+         
+100
+         
+-
+                             
+-
+                          
+-
+                         
+-
+                  
+Principal Hygiene Systems Limited 
+20
+100
+         
+100
+         
+-
+                             
+-
+                          
+-
+                         
+-
+                  
+Pure Hygiene Pty Ltd 
+1
+100
+         
+100
+         
+-
+                             
+-
+                          
+-
+                         
+-
+                  
+QMS Consulting Pty Ltd
+100
+         
+100
+         
+-
+                             
+-
+                          
+-
+                         
+-
+                  
+Rebserve Facilities Management Pty Ltd
+ 
+80
+           
+80
+           
+-
+                             
+-
+                          
+-
+                         
+-
+                  
+Rental Hygiene Services Pte Ltd 
+15
+100
+         
+100
+         
+-
+                             
+-
+                          
+-
+                         
+-
+                  
+Robinson Services Limited 
+20
+100
+         
+100
+         
+-
+                             
+-
+                          
+-
+                         
+-
+                  
+Robinson Services Laundry Limited 
+20
+100
+         
+100
+         
+-
+                             
+-
+                          
+-
+                         
+-
+                  
+Steiner Environmental Solutions Pty Ltd
+100
+         
+100
+         
+-
+                             
+-
+                          
+-
+                         
+-
+                  
+Steiner Hygiene Pty Ltd
+ 
+100
+         
+100
+         
+-
+                             
+-
+                          
+-
+                         
+-
+                  
+Steiner Hygiene Swaziland Pty Ltd
+17
+100
+         
+100
+         
+-
+                             
+-
+                          
+-
+                         
+-
+                  
+Servicios Antiplagas, Higiene Y Control Ambiental SAU (Sahicasa)
+16
+100
+         
+100
+         
+-
+                             
+-
+                          
+-
+                         
+-
+                  
+Sword Security (NI) Limited 
+20
+100
+         
+100
+         
+-
+                             
+-
+                          
+-
+                         
+-
+                  
+Synergy Waste Solutions Pty Ltd 
+20
+100
+         
+100
+         
+-
+                             
+-
+                          
+-
+                         
+-
+                  
+Szense Air Aroma Pte Ltd 
+15
+100
+         
+100
+         
+-
+                             
+-
+                          
+-
+                         
+-
+                  
+Test Monetary Systems Pty Ltd
+100
+         
+100
+         
+-
+                             
+-
+                          
+-
+                         
+-
+                  
+Taemane Cleaning Services Pty Ltd *
+ 
+-
+              
+100
+         
+-
+                             
+-
+                          
+-
+                         
+-
+                  
+Teacrate Limited
+20
+100
+         
+100
+         
+-
+                             
+-
+                          
+-
+                         
+-
+                  
+Teacrate Rentals Limited
+20
+100
+         
+100
+         
+-
+                             
+-
+                          
+-
+                         
+-
+                  
+TFMC FM Services Pty Ltd
+ 
+100
+         
+100
+         
+-
+                             
+-
+                          
+-
+                         
+-
+                  
+TFMC Holdings Pty Ltd
+ 
+100
+         
+100
+         
+-
+                             
+-
+                          
+-
+                         
+-
+                  
+Top Turf Mauritius Pty Ltd
+10
+100
+         
+100
+         
+-
+                             
+-
+                          
+-
+                         
+-
+                  
+Top Turf Seychelles Pty Ltd
+14
+100
+         
+100
+         
+-
+                             
+-
+                          
+-
+                         
+-
+                  
+Umoja Property Solutions Pty Ltd
+51
+           
+51
+           
+-
+                             
+-
+                          
+-
+                         
+-
+                  
+Bidvest Properties (O)
+Airport Logistics Property Holdings Pty Ltd
+ 
+50
+           
+50
+           
+-
+                             
+-
+                          
+-
+                         
+-
+                  
+Bidvest Namibia Industrial Properties Pty Ltd
+12
+100
+         
+100
+         
+-
+                             
+-
+                          
+-
+                         
+-
+                  
+Bidvest Namibia Property Holdings Pty Ltd
+12
+100
+         
+100
+         
+-
+                             
+-
+                          
+-
+                         
+-
+                  
+Bidvest Properties Holdings Pty Ltd
+ 
+100
+         
+100
+         
+4 392 001 755
+           
+4 388 514 219
+     
+-
+                         
+-
+                  
+Bidvest Properties UK Limited
+20
+100
+         
+100
+         
+-
+                             
+-
+                          
+-
+                         
+-
+                  
+Bidvest Properties Pty Ltd
+ 
+100
+         
+100
+         
+-
+                             
+-
+                          
+-
+                         
+-
+                  
+Bidvest Property Holdings Pty Ltd
+ 
+100
+         
+100
+         
+-
+                             
+-
+                          
+-
+                         
+-
+                  
+Elzet Development Pty Ltd
+12
+100
+         
+100
+         
+-
+                             
+-
+                          
+-
+                         
+-
+                  
+Lenkow Pty Ltd
+12
+100
+         
+100
+         
+-
+                             
+-
+                          
+-
+                         
+-
+                  
+Mercland Pty Ltd
+ 
+50
+           
+50
+           
+-
+                             
+-
+                          
+-
+                         
+-
+                  
+Micawber 239 Pty Ltd
+50
+           
+50
+           
+-
+                             
+-
+                          
+-
+                         
+-
+                  
+Micawber 240 Pty Ltd
+53
+           
+53
+           
+-
+                             
+-
+                          
+-
+                         
+-
+                  
+Bidvest Corporate (L)
+BB Investment Company Pty Ltd#
+ 
+100
+         
+100
+         
+-
+                             
+-
+                          
+-
+                         
+-
+                  
+Bid Services Division (IOM) Limited
+7
+100
+         
+100
+         
+-
+                             
+-
+                          
+-
+                         
+-
+                  
+Bid Services Division (Mauritius) Limited
+10
+100
+         
+100
+         
+-
+                             
+-
+                          
+-
+                         
+-
+                  
+Bid Services Division Pty Ltd
+ 
+100
+         
+100
+         
+-
+                             
+-
+                          
+34 439 311
+            
+34 439 311
+     
+Bid Services Division (UK) Limited
+20
+100
+         
+100
+         
+-
+                             
+-
+                          
+-
+                         
+-
+                  
+Bidvest Advisory Services Pty Ltd
+100
+         
+100
+         
+-
+                             
+-
+                          
+-
+                         
+-
+                  
+Bidvest Corporate Services Pty Ltd #
+ 
+100
+         
+100
+         
+-
+                             
+-
+                          
+51 688
+                   
+51 688
+            
+Bidvest Industrial Holdings Pty Ltd                                                                   
+ 
+100
+         
+100
+         
+4 908 690 257
+           
+4 756 070 914
+     
+217 199 461
+          
+45 698 568
+     
+Bidvest Namibia Commercial and Industrial Services and Products Pty Ltd
+12
+100
+         
+100
+         
+-
+                             
+-
+                          
+-
+                         
+-
+                  
+Bidvest Namibia Commercial Holdings Pty Ltd
+12
+100
+         
+100
+         
+-
+                             
+-
+                          
+-
+                         
+-
+                  
+Bidvest Namibia Limited
+12
+100
+         
+100
+         
+607 238 638
+              
+607 238 638
+        
+-
+                         
+-
+                  
+Bidvest Namibia Management Services Pty Ltd *
+12
+-
+              
+100
+         
+-
+                             
+-
+                          
+-
+                         
+-
+                  
+Bidvest Procurement Pty Ltd#
+ 
+100
+         
+100
+         
+-
+                             
+-
+                          
+-
+                         
+-
+                  
+Bidvest South Africa Pty Ltd#
+100
+         
+100
+         
+-
+                             
+-
+                          
+-
+                         
+-
+                  
+Bidvest Treasury Services Pty Ltd
+ 
+100
+         
+100
+         
+-
+                             
+-
+                          
+(439 020 599)
+         
+(439 020 599)
+  
+Bidvest Wits University Football Club Pty Ltd
+ 
+100
+         
+100
+         
+-
+                             
+-
+                          
+-
+                         
+-
+                  
+Bidvest Freight UK Limited
+20
+100
+         
+100
+         
+-
+                          
+-
+                  
+Bidvest Outsourced Services Limited *
+20
+-
+              
+100
+         
+-
+                             
+-
+                          
+-
+                         
+-
+                  
+37
+
+--- PAGE 39 (full dump) ---
+Interest in subsidiaries and associates
+as at 30 June
+Annexure A
+Effective 
+holdings 
+Effective 
+holdings 
+ Shares 
+ Shares⁷ 
+ Indebtedness 
+ Indebtedness 
+ Note 
+2025
+2024
+2025
+2024
+2025
+2024
+%
+%
+R
+R 
+R
+R 
+ Country of 
+incorporation if 
+not SA 
+Significant subsidiaries
+ 
+       
+Bidvest Corporate (L) (continued)
+Bidvest Property Limited *
+20
+-
+              
+100
+         
+-
+                             
+-
+                          
+-
+                         
+-
+                  
+Bidvestco Limited
+ 
+100
+         
+100
+         
+44 068 357
+                
+44 068 357
+          
+(44 068 357)
+           
+(44 068 357)
+    
+Duiker Investments 172 Pty Ltd
+12
+100
+         
+100
+         
+244
+                            
+244
+                      
+-
+                         
+-
+                  
+Duiker 2019 Pty Ltd
+12
+100
+         
+100
+         
+1
+                                
+1
+                          
+(3 064)
+                    
+(3 064)
+             
+12
+100
+         
+100
+         
+2 135
+                         
+2 135
+                   
+(2 136)
+                    
+(2 136)
+             
+20
+-
+                
+100
+           
+-
+                             
+-
+                            
+-
+                         
+-
+                    
+100
+         
+100
+         
+-
+                             
+-
+                          
+-
+                         
+-
+                  
+20
+100
+         
+100
+         
+3 263 949 841
+           
+3 227 656 745
+     
+-
+                         
+-
+                  
+1
+100
+         
+100
+         
+-
+                          
+-
+                  
+15
+100
+         
+100
+         
+-
+                             
+-
+                          
+-
+                         
+-
+                  
+100
+         
+100
+         
+-
+                             
+-
+                          
+(567 705)
+                
+(567 705)
+         
+100
+         
+100
+         
+-
+                             
+-
+                          
+(117 494 094)
+         
+(117 494 094)
+  
+56 432 662
+                
+55 770 167
+          
+(4 383 798)
+             
+(4 383 999)
+      
+29 974 597 275
+         
+30 061 787 700
+    
+(51 065 378)
+           
+(253 347 612)
+    
+Significant associates and joint ventures
+Adcock Ingram Limited (India) (JV) (N)
+6
+50
+             
+50
+             
+-
+                             
+-
+                            
+-
+                         
+-
+                         
+DKTOB Pty Ltd (Daelibs) (I) 
+1
+38
+             
+38
+             
+-
+                             
+-
+                            
+-
+                         
+-
+                         
+"K" Line Shipping (South Africa) Pty Ltd (D)
+  
+49
+             
+49
+             
+-
+                             
+-
+                            
+-
+                         
+-
+                         
+Ilembe Aiport Construction Services Pty Ltd (P)
+20
+             
+20
+             
+-
+                             
+-
+                            
+-
+                         
+-
+                         
+National Renal Care Pty Ltd  (JV) (N)
+50
+             
+50
+             
+-
+                             
+-
+                            
+-
+                         
+-
+                         
+Strait Access Technologies Pty Ltd (N)
+50
+             
+50
+             
+-
+                             
+-
+                            
+-
+                         
+-
+                         
+Other
+1 531 540
+                  
+1 531 540
+            
+-
+                         
+-
+                       
+1 531 540
+                  
+1 531 540
+             
+1 531 540
+              
+1 531 540
+         
+Footnotes
+^ acquired during 2025
+* disposed during 2025
+# trading as an agent
+Country of incorporation if not South Africa
+1
+      
+Australia
+Nature of business
+2
+      
+Botswana
+(A)
+Motor vehicle retailing and related services
+3
+      
+Canada
+(B)
+Manufacturer and distributor of electrical products and services
+4
+      
+Ghana
+(C)
+Banking products and services, foreign exchange and insurance
+5
+      
+Hong Kong
+(D)
+Freight, forwarding, clearing, distribution, warehousing 
+6
+      
+India
+and allied activities
+7
+      
+Isle of Man
+(E)
+Distributor of forklifts, power and marine products, music and sound 
+8
+      
+Kenya
+equipment,  packaging closures and catering equipment
+9
+      
+Lesotho
+(F)
+Distributor of office stationery; furniture and office automation
+10
+    
+Mauritius
+products and related services
+11
+    
+Mozambique
+(G)
+Manufacturer, supplier and distributor of commercial office products,
+12
+    
+Namibia
+printer products, services, stationery and packaging products
+13
+    
+Republic of Ireland
+(H)
+Rental of garments and water and coffee dispensers, suppliers of 
+14
+    
+Seychelles
+consumables, specialised clothing and laundry; security, interior and
+15
+    
+Singapore
+exterior landscaping services
+16
+    
+Spain
+(I)
+Rental of hygiene equipment and suppliers of consumables, cleaning, 
+17
+    
+Eswatini
+hygiene and facilities management services
+18
+    
+Uganda
+(J)
+Travel management services, aviation services and car rental
+19
+    
+United Arab Emirates
+(K)
+Catering supplies, food and allied products
+20
+    
+United Kingdom
+(L)
+Group services and investment
+21
+    
+United States
+(M)
+Distributor of electrical appliances 
+22
+    
+Zambia
+(N)
+ 
+Manufacturer, marketer and distributor of healthcare products
+23
+    
+Zimbabwe
+(O)
+Property holding
+(P)
+Construction
+Additional Notes
+(Q)
+Public private partnership 
+1
+     
+JV
+Joint venture
+ The Group has power over this subsidiary as it has the ability to direct the relevant 
+activities of the subsidiary unilaterally. 
+The Bidvest Group (UK) PLc
+The Bidvest Group Australia Pty Ltd
+The Bidvest Group Singapore Pte Ltd 
+The Bidvest Incentive Scheme Trust
+Bidvest Capital Pty Ltd
+⁷ - Refer to note 8 of the financial statements. In the prior year the Share-based payments allocated to subsidiaries were erroneously not allocated to individual investments. In the current year the IFRS 2 share-based 
+payments were allocated to individual investments. This error has been corrected for the current and comparative period in accordance with IAS 8. This has no impact of the primary statements.
+Duiker Investments 2020 Pty Ltd
+Skillion Limited *
+The Bidvest Education Trust
+Other
+38
+
+--- PAGE 40 (full dump) ---
+Annexure B: Directors' remuneration
+for the year ended 30 June
+Directors' remuneration
+The remuneration paid to executive directors while in office of the Company during the year ended 30 June 2025 is analysed as follows:
+ Basic remuneration 
+Retirement/   
+medical 
+benefits
+Other benefits 
+and costs
+Cash incentives
+Benefit arising from 
+the exercise of share 
+based incentives
+Total emoluments
+Director
+R'000
+R'000
+R'000
+R'000
+R'000
+R'000
+13 472
+                      
+757
+              
+                     645 
+                   12 718 
+                        30 905 
+                       58 497 
+6 164
+                        
+370
+              
+                     416 
+                    5 396 
+                        14 502 
+                       26 848 
+Mr MJ Steyn
+7 878
+                        
+283
+              
+                     555 
+                    6 728 
+                        22 017 
+                       37 461 
+2025 Total
+27 514
+                      
+1 410
+           
+1 616
+                
+24 842
+                 
+67 424
+                       
+122 806
+                    
+The remuneration paid to executive directors while in office of the Company during the year ended 30 June 2024 is analysed as follows:
+ Basic remuneration 
+Retirement/   
+medical 
+benefits
+Other benefits and 
+costs
+Cash incentives
+Benefit arising from the 
+exercise of share based 
+incentives
+Total emoluments
+R'000
+R'000
+R'000
+R'000
+R'000
+R'000
+12 795
+                        
+757
+                
+                      726 
+                    19 493 
+                         33 175 
+                        66 946 
+5 847
+                          
+370
+                
+                      389 
+                     8 271 
+                         11 928 
+                        26 805 
+7 483
+                        
+283
+              
+                     520 
+                   10 313 
+                        19 327 
+                       37 926 
+2024 Total
+26 125
+                        
+1 410
+             
+1 635
+                  
+38 077
+                   
+64 430
+                         
+131 677
+                      
+ As directors 
+ of subsidiary 
+ companies 
+ Directors' 
+ and other 
+ Total 
+ 2024 
+ fees⁵ 
+ services 
+ emoluments 
+ Total 
+Directors
+R'000 
+R'000 
+R'000 
+R'000 
+                   3 676 
+                        704 
+                           4 380 
+                          2 776 
+Ms L Boyce⁷
+                  1 493 
+                       483 
+                          1 976 
+                         1 732 
+Ms FN Khanyile
+                   1 209 
+                           -   
+                           1 209 
+                          1 024 
+Ms MG Khumalo
+                   1 263 
+                           -   
+                           1 263 
+                          1 092 
+                   1 687 
+                        158 
+                           1 845 
+                          1 553 
+                   1 390 
+                           -   
+                           1 390 
+                                -   
+                   2 354 
+                        136 
+                           2 490 
+                          1 894 
+Mr K Shuenyane
+                      984 
+                           -   
+                              984 
+                             619 
+                      533 
+                           -   
+                              533 
+                          1 039 
+                14 589 
+                    1 481 
+                        16 070 
+                       11 729 
+                11 270 
+                       459 
+                        11 729 
+                               -   
+⁹ - Retired 29 November 2024
+⁶ - Other director services rendered.
+⁸ - Appointed 9 September 2024
+⁷ - Other services includes directors fees received from Adcock Ingram Holdings Limited
+⁵ - The above fees are net of VAT, which may be payable depending on the status of the individual director's tax position.
+Mr DS Masata⁸
+2025 total
+2024 total
+Mr NW Thomson⁹
+Ms GC McMahon
+Dr RK Mokate⁶
+Mr BF Mohale⁶
+Ms SN Mabaso-Koyana⁶
+The fees paid to non-executive directors while in office of the Company during the year ended 30 June 2025 is analysed as follows:
+2025
+Ms MJ Steyn
+Certain executive directors serve as non-executive directors of companies outside of the Group. Directors' fees in this regard are paid to the Group.
+Ms NT Madisa
+Ms GC McMahon
+Ms NT Madisa
+39
+
+--- PAGE 41 (full dump) ---
+Directors' long-term incentives
+ Average  
+ Average  
+ price 
+ Market  
+ Market  
+ price 
+Directors
+Number 
+R 
+Number 
+price 
+Number 
+price 
+Number 
+R 
+Ms NT Madisa
+       20 000 
+         301,54                                 -   
+                   -   
+                        -   
+                           -   
+                         20 000 
+                        301,54 
+Ms GC McMahon
+       20 000 
+         288,84 
+(5 000)
+                         
+           250,73 
+                        -   
+                           -   
+                         15 000 
+                        301,54 
+Mr MJ Steyn
+       11 250 
+         284,60 
+(3 750)
+                         
+           250,73 
+                        -   
+                           -   
+                           7 500 
+                        301,54 
+      51 250 
+        292,87                         (8 750)
+          250,73 
+                       -   
+                          -   
+                        42 500 
+                       301,54 
+ Average  
+ Average  
+ Average  
+ price 
+ price 
+ Market  
+ price 
+Directors
+Number 
+R 
+Number
+R 
+Number 
+price 
+Number 
+R 
+Mr MJ Steyn
+      40 000 
+        158,75 
+(40 000)
+                       
+          158,75 
+                       -   
+                          -   
+                                -   
+                               -   
+A grant in terms of the conditional share plan (CSP) is a right to a share, which is awarded subject to performance and vesting conditions.
+ Accelerated  
+ Closing  
+Balance at 30 
+New 
+Shares  
+vested shares  
+balance 30 
+June 2024 
+award 
+Forfeited 
+vested 
+vested 
+June 2025 
+Director
+Number 
+Number 
+Number 
+Number 
+Number 
+Number 
+Ms NT Madisa
+359 422
+                      
+          120 000 
+                 (5 952)
+                (107 712)
+                                 -   
+                      365 758 
+Ms GC McMahon
+151 441
+                      
+           46 700 
+                 (2 448)
+                  (42 124)
+                                 -   
+                      153 569 
+Mr MJ Steyn
+189 596
+                      
+           58 500 
+                 (3 004)
+                  (51 827)
+                                 -   
+                      193 265 
+700 459
+                      
+225 200
+         
+(11 404)
+               
+(201 663)
+                
+                                -   
+                     712 592 
+Share-based payment expense
+2025 
+2024 
+R'000 
+R'000 
+Ms NT Madisa
+                        17 965 
+                       17 203 
+Ms GC McMahon
+                          7 037 
+                         7 812 
+Mr MJ Steyn
+                          9 996 
+                         8 571 
+                         34 998 
+                        33 586 
+ 30 June 2025 
+Details of the directors and officers' outstanding replacement rights are as follows:
+ Replacement rights at 
+ Replacement rights  
+ Replacement rights 
+ Replacement rights at 
+ 30 June 2024 
+ exercised during the year 
+ lapsed during the year 
+ 30 June 2025 
+Prescribed officers
+Due to the nature and structure of the Group and the number of executive directors on the board of the Company, the directors have concluded that there are no prescribed officers of the 
+Company.
+A share appreciation right (SAR) is a right awarded subject to the appreciation of the Company's shares.
+ SAR at 
+ SAR converted  
+ SAR lapsed 
+ SARs at 
+ 30 June 2024 
+ during the year 
+ during the year 
+40
+

@@ -1,0 +1,3639 @@
+Source: results-booklet.pdf
+Target fiscal year: 2024
+Total relevant pages extracted: 32
+================================================================================
+
+--- PAGE 4 (matched: context) ---
+Group revenue of 
+R151 billion 
+was up 26.4%, positively impacted by 
+the acquisition of Egypt^.
+Group service revenue growth was
+29.1%, 
+and including Egypt on a pro-forma basis was
+9.2%.
+Group EBITDA growth of
+24.3%
+or 7.8% on a pro-forma basis.
+Group free cashflow generation of
+R18.2 billion 
+supported lower leverage of 0.9x net debt 
+to EBITDA. 
+Serve a combined 
+203.1 million 
+customers across the Group, including Safaricom 
+on a 100% basis.
+78.9 million 
+financial services customers, including 
+Safaricom on a 100% basis, transacting 
+US$1.1 billion per day. 
+Financial services revenue increased 32.2% to 
+R13.0 billion, 
+contributing 10.8% to Group service revenue.
+Full year dividend of 
+590cps, consistent with our policy.
+Certain financial information presented in this results announcement constitutes pro-forma financial information in terms of the JSE Listings 
+Requirements. The applicable criteria on the basis of which this pro-forma financial information has been prepared is set out in the supplementary 
+information on pages 48 to 55. The pro-forma financial information includes: 
+* 
+Normalised growth, which presents performance on a comparable basis. This adjusts for trading foreign exchange, foreign currency fluctuation on a 
+constant currency basis (using the current year as the base) and excludes the impact of merger, acquisition and disposal activities, at a constant 
+currency basis where applicable, to show a like-for-like comparison of results.
+Amounts marked with an * in this document represent normalised growth as defined above.
+All growth rates quoted are year-on-year and refer to the year ended 31 March 2024 compared to the year ended 31 March 2023, unless 
+stated otherwise.
+^ Vodafone Egypt Telecommunications SAE (Egypt) was consolidated from 8 December 2022, representing the effective date of the transaction. 
+Results comparable with our medium-term targets or pro-forma results have been presented for the Group as if the effective date of the Egypt 
+acquisition was 1 April 2022, thus showing the segment's financial information on a full year basis.
+Growth rates for Safaricom Plc (Safaricom) are in local currency and year-on-year, unless otherwise stated. Safaricom results announcements are 
+available at: www.safaricom.co.ke/investor-relations-landing/reports/financial-report/financial-results.
+Highlights
+2
+Vodacom Group Limited
+
+--- PAGE 5 (matched: fx_exposure) ---
+Group statutory performance measures1
+Year ended 31 March
+% change
+Rm
+2024
+2023
+Reported
+Revenue
+ 
+150 594  
+119 170  
+26.4 
+Service revenue
+ 
+120 897  
+93 650  
+29.1 
+Net profit from associates and joint ventures
+ 
+2 197  
+2 607  
+(15.7) 
+Operating profit
+ 
+35 337  
+29 252  
+20.8 
+Net profit
+ 
+19 262  
+18 111  
+6.4 
+Net debt to EBITDA
+ 
+0.9  
+1.1 
+(0.2x)
+Earnings per share (cents)
+ 
+842  
+948  
+(11.2) 
+Headline earnings per share (cents)
+ 
+846  
+948  
+(10.8) 
+Total dividend per share (cents)
+ 
+590  
+670 
+ (11.9) 
+Group additional performance measures
+Year ended 31 March
+% change
+Rm
+2024
+2023
+Reported
+EBITDA
+ 
+56 116  
+45 144  
+24.3 
+EBITDA margin (%)1
+ 37.3 
+ 37.9 
+(0.6ppts)
+Capital expenditure2
+ 
+20 422  
+16 490  
+23.8 
+Capital intensity (%)2
+ 13.6 
+ 13.8 
+(0.2ppts)
+Operating free cash flow3
+ 
+30 305  
+25 111  
+20.7 
+Free cash flow3
+ 
+18 209  
+18 524  
+(1.7) 
+Financial services revenue4
+ 
+13 033  
+9 856  
+32.2 
+In the table below we provide a reconciliation of Group reported to pro-forma metrics. The pro-forma^ metrics are 
+comparable with our medium-term targets and show the results on a constant currency basis, including Egypt as if the 
+effective date of the acquisition was 1 April 2022. The pro-forma analysis is provided to assist with understanding the 
+Group’s like-for-like performance, as Egypt was consolidated from 8 December 2022. 
+Year ended 31 March
+2024
+2023 % change
+2024
+2023 % change
+Rm
+Service revenue
+EBITDA
+Consolidated Group
+ 120 897  93 650  
+29.1 
+ 56 116  45 144  
+24.3 
+Foreign exchange rate impact – trading
+ 
+–  
+– 
+ 1 599  
+709 
+Foreign exchange rate impact – translation
+ 
+–  
+1 292 
+ 
+–  
+487 
+Egypt pro-forma adjustment
+ 
+–  15 733 
+ 
+–  
+7 194 
+Group pro-forma (target comparable)
+ 120 897  110 675  
+9.2 
+ 57 715  53 534  
+7.8 
+Reviewed Annual Results and cash dividend distribution for the year ended 31 March 2024
+3
+Notes:
+1. EBITDA margin is EBITDA as a percentage of revenue.
+2. Detail relating to capital expenditure is on page 17. Capital intensity is capital expenditure as a percentage of revenue.
+3. A reconciliation of operating free cash flow and free cash flow is set out on page 55.
+4. The combination of South Africa financial services revenue, Egypt financial services revenue and International M-Pesa revenue.
+^ Egypt was consolidated from 8 December 2022, representing the effective date of the transaction. Target comparable or 'pro-forma' results have 
+been presented for the Group as if the effective date of the Egypt acquisition was 1 April 2022 on a constant currency basis. Egypt's pro-forma 
+EBITDA adjusts for a trading foreign exchange loss of R1 389 million (FY2023: R967 million).
+
+--- PAGE 6 (matched: context) ---
+Purpose-led business model
+This year we simplified and evolved our purpose to focus on ‘Empowering People’ and ‘Protecting the Planet’ in a digital 
+society. This evolution from our previous three-pillar Purpose approach reflects the importance of creating a digital 
+society that is inclusive and sustainable. Further, we remain focused on the delivery of our Social Contract with 
+stakeholders to ensure that we make meaningful contributions to digital and financial inclusion. We added over 2 300 4G 
+sites in the year and increased our financial service customers to 78.9 million, including Safaricom. We also sustained our 
+progress on gender empowerment in FY2024, with 39% representation of women in senior management roles. 
+Beyond our initiatives in connectivity, financial services and gender inclusion in our workforce, we leverage digital 
+inclusion to empower people. Our Code like a Girl programme to promote women empowerment through technological 
+inclusion has reached almost 16 000 young women in Africa. Additionally, our National Relay Service in South Africa 
+promotes digital inclusion for persons with disabilities, while in DRC our Je Suis Cap (I Am Capable) programme helped       
+1 450 women living with a disability to become M-Pesa agents. For the planet, we have committed to net zero for            
+scope 1 and 2 by 2035 and submitted our ambition for verification in terms of the Science Based Targets initiative.
+We partner with governments and other stakeholders to provide innovative solutions enabled by technology. Our Tech 
+for Good solutions are key enablers of inclusion and address challenges across critical industries, including healthcare, 
+education and agriculture. Notable initiatives in healthcare include our stock monitoring solution in South Africa, to 
+Tanzania’s m-mama for maternal and neonatal emergencies, to digitalising Universal Health Insurance in Egypt. Our 
+digital education solutions facilitate access to quality educational resources for more than 4 million learners in our 
+markets. Our subsidiary, Mezzanine, has developed several solutions for the agricultural sector to help small-scale 
+farmers prosper, leverage IoT to enhance data-driven decision-making for commercial farms, facilitate the distribution 
+of subsidies to smallholder farmers and improve access to loans and insurance. These, and our many other purpose-led 
+programmes, will be detailed in our ESG report to be published in June 2024. 
+Pleasingly, our progress and reporting on ESG was again recognised by leading rating agencies in FY2024, including 
+Sustainalytics which considers Vodacom a low ESG risk. We retained our ESG leader AAA rating from MSCI. We were also 
+proud that Vodacom was recognised for leadership in addressing climate change and was awarded an A- rating in the 
+latest CDP climate change assessment. Leveraging our commitment to inclusion we originated a new R2.0 billion 
+sustainability linked loan in the year, having been the first South African telco to raise an ESG loan in 2019. 
+Positioned for improved returns 
+Our multi-product strategy, called the System of Advantage, aims to deliver diversified, differentiated offerings to our 
+customers, further strengthening and growing our relationships with them. The resilience of our strategy was tested 
+again in the current financial year as we faced high inflation and interest rates, energy cost inflation and uncertainty, and 
+foreign exchange rate volatility. Despite the pressures associated with this economic cycle, we continued to invest in and 
+execute on our strategy, such that we are well positioned to deliver attractive returns over the medium-term with a 
+portfolio of market leading assets across Africa. 
+Building on the strong commercial momentum of FY2024, we have upgraded our Group service revenue target from mid-
+to-high to high single digit growth. Our Group EBITDA growth and capital intensity prospects for the medium-term remain 
+unchanged, as follows: 
+• Group service revenue growth of high single digit growth;
+• Group EBITDA growth of high single digit growth; and
+• Group capital expenditure of 13.0% – 14.5% as a percentage of Group revenue.
+These targets are on average, over the next three years, and are on a normalised basis in constant currency, based on 
+prevailing economic conditions, but excluding spectrum purchases, exceptional items and any other merger and 
+acquisition activity. The targets do not account for potential hyperinflation adjustments. Egypt is included in the base 
+year (FY2024) at the prevailing exchange rate of ZAR/EGP of 2.6.
+Strategic overview
+4
+Vodacom Group Limited
+
+--- PAGE 7 (matched: fx_exposure) ---
+Group service revenue and EBITDA growth within target range 
+Year ended 31 March
+2024
+2023 % change
+2024
+2023 % change
+Rm
+Service revenue
+EBITDA
+Consolidated Group
+ 120 897  93 650  
+29.1 
+ 56 116  45 144  
+24.3 
+Foreign exchange rate impact – trading
+ 
+–  
+– 
+ 1 599  
+709 
+Foreign exchange rate impact – translation
+ 
+–  
+1 292 
+ 
+–  
+487 
+Egypt pro-forma adjustment
+ 
+–  15 733 
+ 
+–  
+7 194 
+Group pro-forma (target comparable)
+ 120 897  110 675  
+9.2 
+ 57 715  53 534  
+7.8 
+Group service revenue grew 29.1% to almost R120.9 billion, positively impacted by the acquisition of Egypt. On a 
+pro-forma basis (comparable with the medium-term targets), Group service revenue growth was 9.2%, at the higher end 
+of our medium-term range. This reflected strong growth from Egypt of 31.6% in local currency, consistent with inflation 
+levels in the market, and good growth in Group new services. In aggregate, our new services, which include digital and 
+financial, fixed and IoT amounted to R24.2 billion and contributed 20.0% of Group service revenue, up from 18.7% in the 
+prior year. 
+Group EBITDA increased 24.3% to R56.1 billion, representing an EBITDA margin of 37.3%. The EBITDA result was impacted 
+by foreign exchange rate losses of R1.6 billion, as a result of Egypt's March 2024 devaluation, and higher energy costs 
+across the Group. Adjusting for the impact of the foreign exchange losses, the Group EBITDA margin was 38.3%. 
+On a pro-forma basis, Group EBITDA growth was 7.8% in the year, accelerating to within our target range of 
+high-single digit growth in the second half period. Egypt, with pro-forma EBITDA growth of 39.5%, was the key driver of 
+the Group result. Egypt's performance was supported by excellent revenue growth and cost containment. South Africa 
+EBITDA grew 0.7% impacted by slower prepaid and Vodacom Business revenue growth and higher network costs. 
+International business EBITDA growth was 8.2%, or 1.4%* on a normalised basis, as excellent results in Tanzania were 
+offset by pressure in Mozambique. 
+Headline earnings per share (HEPS) declined 10.8% to 846 cents per share (cps). The decline was attributable to foreign 
+exchange rate losses (56 cps), start-up losses in Ethiopia (21 cps), higher finance costs (91 cps) and a prior year deferred 
+tax asset recognised in Tanzania (15 cps). Despite inflationary pressures, Egypt posted net income growth of 53.7% in 
+local currency, highlighting the assets growth trajectory and scope for strong rand returns over the medium term. 
+Separately, the Board declared a final dividend per share of 285cps, which reflects our dividend policy of at least 75% of 
+headline earnings. 
+We generated operating free cash flow of R30.3 billion, up 20.7%, having invested R20.4 billion into capital expenditure, 
+a further R6.2 billion applied to lease payments and R0.2 billion absorbed into working capital. Capital expenditure 
+increased 23.8% with the inclusion of Egypt. Our Group free cash flow, which captures our cash interest, tax and minority 
+dividends, was R18.2 billion and declined 1.7%. The result was impacted by the phasing of Safaricom dividends, which 
+positively impacted the prior year free cash flow by R1.0 billion. Adjusting for this phasing impact, Group free cash flow 
+grew 4.0%. In the year, the Group also invested in spectrum in the DRC and settled the final R2.2 billion tranche of the 
+South African spectrum acquired in the March 2022 auction. 
+Reviewed Annual Results and cash dividend distribution for the year ended 31 March 2024
+5
+
+--- PAGE 8 (matched: context) ---
+Leading African FinTech operator2
+Financial services revenue
+Year ended 31 March
+% change
+Rm
+2024
+2023
+Reported
+Normalised*
+Pro-forma^
+South Africa
+ 
+3 187  
+2 954 
+7.9
+7.9
+Egypt
+ 
+1 947  
+398 
+>100.0
+107.3^
+International
+ 
+7 899  
+6 504 
+21.4
+13.1
+Consolidated Group
+ 
+13 033  
+9 856 
+32.2
+ 11.6 
+19.9^
+Safaricom (100% basis)1
+ 
+18 008  
+16 449 
+9.5
+19.5
+Financial services revenue reached R13.0 billion, up 32.2% and on a pro-forma basis was up 0.1%. In South Africa, growth 
+of 7.9% was driven by our insurance business, as we continued to scale new growth opportunities such as VodaPay. 
+Egypt’s financial services revenue doubled in local currency and was supported by growth in users and volumes of 
+transactions. Normalised M-Pesa revenue in International business grew 13.1%* in the period and 11.4%* in the fourth 
+quarter. New financial services such as loans and merchant offerings contributed two-thirds of M-Pesa revenue growth, 
+consistent with our strategy to expand the ecosystem. 
+Our financial services strategy is supported by a dual-sided ecosystem across consumers and merchants, bringing these 
+segments together through exceptional and personalised experiences relating to entertainment, e-commerce, 
+payments, savings, investments, lending and insurance services. As key drivers of this strategy, our super-apps – VodaPay, 
+Vodafone Cash and M-Pesa – integrate our own products and services with the best offerings from our partners. Looking 
+ahead, we will replicate Egypt's successful one-app strategy across our other markets by combining our 
+telecommunication apps into the super-apps. 
+Alongside the super-app roll out, our active merchant base continued to scale meaningfully in South Africa and across 
+our International business. Our merchant base in South Africa extended to over 10 000, while across our International 
+business, we doubled M-Pesa merchants to 395 000. We also see an exciting opportunity for merchant services in Egypt, 
+and expect to build out new merchant capabilities and other financial services in FY2025 by leveraging the Group's 
+product roadmap.
+Our mobile money platforms, including Safaricom, processed US$381.2 billion of transaction value over the last twelve 
+months, representing clear leadership in the African FinTech space. The mobile money transactions reached 33.7 billion, 
+up an impressive 34.3%. 
+Strategic overview continued
+6
+Vodacom Group Limited
+Note:
+1.
+2The Group’s effective interest of 34.94% in Safaricom is accounted for as an investment in associate. Results represent 100% of Safaricom and are 
+for information purposes only.
+
+--- PAGE 11 (matched: context) ---
+Fixed service revenue was up 18.4%, excluding wholesale transit. The result was supported by good customer adoption of 
+fibre and project-based revenue. Our homes and businesses connected reached 190 0001, while our own fibre passed 
+almost 166 000 homes and businesses. In the quarter, fixed service revenue excluding wholesale transit grew by 9.7%. 
+Service revenue generated from financial services was up 7.9% to R3.2 billion. Revenue growth was driven by our 
+insurance, payments and lending marketplace businesses. Our Airtime Advance remained an important enabler of digital 
+inclusion and represents 45.7% of total prepaid recharges. Insurance revenue increased by 13.8%, supported by policy 
+growth of 4.5% to 2.7 million. Our super-app, VodaPay, ended the period with 10.4 million downloads and 5.8 million 
+registered users. Managed alongside financial services, our digital services had a strong year with revenue of R1.6 billion, 
+up 13.6%.
+Vodacom Business service revenue decreased by 0.8% to R17.3 billion, with pressure on wholesale revenue. Excluding 
+wholesale revenue, Vodacom Business service revenue was up 3.4% for the year. Cloud, hosting and security supported 
+growth, with revenue for this segment up 38.5%.
+EBITDA grew by 0.7% impacted by pressure on prepaid service revenue and higher network operating costs. The EBITDA 
+margin moderated by 1.2ppts to 37.2%, and was impacted by growth of lower margin equipment revenue, Cloud reseller 
+margins and higher network and payroll costs. Payroll costs were up 16.9% on a reported basis as a result of lower 
+capitalised overheads, which from a cash perspective was offset by capital expenditure savings. Operating profit declined 
+3.6% as a result of higher depreciation and amortisation.
+We invested R11.1 billion in our network to support network resilience, leverage our new spectrum assets and enhance 
+our IT platforms to maintain our competitive edge and remain South Africa's most reliable network and network NPS 
+leader. Looking ahead into FY2025, we expect the macroeconomic outlook to remain subdued. To mitigate this impact 
+we expect to continue scaling new services, implement 'more for more' price adjustments and accelerate cost saving 
+initiatives. We expect that these initiatives will support improved EBITDA growth prospects.
+Reviewed Annual Results and cash dividend distribution for the year ended 31 March 2024
+9
+
+--- PAGE 12 (matched: fx_exposure) ---
+Egypt
+Summary financial information
+Reported (Rm)
+Pro-forma information (EGPm)^1
+Year ended 31 March
+Year ended 31 March
+% change
+Rm
+2024
+2023
+2024
+2023
+Reported
+Service revenue
+ 
+30 179  
+7 976 
+ 
+51 432  
+39 073  
+31.6 
+EBITDA
+ 
+13 067  
+2 859 
+ 
+21 279  
+16 020  
+32.8 
+EBITDA excluding trading FX impact
+ 
+14 456  
+3 477 
+ 
+24 627  
+17 652  
+39.5 
+Operating profit
+ 
+8 774  
+1 710 
+ 
+14 004  
+9 493  
+47.5 
+Capital expenditure
+ 
+4 617  
+1 225 
+ 
+7 792  
+5 953  
+30.9 
+Egypt delivered service revenue of R30.2 billion, contributing 25.0% of the Group. In the fourth quarter, service revenue 
+was up 40.5% in local currency, accelerating from 29.1% in the third quarter. Growth was supported by strong customer 
+engagement in connectivity, mobile and fixed price adjustments, and excellent growth in Vodafone Cash. We are 
+encouraged by the meaningful steps taken by the government to support economic growth through foreign direct 
+investment and foreign exchange liquidity. Pleasingly, the dividend declared by Egypt to the Group in first half of FY2024 
+was repatriated to South Africa in March 2024. 
+Egypt ended the period with 48.3 million customers, up 6.2%. ARPU growth of 24.6% reflected price adjustments and 
+strong commercial traction supported by extensive utilisation of big data and analytics. Data traffic was up 41.8% 
+supported by data customer growth of 10.9% to 29.1 million. Smartphones on the network were up 7.0% to 33.1 million. 
+In the fourth quarter, mobile data revenue growth accelerated to 48.1%.
+Growing financial services is a key priority for the Group and Egypt. Financial services revenue for Egypt was R1.9 million 
+(EGP3.3 billion) in the year, accounting for 6.5% of service revenue. In local currency Vodafone Cash revenues more than 
+doubled, with growth accelerating to 107.4% in the fourth quarter. Revenue was supported by customer growth of 52.1% 
+to 8.2 million and strong growth in transaction values, which exceeded EGP1 trillion in the year. The strong growth in 
+customers was supported by our one-app strategy, where we leverage the scale of our mobile customer base to drive 
+Vodafone Cash penetration. Transaction value growth was accelerated by new use cases and an increase of mobile wallet 
+limits during the year. 
+Egypt contributed R13.1 billion to Group EBITDA, or 23.3%. The reported EBITDA margin of 40.2% was impacted by 
+foreign exchange losses on working capital balances as the Egyptian pound depreciated against major currencies in the 
+fourth quarter. Excluding this impact, local currency EBITDA growth was 39.5% at a margin of 44.5%^, reflecting excellent 
+cost control in a high inflation environment and growth in Vodafone Cash, including fee income on deposits. Operating 
+profit growth was 47.5% in local currency, while net income was up 53.7% as Egypt mitigated the foreign exchange losses 
+on working capital through limited growth in depreciation and amortisation charges and higher net finance income. 
+Capital investment was R4.6 billion and represented a capital intensity ratio of 14.2%. We continued to deploy 2 600 MHz 
+spectrum and roll out new sites. We expect to retain a similar capital intensity into FY2025, despite the currency 
+devaluation in March 2024. Further, we expect the business to sustain strong service revenue and EBITDA in FY2025.
+Operational review continued
+10
+Vodacom Group Limited
+Note:
+1.
+1For information purposes only.
+
+--- PAGE 13 (matched: context) ---
+International business
+Summary financial information
+Year ended 31 March
+% change
+Rm
+2024
+2023
+Reported
+Normalised*
+Service revenue
+ 
+29 858  
+26 395  
+13.1  
+5.0 
+EBITDA
+ 
+10 973  
+10 145  
+8.2 
+ 1.4 
+Operating profit
+ 
+4 230  
+4 541  
+(6.8) 
+ (13.2) 
+Capital expenditure
+ 
+4 694  
+4 067  
+15.4 
+Service revenue for our International business increased 13.1% (5.0%*) to R29.9 billion, supported by strong growth in 
+data and M-Pesa and foreign exchange translation tailwinds. Our purpose-led focus on digital and financial inclusion was 
+reflected in reported data revenue growth of 30.5% and M-Pesa revenue growth of 21.4%. From a market perspective, we 
+delivered double-digit local currency growth in Tanzania, while DRC's service revenue growth improved in the second 
+half. Mozambique's performance was disappointing with service revenue declining in the year, however recent regulatory 
+reforms on pricing should meaningfully improve the market's prospects. In the fourth quarter, International business 
+service revenue growth was 9.1% (5.4%*). 
+Customers were up 7.7% to 54.1 million, supported by strong commercial execution. Price transformation and pressure 
+on consumer spend were evident in voice revenue, which declined 1.6% (-7.8% in local currency). Data revenue was 
+R8.0 billion, up 30.5% (21.9%*), and contributed 26.7% of service revenue. We added 1.7 million data customers to end 
+at 24.2 million customers. Data traffic growth of 44.0% was supported by 14.4% smartphone user growth to reach a 
+penetration of 35.2%. We have piloted a new daily repayment model for handset financing in DRC, Mozambique and 
+Tanzania – a product we believe can be scaled to support digital inclusion over the medium-term. 
+M-Pesa revenue was up 21.4% (13.1%*) to R7.9 billion, contributing 26.5% of International service revenue. Growth was 
+supported by a strong performance in Tanzania. New growth areas such as lending and savings products continue to gain 
+traction across the portfolio, contributing more than 70% of the growth. Loans facilitated across our International 
+business more than doubled to R16.9 billion. To grow and diversify the M-Pesa ecosystem, we also accelerated our 
+merchant strategy, more than doubling the number of active merchants to 395 000. 
+International business EBITDA was R11.0 billion and grew by 8.2% (1.4%*) reflecting foreign exchange translation 
+tailwinds. EBITDA margins were 35.6% and 1.7ppt lower than the prior year period. The margin outcome reflects a change 
+in the country mix within the segment, with Tanzania EBITDA growth outpacing the other markets. Tanzania EBITDA 
+margins were flat at 30.8%. Operating profit declined by 6.8%, impacted by higher depreciation, spectrum amortisation 
+and Ethiopia start-up losses associated with Vodacom's (direct) 5.7% stake in the consortium. 
+Capital expenditure increased by 15.4% to R4.7 billion, representing an intensity ratio of 15.2%. We accelerated 
+investment into 4G coverage and performance. From a coverage perspective we added 1 271 new 4G sites, representing 
+growth of 22.1%, which is expected to support revenue growth. We also continued to invest in our transmission networks 
+to enhance our network lead in all our markets. Looking ahead, we will leverage the spectrum assets we secured in the 
+DRC, Mozambique and Tanzania in FY2023 and FY2024 to enhance customer experience. Looking ahead to FY2025, we 
+expect International business performance to improve through the year as regulatory reforms in Mozambique reset the 
+asset's outlook.
+Reviewed Annual Results and cash dividend distribution for the year ended 31 March 2024
+11
+
+--- PAGE 16 (matched: context) ---
+Summary financial information2
+Year ended 31 March
+% change
+Rm
+2024
+2023
+Reported
+Normalised*
+Revenue
+ 
+150 594  
+119 170  
+26.4  
+4.5 
+Service revenue
+ 
+120 897  
+93 650  
+29.1  
+3.4 
+EBITDA
+ 
+56 116  
+45 144  
+24.3  
+0.2 
+Net profit from associates and joint ventures
+ 
+2 197  
+2 607  
+(15.7)  
+(16.8) 
+Operating profit
+ 
+35 337  
+29 252  
+20.8  
+(4.5) 
+Net profit
+ 
+19 262  
+18 111  
+6.4 
+Capital expenditure
+ 
+20 422  
+16 490  
+23.8 
+Operating free cash flow1
+ 
+30 305  
+25 111  
+20.7 
+Free cash flow1
+ 
+18 209  
+18 524  
+(1.7) 
+Net debt
+ 
+49 876  
+48 310  
+3.2 
+Earnings per share (cents)
+ 
+842  
+948  
+(11.2) 
+Headline earnings per share (cents)
+ 
+846  
+948  
+(10.8) 
+Contribution margin2 (%)
+61.7
+61.4
+0.3ppts
+EBITDA margin (%)
+37.3
+37.9
+(0.6ppts)
+Operating profit margin (%)
+23.5
+24.5
+  (1.0ppts)
+Effective tax rate (%)
+31.5
+27.6
+3.9ppts
+Net profit margin (%)
+12.8
+15.2
+(2.4ppts)
+Capital intensity (%)
+13.6
+13.8
+(0.2ppts)
+Net debt/EBITDA (times)
+0.9
+1.1
+(0.2x)
+Service revenue3
+Year ended 31 March
+% change
+Rm
+ 
+2024  
+2023 
+Reported Normalised* Pro-forma^
+South Africa
+ 
+61 621  
+60 038 
+ 
+2.6  
+2.6 
+Egypt
+ 
+30 179  
+7 976 
+>100.0
+ 31.6^ 
+International
+ 
+29 858  
+26 395 
+ 
+13.1 
+ 5.0 
+Corporate and eliminations
+ 
+(761)   
+(759)  
+Group service revenue
+ 
+120 897  
+93 650 
+ 
+29.1  
+3.4  
+9.2^ 
+Safaricom3
+ 
+43 142  
+41 503 
+ 
+3.9 
+ 13.4 
+Group service revenue increased 29.1% to R120.9 billion, boosted by the inclusion of Egypt. Excluding Egypt, service 
+revenue was up 5.9%, while on a normalised basis service revenue increased 3.4%* supported by growth in new services. 
+Our new services which include digital, financial, fixed and IoT amounted to R24.2 billion in aggregate and contributed 
+20.0% of Group service revenue. Financial services delivered service revenue of R13.0 billion, up 19.9%^ on a pro-forma 
+basis, and contributed 10.8% of consolidated service revenue.
+Financial review
+14
+Vodacom Group Limited
+Notes:2
+1. A reconciliation of operating free cash flow and free cash flow is on page 55.
+2. Contribution margin is contribution profit as a percentage of revenue. Contribution profit is revenue less direct expenses.
+3. The Group’s effective interest of 34.94% in Safaricom is accounted for as an investment in associate. Results represent 100% of Safaricom and are 
+for information purposes only.
+
+--- PAGE 17 (matched: fx_exposure) ---
+In South Africa, service revenue increased 2.6% to R61.6 billion, supported by growth in consumer contract, mobile 
+prepaid data and new services. Financial services revenue amounted to R3.2 billion, up 7.9%. New services in aggregate 
+were up 11.2% and contributed R10.2 billion, or 16.6%, of South Africa’s service revenue. 
+In Egypt, service revenue increased 31.6% in local currency supported by strong growth in data, financial services and 
+fixed line services. Financial services revenue doubled and contributed 6.5% to service revenue.
+Our International business reported service revenue growth of 13.1% to R29.9 billion, while normalised growth was 
+5.0%*. The normalised growth was supported by M-Pesa and data revenue. M-Pesa and data revenue comprised 26.5% 
+and 26.7% of International business service revenue, respectively. 
+Safaricom service revenue, which we do not consolidate, grew 13.3% in local currency.
+Total expenses1 4
+Year ended 31 March
+% change
+Rm
+ 
+2024  
+2023 
+Reported
+Normalised*
+South Africa
+ 
+55 609  
+52 195 
+ 
+6.5  
+6.5 
+Egypt
+ 
+19 396  
+5 405 
+>100.0
+International
+ 
+20 245  
+17 228 
+ 
+17.5  
+8.3 
+Corporate and eliminations
+ 
+(581)   
+(271)  
+Group total expenses
+ 
+94 669  
+74 557 
+ 
+27.0  
+6.6 
+Group total expenses increased 27.0% to R94.7 billion. Excluding Egypt, total expenses increased 8.9% (6.6%*). In South 
+Africa, expenses increased 6.5% to R55.6 billion. The rate of growth in South Africa reflects higher equipment costs of 
+sales associated with the higher equipment revenue and pressure on network operating costs. International business 
+expenses increased 17.5% (8.3%*) to R20.2 billion, as incremental cost initiatives were implemented to manage costs 
+around the rate of inflation. 
+EBITDA5
+Year ended 31 March
+% change
+Rm
+ 
+2024  
+2023 
+Reported
+Normalised*
+Pro-forma^
+South Africa
+ 
+32 808  
+32 569 
+ 
+0.7  
+0.8 
+Egypt
+ 
+13 067  
+2 859 
+>100.0
+ 
+0.4^ 
+International
+ 
+10 973  
+10 145 
+ 
+8.2 
+ 1.4 
+Corporate and eliminations
+ 
+(732)   
+(429)  
+Group EBITDA
+ 
+56 116  
+45 144 
+ 
+24.3  
+0.2  
+7.8^ 
+Safaricom2
+ 
+20 949  
+19 635 
+ 6.7 
+ 16.8 
+Group EBITDA increased 24.3% to R56.1 billion at a margin of 37.3%. Excluding Egypt, Group EBITDA was up 1.8% (0.2%*). 
+South Africa EBITDA grew 0.7% to R32.8 billion. South Africa EBITDA margins decreased 1.2% ppts to 37.2% reflecting 
+strong growth in low margin equipment revenue. Egypt contributed R13.1 billion or 23.3% of Group, with an EBITDA 
+margin of 40.2%. Group EBITDA was impacted by a foreign exchange loss of R1.4 billion associated with the devaluation 
+of the Egyptian pound in the fourth quarter. EBITDA in our International business increased 8.2% to R11.0 billion, 
+positively impacted by foreign exchange translation tailwinds. 
+Reviewed Annual Results and cash dividend distribution for the year ended 31 March 2024
+15
+Notes:4
+1. Excluding depreciation, amortisation and impairments. 
+2. The Group’s effective interest of 34.94% in Safaricom is accounted for as an investment in associate. Results represent 100% of Safaricom and are 
+for information purposes only.
+
+--- PAGE 18 (matched: context) ---
+Operating profit
+Year ended 31 March
+% change
+Rm
+ 
+2024  
+2023 
+Reported
+Normalised*
+Pro-forma^
+South Africa
+ 
+20 125  
+20 881 
+ 
+(3.6) 
+ (3.6) 
+Egypt
+ 
+8 774  
+1 710 
+>100.0
+ 47.5^ 
+International
+ 
+4 230  
+4 541 
+ 
+(6.8) 
+ (13.2) 
+Safaricom
+ 
+2 686  
+2 815 
+ 
+(4.6) 
+ (2.2) 
+Corporate and eliminations
+ 
+(478)   
+(695)  
+Group operating profit
+ 
+35 337  
+29 252 
+ 
+20.8 
+ (4.5) 
+ 5.9^ 
+Group operating profit increased 20.8% to R35.3 billion, supported by EBITDA growth but impacted by the expected start-
+up losses in Ethiopia. On a pro-forma basis, operating profit increased 5.9%*, supported by Egypt. 
+In South Africa, operating profit declined 3.6% to R20.1 billion as depreciation and amortisation outpaced EBITDA growth. 
+Higher depreciation and amortisation in South Africa was associated with our investment into energy resilience and new 
+spectrum. Egypt contributed R8.8 billion to Group operating profit, and was up 47.5% in local currency. International 
+business operating profit decreased 6.8% (-13.2%*) to R4.2 billion, as a result of higher depreciation and amortisation. 
+On a rand reported basis, Safaricom contributed R2.7 billion to the Group’s operating profit, declining 4.6% year-on-year. 
+The decline was attributable to foreign exchange rate movements and Ethiopia start-up losses. 
+Net finance charges
+Year ended 31 March
+% change
+Rm
+ 
+2024  
+2023 
+23/24
+Finance income
+ 
+1 416  
+857 
+ 
+65.2 
+Finance costs
+ 
+(8 163)   
+(5 569)   
+46.6 
+Net finance costs
+ 
+(6 747)  
+(4 712)  
+43.2 
+Net (loss)/gain on remeasurement and disposal of financial 
+instruments
+ 
+(454)  
+464 
+ 
+(197.8) 
+Net finance charges
+ 
+(7 201)  
+(4 248)  
+69.5 
+Net finance charges increased 69.5% to R7.2 billion, as a result of higher net debt, higher average cost of debt and 
+a material change in the remeasurement and disposal of financial instruments related to foreign exchange rate 
+movements. The average cost of debt (including leases) increased from 8.6% to 10.5% year-on-year, reflecting the 
+increase in South African Reserve Bank interest rates. Excluding leases, the average cost of debt increased from 7.7% 
+to 9.9%. 
+Financial review continued
+16
+Vodacom Group Limited
+
+--- PAGE 19 (matched: fx_exposure) ---
+Taxation
+The tax expense of R8.9 billion was up 28.5% as a result of including Egypt for the full year compared with four months 
+in the period year. Excluding Egypt, the rest of the Group's tax expense increased 4.8%. The effective tax rate was 31.5%, 
+higher than the prior year as a result of withholding tax on the Egypt dividend, an increase in non-deductible finance costs 
+in the DRC and the non-deductibility of the finance costs associated with the purchase of Egypt and funding of Ethiopia. 
+In the prior year, the effective tax rate was decreased by 1ppt due to the initial recognition of a deferred tax asset 
+in Tanzania. 
+Earnings
+Year ended 31 March
+% change
+2024
+2023
+23/24
+Earnings per share (EPS) (cents)
+ 
+842  
+948  
+(11.2) 
+Headline earnings per share (HEPS) (cents)
+ 
+846  
+948  
+(10.8) 
+Weighted average number of ordinary shares outstanding for 
+the purpose of calculating EPS and HEPS (million)
+ 
+1 934  
+1 769  
+9.3 
+EPS and HEPS both decreased 11.2% and 10.8%, respectively. EPS and HEPS were impacted by start-up losses in Ethiopia, 
+higher finance costs and foreign exchange losses. 
+Owned capital expenditure16
+Year ended 31 March
+% change
+Rm
+ 
+2024 
+2023
+23/24
+South Africa
+ 
+11 115  
+11 171  
+(0.5) 
+Egypt
+ 
+4 617  
+1 225 
+>100.0
+International
+ 
+4 694  
+4 067  
+15.4 
+Corporate and eliminations
+ 
+(4)   
+27 
+Group capital expenditure
+ 
+20 422  
+16 490  
+23.8 
+Group capital intensity (%)
+ 13.6 
+ 13.8 
+(0.2ppts)
+The Group’s capital expenditure was R20.4 billion, representing 13.6% of revenue. Excluding Egypt, Group capital 
+expenditure was down 4.2%. In South Africa, capital expenditure was directed at improving capacity and resilience of the 
+network, and increasing 5G roll-out. We have 99.1% (FY23: 98.5%) 4G population coverage and have extended our 5G 
+sites to 2 300. Egypt invested R4.6 billion on growing and strengthening the network to support increased demand. 
+Across our International business, the focus remained on increasing both coverage and capacity as well as continuing 
+the 4G roll-out.
+Reviewed Annual Results and cash dividend distribution for the year ended 31 March 2024
+17
+Note:
+1.
+6Owned capital expenditure, excluding spectrum, licences and capitalised right-of-use (ROU) assets. Right-of-use (ROU) asset additions were 
+R6 000 million (FY23: R4 033 million) for the Group, of which R3 609 million (FY23: R3 255 million) for South Africa and R1 559 million 
+(FY23: R599 million) in International.
+
+--- PAGE 20 (matched: context) ---
+Statement of financial position7
+Property, plant and equipment increased R0.4 billion to R74.6 billion and intangible assets increased R0.3 billion to 
+R27.9 billion. Net capital additions of R28.8 billion offset the depreciation and amortisation charge of R22.8 billion and 
+foreign exchange revaluation impact of R5.3 billion.
+Year ended 31 March
+Rm
+ 
+2024  
+2023 
+Movement
+Bank and cash balances
+ 
+23 710  
+22 054 
+ 
+1 656 
+Bank overdrafts
+ 
+(2 197)   
+(1 323)   
+(874) 
+Current borrowings
+ 
+(11 741)  
+(8 327)  
+(3 414) 
+Non-current borrowings
+ 
+(59 540)  
+(60 687)  
+1 147 
+Other financial instruments
+ 
+(108)  
+(27)  
+(81) 
+Net debt1
+ 
+(49 876)  
+(48 310)  
+(1 566) 
+Net debt/EBITDA (times)
+ 
+0.9  
+1.1 
+Net debt of R49.9 billion increased as a result of the spectrum payments of R3.4 billion in the year, which included the 
+final R2.2 billion tranche in South Africa. Group net debt to EBITDA improved to 0.9 times, with the increase in net debt 
+offset by higher Group EBITDA. 
+Cash flows2
+Free cash flow
+Year ended 31 March
+% change
+Rm
+ 
+2024  
+2023 
+23/24
+EBITDA
+ 
+56 116  
+45 144 
+ 24.3 
+Working capital
+ 
+205  
+868 
+ (76.4) 
+Capital expenditure3
+ 
+(20 422)   
+(16 490)  
+ (23.8) 
+Disposal of property, plant and equipment
+ 
+153  
+89 
+ 71.9 
+Lease liability payments
+ 
+(6 226)  
+(4 952) 
+ (25.7) 
+Other
+ 
+479  
+452 
+ 6.0 
+Operating free cash flow
+ 
+30 305  
+25 111 
+ 20.7 
+Tax paid
+ 
+(8 112)  
+(7 361) 
+ (10.2) 
+Finance income received
+ 
+1 271  
+871 
+ 45.8 
+Finance costs paid
+ 
+(5 944)  
+(3 918) 
+ (51.7) 
+Net dividends (paid) / received from associates and paid to 
+non-controlling shareholders
+ 
+689  
+3 821 
+ (82.0) 
+Free cash flow
+ 
+18 209  
+18 524 
+ (1.7) 
+Spectrum payments
+ 
+(3 391)  
+(4 286) 
+ 20.9 
+Free cash flow (after spectrum payments)
+ 
+14 818  
+14 238 
+ 4.1 
+Operating free cash flow increased 20.7% on a reported basis and increased 1.5%, excluding Egypt. From operating free cash 
+flow we paid tax of R8.1 billion. We incurred higher net finance costs but were a net receiver of dividends from associates 
+after payments to non-controlling shareholders. The year-on-year decrease in net dividends received reflects a dividend paid 
+to the minority shareholder of Egypt, equating to R1.6 billion, and phasing of Safaricom dividends. In the prior year, due to an 
+earlier dividend payment, we received two interim dividends from Safaricom. The additional Safaricom interim dividend in 
+the prior year equated to R1.0 billion. Adjusting for this impact, free cash flow grew 4.0%. 
+Financial review continued
+18
+Vodacom Group Limited
+Notes:7
+1. Debt includes interest-bearing debt, non-interest-bearing debt, capitalised leases and bank overdrafts.
+2. For the reconciliation of cash generated from operations to free cash flow, refer to page 55.
+3. Capital expenditure comprises the purchase of property, plant and equipment and intangible assets, other than licence and spectrum payments.
+
+--- PAGE 23 (matched: context) ---
+Rm
+Notes
+2024
+Reviewed
+2023
+Audited1
+Revenue
+ 
+3 
+ 
+150 594 
+ 
+119 170 
+Direct expenses
+ 
+(57 700)  
+(45 942) 
+Staff expenses
+ 
+(10 136)  
+(7 746) 
+Publicity expenses
+ 
+(2 156)  
+(1 936) 
+Net credit losses on financial assets
+ 
+(846)  
+(864) 
+Other operating expenses
+ 
+(23 830)  
+(18 069) 
+Depreciation and amortisation
+ 
+(22 786)  
+(17 968) 
+Net profit from associates and joint ventures
+ 
+2 197 
+ 
+2 607 
+Operating profit
+ 
+35 337 
+ 
+29 252 
+Net (loss)/gain on disposal of subsidiaries
+ 
+(13)  
+4 
+Finance income
+ 
+1 416 
+ 
+857 
+Finance costs
+ 
+(8 163)  
+(5 569) 
+Net (loss)/gain on remeasurement and disposal of financial instruments
+ 
+(454)  
+464 
+Profit before tax
+ 
+28 123 
+ 
+25 008 
+Taxation
+ 
+(8 859)  
+(6 897) 
+Net profit
+ 
+19 264 
+ 
+18 111 
+Attributable to:
+Equity shareholders
+ 
+16 292 
+ 
+16 767 
+Non-controlling interests
+ 
+2 972 
+ 
+1 344 
+ 
+19 264 
+ 
+18 111 
+Cents
+Notes
+2024
+Reviewed
+2023
+Audited1
+Basic earnings per share
+4
+ 
+842 
+ 
+948 
+Diluted earnings per share
+4
+ 
+827 
+ 
+921 
+Note:
+1.  The results of Vodafone Egypt have been consolidated from the acquisition date of 8 December 2022. 
+Condensed consolidated income statement
+for the year ended 31 March 2024
+Reviewed Annual Results and cash dividend distribution for the year ended 31 March 2024
+21
+
+--- PAGE 24 (matched: fx_exposure) ---
+Rm
+2024
+Reviewed
+2023
+Audited1
+Net profit
+ 
+19 264 
+ 
+18 111 
+Other comprehensive income 
+Foreign currency translation differences, net of tax2
+ 
+(451)  
+2 985 
+Share of foreign currency translation differences, net of tax, of associates and joint 
+ventures accounted for using the equity method2
+ 
+1 732 
+ 
+565 
+Mark-to-market of financial assets held at fair value through other comprehensive 
+income, net of tax2
+ 
+350 
+ 
+216 
+Mark-to-market gains recognised through profit or loss on disposal of financial assets 
+held at fair value through other comprehensive income, net of tax2
+ 
+(279)  
+(276) 
+Total comprehensive income
+ 
+20 616 
+ 
+21 601 
+Attributable to:
+Equity shareholders
+ 
+19 317 
+ 
+21 207 
+Non-controlling interests
+ 
+1 299 
+ 
+394 
+ 
+20 616 
+ 
+21 601 
+Notes:
+1.  The results of Vodafone Egypt have been consolidated from the acquisition date of 8 December 2022.
+2.  Other comprehensive income can subsequently be recognised in profit or loss on the disposal of foreign operations or financial assets held at fair 
+value through other comprehensive income.
+Condensed consolidated statement
+of comprehensive income
+for the year ended 31 March 2024
+22
+Vodacom Group Limited
+
+--- PAGE 25 (matched: receivables_payables) ---
+Rm
+Notes
+2024
+Reviewed
+2023
+Audited
+Assets
+Non-current assets
+ 
+169 886 
+ 
+162 527 
+Property, plant and equipment
+ 
+74 643 
+ 
+74 241 
+Intangible assets
+ 
+27 924 
+ 
+27 643 
+Financial assets
+ 
+743 
+ 
+800 
+Investment in associates and joint ventures
+ 
+58 334 
+ 
+52 573 
+Trade and other receivables
+ 
+4 458 
+ 
+3 700 
+Finance receivables
+ 
+2 658 
+ 
+2 348 
+Tax receivable
+ 
+468 
+ 
+674 
+Deferred tax
+ 
+658 
+ 
+548 
+Current assets
+ 
+70 727 
+ 
+65 788 
+Financial assets
+ 
+1 414 
+ 
+958 
+Mobile financial deposits
+ 
+11 126 
+ 
+9 832 
+Inventory
+ 
+2 321 
+ 
+2 156 
+Trade and other receivables
+ 
+28 154 
+ 
+27 992 
+Finance receivables
+ 
+3 293 
+ 
+2 508 
+Tax receivable
+ 
+709 
+ 
+288 
+Bank and cash balances
+ 
+23 710 
+ 
+22 054 
+Total assets
+ 
+240 613 
+ 
+228 315 
+Equity and liabilities
+Fully paid share capital
+ 
+89 918 
+ 
+89 918 
+Treasury shares
+ 
+(17 131)  
+(17 055) 
+Retained earnings
+ 
+47 457 
+ 
+43 524 
+Other reserves
+ 
+(27 480)  
+(30 441) 
+Equity attributable to owners of the parent
+ 
+92 764 
+ 
+85 946 
+Non-controlling interests
+ 
+11 064 
+ 
+11 481 
+Total equity
+ 
+103 828 
+ 
+97 427 
+Non-current liabilities
+ 
+65 524 
+ 
+66 502 
+Borrowings
+8
+ 
+59 540 
+ 
+60 687 
+Trade and other payables
+ 
+464 
+ 
+552 
+Provisions
+ 
+1 592 
+ 
+1 406 
+Deferred tax
+ 
+3 928 
+ 
+3 857 
+Current liabilities
+ 
+71 261 
+ 
+64 386 
+Borrowings
+8
+ 
+11 741 
+ 
+8 327 
+Trade and other payables
+ 
+42 585 
+ 
+41 392 
+Mobile financial payables
+ 
+11 126 
+ 
+9 832 
+Provisions
+ 
+614 
+ 
+830 
+Tax payable
+ 
+2 984 
+ 
+2 665 
+Dividends payable
+ 
+14 
+ 
+17 
+Bank overdraft 
+ 
+2 197 
+ 
+1 323 
+Total equity and liabilities
+ 
+240 613 
+ 
+228 315 
+Condensed consolidated statement 
+of financial position
+as at 31 March 2024
+Reviewed Annual Results and cash dividend distribution for the year ended 31 March 2024
+23
+
+--- PAGE 26 (matched: context) ---
+Rm
+Equity 
+attributable to 
+owners of the 
+parent
+Non-
+controlling 
+interests
+Total equity
+Note
+31 March 2023 – Audited
+ 
+85 946  
+11 481  
+97 427 
+Adoption of IFRS 17 insurance contracts
+ 
+11  
+–  
+11 
+1 April 2023
+ 
+85 957  
+11 481  
+97 438 
+Total comprehensive income
+ 
+19 317  
+1 299  
+20 616 
+Dividends
+ 
+(12 370)  
+(1 805)  
+(14 175) 
+Repurchase and sale of shares
+ 
+(438)  
+–  
+(438) 
+Share-based payments
+ 
+430  
+–  
+430 
+Proceeds on subsidiary share issue1
+ 
+–  
+103  
+103 
+Share of changes in subsidiary holdings of associate
+11.2 
+(132)  
+(14)  
+(146) 
+31 March 2024 – Reviewed
+ 
+92 764  
+11 064  
+103 828 
+31 March 2022 – Audited
+ 
+79 437  
+6 029  
+85 466 
+Adoption of IAS 29 by associate entity
+11.2 
+1 953  
+212  
+2 165 
+1 April 2022
+ 
+81 390  
+6 241  
+87 631 
+Total comprehensive income
+ 
+21 207  
+394  
+21 601 
+Dividends
+ 
+(13 127)  
+(569)  
+(13 696) 
+Shares issued on acquisition of subsidiary
+ 
+32 845  
+–  
+32 845 
+Acquisition of subsidiary under common control
+ 
+(36 137)  
+5 105  
+(31 032) 
+Repurchase and sale of shares
+ 
+(377)  
+–  
+(377) 
+Share-based payments
+ 
+438  
+–  
+438 
+Proceeds on subsidiary share issue1
+ 
+–  
+242  
+242 
+Changes in subsidiary holdings
+ 
+(293)  
+68  
+(225) 
+31 March 2023 – Audited
+ 
+85 946  
+11 481  
+97 427 
+Note:
+1.    Non-controlling interests’ share of proportionate additional share capital contributions into 10T Holdings (Pty) Limited.
+Condensed consolidated statement 
+of changes in equity
+for the year ended 31 March 2024
+24
+Vodacom Group Limited
+
+--- PAGE 37 (matched: context) ---
+8 
+Borrowings continued
+On 30 January 2024, the Group repaid a R2 000 million sustainability linked term facility from The Standard 
+Bank of South Africa Limited. The loan was replaced on 31 January 2024 with two new sustainability linked 
+term facilities of R500 million each at 3 month Jibar + 1.25% from China Construction Bank Corporation and 
+Investec Bank Limited, repayable on 31 January 2027, and a sustainability linked loan from Old Mutual 
+Life Assurance Company (South Africa) Limited for R1 000 million at 3 month Jibar + 1.48% repayable on 
+31 January 2031. These loans are linked to selected sustainability performance targets focusing on key 
+performance indicators related to gender diversity and financial inclusion and work off the basis of a 
+sustainability margin adjustment which may be adjusted either upwards or downwards, dependent on the 
+achievement of the specified key performance indicators.
+Included in borrowings repaid and borrowings incurred in the statement of cash flows are cash outflows 
+and cash inflows of R12 980 million (2023: R5 862 million1) and R12 271 million (2023: R4 458 million1) 
+respectively relating to cash movements on committed borrowing facilities of Vodafone Egypt. Also included 
+in borrowings repaid is repayments on lease liabilities of R4 492 million (2023: R3 404 million1) which are 
+classified as borrowings and repayment of R646 million spectrum debt.
+The Group ensures that adequate funds are available to meet its expected and unexpected financial 
+commitments through undrawn borrowing facilities. At the reporting date the Group had undrawn 
+rand-denominated borrowing facilities of R10 396 million (2023: R13 022 million) and undrawn 
+foreign-denominated borrowing facilities of R6 335 million (2023: R7 240 million) available to 
+manage its liquidity. The Group intends to re-finance short term borrowings of R6 530 million at 
+maturities ranging between June 2024 and December 2024.
+Note:
+1.  Vodafone Egypt has been consolidated from the acquisition date of 8 December 2022. 
+Reviewed Annual Results and cash dividend distribution for the year ended 31 March 2024
+35
+
+--- PAGE 38 (matched: receivables_payables) ---
+Rm
+2024
+Reviewed
+2023
+Audited
+9
+Cash flows from operating activities
+Profit before tax
+ 
+28 123 
+ 
+25 008 
+Adjusted for:
+Net loss/(profit) on disposal of subsidiaries
+ 
+13 
+ 
+(4) 
+Finance income
+ 
+(1 416)  
+(857) 
+Finance costs
+ 
+8 163 
+ 
+5 569 
+Net loss/(gain) on remeasurement and disposal of financial 
+instruments
+ 
+454 
+ 
+(464) 
+Operating profit
+ 
+35 337 
+ 
+29 252 
+Adjusted for:
+Depreciation and amortisation
+ 
+22 786 
+ 
+17 968 
+Net loss on disposal of property, plant and equipment and intangible 
+assets
+ 
+117 
+ 
+35 
+Net credit losses on financial assets
+ 
+846 
+ 
+864 
+Share-based payment
+ 
+415 
+ 
+481 
+Net profit from associates and joint ventures
+ 
+(2 197)  
+(2 607) 
+Other
+ 
+13 
+ 
+– 
+Cash flows from operations before working capital changes
+ 
+57 317 
+ 
+45 993 
+Increase in inventory
+ 
+(315)  
+(106) 
+Increase in trade and other receivables
+ 
+(5 205)  
+(4 777) 
+Increase in mobile financial payables, trade and other payables and 
+provisions
+ 
+5 326 
+ 
+7 202 
+Cash generated from operations
+ 
+57 123 
+ 
+48 312 
+10 
+Contingent liabilities
+10.1 
+Tax matters
+The Group is regularly subject to an evaluation by tax authorities of its direct and indirect tax filings, the most 
+significant of which are capital allowances, withholding taxes, customs duty and transfer pricing in certain 
+jurisdictions. The consequence of such reviews is that disputes may arise with tax authorities over the 
+interpretation or application of certain tax rules to the Group's business. The tax laws are in some instances 
+ambiguous and subject to a broad range of interpretations. To address and manage this tax uncertainty, good 
+governance is fundamental to the Group’s business sustainability. All major tax positions taken are subject to 
+review by executive management and are reported to the Board. The Group has support from external 
+advisors with regards to the positions taken in respect of the significant tax matters which confirms the 
+application and interpretation of the tax legislation. The Group has considered all matters in dispute with 
+the relevant tax authorities and has accounted for any exposure identified, if required. The Group has not 
+disclosed all the details in respect of the open tax disputes as these matters are still under the dispute 
+resolution process. These disputes may not necessarily be resolved in a manner that is favourable to 
+the Group.
+Notes to the condensed consolidated financial statements continued
+36
+Vodacom Group Limited
+
+--- PAGE 39 (matched: context) ---
+10 
+Contingent liabilities continued
+10.2 
+Legal contingencies
+The Group is currently involved in various legal disputes across its different jurisdictions and has, in 
+consultation with its legal advisors, assessed the possible outcomes in these cases and has determined that 
+adequate provision has been made in respect of all these cases as at 31 March 2024.
+10.3 
+Kenneth Makate (Mr Makate) vs Vodacom (Pty) Limited (Vodacom)
+Mr Makate, a former employee of Vodacom, started legal proceedings in 2008 claiming compensation for 
+a business idea that led to the development of a service known as “Please Call Me” (PCM). In July 2014, the 
+Gauteng High Court (the High Court) ruled that Mr Makate had proven the existence of a contract, but that 
+Vodacom was not bound by that contract because the responsible director did not have authority to enter 
+into such an agreement on Vodacom’s behalf. The High Court and Supreme Court of Appeal (the SCA) turned 
+down Mr Makate’s application for leave to appeal in December 2014 and March 2015, respectively.
+In April 2016, the Constitutional Court of South Africa (the Constitutional Court) granted leave to appeal and 
+upheld Mr Makate’s appeal. It found that Vodacom is bound by the agreement and ordered the parties to 
+negotiate, in good faith, and agree a reasonable compensation amount payable to Mr Makate or, in the event 
+of a deadlock, for the matter to be referred to Vodacom Group’s Chief Executive Officer (the CEO) for 
+determination. Mr Makate’s application for the aforementioned order to be varied from the determination of 
+an amount to a compensation model based on a share of revenue was dismissed by the Constitutional Court. 
+In accordance with the Constitutional Court order, and after negotiations failed, the CEO issued his 
+determination on 9 January 2019. However, the CEO’s award of R47million was rejected by Mr Makate who 
+subsequently brought an application in the High Court for judicial review against the CEO’s determination and 
+award.  
+The High Court, in a judgment delivered on 8 February 2022, set aside the CEO’s determination and ordered 
+him to reassess the amount employing a set criteria which would have resulted in the payment of a higher 
+compensation amount, for the benefit of Mr. Makate, than that determined by the CEO. Vodacom appealed 
+against the judgment and the order of the High Court to the SCA. The SCA heard the appeal on 9 May 2023 
+and its judgment was handed down on 6 February 2024. A majority of three judges, with a minority of two 
+judges dissenting, dismissed the appeal and ruled that Mr Makate is entitled to be paid 5% - 7.5% of the total 
+revenue of the PCM product from March 2001 to the date of the judgment, plus interest. 
+On 27 February 2024, Vodacom applied for leave to appeal the judgment and order of the SCA to the 
+Constitutional Court, resulting in the suspension of the operation of the judgment and order of the SCA. 
+Mr Makate is opposing Vodacom’s application for leave to appeal. Vodacom is challenging the SCA’s 
+judgment and order on various grounds including, but not limited to: the SCA ignoring the evidence placed 
+before it on the computation of the quantum of compensation payable to Mr Makate; and the SCA issuing 
+orders that are  legally unenforceable.
+The CEO’s determination in 2019 amounted to R47 million. The minority judgment of the SCA raised 
+Mr Makate’s compensation to approximately R186 million, while the SCA majority judgment would entitle 
+Mr Makate to a minimum compensation amount of R29 billion. Consequently, the range of the possible 
+compensation outcomes in this matter is very wide.
+The amount ultimately payable to Mr Makate is uncertain and will depend on the determination of the 
+Constitutional Court to grant Vodacom’s application for leave to appeal and if granted, on the success of 
+Vodacom‘s appeal against the judgment and order of the SCA, on the merits of the case. Vodacom is 
+continuing to challenge the level of compensation payable to Mr Makate and a provision immaterial to 
+the financial statements has been recorded.
+Reviewed Annual Results and cash dividend distribution for the year ended 31 March 2024
+37
+
+--- PAGE 40 (matched: context) ---
+11 
+Other matters
+11.1 
+Independent Communications Authority of South Africa (ICASA) assignment of high 
+demand spectrum (HDS)
+On 17 March 2022, the Group secured spectrum for an amount of R5 382 million. The spectrum licence was 
+effective from 1 July 2022 and the Group paid R3 196 million in the prior year for this spectrum. The 
+outstanding amount was paid to ICASA on 30 October 2023, with the spectrum fully available for use.
+11.2 
+Global Partnership for Ethiopia B.V.
+The Group continues to invest in Safaricom Telecommunications Ethiopia PLC (Safaricom Ethiopia), which is 
+operating in a hyperinflationary environment. The financial impact of IAS 29, Financial Reporting in 
+Hyperinflationary Economies (IAS 29) resulted in an increase in Investment in associates and joint ventures of 
+R2.2 billion (2023: R2.3 billion). During August 2023, the International Finance Corporation (IFC) entered into 
+the consortium in Ethiopia via a new issue of shares to the IFC, resulting in them holding a 7.25% equity 
+interest, thus diluting the interests of the original consortium members’ equity shareholding. The Group’s 
+holding, excluding its indirect interest via its shareholding in Safaricom PLC diluted from a holding of 6.19% to 
+5.74%. In addition, the Group has an indirect interest via its shareholding in Safaricom PLC. Safaricom PLC’s 
+55.71% effective interest in Safaricom Ethiopia diluted to 51.67%. The Group continues to exercise significant 
+influence over Safaricom Ethiopia and therefore the investment is equity accounted as an associate. 
+11.3 
+MAZIV (Pty) Limited (MAZIV)
+On 10 November 2021, the Group announced an investment into a joint venture incorporated as Maziv (Pty) 
+Limited (Maziv) that will house the material fibre network assets of Vodacom South Africa and Community 
+Investment Ventures Holdings (Pty) Limited. The operating companies of Maziv include Dark Fibre Africa 
+(Proprietary) Limited (DFA) and Vumatel (Proprietary) Limited. During October 2022, ICASA approved the 
+transaction subject to the incorporation of conditions relating to the provision of open-access network 
+services, along with limitations on ownership and control, into DFA’s licences. In August 2023, the 
+Competition Commission advised the Competition Tribunal that the transaction not be recommended. The 
+next regulatory step is for the transaction to be presented to the Competition Tribunal where the full merits of 
+the transaction will be reviewed. The Competition Tribunal hearing is set for May 2024.
+12 
+Events after the reporting period
+The Board is not aware of any matter or circumstance arising since the end of the reporting period, not 
+otherwise dealt with herein, which significantly affects the financial position of the Group or the results of its 
+operations or cash flows for the period, other than the following:
+12.1 
+Dividend declared after the reporting date and not recognised as a liability
+A final dividend of R5 922 million (285 cents per ordinary share) for the year ended 31 March 2024, was 
+declared on 10 May 2024, payable on 24 June 2024 to shareholders recorded in the register at the close of 
+business on 21 June 2024. The net dividend after taking into account dividend withholding tax for those 
+shareholders not exempt from dividend withholding tax is 228.00000 cents per share. This is in line with the 
+Group’s dividend policy to pay dividends of at least 75% of the Group’s headline earnings.
+Notes to the condensed consolidated financial statements continued
+38
+Vodacom Group Limited
+
+--- PAGE 41 (matched: receivables_payables) ---
+13 
+Fair value
+The carrying amounts of financial assets at amortised cost, mobile financial deposits, trade and other 
+receivables, bank and cash balances, bank overdraft, mobile financial payables, licence and spectrum fees 
+payable, and trade and other payables approximate their fair value due to short-term maturity. 
+The aggregate fair value, if determinable, of interest bearing borrowings (excluding leases) with a carrying 
+amount of R55 847 million (2023: R53 902 million) amounts to R55 865 million (2023: R53 977 million). Fair 
+value is based on level two of the fair value hierarchy. Estimated interest rates for fixed interest rate financial 
+liabilities are calculated with reference to the applicable zero coupon yield curves at the reporting date, as 
+published by Bloomberg. Where the fair value could be determined by using the discounted cash flow 
+method (with a discount rate based on market-related interest rates) the discount rate varied between 9.46% 
+and 9.62% (2023: 9.16% and 9.84%) for rand-denominated borrowings. 
+13.1 
+Fair value hierarchy
+The table below sets out the valuation basis of financial instruments measured at fair value:
+Rm
+2024
+Reviewed
+2023
+Audited
+Level one1
+Financial assets at fair value through profit or loss
+Unit trust investments
+ 
+440 
+ 
+403 
+Level two2
+Financial assets at fair value through other comprehensive income
+Finance receivables3
+ 
+5 951 
+ 
+4 856 
+Financial assets and liabilities at fair value through profit or loss
+Derivative financial assets4
+ 
+25 
+ 
+69 
+Derivative financial liabilities4
+ 
+(133)  
+(96) 
+ 
+6 283 
+ 
+5 232 
+Notes:
+1.  Level one classification is used when the valuation is determined using quoted prices in an active market for identical assets or 
+liabilities that the entity can access at the valuation date.
+2.  Level two classification is used when valuation inputs used to determine fair value are observable for the asset/(liability), either 
+directly as prices or indirectly when derived from prices. 
+3.  The Group provides financing to customers to acquire devices at an additional contractual charge which is included in finance 
+receivables. The business model under IFRS 9 for finance receivables has been determined to be "hold to collect and sell". 
+Finance receivables are valued using a market approach, with cash flows discounted at the 24-month weighted average credit risk 
+adjusted risk free rate at which finance receivables are sold across multiple financial institutions.
+4.  The fair value of foreign exchange forward contracts and firm commitment assets and liabilities are determined with reference to 
+quoted market prices for similar instruments, being the mid forward rates and spot rates respectively, as at the reporting date. 
+Reviewed Annual Results and cash dividend distribution for the year ended 31 March 2024
+39
+
+--- PAGE 42 (matched: context) ---
+Operating results for the year ended 31 March 20241
+ 
+Rm
+South 
+Africa
+%
+23/24
+Egypt^
+International
+%
+23/24
+Corporate/
+Eliminations
+Group
+%
+23/24
+Safaricom1
+%
+23/24
+Mobile contract revenue
+ 23 486  
+3.9  4 934  
+2 694  23.9  
+(11)  31 103  19.3  
+6 698  16.2 
+Mobile prepaid revenue
+ 26 386  
+1.7  19 014  
+24 367  12.6  
+1  69 768  33.0  
+31 940  
+2.3 
+Customer service revenue
+ 49 872  
+2.7  23 948  
+27 061  13.7  
+(10)  100 871  28.4  
+38 638  
+4.4 
+Mobile interconnect
+ 
+1 763  
+5.2  2 887  
+1 202  
+(0.4)  
+(367)  5 485  64.0  
+1 097  
+(3.2) 
+Fixed service revenue
+ 
+4 595  12.0  1 774  
+1 377  12.9  
+(302)  7 444  34.8  
+1 924  
+1.8 
+Other service revenue
+ 
+5 391  
+(5.8)  1 570  
+218  37.1  
+(82)  7 097  13.5  
+1 483  
+0.2 
+Service revenue
+ 61 621  
+2.6  30 179  
+29 858  13.1  
+(761)  120 897  29.1  
+43 142  
+3.9 
+Equipment revenue
+ 19 012  
+6.8  
+209  
+513  15.5  
+(8)  19 726  
+7.9  
+1 332  (16.0) 
+Non-service revenue
+ 
+7 671  11.5  2 114  
+472  44.8  
+(286)  9 971  37.8  
+429  (17.2) 
+Revenue
+ 88 304  
+4.2  32 502  
+30 843  13.5  
+(1 055)  150 594  26.4  
+44 903  
+3.0 
+Direct expenses
+ (37 365)  
+4.4  (11 805)  
+(9 296)  17.8  
+766  (57 700)  25.6 
+Staff expenses
+ (5 345)  16.9  (1 348)  
+(2 511)  18.1  
+(932)  (10 136)  30.9 
+Publicity expenses
+ (1 021)  (14.3)  
+(518)  
+(598)  
+(3.5)  
+(19)  (2 156)  11.4 
+Net credit gains/(losses) on 
+financial instruments
+ 
+(845)  
+8.5  
+(142)  
+142 < (200) 
+(1)  
+(846)  (2.1) 
+Other operating expenses
+ (11 033)  12.1  (5 583)  
+(7 983)  21.2  
+769  (23 830)  31.9 
+Depreciation and 
+amortisation
+ (12 570)  
+8.0  (4 332)  
+(5 879)  13.3  
+(5)  (22 786)  26.8 
+Net profit/(loss) from 
+associates and joint 
+ventures
+ 
+– 
+ 
+–  
+(488)  134.6  
+2 685  2 197  (15.7)  
+Operating profit
+ 20 125  
+(3.6)  8 774  
+4 230  
+(6.8)  
+2 208  35 337  20.8  
+8 142  (16.3) 
+EBITDA
+ 32 808  
+0.7  13 067  
+10 973  
+8.2  
+(732)  56 116  24.3  
+20 949  
+6.7 
+EBITDA margin (%)
+ 
+37.2 
+ 
+40.2  
+35.6 
+ 
+37.3 
+ 
+46.7 
+Included in service 
+revenue:
+Financial services revenue
+ 
+3 187  
+7.9  1 947  
+7 899  21.4  
+–  13 033  32.2  
+18 008  
+9.5 
+Supplementary information
+40
+Vodacom Group Limited
+Note:1
+1. The Group’s effective interest of 34.94% in Safaricom is accounted for as an investment in associate. Results represent 100% of Safaricom and are 
+for information purposes only. The above results represent 100% of the results of Safaricom, including the net fair value adjustments on tangible 
+and intangible assets, excluding goodwill, that rose on acquisition.
+
+--- PAGE 49 (matched: context) ---
+Service revenue for the quarter ended
+Rm
+31 Mar 
+2024 
+31 Dec 
+2023
+30 Sep 
+2023
+30 Jun 
+2023
+31 Mar 
+2023 
+31 Dec 
+2022
+30 Sep 
+2022
+South Africa
+ 
+15 263  
+15 689  
+15 606  15 064  
+15 160  
+15 393  
+14 989 
+Egypt
+ 
+7 926  
+7 941  
+7 468  
+6 844  
+6 155  
+1 821 
+^
+International
+ 
+7 408  
+7 719  
+7 481  
+7 250  
+6 788  
+6 975  
+6 778 
+Corporate and 
+eliminations
+ 
+(167)   
+(232)  
+(181)  
+(182)  
+(180)   
+(191)  
+(192) 
+Group
+ 
+30 430  
+31 117  
+30 374  28 976  
+27 923  
+23 998  
+21 575 
+Service revenue YoY % change for the quarter ended
+Reported
+Normalised*
+%
+31 Mar 2024
+31 Dec 2023
+30 Sep 2023
+30 Jun 2023
+31 Mar 2024
+South Africa
+ 
+0.7  
+1.9  
+4.1  
+3.9  
+0.7 
+Egypt
+ 
+28.8 
+^
+^
+^ 
+40.6 
+International
+ 
+9.1  
+10.7  
+10.4  
+23.8  
+5.4 
+Group
+ 
+9.0  
+29.7  
+40.8  
+43.8 
+ 2.3 
+Financial services revenue
+Year ended 31 March
+% change
+Rm
+2024
+2023
+Reported
+Normalised*
+Pro-forma^
+South Africa
+ 
+3 187  
+2 954  
+7.9 
+ 
+7.9 
+Egypt
+ 
+1 947  
+398 
+>200
+ 107.3^ 
+International
+ 
+7 899  
+6 504  
+21.4 
+ 
+13.1 
+Tanzania
+ 
+3 452  
+2 610  
+32.3 
+ 
+27.7 
+DRC
+ 
+2 528  
+1 801  
+40.4 
+ 
+26.9 
+Mozambique
+ 
+1 726  
+1 926  
+(10.4)   
+(18.7) 
+Lesotho
+ 
+193  
+167  
+15.6 
+ 
+15.6 
+Consolidated Group
+ 
+13 033  
+9 856  
+32.2 
+ 
+19.9^ 
+Safaricom1
+ 
+18 008  
+16 449  
+9.5 
+ 
+19.5 
+Reviewed Annual Results and cash dividend distribution for the year ended 31 March 2024
+47
+Note:1 
+1. The Group’s effective interest of 34.94% in Safaricom is accounted for as an investment in associate. Results represent 100% of Safaricom and are 
+for information purposes only.
+
+--- PAGE 50 (matched: fx_exposure) ---
+Exchange rates
+Average YTD
+Closing YTD
+31 March
+% change
+31 March
+% change
+2024
+2023
+23/24
+2024
+2023
+23/24
+US$/ZAR
+ 
+18.73  
+17.00 
+ 10.2 
+ 
+18.94  
+17.74 
+ 6.8 
+EUR/ZAR
+ 
+20.31  
+17.69 
+ 14.8 
+ 
+20.45  
+19.28 
+ 6.1 
+ZAR/MZN
+ 
+3.41  
+3.77 
+ (9.5) 
+ 
+3.37  
+3.60 
+ (6.4) 
+ZAR/TZS
+ 
+132.03  
+137.63 
+ (4.1) 
+ 
+135.32  
+131.89 
+ 2.6 
+ZAR/EGP
+ 
+1.71  
+1.33 
+ 28.6 
+ 
+2.50  
+1.74 
+ 43.7 
+ZAR/KES
+ 
+7.78  
+7.13 
+ 9.1 
+ 
+6.96  
+7.47 
+ (6.8) 
+ 
+  
+Average QTD
+Closing QTD
+31 Mar 
+2024
+31 Dec 
+2023
+30 Sep 
+2023
+30 Jun 
+2023
+31 Mar 
+2024
+31 Dec 
+2023
+30 Sep 
+2023
+30 Jun 
+2023
+US$/ZAR
+ 
+18.88  
+18.74  
+18.64  
+18.66  
+18.94  
+18.29  
+18.84  
+18.89 
+EUR/ZAR
+ 
+20.50  
+20.17  
+20.27  
+20.31  
+20.45  
+20.20  
+19.95  
+20.61 
+ZAR/MZN
+ 
+3.38  
+3.41  
+3.43  
+3.43  
+3.37  
+3.49  
+3.39  
+3.38 
+ZAR/TZS
+ 
+134.43  
+133.84  
+133.10  126.77  
+135.32  
+137.19  
+132.97  
+127.84 
+ZAR/EGP
+ 
+1.89  
+1.65  
+1.66  
+1.66  
+2.50  
+1.69  
+1.64  
+1.64 
+ZAR/KES
+ 
+7.92  
+8.11  
+7.74  
+7.36  
+6.96  
+8.59  
+7.87  
+7.44 
+Pro-forma financial information
+The presentation of the pro-forma financial information and related reconciliations as detailed below on pages 48 – 55, is 
+the responsibility of the directors of Vodacom Group Limited.
+• ‘Normalised’ results have been presented to assist the user in understanding the underlying growth trends and adjusts 
+for:
+– the impact of trading foreign exchanges;
+– the impact of foreign currency translation on a constant currency basis; and
+– the merger, acquisition and disposal activities during the current year and on a constant currency basis in the prior 
+year, where applicable.
+• ‘Operating free cash flow’ and ‘free cash flow’ has been presented to provide users with relevant information and 
+measures used by the Group to assess performance. 
+• 'Pro-forma' results have been presented for the Group as if the effective date of the Egypt acquisition was 1 April 2022, 
+thus showing the segment's financial information on a full year basis. 
+Collectively, the ‘pro-forma financial information’.
+The pro-forma financial information has been prepared for illustrative purposes only and may not fairly present the 
+financial position, changes in equity, and results of operations or cash flows of Vodacom Group Limited. The pro-forma 
+financial information is presented in accordance with the JSE Listings Requirements and the SAICA Guide on pro-forma 
+Financial Information. This pro-forma financial information for the year ended 31 March 2024 as presented in Table A, 
+Table E, Table F and Table G, as well as the constant currency information, along with the respective notes, has been 
+reported/reviewed on by Ernst & Young Inc. The independent auditor's reports theron are available online at: 
+www.vodacom.com.
+Supplementary information continued
+48
+Vodacom Group Limited
+
+--- PAGE 51 (matched: context) ---
+TABLE A: Reconciliation of normalised values for the year ended 31 March 2024
+Foreign exchange
+Rm
+Reported 
+results1
+Trading
+FX2
+Translation
+FX3
+Mergers, 
+Acquisitions & 
+Disposals4
+Normalised*
+Revenue
+Group
+ 
+150 594  
+–  
+–  
+(32 502)   
+118 092 
+International
+ 
+30 843  
+–  
+–  
+– 
+ 
+30 843 
+South Africa
+ 
+88 304  
+–  
+–  
+– 
+ 
+88 304 
+Egypt
+ 
+32 502  
+–  
+–  
+– 
+ 
+32 502 
+Service revenue
+Group
+ 
+120 897  
+–  
+–  
+(30 179)  
+90 718 
+International
+ 
+29 858  
+–  
+–  
+– 
+ 
+29 858 
+South Africa
+ 
+61 621  
+–  
+–  
+– 
+ 
+61 621 
+Egypt
+ 
+30 179  
+–  
+–  
+– 
+ 
+30 179 
+Financial services revenue
+Group
+ 
+13 033  
+–  
+–  
+(1 947)  
+11 086 
+International (M-Pesa)
+ 
+7 899  
+–  
+–  
+– 
+ 
+7 899 
+Tanzania
+ 
+3 452  
+–  
+–  
+– 
+ 
+3 452 
+DRC
+ 
+2 528  
+–  
+–  
+– 
+ 
+2 528 
+Mozambique
+ 
+1 726  
+–  
+–  
+– 
+ 
+1 726 
+Egypt
+ 
+1 947  
+–  
+–  
+– 
+ 
+1 947 
+Total expenses
+Group
+ 
+94 669  
+(1 599)  
+–  
+(18 007)  
+75 063 
+International
+ 
+20 245  
+(170)  
+–  
+– 
+ 
+20 075 
+South Africa
+ 
+55 609  
+(44)  
+–  
+– 
+ 
+55 565 
+Egypt
+ 
+19 396  
+(1 389)  
+–  
+– 
+ 
+18 007 
+EBITDA
+Group
+ 
+56 116  
+1 599  
+–  
+(14 456)  
+43 259 
+International
+ 
+10 973  
+170  
+–  
+– 
+ 
+11 143 
+South Africa
+ 
+32 808  
+44  
+–  
+– 
+ 
+32 852 
+Egypt
+ 
+13 067  
+1 389  
+–  
+– 
+ 
+14 456 
+Net profit from associates and 
+joint ventures
+Group
+ 
+2 197  
+(31)  
+–  
+– 
+ 
+2 166 
+Safaricom
+ 
+2 685  
+(14)  
+–  
+– 
+ 
+2 671 
+Operating profit
+Group
+ 
+35 337  
+1 568  
+–  
+(10 163)  
+26 742 
+International
+ 
+4 230  
+153  
+–  
+– 
+ 
+4 383 
+South Africa
+ 
+20 125  
+44  
+–  
+– 
+ 
+20 169 
+Egypt
+ 
+8 774  
+1 389  
+–  
+– 
+ 
+10 163 
+Reviewed Annual Results and cash dividend distribution for the year ended 31 March 2024
+49
+
+--- PAGE 52 (matched: context) ---
+TABLE B: Reconciliation of normalised values for the year ended 31 March 2023
+Foreign exchange
+Rm
+Reported1
+Trading
+FX2
+Translation
+FX3
+Mergers, 
+Acquisitions & 
+Disposals4
+Normalised*
+Revenue
+Group
+ 
+119 170  
+–  
+1 339  
+(7 452)   
+113 057 
+International
+ 
+27 165  
+–  
+2 129  
+– 
+ 
+29 294 
+South Africa
+ 
+84 715  
+–  
+10  
+– 
+ 
+84 725 
+Egypt
+ 
+8 252  
+–  
+(800)  
+– 
+ 
+7 452 
+Service revenue
+Group
+ 
+93 650  
+–  
+1 292  
+(7 207)  
+87 735 
+International
+ 
+26 395  
+–  
+2 054  
+– 
+ 
+28 449 
+South Africa
+ 
+60 038  
+–  
+7  
+– 
+ 
+60 045 
+Egypt
+ 
+7 976  
+–  
+(769)  
+– 
+ 
+7 207 
+Financial services revenue
+Group
+ 
+9 856  
+–  
+439  
+(357)  
+9 938 
+International (M-Pesa)
+ 
+6 504  
+–  
+480  
+– 
+ 
+6 984 
+Tanzania
+ 
+2 610  
+–  
+94  
+– 
+ 
+2 704 
+DRC
+ 
+1 801  
+–  
+191  
+– 
+ 
+1 992 
+Mozambique
+ 
+1 926  
+–  
+196  
+– 
+ 
+2 122 
+Egypt
+ 
+398 
+ 
+(41) 
+ 
+357 
+Total expenses
+Group
+ 
+74 557  
+(709)  
+868  
+(4 291)  
+70 425 
+International
+ 
+17 228  
+(42)  
+1 347  
+– 
+ 
+18 533 
+South Africa
+ 
+52 195  
+(42)  
+17  
+– 
+ 
+52 171 
+Egypt
+ 
+5 404  
+(618)  
+(496)  
+– 
+ 
+4 291 
+EBITDA
+Group
+ 
+45 144  
+709  
+487  
+(3 169)  
+43 171 
+International
+ 
+10 145  
+42  
+802  
+– 
+ 
+10 988 
+South Africa
+ 
+32 569  
+42  
+(7)  
+– 
+ 
+32 604 
+Egypt
+ 
+2 859  
+618  
+(308) 
+ 
+3 169 
+Net profit from associates and 
+joint ventures
+Group
+ 
+2 607  
+177  
+(182)  
+– 
+ 
+2 602 
+Safaricom
+ 
+2 814  
+125  
+(207)  
+– 
+ 
+2 732 
+Operating profit
+Group
+ 
+29 252  
+886  
+(40)  
+(2 090)  
+28 008 
+International
+ 
+4 541  
+93  
+414  
+– 
+ 
+5 048 
+South Africa
+ 
+20 881  
+42  
+(9)  
+– 
+ 
+20 913 
+Egypt
+ 
+1 710  
+618  
+(237)  
+– 
+ 
+2 090 
+Supplementary information continued
+50
+Vodacom Group Limited
+
+--- PAGE 53 (matched: fx_exposure) ---
+TABLE C: Reconciliation of normalised growth for the year ended 31 March 2024
+The reconciliation below presents the normalised growth which has been adjusted for trading foreign exchange gains/
+losses as well as foreign exchange translations, mergers, acquisitions and disposals where applicable, tax related 
+adjustments where applicable, all at a constant currency rate to show a like-for-like comparison of results.
+Foreign exchange
+%
+% change5
+Trading 
+FX2 ppts
+Translation
+FX3 ppts
+Mergers, 
+Acquisitions & 
+Disposals4
+Normalised*
+% change
+Revenue
+Group
+ 26.4 
+ – 
+ (1.1) 
+ (20.8)  
+ 4.5 
+International
+ 13.5 
+ – 
+ (8.2) 
+ – 
+ 5.3 
+South Africa
+ 4.2 
+ – 
+ – 
+ – 
+ 4.2 
+Service revenue
+Group
+ 29.1 
+ – 
+ (1.4) 
+ (24.3) 
+ 3.4 
+International
+ 13.1 
+ – 
+ (8.1) 
+ – 
+ 5.0 
+South Africa
+ 2.6 
+ – 
+ – 
+ – 
+ 2.6 
+Financial services revenue
+Group
+ 32.2 
+ – 
+ (4.5) 
+ (16.2) 
+ 11.6 
+International (M-Pesa)
+ 21.4 
+ – 
+ (8.3) 
+ – 
+ 13.1 
+Tanzania
+ 32.3 
+ – 
+ (4.6) 
+ – 
+ 27.7 
+DRC
+ 40.4 
+ – 
+ (13.5) 
+ – 
+ 26.9 
+Mozambique
+ (10.4)  
+ – 
+ (8.3) 
+ – 
+ (18.7) 
+Total expenses
+Group
+ 27.0 
+ (1.2) 
+ (1.1) 
+ (18.1) 
+ 6.6 
+International
+ 17.5 
+ (0.8) 
+ (8.4) 
+ – 
+ 8.3 
+South Africa
+ 6.5 
+ – 
+ – 
+ – 
+ 6.5 
+EBITDA
+Group
+ 24.3 
+ 2.0 
+ (1.1) 
+ (25.0) 
+ 0.2 
+International
+ 8.2 
+ 1.3 
+ (8.1) 
+ – 
+ 1.4 
+South Africa
+ 0.7 
+ 0.1 
+ – 
+ – 
+ 0.8 
+Net profit from associates and 
+joint ventures
+Group
+ (15.7) 
+ (8.2) 
+ 7.2 
+ – 
+ (16.8) 
+Safaricom
+ (4.6) 
+ (4.8) 
+ 7.2 
+ – 
+ (2.2) 
+Operating profit
+Group
+ 20.8 
+ 2.4 
+ 0.1 
+ (27.8) 
+ (4.5) 
+International
+ (6.8) 
+ 1.1 
+ (7.4) 
+ – 
+ (13.2) 
+South Africa
+ (3.6) 
+ – 
+ – 
+ – 
+ (3.6) 
+Reviewed Annual Results and cash dividend distribution for the year ended 31 March 2024
+51
+
+--- PAGE 54 (matched: context) ---
+TABLE D: Reconciliation of normalised growth for the quarter ended
+31 March 2024
+Rm
+Reported1
+Translation
+FX3
+Mergers, 
+Acquisitions & 
+Disposals4
+Normalised*
+Revenue
+Group
+ 
+38 877  
+–  
+(9 235)   
+29 642 
+International
+ 
+7 664  
+–  
+– 
+ 
+7 664 
+Egypt
+ 
+9 235  
+–  
+– 
+ 
+9 235 
+Service revenue
+Group
+ 
+30 430  
+–  
+(7 926)  
+22 504 
+International
+ 
+7 408  
+–  
+– 
+ 
+7 408 
+Egypt
+ 
+7 926  
+–  
+– 
+ 
+7 926 
+Financial services revenue
+International
+ 
+1 999  
+–  
+– 
+ 
+1 999 
+31 March 2023
+Rm
+Reported1
+Translation
+FX3
+Mergers, 
+Acquisitions & 
+Disposals4
+Normalised*
+Revenue
+Group
+ 
+34 752  
+(289)  
+(5 837)   
+28 626 
+International
+ 
+7 016  
+248  
+– 
+ 
+7 264 
+Egypt
+ 
+6 376  
+(539)  
+– 
+ 
+5 837 
+Service revenue
+Group
+ 
+27 924  
+(277)  
+(5 639)  
+22 008 
+International
+ 
+6 791  
+238  
+– 
+ 
+7 029 
+Egypt
+ 
+6 155  
+(516)  
+– 
+ 
+5 639 
+Financial services revenue
+International
+ 
+1 733  
+62  
+– 
+ 
+1 795 
+31 March 2024
+%
+% change6
+Translation
+FX3 ppts
+Mergers, 
+Acquisitions & 
+Disposals4
+Normalised*
+% change
+Revenue
+Group
+ 11.9 
+ 0.7 
+ (9.1)  
+ 3.5 
+International
+ 9.2 
+ (3.7) 
+ – 
+ 5.5 
+Egypt
+ 44.8 
+ 13.4 
+ – 
+ 58.2 
+Service revenue
+Group
+ 9.0 
+ 0.9 
+ (7.6) 
+ 2.3 
+International
+ 9.1 
+ (3.7) 
+ – 
+ 5.4 
+Egypt
+ 28.8 
+ 11.8 
+ – 
+ 40.6 
+Financial services revenue
+International
+ 15.3 
+ (3.9) 
+ – 
+ 11.4 
+Supplementary information continued
+52
+Vodacom Group Limited
+
+--- PAGE 55 (matched: fx_exposure) ---
+TABLE E: Reconciliation of Egypt pro-forma numbers (Egyptian pound)
+31 March 2024
+EGPm
+Reported 
+results1
+Trading
+FX2
+Mergers, 
+Acquisitions & 
+Disposals4
+Pro-forma*
+Pro-forma* 
+% change
+Revenue
+ 
+55 381  
+–  
+–  
+55 381 
+ 37.2 
+Service revenue
+ 
+51 432  
+–  
+–  
+51 432 
+ 31.6 
+Financial services revenue
+ 
+3 330  
+–  
+–  
+3 330 
+ 107.3 
+EBITDA
+ 
+21 279  
+–  
+–  
+21 279 
+ 32.8 
+EBITDA (excl. foreign exchange 
+losses)
+ 
+21 279  
+3 348  
+–  
+24 627 
+ 39.5 
+Operating profit
+ 
+14 004  
+–  
+–  
+14 004 
+ 47.5 
+Capex
+ 
+7 792  
+–  
+–  
+7 792 
+ 30.9 
+31 March 2023
+EGPm
+Reported 
+results1
+Trading
+FX2
+Mergers, 
+Acquisitions & 
+Disposals4
+Pro-forma*
+Revenue
+ 
+13 463  
+–  
+26 891  
+40 354 
+Service revenue
+ 
+13 011  
+–  
+26 062  
+39 073 
+Financial services revenue
+ 
+650  
+–  
+956  
+1 606 
+EBITDA
+ 
+4 644  
+–  
+11 376  
+16 020 
+EBITDA (excl foreign exchange losses)
+ 
+4 644  
+1 632  
+11 376  
+17 652 
+Operating profit
+ 
+2 781  
+–  
+6 712  
+9 493 
+Capex
+ 
+1 995  
+–  
+3 958  
+5 953 
+Reviewed Annual Results and cash dividend distribution for the year ended 31 March 2024
+53
+
+--- PAGE 56 (matched: fx_exposure) ---
+TABLE F: Reconciliation of Group and Egypt pro-forma numbers (South African rand)
+31 March 2024
+Rm
+Reported 
+results1
+Trading
+FX2
+Mergers, 
+Acquisitions & 
+Disposals4
+Pro-forma*
+Pro-forma* 
+% change
+Egypt
+Service revenue
+ 
+30 179  
+–  
+– 
+ 
+30 179 
+ 31.6 
+EBITDA
+ 
+13 067  
+1 389  
+– 
+ 
+14 456 
+ 39.5 
+Group
+Operating profit
+ 
+35 337  
+1 568  
+(1 389)   
+35 516 
+ 5.9 
+31 March 2023
+Rm
+Reported 
+results1
+Trading
+FX2
+Translation
+FX3
+Mergers, 
+Acquisitions & 
+Disposals4
+Pro-forma*
+Egypt
+Service revenue
+ 
+7 976  
+–  
+(769)  
+15 733  
+22 940 
+EBITDA
+ 
+2 859  
+618  
+(308)  
+7 194  
+10 363 
+Group
+Operating profit
+ 
+29 252  
+886  
+(40)  
+3 438  
+33 536 
+Notes:
+1. The financial information relating to revenue, service revenue, financial services revenue, total expenses, EBITDA, operating profit and net profit from 
+associates and joint ventures are extracted without adjustment from the summary condensed consolidated financial statements for the year ended 
+31 March 2024.
+2. Trading foreign exchange adjustments (FX) are foreign exchange gains/losses on foreign denominated monetary assets and liabilities resulting from 
+trading activities of entities within the Group, which is included with other operating expenses as per the condensed consolidated income 
+statement.
+3. The Group’s presentation currency is the South African rand. Our International businesses utilise a number of functional currencies, for example the 
+United States dollar, Tanzanian shilling, Mozambican metical, and Egyptian pound. Translation foreign exchange (FX) arises from the translation of 
+the results, at average rates, of subsidiaries’ functional currencies to Vodacom’s presentation currency, being rand. For year-end purposes, IFRS 
+monthly results are translated at the prevailing average monthly exchange rate and the translated value is accumulated for the year. For the pro-
+forma financial information for the year ended 31 March 2023, these exchange variances are eliminated by applying the average rate for the year 
+ended 31 March 2024 (which is derived by dividing the individual subsidiary's translated rand value with the functional currency for the period as 
+applicable to each specified line item) to the 31 March 2023 numbers, thereby giving a user a view of the performance, which excludes exchange 
+variances. The effective translation rates for pro-forma financial information are similar to those used for IFRS purposes. The prevailing exchange 
+rates for the current and comparative periods are disclosed on page 48.
+4. For tables A, B, C and D mergers, acquisitions and disposals adjust for the start-up operating and finance costs associated with the Group’s direct and 
+indirect exposure in Safaricom Telecommunications Ethiopia Plc (Ethiopia) and separately, the impact of consolidating Egypt Telecommunications 
+SAE (Egypt) from 8 December 2022. The Group, excluding its indirect interest via its shareholding in Safaricom, has an effective interest of 6.2% in 
+Ethiopia. In addition, the Group has indirect exposure through Safaricom’s  55.7% effective interest in the consortium. For table E and F, Egypt 
+results, which have been obtained from the management accounts, have been presented as if the effective date of the Egypt acquisition was 
+1 April 2022, thus showing the segment's financial information on a full year basis at constant currency.
+5. The percentage change relates to the year-on-year percentage growth calculated as the percentage change between the year-to-date ended 
+31 March 2024 and year-to-date 31 March 2023 value.
+6. The percentage change relates to the quarter to date year-on-year percentage growth calculated as the percentage change between the quarter-to-
+date 31 March 2024 and the quarter-to-date 31 March 2023 values.
+*  Normalised growth presents performance on a comparable basis. This adjusts for trading foreign exchange, foreign currency fluctuation on a 
+constant currency basis (using the current year as the base) and excludes the impact of merger, acquisition and disposal activities, at a constant 
+currency basis where applicable, to show a like-for-like comparison of results. 
+Supplementary information continued
+54
+Vodacom Group Limited
+
+--- PAGE 57 (matched: context) ---
+TABLE G: Reconciliation of operating free cash flow and free cash flow
+Year ended 31 March
+Rm
+ 
+2024  
+2023 
+Cash generated from operations1
+ 
+56 893  
+48 500 
+Cash capital expenditure2
+ 
+(19 367)  
+(16 301) 
+Lease liability payments3
+ 
+(6 226)  
+(4 952) 
+Movement in amounts due to M-Pesa account holders4
+ 
+(995)  
+(2 136) 
+Operating free cash flow
+ 
+30 305  
+25 111 
+Tax paid1
+ 
+(8 112)  
+(7 361) 
+Finance income received5
+ 
+1 271  
+871 
+Finance costs paid5
+ 
+(5 944)   
+(3 918) 
+Net dividends (paid) / received from associates and paid non-controlling 
+shareholders6
+ 
+689  
+3 821 
+Free cash flow
+ 
+18 209  
+18 524 
+Spectrum net payments
+ 
+(3 391)  
+(4 286) 
+Free cash flow after spectrum payments
+ 
+14 818  
+14 238 
+The reconciliation presents the reconciliation of cash generated from operators to free cash flow. Free cash flow excludes 
+the movement in amounts due to M-Pesa account holders and held on their behalf. Management excludes these 
+balances to present a view of the true commercial cash conversion in the operation.
+Notes:
+1. Extracted from the summary condensed consolidated statement of cash flows for the year ended 31 March 2024 and adjusted for spectrum-related 
+finance costs of R10 million and the merger and acquisition costs of R197 million.
+2. Extracted without adjustment from the summary condensed consolidated statement of cash flows for the year ended 31 March 2024.
+3. Lease liability payments includes interest on lease liabilities of R1 733 million (FY23: R1 547 million).
+4. Movements included in cash generated from operations relate to money held on behalf of M-Pesa customers, which is not available for use by the 
+Group. 
+5. This represents the finance costs paid of R7 677 million (FY23: R5 465 million), as extracted from the summary condensed consolidated statement 
+of cash flows for the year ended 31 March 2024, net of interest on lease liabilities of R1 733 million (FY23: R1 547 million) and adjusted for 
+spectrum-related finance costs of R10 million. 
+6. This represents net dividend paid to non-controlling shareholders of R1 804 million (FY23: R569 million) and dividends received from associates of 
+R2 493 million (FY23: R4 390 million).
+Reviewed Annual Results and cash dividend distribution for the year ended 31 March 2024
+55
+

@@ -105,6 +105,41 @@ A team review of the first pass caught one genuine bug and surfaced two decision
 
 The team should decide whether STALE rows go into the gap ranking at full confidence, get an asterisk, or get down-weighted - this column exists so that decision can't be skipped by accident.
 
+### Step 6 — Multi-year extension for ML training (2024/2025/2026)
+
+Faten curated three additional single-file-per-company folders (`hackathon-finreports-2024`, `-2025`, `-2026`) so the ML model has more than 20 samples (one row per company) to train on. This step reuses Step 2's page-narrowing logic per company-year instead of re-running file selection (each year-folder already has exactly one PDF per company), and produces a **long-format** table: one row per (company, fiscal year), up to 3 rows per company, instead of one row per company.
+
+Pipeline addition:
+
+```
+hackathon-finreports-2024/, -2025/, -2026/ (63 PDFs, 20 companies x up to 3 years)
+   │
+   ▼
+extract_financials_multiyear.py — reuse narrow_pages() per company-year; full-document
+   dump fallback (FULL_DUMP_THRESHOLD = 15 pages) for folders whose file turned out to be
+   a results presentation/press release rather than a full AFS, so keyword narrowing
+   under-matches
+   ▼
+29 excerpt files (14 of the 43 company-years were skipped here because their FY2025 file
+   is unchanged from the file financials_extracted.csv already extracted - reused instead
+   of re-extracting)
+   ▼
+29 parallel subagents — numeric-only extraction (no free-text fields; ML doesn't need them)
+   ▼
+merge_multiyear.py — ZAR conversion + reuse of the 14 unchanged FY2025 rows
+   ▼
+financials_multiyear.csv (43 rows, full detail incl. source_file/page_ref/notes)
+financials_multiyear_ml.csv (43 rows, pure numeric - no text columns at all)
+```
+
+Folder-name canonicalization: each year-folder uses different naming conventions release to release (e.g. `anglo` in 2024 vs. `angloamerican` in 2025; `bidcorp` in 2024 vs. `bid` in 2025) - `FOLDER_TO_CANONICAL` in `extract_financials_multiyear.py` maps all variants to the same canonical entity keys used elsewhere in the pipeline.
+
+Numeric fields extracted per company-year: `revenue`, `cost_of_sales`, `operating_expenses`, `trade_receivables`, `trade_payables`, `inventory`, `foreign_revenue_pct`, `fx_gains_losses` — each with a ZAR-converted `_zar_m` counterpart. Free-text fields from the single-year pipeline (geographic split narrative, FX exposure narrative, working-capital notes, imports/exports) are intentionally **not** carried into the multi-year table; only a short `notes` caveat field survives, and it is itself dropped in the `_ml` version.
+
+**Side effect — 3 stale-data fixes:** curating fresh FY2025 files for this step also fixed three of the staleness issues flagged in Step 5 without any extra manual work: Sanlam's FY2025 AFS (`Sanlam-AFS-2025-spreads.pdf`) replaces the FY2023 file used previously, MTN's genuine FY2025 Integrated Report replaces the FY2024 file, and Vodacom/Naspers/Prosus/Valterra all got corrected, unambiguous FY2025 files (previously some of these had FY2026 files misidentified as "the FY2025 pick" due to filename ambiguity). These corrected FY2025 rows live in `financials_multiyear.csv` — the original `financials_extracted.csv` (single-year table) was **not** retroactively edited, so the two tables can diverge slightly on FY2025 figures for these five companies; `financials_multiyear.csv` is the more current source for FY2025.
+
+**Result:** 20 companies -> 43 company-year rows for ML training (up from 20 single-year rows), i.e. roughly 2.15x the training samples.
+
 ## Out of scope (for this step)
 
 - Fully automated LLM-API extraction (no key available/needed — agent does the reading).

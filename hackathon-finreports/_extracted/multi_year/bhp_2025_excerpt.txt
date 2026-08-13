@@ -1,0 +1,5556 @@
+Source: 5. 2025 Annual Report.pdf
+Target fiscal year: 2025
+Total relevant pages extracted: 37
+================================================================================
+
+--- PAGE 73 (matched: context) ---
+Management’s approach
+We have established climate change targets and goals, which are set out 
+in OFR 9.8, and have mandatory minimum performance requirements for 
+managing climate-related risks (threats and opportunities), including the 
+Environment Global Standard and the Climate Change Global Standard. 
+We use climate-related scenarios, as well as our planning cases and 
+monitor themes and signposts (such as emerging policy, regulatory, 
+legal, technological, market and other societal developments) to evaluate 
+the resilience of our portfolio, allocate capital, inform our strategy and 
+other decision-making, and to otherwise support the management of 
+emerging risks.
+FY2025 insights
+Our exposure to transition risks remained broadly stable during 
+FY2025 as recent regulatory developments were implemented, 
+including the enhanced Safeguard Mechanism in Australia and 
+new standards for mandatory climate-related financial disclosures 
+that BHP will be required to comply with in future years, such as 
+AASB S2 (Australian Sustainability Reporting Standard). The US 
+withdrawal from the Paris Agreement and its approach to energy 
+policy may also affect global transition efforts.
+For more information refer to
+OFR 4 Positioning for growth
+OFR 9.4 2030 goals and social value scorecard
+OFR 9.8 Climate change
+OFR 9.9 Nature and environmental performance
+bhp.com/climate
+Risk factor: Inadequate business 
+resilience
+Risks associated with unanticipated or unforeseeable 
+adverse events and a failure of planning and preparedness 
+to respond to, manage and recover from adverse events 
+(including potential physical climate-related impacts).
+Why is this important to BHP?
+In addition to the threats described in our other risk factors, our business 
+could experience unanticipated, unforeseeable or other adverse events 
+(internal or external) that could harm our people (both physical and 
+psychosocial harm), disrupt our operations or value chain or damage our 
+assets or corporate offices, including our non-operated assets in which 
+BHP has a non-controlling interest. A failure to identify or understand 
+exposure, adequately prepare for these events (including maintaining 
+business continuity plans) or build wider organisational resilience may 
+inhibit our (or our third-party partners’ and providers’) ability to respond and 
+recover in an effective and efficient manner. This includes a failure to build 
+resilience to physical climate-related risks. Material adverse impacts on 
+our business include reduced ability to access resources, markets and the 
+operational or other inputs required by our business, reduced production 
+or sales of or demand for our commodities, or increased regulation, 
+which could adversely impact our financial performance, share price 
+or reputation and could lead to litigation (including class actions).
+Examples of potential threats
+	
+– Geopolitical, global economic, regional or local developments or adverse 
+events, such as social unrest, strikes, work stoppages, labour disruptions, 
+social activism, terrorism, bomb threats, economic slowdown, acts of war 
+or other significant disruptions in areas where we operate or have interests, 
+including those that affect supply chains and/or end users of our products.
+	
+– Extreme weather and climate-related events, such as heatwaves, 
+extreme precipitation and flooding, hurricanes, cyclones and fires. 
+For example, production at Olympic Dam was halted for two weeks due 
+to severe storms in the first half of FY2025, resulting in production loss.
+	
+– Other natural events, including earthquakes, tsunamis, wildfires, solar 
+flares and pandemics.
+	
+– Potential physical climate-related impacts, such as acute risks that 
+are event driven (including increased frequency and severity of 
+extreme weather events) and chronic risks resulting from longer-term 
+changes in climate patterns. Climate hazards may include changes 
+in precipitation patterns, water shortages, rising sea levels, increased 
+storm intensity, prolonged extreme temperatures and increased drought, 
+fire and flooding.
+	
+– Failure by suppliers, contractors or joint venture partners to perform 
+existing contracts or obligations (including due to insolvency or supply 
+chain disruptions), such as construction of large projects or supply 
+of key inputs to our business (for example, consumables for our 
+mining equipment).
+	
+– Failure of our risk management or other processes (including controls) 
+to prepare for or manage any of the risks discussed in this risk factors 
+section may inhibit our (or our third-party partners’ and providers’) 
+ability to manage any resulting adverse events and may disrupt our 
+operations or adversely impact our financial performance or reputation. 
+This includes unknown pre-existing failures in organisations, businesses 
+or assets that we acquire or invest in through non-organic growth, 
+as well as any failures that occur during the integration of acquired 
+businesses to our business (for example, due to different standards or 
+systems). This also includes the failure of our insurance to sufficiently 
+cover losses from risks to our business.
+Potential opportunities
+Building the resilience of our business may enhance our ability to efficiently 
+identify and manage related risks, supporting proactive, focused and 
+prioritised deployment of resources to reduce exposure to adverse events.
+Management’s approach
+We continue to monitor our state of readiness, including through the use 
+of scenario analysis, and the external environment, including political and 
+economic factors, to support the identification and management of related 
+risks. For instance, we continue to implement Group-wide controls that 
+are designed to enhance business resilience, including BHP’s mandatory 
+minimum performance requirements for security, crisis and emergency 
+management and business continuity plans, and seek to maintain an 
+investment grade credit rating.
+FY2025 insights
+Our exposure to risks associated with inadequate business 
+resilience remained broadly stable in FY2025. As a result of 
+increasing climate-related weather events, we continue to 
+implement Group-wide controls designed to enhance business 
+resilience and monitor the external environment to support early 
+identification of risks to manage associated exposure.
+For more information refer to
+OFR 8 Safety
+OFR 9.6 Health
+OFR 9.8 Climate change
+OFR 9.9 Nature and environmental performance
+bhp.com/sustainability
+71
+Overview
+Additional Information
+Financial Statements
+Governance
+Contents
+Operating and Financial Review
+
+--- PAGE 74 (matched: inventory_working_capital) ---
+12  Performance by commodity
+Management believes the following information presented by commodity 
+provides a meaningful indication of the underlying financial and operating 
+performance of the assets, including equity accounted investments, of 
+each reportable segment. Information relating to assets that are accounted 
+for as equity accounted investments is shown to reflect BHP’s share, 
+unless otherwise noted, to provide insight into the drivers of these assets. 
+For more information as to the statutory determination of our reportable 
+segments, refer to Financial Statements note 1 ‘Segment reporting’
+Unit costs is one of our non-IFRS financial measures used to monitor the 
+performance of our individual assets and is included in the analysis of each 
+reportable segment. 
+For the definition and method of calculation of our non-IFRS financial 
+measures, including Underlying EBITDA and Unit costs, refer to OFR 13
+12.1 Copper
+Detailed below is financial and operating information for our Copper assets 
+comparing FY2025 to FY2024.
+Year ended 30 June
+US$M
+2025
+2024
+Revenue
+22,530
+18,566
+Underlying EBITDA
+12,326
+8,564
+Net operating assets
+40,884
+36,368
+Capital expenditure
+4,392
+3,711
+Underlying ROCE
+17%
+13%
+Total copper production (kt)
+2,017
+1,865
+Average realised prices
+Copper (US$/lb)
+4.25
+3.98
+Unit costs
+Escondida (US$/lb)
+1.19
+1.45
+Spence (US$/lb)
+2.07
+2.13
+Copper South Australia (US$/lb)
+1.18
+1.37
+Key drivers of Copper’s financial results
+Price overview
+Copper was heavily influenced by the threat of tariffs on US copper imports 
+for much of the second half of FY2025. US prices on COMEX traded 
+at a significant premium to the London Metal Exchange (LME), which 
+incentivised much of the world’s available cathode to be shipped to the 
+United States. Declining copper inventories elsewhere helped lift LME 
+copper prices above US$10,000/t (US$4.54/lb) at the end of FY2025. 
+Average prices for the second half of FY2025 were around US$9,400/t 
+(US4.28/lb), up against the prior half, as well as year-on-year. In July 2025, 
+the US announced tariffs would exclude copper cathode, largely closing 
+the COMEX-LME differential. Forward curves suggest the market still sees 
+a risk of future tariffs, which could continue to influence trade flows.
+Chinese copper demand was stronger than expected during FY2025, 
+with growth in power infrastructure investment and policy support for 
+domestic consumer durables supplemented by a sharp rise in exports of 
+manufactured goods. Chinese demand in FY2026 is expected to remain 
+strong, though growth will decelerate off the current high base.     
+We maintain our expectation for the copper market to be broadly 
+balanced in the coming year. Mine supply has seen some challenges in 
+recent months, with growth expectations downgraded in several regions. 
+Trade barriers could also hinder the movement of copper scrap, which may 
+lead to greater demand for primary supply.
+In the late 2020s, we expect new, as-yet uncommitted, mine supply to 
+be required as demand continues to grow and existing supply peaks. 
+The world is expected to need around 10 Mt of new annual mine supply 
+over the next 10 years to meet growing demand.
+In the longer run, copper fundamentals remain attractive. Demand is 
+expected to grow from ~33 Mt today to >50 Mt by 2050, with the key 
+drivers being ‘Traditional’ economic growth (home building, electrical 
+equipment and household appliances), ‘Energy Transition’ (renewables 
+and electric vehicles) and ‘Digital’ (Artificial Intelligence and Data 
+Centres). We anticipate that the cost curve for the mines needed to meet 
+this demand is likely to steepen as both operational and development 
+challenges progressively increase. For future mine supply to be 
+incentivised we believe prices still need to rise from levels seen in 
+the second half of FY2025.
+Production
+Total Copper production for FY2025 increased by 8 per cent to 2,017 kt.
+Escondida achieved its highest production in 17 years, increasing 16 per 
+cent due to record concentrator throughput, improved recoveries, higher 
+concentrator feed grade of 1.02 per cent (FY24: 0.88 per cent) and the 
+Full SaL leaching project which achieved first production in Q4 FY25. 
+Pampa Norte, consisting of Spence and Cerro Colorado, copper 
+production increased by 1 per cent to 268 kt. Spence production 
+increased 5 per cent to a record 268 kt due to improved stacked feed 
+grade. Concentrator throughput, feed grade and recovery was broadly in 
+line with the prior period. Cerro Colorado remains in temporary care and 
+maintenance, having contributed 11 kt of copper production in FY2024. 
+Copper South Australia copper production decreased by 2 per cent to 
+316 kt due to the two-week weather-related power outage in Q2. 
+Antamina copper production decreased by 17 per cent to 119 kt, reflecting 
+lower concentrator throughput and a decline in feed grade. Zinc production 
+was 5 per cent higher at 109 kt, as a result of higher zinc feed grades.
+Carajás produced 9.4 kt of copper and 7.3 troy koz of gold.
+Financial results
+Copper revenue increased by US$4 billion to US$22.5 billion in FY2025 
+due to higher average realised copper prices and higher production. 
+Underlying EBITDA for Copper increased by US$3.8 billion to 
+US$12.3 billion. Price impacts, net of price-linked costs, increased 
+Underlying EBITDA by US$1.7 billion. Higher volumes increased 
+Underlying EBITDA by US$2.2 billion. 
+Controllable cash costs increased by US$0.5 billion, primarily due 
+to one‑off labour related costs combined with higher operational and 
+maintenance contractor costs to support higher material moved. 
+Inflation negatively impacted Underlying EBITDA by US$0.3 billion, 
+however was offset by a decrease in Non-cash costs of US$0.3 billion 
+related to higher stripping capitalisation at Escondida, reflecting the 
+phase of the mine plans. 
+Outlook
+Copper production for FY2026 is expected to be between 1,800 and 
+2,000 kt, reflecting planned lower grade in Chile.
+Escondida production of between 1,150 and 1,250 kt is expected in 
+FY2026, reflecting an expected decrease in concentrator feed grade.  
+Spence production of between 230 and 250 kt is expected in FY2026 
+due to expected lower concentrator feed grades and increased volume 
+of transitional ore processed. 
+Copper South Australia production of between 310 and 340 kt is expected 
+in FY2026, weighted to the second half.
+Antamina copper production of between 120 to 140 kt and zinc production 
+of between 90 and 110 kt is expected in FY2026. 
+Escondida unit costs in FY2026 are expected to be between US$1.20 and 
+US$1.50 per pound (at an exchange rate of USD/CLP 940).
+Spence unit costs in FY2026 are expected to be between US$2.10 and 
+US$2.40 per pound (at an exchange rate of USD/CLP 940).
+Copper South Australia unit costs in FY2026 are expected to be between 
+US$1.00 and US$1.50 per pound (at an exchange rate of AUD/USD 0.65) 
+and prices for by-products of gold US$2,900/oz and uranium US$70/lb.
+72
+BHP Annual Report 2025
+
+--- PAGE 75 (matched: context) ---
+12.2 Iron Ore
+Detailed below is financial and operating information for our Iron Ore 
+assets comparing FY2025 to FY2024.
+Year ended 30 June
+US$M
+2025
+2024
+Revenue
+22,919
+27,952
+Underlying EBITDA
+14,396
+18,913
+Net operating assets
+15,252
+13,812
+Capital expenditure
+2,617
+2,033
+Underlying ROCE
+64%
+83%
+Total iron ore production (Mt)
+263
+260
+Average realised prices
+Iron ore (US$/wmt, FOB)
+82.13
+101.04
+Unit costs
+WAIO (US$/t)
+18.56
+18.19
+Key drivers of Iron Ore’s financial results
+Price overview
+Iron ore benchmark prices averaged around US$100/dmt in the second 
+half of FY2025, similar to the first half. The price was supported by steady 
+seaborne iron ore demand and relatively weak iron ore supply from the 
+major seaborne exporters in the March quarter. Chinese demand has 
+been resilient, benefiting from solid infrastructure investment, healthy 
+manufacturing particularly for sectors related to the energy transition, and 
+strong steel exports. These factors offset continued weakness in the real 
+estate sector. Iron ore demand in the rest of the world was mixed: Demand 
+from developing Asian economies continued to grow along with new 
+blast furnace capacity, while Developed Asia and European demand was 
+impacted by planned blast furnace capacity retirements and maintenance 
+in response to subdued steel demand.  
+Looking ahead, rising trade protectionism could weigh on global iron ore 
+and steel demand in the near term. Seaborne supply is expected to be 
+higher as production from existing supply basins normalises, and as new 
+capacity comes onto the market including from Simandou. 
+Our estimate of cost support continues to sit in the US$80-100/t range 
+on a 62% Fe CFR basis, formed by approximately 180 Mt of higher cost 
+supply, mainly from Australian junior miners, Indian fines and some 
+Chinese domestic mines. Over 60% of this supply sits above the US$90/t 
+mark for cost support. Export volumes of price-sensitive Indian fines 
+continued to drop significantly over the second half of FY2025. As the 
+market turns more competitive, some additional high-cost suppliers may 
+leave the market in the coming years.  
+We maintain our view that China’s steel production is likely to maintain its 
+plateau around the 1 Bt level until the late 2020s. However, Chinese pig 
+iron production is expected to decline over this period with more scrap 
+used in steelmaking. In the long run, seaborne iron ore trade is likely 
+to undergo steady diversification as demand grows in other developing 
+regions. On the supply side, traditional suppliers may need to weigh 
+future investment to sustain production in the face of grade decline 
+and resource depletion.
+Production
+Total Iron Ore production increased by 1 per cent to a record 263 Mt.
+WAIO delivered another full year production record of 257 Mt (290 Mt 
+on a 100 per cent basis) and record shipments. This strong performance 
+reflects supply chain excellence with record productive movement, in 
+addition to improved rail cycle times, and enhanced car dumper and 
+ship loader performance unlocked by the Port Debottlenecking Project 1 
+(PDP1). South Flank exceeded nameplate capacity of 80 Mt (100 per cent 
+basis) in its first year following ramp up, contributing to record Ore for Rail 
+(OFR) volumes from the Central Pilbara hub (South Flank and Mining Area 
+C). The record production was delivered despite the impact of Tropical 
+Cyclone Zelia and Tropical Storm Sean in Q3, and the planned increase 
+in tie-in activity of the multi-year Rail Technology Programme (RTP1).
+Samarco production increased by 34 per cent to 6.4 Mt (BHP share), 
+following the ramp up of the second concentrator.
+Financial results
+Total Iron Ore revenue decreased by US$5.0 billion to US$22.9 billion 
+in FY2025, primarily due to lower average realised prices.
+Underlying EBITDA for Iron Ore decreased by US$4.5 billion to 
+US$14.4 billion primarily due to lower average realised prices, net of 
+price‑linked costs, of US$4.3 billion. Lower net freight recoveries and an 
+increase in closed sites rehabilitation provision of US$0.2 billion was offset 
+by favourable foreign exchange rate impacts of US$0.2 billion.
+Outlook
+WAIO production is expected to be between 251 and 262 Mt (284 and 
+296 Mt on a 100 per cent basis) in FY2026, incorporating the planned 
+rebuild of Car Dumper 3 in HY2026 and the ongoing tie-in activities 
+for RTP1. 
+WAIO unit costs in FY2026 are expected to be between US$18.25 and 
+US$19.75 per tonne (based on an exchange rate of AUD/USD 0.65). 
+Samarco production is expected to be between 7.0 and 7.5 Mt (BHP share) 
+in FY2026 with the second concentrator now online, somewhat offset by 
+planned maintenance expected during the financial year.
+12.3 Coal
+Detailed below is financial and operating information for our Coal assets 
+comparing FY2025 to FY2024.
+Year ended 30 June
+US$M
+2025
+2024
+Revenue
+5,046
+7,666
+Underlying EBITDA
+573
+2,290
+Net operating assets
+6,357
+6,472
+Capital expenditure
+525
+646
+Underlying ROCE
+(1%)
+19%
+Total steelmaking coal production (Mt)
+18
+22
+Total energy coal production (Mt)
+15
+15
+Average realised prices
+Steelmaking coal (US$/t)
+193.82
+266.06
+Hard coking coal (HCC) (US$/t)
+193.82
+273.03
+Weak coking coal (WCC) (US$/t)
+ −
+205.54
+Energy coal (US$/t)
+107.80
+121.52
+Unit costs
+BMA (US$/t)
+127.50
+119.54
+Key drivers of Coal’s financial results
+Price overview
+Steelmaking coal prices declined in second half of FY2025 as seaborne 
+demand weakness more than offset ongoing seaborne supply disruptions 
+in Australia.
+Indian pig iron production growth remained strong. Lower demand from 
+Developed Asia and Europe, and higher domestic coal production in 
+China weighed on global seaborne steelmaking coal demand. Weak steel 
+margins outside China also prompted steel mills to reduce their blend 
+of premium coals.  
+In the near term, the recovery of Australian supply is likely to continue. 
+Chinese policy toward domestic coal supply remains a key uncertainty 
+for global steelmaking coal markets, with Chinese coking coal prices 
+increasing since July owing to market expectations for supply intervention. 
+Over the longer term, we expect that higher quality steelmaking coals, such 
+as those produced by our BMA assets, will be valued for their role in reducing 
+the greenhouse gas emission intensity of blast furnaces. In addition, robust 
+hard coking coal imports from developing countries such as India, will 
+lead to growing and resilient demand for decades to come. With the major 
+seaborne supply region of Queensland not being conducive to long-life capital 
+investment owing to the current royalty regime, the scarcity value of higher 
+quality steelmaking coals may also increase over time. 
+73
+Overview
+Additional Information
+Financial Statements
+Governance
+Contents
+Operating and Financial Review
+
+--- PAGE 118 (matched: context) ---
+Abbreviation
+Item
+Abbreviation
+Item
+AGM
+Annual General Meeting
+KMP
+Key Management Personnel
+CDP
+Cash and Deferred Plan
+LTIP
+Long Term Incentive Plan
+CEO
+Chief Executive Officer
+MAP
+Management Award Plan
+DEP
+Dividend equivalent payment
+MSR
+Minimum shareholding requirement
+ELT
+Executive Leadership Team
+ROCE
+Return on capital employed
+GHG
+Greenhouse gas
+S&S
+Safety and sustainability
+HSEC
+Health, safety, environment and community
+TSR
+Total shareholder return
+IFRS
+International Financial Reporting Standards
+Remuneration Report continued
+Additional information regarding the prior year incentive awards that are 
+‘on foot’ can be found in the Remuneration Report of the relevant year in 
+which the grant was made. There has been no alteration to the terms and 
+conditions of any grants since the grant date. No interests under BHP’s 
+employee equity plans are held by related parties of Executive KMP.
+BHP’s shareholders approved the grant of FY2024 CDP Deferred Rights 
+and 2024 LTIP Performance Rights to the CEO in accordance with ASX 
+Listing Rule 10.14 at the 2024 AGM.
+Ordinary shareholdings and transactions
+This table shows movements during the reporting period in the number 
+of fully paid ordinary shares of BHP Group Limited held directly, indirectly 
+or beneficially, by each KMP, including their related parties. No shares are 
+held nominally by any KMP or their related parties. These are ordinary 
+shares held without performance conditions or restrictions and are 
+included in MSR calculations for each individual.
+For KMP that commenced as KMP during the reporting period, the ‘At 1 July 
+2024’ value reflects the shares held at the date they commenced as KMP. 
+For KMP that ceased to be KMP during the reporting period, the ‘At 30 June 
+2025’ value reflects the shares held at the date they ceased being KMP. 
+At 1 July 2024
+Purchased
+	
+Received as
+remuneration
+Sold
+At 30 June 2025
+Executive KMP
+Mike Henry
+410,001
+–
+130,407
+62,373
+478,035
+Brandon Craig
+25,665
+–
+19,945
+9,025
+36,585
+Vandita Pant
+170,688
+–
+44,031
+2,784
+211,935
+Geraldine Slattery1
+195,011
+–
+82,470
+39,453
+238,028
+Non-executive Directors
+Xiaoqun Clever-Steg
+8,539
+1,461
+–
+–
+10,000
+Gary Goldberg2
+18,000
+6,000
+–
+–
+24,000
+Michelle Hinchliffe
+10,107
+2,223
+–
+–
+12,330
+Don Lindsay
+–
+10,000
+–
+–
+10,000
+Ken MacKenzie3
+58,446
+–
+–
+–
+58,446
+Ross McEwan
+–
+45,000
+–
+–
+45,000
+Christine O’Reilly
+9,420
+1,200
+–
+–
+10,620
+Catherine Tanna
+10,400
+–
+–
+–
+10,400
+Dion Weisler
+7,544
+3,950
+–
+–
+11,494
+1.	 2,042 of Geraldine Slattery’s shares were held in the form of American Depositary Shares.
+2.	 12,000 of Gary Goldberg’s shares were held in the form of American Depositary Shares.
+3.	 Shares shown as held by Ken MacKenzie at 30 June 2025 is the balance held at the date of his retirement from the Board on 31 March 2025.
+This Remuneration Report was approved by the Board  
+on 19 August 2025 and signed on its behalf by:
+Christine O’Reilly
+Chair, People and Remuneration Committee
+19 August 2025
+116
+BHP Annual Report 2025
+
+--- PAGE 119 (matched: inventory_working_capital, receivables_payables) ---
+1	
+Consolidated Financial Statements
+	
+1.1	
+Consolidated Income Statement	
+118
+	
+1.2	 Consolidated Statement of Comprehensive Income	
+118
+	
+1.3	 Consolidated Balance Sheet	
+119
+	
+1.4	 Consolidated Cash Flow Statement	
+120
+	
+1.5	 Consolidated Statement of Changes in Equity	
+121
+	
+1.6	
+Notes to the Financial Statements	
+124
+2	
+Consolidated entity disclosure statement	
+177
+3	
+Directors’ declaration	
+	
+181
+4	
+Lead auditor’s independence declaration under 
+Section 307C of the Australian Corporations Act 2001	
+182
+5	
+Independent auditor’s report to the members of 
+BHP Group Limited	
+	
+183
+Notes to the Financial Statements
+Performance
+1	
+Segment reporting	
+	
+124
+2	
+Revenue	
+	
+126
+3	
+Exceptional items	
+	
+126
+4	
+Significant events – Samarco dam failure	
+129
+5	
+Expenses and other income	
+	
+135
+6	
+Income tax expense	
+	
+136
+7	
+Earnings per share	
+	
+138
+Working capital
+8	
+Trade and other receivables	
+	
+139
+9	
+Trade and other payables	
+	
+139
+10	
+Inventories	
+	
+139
+Resource assets
+11	
+Property, plant and equipment	 	
+140
+12	
+Intangible assets	
+	
+142
+13	
+Impairment of non-current assets	
+143
+14	
+Deferred tax balances	
+	
+145
+15	
+Closure and rehabilitation provisions	
+146
+16	
+Climate change	
+	
+148
+Capital structure
+17	
+Share capital	
+	
+152
+18	
+Other equity	
+	
+152
+19	
+Dividends	
+	
+153
+20	
+Provisions for dividends and other liabilities	
+154
+Financial management
+21	
+Net debt	
+	
+154
+22	
+Leases	
+	
+156
+23	
+Net finance costs	
+	
+158
+24	
+Financial risk management	
+	
+159
+Employee matters
+25	
+Key management personnel	
+	
+165
+26	
+Employee share ownership plans	
+165
+27	
+Employee benefits, restructuring and post-retirement 
+employee benefits provisions	
+	
+167
+Group and related party information
+28	
+Subsidiaries	
+	
+169
+29	
+Investments accounted for using the equity method	
+169
+30	
+Interests in joint operations	
+	
+172
+31	
+Related party transactions	
+	
+172
+Unrecognised items and uncertain events
+32	
+Contingent liabilities	
+	
+173
+33	
+Subsequent events	
+	
+173
+Other items
+34	
+Auditor’s remuneration	
+	
+174
+35	
+BHP Group Limited	
+	
+174
+36	
+Deed of Cross Guarantee	
+	
+175
+37	
+New and amended accounting standards and 
+interpretations and changes to accounting policies	
+176
+Financial Statements
+117
+Operating and Financial Review
+Overview
+Additional Information
+Governance
+Contents
+Financial Statements
+
+--- PAGE 120 (matched: context) ---
+1  Consolidated Financial Statements
+1.1 Consolidated Income Statement
+for the year ended 30 June 2025
+Notes
+2025
+US$M
+2024
+US$M
+2023
+US$M
+Revenue
+2
+51,262
+55,658
+53,817
+Other income
+5
+368
+1,285
+394
+Expenses excluding net finance costs
+5
+(32,319)
+(36,750)
+(31,873)
+Profit/(loss) from equity accounted investments, related impairments and expenses
+29
+153
+(2,656)
+594
+Profit from operations
+19,464
+17,537
+22,932
+Financial expenses
+(1,771)
+(2,198)
+(2,060)
+Financial income
+660
+709
+529
+Net finance costs
+23
+(1,111)
+(1,489)
+(1,531)
+Profit before taxation 
+18,353
+16,048
+21,401
+Income tax expense
+(6,130)
+(6,015)
+(6,691)
+Royalty-related taxation (net of income tax benefit)
+(1,080)
+(432)
+(386)
+Total taxation expense
+6
+(7,210)
+(6,447)
+(7,077)
+Profit after taxation
+11,143
+9,601
+14,324
+Attributable to non-controlling interests
+2,124
+1,704
+1,403
+Attributable to BHP shareholders
+9,019
+7,897
+12,921
+Basic earnings per ordinary share (cents)
+7
+177.8
+155.8
+255.2
+Diluted earnings per ordinary share (cents)
+7
+177.4
+155.5
+254.7
+The accompanying notes form part of these Financial Statements.
+1.2 Consolidated Statement of Comprehensive Income
+for the year ended 30 June 2025
+Notes
+2025
+US$M
+2024
+US$M
+2023
+US$M
+Profit after taxation
+11,143
+9,601
+14,324
+Other comprehensive income 
+Items that may be reclassified subsequently to the income statement:
+Hedges:
+Gains/(losses) taken to equity
+346
+(33)
+95
+(Gains)/losses transferred to the income statement
+(392)
+49
+(148)
+Loss transferred to initial carrying amount of hedged item
+ −
+ −
+35
+Tax recognised within other comprehensive income
+6
+14
+(5)
+5
+Total items that may be reclassified subsequently to the income statement
+(32)
+11
+(13)
+Items that will not be reclassified to the income statement:
+Re-measurement (losses)/gains on pension and medical schemes
+(8)
+41
+(18)
+Equity investments held at fair value
+23
+(30)
+17
+Tax recognised within other comprehensive income
+6
+3
+(13)
+7
+Total items that will not be reclassified to the income statement
+18
+(2)
+6
+Total other comprehensive (loss)/income
+(14)
+9
+(7)
+Total comprehensive income
+11,129
+9,610
+14,317
+Attributable to non-controlling interests
+2,119
+1,708
+1,400
+Attributable to BHP shareholders
+9,010
+7,902
+12,917
+The accompanying notes form part of these Financial Statements.
+118
+BHP Annual Report 2025
+
+--- PAGE 121 (matched: inventory_working_capital, receivables_payables) ---
+1.3 Consolidated Balance Sheet
+as at 30 June 2025
+Notes
+2025
+US$M
+2024
+US$M
+ASSETS
+Current assets
+Cash and cash equivalents
+21
+11,894
+12,501
+Trade and other receivables
+8
+4,116
+5,169
+Other financial assets
+24
+561
+381
+Inventories
+10
+5,538
+5,828
+Current tax assets
+545
+314
+Other 
+176
+145
+Total current assets
+22,830
+24,338
+Non-current assets
+Trade and other receivables
+8
+137
+170
+Other financial assets
+24
+1,122
+1,229
+Inventories
+10
+1,440
+1,211
+Property, plant and equipment
+11
+76,457
+71,629
+Intangible assets
+12
+1,924
+1,718
+Investments accounted for using the equity method
+29
+4,107
+1,662
+Deferred tax assets
+14
+78
+67
+Other
+695
+338
+Total non-current assets
+85,960
+78,024
+Total assets
+108,790
+102,362
+LIABILITIES
+Current liabilities
+Trade and other payables
+9
+6,637
+6,719
+Interest bearing liabilities
+21
+2,018
+2,084
+Other financial liabilities
+24
+214
+512
+Current tax payable
+900
+884
+Provisions 
+4,15,20,27
+5,823
+4,007
+Deferred income
+47
+90
+Total current liabilities
+15,639
+14,296
+Non-current liabilities
+Trade and other payables
+9
+33
+45
+Interest bearing liabilities
+21
+22,478
+18,634
+Other financial liabilities
+24
+1,364
+1,759
+Non-current tax payable
+3
+40
+Deferred tax liabilities
+14
+3,506
+3,332
+Provisions
+4,15,20,27
+13,498
+15,088
+Deferred income
+51
+48
+Total non-current liabilities
+40,933
+38,946
+Total liabilities
+56,572
+53,242
+Net assets
+52,218
+49,120
+EQUITY
+Share capital 
+17
+5,015
+4,899
+Treasury shares
+17
+(18)
+(36)
+Reserves
+18
+(2)
+(15)
+Retained earnings
+42,670
+39,963
+Total equity attributable to BHP shareholders
+47,665
+44,811
+Non-controlling interests
+18
+4,553
+4,309
+Total equity
+52,218
+49,120
+The accompanying notes form part of these Financial Statements.
+The Financial Statements were approved by the Board of Directors on 19 August 2025 and signed on its behalf by:
+	
+Ross McEwan	
+	
+	
+Mike Henry 
+Chair	
+	
+	
+	
+Chief Executive Officer
+119
+Operating and Financial Review
+Overview
+Additional Information
+Governance
+Contents
+Financial Statements
+
+--- PAGE 122 (matched: inventory_working_capital, receivables_payables) ---
+1  Consolidated Financial Statements continued
+1.4 Consolidated Cash Flow Statement
+for the year ended 30 June 2025
+Notes
+2025
+US$M
+2024
+US$M
+2023
+US$M
+Operating activities
+Profit before taxation
+18,353
+16,048
+21,401
+Adjustments for:
+Depreciation and amortisation expense
+5,540
+5,295
+5,061
+Impairments of property, plant and equipment, financial assets and intangibles net 
+of reversals
+108
+3,890
+75
+Net finance costs
+1,111
+1,489
+1,531
+(Profit)/loss from equity accounted investments, related impairments and expenses
+(153)
+2,656
+(594)
+Other
+831
+(243)
+546
+Changes in assets and liabilities:
+Trade and other receivables
+776
+(290)
+867
+Inventories
+64
+(530)
+(44)
+Trade and other payables
+(116)
+(27)
+(1,086)
+Provisions and other assets and liabilities
+(249)
+(469)
+131
+Cash generated from operations
+26,265
+27,819
+27,888
+Dividends received
+375
+397
+347
+Interest received
+608
+724
+545
+Interest paid
+(1,478)
+(1,680)
+(1,090)
+Proceeds from cash management related instruments
+195
+361
+331
+Net income tax and royalty-related taxation refunded
+448
+547
+232
+Net income tax and royalty-related taxation paid
+(7,721)
+(7,503)
+(9,552)
+Net operating cash flows
+18,692
+20,665
+18,701
+Investing activities
+Purchases of property, plant and equipment
+(9,398)
+(8,816)
+(6,733)
+Exploration and evaluation expenditure
+(396)
+(457)
+(350)
+Exploration and evaluation expenditure expensed and included in operating cash flows
+346
+399
+294
+Investment in subsidiaries, operations and joint operations, net of cash
+ −
+ −
+(5,868)
+Net investment and funding of equity accounted investments
+29
+(3,984)
+(701)
+(557)
+Proceeds from sale of assets
+127
+149
+444
+Proceeds from sale of subsidiaries, operations and joint operations, net of their cash
+535
+1,072
+82
+Other investing
+(580)
+(408)
+(377)
+Net investing cash flows
+(13,350)
+(8,762)
+(13,065)
+Financing activities
+Proceeds from interest bearing liabilities
+4,129
+5,091
+8,182
+Settlements of debt related instruments
+(147)
+(321)
+(677)
+Repayment of interest bearing liabilities
+(1,675)
+(7,327)
+(3,289)
+Distributions to non-controlling interests
+(2)
+(13)
+ −
+Purchase of shares by Employee Share Ownership Plan (ESOP) Trusts
+ −
+ −
+(88)
+Dividends paid
+(6,403)
+(7,675)
+(13,268)
+Dividends paid to non-controlling interests
+(1,873)
+(1,424)
+(1,175)
+Net financing cash flows
+(5,971)
+(11,669)
+(10,315)
+Net (decrease)/increase in cash and cash equivalents
+(629)
+234
+(4,679)
+Cash and cash equivalents, net of overdrafts, at the beginning of the financial year
+12,498
+12,423
+17,236
+Foreign currency exchange rate changes on cash and cash equivalents
+24
+(159)
+(134)
+Cash and cash equivalents, net of overdrafts, at the end of the financial year
+21
+11,893
+12,498
+12,423
+The accompanying notes form part of these Financial Statements.
+120
+BHP Annual Report 2025
+
+--- PAGE 123 (matched: context) ---
+1.5 Consolidated Statement of Changes in Equity
+for the year ended 30 June 2025
+Attributable to BHP shareholders
+US$M
+Share
+capital
+Treasury
+shares
+Reserves
+Retained
+earnings
+Total equity
+attributable
+to BHP
+shareholders
+Non-
+controlling
+interests
+Total
+equity
+Balance as at 1 July 2024
+4,899
+(36)
+(15)
+39,963
+44,811
+4,309
+49,120
+Total comprehensive income
+ −
+ −
+(9)
+9,019
+9,010
+2,119
+11,129
+Transactions with owners:
+Shares issued
+116
+(116)
+ −
+ −
+ −
+ −
+ −
+Purchase of shares by ESOP Trusts 
+ −
+ −
+ −
+ −
+ −
+ −
+ −
+Employee share awards exercised net of employee contributions net of tax
+ −
+134
+(107)
+(27)
+ −
+ −
+ −
+Vested employee share awards that have lapsed, been cancelled or forfeited
+ −
+ −
+(1)
+1
+ −
+ −
+ −
+Accrued employee entitlement for unexercised awards net of tax
+ −
+ −
+130
+ −
+130
+ −
+130
+Dividends
+ −
+ −
+ −
+(6,286)
+(6,286)
+(1,873)
+(8,159)
+Distribution to non-controlling interests
+ −
+ −
+ −
+ −
+ −
+(2)
+(2)
+Balance as at 30 June 2025
+5,015
+(18)
+(2)
+42,670
+47,665
+4,553
+52,218
+Balance as at 1 July 2023
+4,737
+(41)
+13
+39,787
+44,496
+4,034
+48,530
+Total comprehensive income
+ −
+ −
+(18)
+7,920
+7,902
+1,708
+9,610
+Transactions with owners:
+Shares issued
+162
+(162)
+ −
+ −
+ −
+ −
+ −
+Purchase of shares by ESOP Trusts 
+ −
+ −
+ −
+ −
+ −
+ −
+ −
+Employee share awards exercised net of employee contributions net of tax
+ −
+167
+(134)
+(33)
+ −
+ −
+ −
+Vested employee share awards that have lapsed, been cancelled or forfeited
+ −
+ −
+(1)
+1
+ −
+ −
+ −
+Accrued employee entitlement for unexercised awards net of tax
+ −
+ −
+129
+ −
+129
+ −
+129
+Dividends
+ −
+ −
+ −
+(7,712)
+(7,712)
+(1,424)
+(9,136)
+Distribution to non-controlling interests
+ −
+ −
+(4)
+ −
+(4)
+(9)
+(13)
+Balance as at 30 June 2024
+4,899
+(36)
+(15)
+39,963
+44,811
+4,309
+49,120
+Balance as at 1 July 2022
+4,638
+(31)
+12
+40,338
+44,957
+3,809
+48,766
+Total comprehensive income
+ −
+ −
+4
+12,913
+12,917
+1,400
+14,317
+Transactions with owners:
+Shares issued
+99
+(99)
+ −
+ −
+ −
+ −
+ −
+Purchase of shares by ESOP Trusts 
+ −
+(88)
+ −
+ −
+(88)
+ −
+(88)
+Employee share awards exercised net of employee contributions net of tax
+ −
+177
+(132)
+(45)
+ −
+ −
+ −
+Vested employee share awards that have lapsed, been cancelled or forfeited
+ −
+ −
+(1)
+1
+ −
+ −
+ −
+Accrued employee entitlement for unexercised awards net of tax
+ −
+ −
+130
+ −
+130
+ −
+130
+Dividends
+ −
+ −
+ −
+(13,420)
+(13,420)
+(1,175) (14,595)
+Balance as at 30 June 2023
+4,737
+(41)
+13
+39,787
+44,496
+4,034
+48,530
+The accompanying notes form part of these Financial Statements.
+121
+Operating and Financial Review
+Overview
+Additional Information
+Governance
+Contents
+Financial Statements
+
+--- PAGE 124 (matched: context) ---
+1  Consolidated Financial Statements continued
+Basis of preparation
+The Consolidated Financial Statements (Financial Statements) comprise 
+BHP Group Limited (BHP or the Company) together with its controlled 
+entities (Group) for the year ended 30 June 2025. BHP Group Limited, 
+incorporated and domiciled in Australia, is a for-profit company limited by 
+shares which are publicly traded on the Australian Securities Exchange. 
+BHP Group Limited also has an international secondary listing on the 
+London Stock Exchange (LSE), a secondary listing on the Johannesburg 
+Stock Exchange and is listed on the New York Stock Exchange (NYSE) in 
+the United States.
+Directors of BHP have included information in the Financial Statements 
+they deem to be material and relevant to the understanding of the Financial 
+Statements. Disclosure may be considered material and relevant if the 
+dollar amount is significant due to its size or nature, or the information is 
+important to understand the:
+	
+– Group’s current year results
+	
+– impact of significant changes in the Group’s business or
+	
+– aspects of the Group’s operations that are important to 
+future performance
+The Board of Directors resolved to authorise the issue of the financial 
+report on 19 August 2025.
+Basis of preparation and measurement
+The Group’s Financial Statements as at and for the year ended 
+30 June 2025:
+	
+– are a consolidated general purpose financial report
+	
+– have been prepared in accordance with the requirements of:
+	
+– the Australian Corporations Act 2001 (Corporations Act 2001)
+	
+– Australian Accounting Standards and other authoritative 
+pronouncements of the Australian Accounting Standards Board 
+(AASB) and International Financial Reporting Standards as issued 
+by the International Accounting Standards Board (IASB) (collectively 
+referred to as IFRS)
+	
+– are prepared on a going concern basis as the Directors:
+	
+– have made an assessment of the Group’s ability to continue as a 
+going concern for the 12 months from the date of this report
+	
+– consider it appropriate to adopt the going concern basis of accounting 
+in preparing the Group’s Financial Statements
+	
+– measure items on the basis of historical cost principles, except for the 
+following items:
+	
+– derivative financial instruments and certain other financial assets and 
+liabilities, which are carried at fair value
+	
+– non-current assets or disposal groups that are classified as held-
+for-sale or held-for-distribution, which are measured at the lower of 
+carrying amount and fair value less costs to sell
+	
+– include material accounting policies in the notes to the Financial 
+Statements, specifically where accounting policy choices have been 
+made in relation to the recognition and measurement basis used and are 
+relevant to an understanding of the Financial Statements
+	
+– apply a presentation currency of US dollars, consistent with the 
+predominant functional currency of the Group’s operations. Amounts are 
+rounded to the nearest million dollars, unless otherwise stated, in 
+accordance with ASIC (Rounding in Financial/Directors’ Reports) 
+Instrument 2016/191
+	
+– present reclassified comparative information where required for 
+consistency with the current year’s presentation
+	
+– adopt all new and amended standards and interpretations under IFRS 
+that are mandatory for application in periods beginning on 1 July 2024. 
+None had a significant impact on the Financial Statements.
+	
+– have not early adopted any standards and interpretations that have been 
+issued or amended but are not yet effective. Refer to note 37 ‘New and 
+amended accounting standards and interpretations and changes to 
+accounting policies’
+The accounting policies are consistently applied by all entities included in 
+the Financial Statements.
+In assessing the appropriateness of the going concern assumption over 
+the going concern period, management has stress tested BHP’s most 
+recent financial projections to incorporate a range of potential future 
+outcomes by considering BHP’s principal risks. The Group’s financial 
+forecasts, including downside commodity price and production scenarios, 
+demonstrate that the Group believes that it has sufficient financial 
+resources to meet its obligations as they fall due throughout the going 
+concern period. As such, the Financial Statements continue to be prepared 
+on the going concern basis.
+Principles of consolidation
+A list of significant entities in the Group, including subsidiaries, joint 
+arrangements and associates at 30 June 2025 is contained in note 28 
+‘Subsidiaries’, note 29 ‘Investments accounted for using the equity method’ 
+and note 30 ‘Interests in joint operations’.
+Subsidiaries: The Financial Statements of the Group include the 
+consolidation of BHP Group Limited (the Company or parent entity) and 
+its subsidiaries, being the entities controlled by the parent entity during the 
+year. Control exists where the Group:
+	
+– has power over the investee
+	
+– is exposed to, or has rights to, variable returns from its involvement 
+with the entity
+	
+– has the ability to affect those returns through its power to direct the 
+activities of the entity
+The ability to approve the operating and capital budget of an entity and 
+the ability to appoint key management personnel are decisions that 
+demonstrate that the Group has the existing rights to direct the relevant 
+activities of an entity.
+Where the Group’s interest is less than 100 per cent, the interest 
+attributable to outside shareholders is reflected in non-controlling interests.
+Changes in the Group’s interests in subsidiaries that do not result in a 
+loss of control are accounted for as equity transactions. The carrying 
+amount of the Group’s interests and the non-controlling interests are 
+adjusted to reflect the changes in their relative interests in the subsidiaries. 
+Any difference between the amount by which the non-controlling interests 
+are adjusted and the fair value of the consideration paid or received is 
+recognised directly in equity and attributed to the owners of the Company.
+The financial information of subsidiaries is prepared for the same reporting 
+period as the Group. The acquisition method of accounting is used to 
+account for the Group’s business combinations.
+Joint arrangements: The Group undertakes a number of business 
+activities through joint arrangements, which exist when two or more 
+parties have joint control. Joint arrangements are classified as either 
+joint operations or joint ventures, based on the contractual rights and 
+obligations between the parties to the arrangement:
+	
+– Joint operations: A joint operation is an arrangement in which the 
+Group shares joint control, primarily via contractual arrangements 
+with other parties. In a joint operation, the Group has rights to the 
+underlying assets and obligations for the liabilities relating to the 
+arrangement. This includes situations where the parties benefit from 
+the joint activity through a share of substantially all of the output, rather 
+than by receiving a share of the results of trading. In relation to the 
+Group’s interest in a joint operation, the Group recognises: its assets 
+and liabilities, including its share of any assets and liabilities held or 
+incurred jointly; revenue from the sale of its share of the output and its 
+share of any revenue generated from the sale of the output by the joint 
+operation; and its expenses including its share of expenses incurred 
+jointly. All such amounts are allocated in accordance with the terms of 
+the arrangement, which is usually in proportion to the Group’s interest 
+in the joint operation.
+The Group accounts for the assets, liabilities, revenue and expenses 
+relating to its interest in a joint operation in accordance with the IFRS 
+Standards applicable to the particular assets, liabilities, revenue 
+and expenses.
+122
+BHP Annual Report 2025
+
+--- PAGE 125 (matched: fx_exposure) ---
+– Joint ventures: A joint venture is a joint arrangement in which the parties that share joint control have rights to the net assets of the arrangement. 
+A separate vehicle, not the parties, will have the rights to the assets and obligations for the liabilities relating to the arrangement. More than an 
+insignificant share of output from a joint venture may be sold to third parties, which indicates the joint venture is not dependent on the parties to 
+the arrangement for funding, nor do the parties have an obligation for the liabilities of the arrangement. Joint ventures are accounted for using the 
+equity method as outlined below.
+Associates: The Group accounts for investments in associates using the equity method as outlined below. An entity is considered an associate where 
+the Group is deemed to have significant influence but not control or joint control. Significant influence is presumed to exist where the Group:
+	
+– has over 20 per cent but less than 50 per cent of the voting rights of an entity, unless it can be clearly demonstrated that this is not the case or
+	
+– holds less than 20 per cent of the voting rights of an entity; however, has the power to participate in the financial and operating policy decisions 
+affecting the entity
+The Group uses the term ‘equity accounted investments’ to refer to joint ventures and associates collectively.
+Under the equity method, an investment in an associate or a joint venture is recognised initially at cost and adjusted thereafter to recognise the Group’s 
+share of the profit or loss and other comprehensive income of the associate or joint venture. When the Group’s share of losses of an associate or a joint 
+venture exceeds the Group’s interest in that associate or joint venture, the Group discontinues recognising its share of further losses. Additional losses 
+are recognised only to the extent that the Group has incurred legal or constructive obligations or made payments on behalf of the associate or 
+joint venture.
+The financial information of joint arrangements is prepared for the same reporting period as the Group. When the annual financial reporting date is 
+different to the Group’s, financial information is obtained as at 30 June in order to report on an annual basis consistent with the Group’s reporting date.
+Foreign currencies
+Transactions related to the Group’s worldwide operations are conducted in a number of foreign currencies. The majority of the subsidiaries, joint 
+arrangements and associates within each of the operations have assessed US dollars as the functional currency. Subsidiaries, joint arrangements and 
+associates that have functional currencies other than US dollars are not material to the financial performance or the financial position of the Group.
+Foreign exchange gains and losses are recognised in the income statement, except for qualifying cash flow hedges (which are deferred to equity) and 
+foreign exchange gains or losses on foreign currency provisions for site closure and rehabilitation costs (which are capitalised in property, plant and 
+equipment for operating sites).
+Significant judgements and 
+estimates
+The Group’s accounting policies require the 
+use of judgement, estimates and assumptions. 
+All judgements, estimates and assumptions 
+are based on the most current facts and 
+circumstances and are reassessed on an 
+ongoing basis. Actual results in future reporting 
+periods may differ for these estimates under 
+different assumptions and conditions.  
+Further information regarding the Group’s 
+significant judgements and key estimates and 
+assumptions, being those where changes 
+may materially affect financial results and the 
+carrying amount of assets and liabilities to 
+be reported in the next reporting period, are 
+embedded within the following notes:
+Note
+4 
+Significant events – Samarco dam failure
+6 
+Taxation
+11
+Overburden removal costs
+11
+Depreciation of property, plant 
+and equipment
+13
+Impairment of non-current assets
+15
+Closure and rehabilitation provisions
+22
+Leases
+29
+Investments accounted for using the 
+equity method
+Additional information including sensitivity 
+analysis, where appropriate, has been 
+provided in the relevant notes to enhance an 
+understanding of the impact of key estimates 
+and assumptions on the Group’s financial 
+position and performance.
+Reserve estimates
+Reserves are estimates of the amount of 
+product that can be demonstrated to be able 
+to be economically and legally extracted from 
+the Group’s properties. In order to estimate 
+reserves, assumptions are required about 
+a range of technical and economic factors, 
+including quantities, qualities, production 
+techniques, recovery efficiency, production 
+and transport costs, commodity supply and 
+demand, commodity and carbon prices and 
+exchange rates. 
+Estimating the quantity and/or quality of 
+reserves requires the size, shape and depth 
+of ore bodies to be determined by analysing 
+geological data, such as drilling samples 
+and geophysical survey interpretations. 
+Economic assumptions used to estimate 
+reserves change from period-to-period as 
+additional technical and operational data is 
+generated. This process may require complex 
+and difficult geological judgements to interpret 
+the data.
+Reserve impact on financial reporting
+Estimates of reserves may change from 
+period‑to-period as the economic assumptions 
+used to estimate reserves change and 
+additional geological data is generated during 
+the course of operations. Changes in reserves 
+may affect the Group’s financial results and 
+financial position in a number of ways, including:
+	
+– asset carrying values may be affected 
+due to changes in estimated future 
+production levels
+	
+– depreciation, depletion and amortisation 
+charged to the income statement may 
+change where such charges are determined 
+on the units of production basis, or where 
+the useful economic lives of assets change
+	
+– overburden removal costs recorded on the 
+balance sheet or charged to the income 
+statement may change due to changes in 
+stripping ratios or the units of production 
+basis of depreciation
+	
+– closure and rehabilitation provisions may 
+change where changes in estimated 
+reserves affect expectations about the 
+timing or cost of these activities
+	
+– the carrying amount of deferred tax assets 
+may change due to changes in estimates of 
+the likely recovery of the tax benefits
+123
+Operating and Financial Review
+Overview
+Additional Information
+Governance
+Contents
+Financial Statements
+
+--- PAGE 126 (matched: context) ---
+1  Consolidated Financial Statements continued
+1.6 Notes to the Financial Statements
+Performance
+1 Segment reporting
+Reportable segments
+The Group operated three reportable segments during FY2025, which are aligned with the commodities that are extracted and marketed and reflect the 
+structure used by the Group’s management to assess the performance of the Group.
+Reportable segment
+Principal activities
+Copper
+Mining of copper, uranium, gold, zinc, molybdenum and silver
+Iron Ore
+Mining of iron ore
+Coal
+Mining of steelmaking coal and energy coal
+Group and unallocated items includes functions, other unallocated operations including Potash, Western Australia Nickel (comprising the Nickel West 
+operations and the West Musgrave project), legacy assets and consolidation adjustments. Revenue not attributable to reportable segments comprises 
+the sale of freight and fuel to third parties, as well as revenues from unallocated operations. Exploration and technology activities are recognised within 
+relevant segments.
+Year ended 30 June 2025
+US$M
+Copper
+Iron Ore
+Coal
+Group and
+unallocated
+items/
+eliminations
+Group total
+Revenue
+22,530
+22,919
+5,046
+767
+51,262
+Inter-segment revenue
+ −
+ −
+ −
+ −
+ −
+Total revenue
+22,530
+22,919
+5,046
+767
+51,262
+Underlying EBITDA
+12,326
+14,396
+573
+(1,317)
+25,978
+Depreciation and amortisation
+(2,351)
+(2,098)
+(602)
+(489)
+(5,540)
+Impairment losses1
+(19)
+(151)
+(4)
+(24)
+(198)
+Underlying EBIT
+9,956
+12,147
+(33)
+(1,830)
+20,240
+Exceptional items2
+ −
+(321)
+ −
+(455)
+(776)
+Net finance costs
+(1,111)
+Profit before taxation
+18,353
+Capital expenditure (cash basis)
+4,392
+2,617
+525
+1,864
+9,398
+Profit/(loss) from equity accounted investments,  
+related impairments and expenses
+464
+(245)
+ −
+(66)
+153
+Investments accounted for using the equity method
+4,084
+ −
+ −
+23
+4,107
+Total assets
+46,694
+26,320
+10,067
+25,709
+108,790
+Total liabilities
+5,810
+11,068
+3,710
+35,984
+56,572
+Year ended 30 June 2024
+US$M
+Copper
+Iron Ore
+Coal
+Group and
+unallocated
+items/
+eliminations
+Group total
+Revenue
+18,566
+27,952
+7,666
+1,474
+55,658
+Inter-segment revenue
+ −
+ −
+ −
+ −
+ −
+Total revenue
+18,566
+27,952
+7,666
+1,474
+55,658
+Underlying EBITDA
+8,564
+18,913
+2,290
+(751)
+29,016
+Depreciation and amortisation
+(2,023)
+(2,027)
+(611)
+(634)
+(5,295)
+Impairment losses1
+(17)
+(61)
+(2)
+(10)
+(90)
+Underlying EBIT
+6,524
+16,825
+1,677
+(1,395)
+23,631
+Exceptional items2
+ −
+(3,066)
+880
+(3,908)
+(6,094)
+Net finance costs
+(1,489)
+Profit before taxation
+16,048
+Capital expenditure (cash basis)
+3,711
+2,033
+646
+2,426
+8,816
+Profit/(loss) from equity accounted investments,  
+related impairments and expenses
+377
+(3,032)
+ −
+(1)
+(2,656)
+Investments accounted for using the equity method
+1,573
+ −
+ −
+89
+1,662
+Total assets
+42,145
+25,569
+9,528
+25,120
+102,362
+Total liabilities
+5,777
+11,757
+3,056
+32,652
+53,242
+124
+BHP Annual Report 2025
+
+--- PAGE 127 (matched: context) ---
+Year ended 30 June 2023
+US$M
+Copper
+Iron Ore
+Coal
+Group and
+unallocated
+items/
+eliminations
+Group total
+Revenue
+16,027
+24,812
+10,958
+2,020
+53,817
+Inter-segment revenue
+ −
+ −
+ −
+ −
+ −
+Total revenue
+16,027
+24,812
+10,958
+2,020
+53,817
+Underlying EBITDA
+6,653
+16,692
+4,998
+(387)
+27,956
+Depreciation and amortisation
+(1,810)
+(1,993)
+(697)
+(561)
+(5,061)
+Impairment losses1
+(33)
+(28)
+(6)
+(8)
+(75)
+Underlying EBIT
+4,810
+14,671
+4,295
+(956)
+22,820
+Exceptional items2
+ −
+176
+ −
+(64)
+112
+Net finance costs
+(1,531)
+Profit before taxation
+21,401
+Capital expenditure (cash basis)
+2,698
+1,966
+657
+1,412
+6,733
+Profit/(loss) from equity accounted investments,  
+related impairments and expenses
+383
+215
+ −
+(4)
+594
+Investments accounted for using the equity method
+1,530
+ −
+ −
+90
+1,620
+Total assets
+39,864
+25,527
+11,087
+24,818
+101,296
+Total liabilities
+5,635
+8,571
+3,821
+34,739
+52,766
+1.	 Impairment losses exclude impairment related exceptional items: reversal of impairment of US$90 million (2024: exceptional impairment of US$3,800 million; 2023: exceptional impairment 
+of US$ nil).
+2.	 Exceptional items reported in Group and unallocated include Samarco dam failure related costs of US$135 million (2024: US$105 million; 2023: US$64 million). Refer to note 3 ‘Exceptional 
+items’ for further information.
+Geographical information
+Revenue by location of customer
+2025
+US$M
+2024
+US$M
+2023
+US$M
+Australia
+2,545
+2,393
+1,702
+Europe
+1,121
+1,702
+1,961
+China
+32,083
+34,752
+31,205
+Japan
+4,177
+4,557
+6,971
+India
+2,661
+3,371
+3,447
+South Korea
+2,664
+3,069
+2,997
+Rest of Asia
+3,331
+3,749
+3,583
+North America
+2,251
+1,601
+1,382
+South America
+429
+464
+569
+51,262
+55,658
+53,817
+Non-current assets by location of assets
+2025
+US$M
+2024
+US$M
+2023
+US$M
+Australia
+50,619
+48,991
+51,961
+North America
+9,459
+6,979
+5,081
+South America
+23,940
+19,927
+19,047
+Rest of world
+742
+831
+685
+Unallocated assets1
+1,200
+1,296
+1,171
+85,960
+78,024
+77,945
+1.	 Unallocated assets comprise deferred tax assets and other financial assets.
+Underlying EBITDA
+Underlying EBITDA is earnings before net finance costs, depreciation, amortisation and impairments, taxation expense, Discontinued operations and any 
+exceptional items. Underlying EBITDA includes BHP’s share of profit/(loss) from investments accounted for using the equity method including net finance 
+costs, depreciation, amortisation and impairments and taxation expense/(benefit). 
+Exceptional items are excluded from Underlying EBITDA in order to enhance the comparability of such measures from period-to-period and provide 
+investors with further clarity in order to assess the performance of the Group’s operations. Management monitors exceptional items separately. 
+Refer to note 3 ‘Exceptional items’ for additional detail.
+Segment assets and liabilities
+Total segment assets and liabilities of reportable segments represents operating assets and operating liabilities, including the carrying amount of 
+equity accounted investments and predominantly excludes cash balances, loans to associates, interest bearing liabilities and deferred tax balances. 
+The carrying value of investments accounted for using the equity method represents the balance of the Group’s investment in equity accounted 
+investments, with no adjustment for any cash balances, interest bearing liabilities or deferred tax balances of the equity accounted investment.
+125
+Operating and Financial Review
+Overview
+Additional Information
+Governance
+Contents
+Financial Statements
+
+--- PAGE 128 (matched: revenue_cos_opex) ---
+1  Consolidated Financial Statements continued
+2 Revenue
+Revenue by segment and asset
+2025
+US$M
+2024
+US$M
+2023
+US$M
+Escondida
+13,177
+10,013
+8,847
+Pampa Norte
+2,726
+2,375
+2,491
+Copper South Australia1
+4,655
+4,085
+2,806
+Third-party products
+1,845
+2,021
+1,863
+Other
+127
+72
+20
+Total Copper2
+22,530
+18,566
+16,027
+Western Australia Iron Ore
+22,767
+27,805
+24,678
+Third-party products
+28
+25
+21
+Other
+124
+122
+113
+Total Iron Ore
+22,919
+27,952
+24,812
+BHP Mitsubishi Alliance3
+3,422
+5,873
+7,652
+New South Wales Energy Coal
+1,624
+1,793
+3,306
+Other
+ −
+ −
+ −
+Total Coal4
+5,046
+7,666
+10,958
+Group and unallocated items5
+767
+1,474
+2,020
+Inter-segment adjustment
+ −
+ −
+ −
+Total revenue
+51,262
+55,658
+53,817
+1.	 Includes Olympic Dam as well as Prominent Hill and Carrapateena since acquisition on 2 May 2023.
+2.	 Total Copper revenue includes: copper US$19,400 million (2024: US$16,107 million; 2023: US$14,226 million) and other US$3,130 million (2024: US$2,459 million; 2023: US$1,801 million). 
+Other consists of gold, uranium, silver, zinc and molybdenum.
+3.	 Includes Blackwater and Daunia revenue until their divestment on 2 April 2024.
+4.	 Total Coal revenue includes: steelmaking coal US$3,394 million (2024: US$5,793 million; 2023: US$7,430 million) and energy coal US$1,652 million (2024: US$1,873 million; 
+2023: US$3,528 million). 
+5.	 Group and unallocated items revenue includes: Western Australia Nickel, which transitioned into temporary suspension in December 2024, of US$758 million (2024: US$1,473 million; 
+2023: US$2,009 million) and other revenue US$9 million (2024: US$1 million; 2023: US$11 million).
+Revenue consists of revenue from contracts with customers of US$51,238 million (2024: US$55,375 million; 2023: US$53,910 million) and other revenue 
+predominantly relating to provisionally priced sales of US$24 million (2024: US$283 million; 2023: US$(93) million).
+Recognition and measurement
+The Group generates revenue from the production and sale of commodities. Revenue is recognised when or as control of the promised goods or services 
+passes to the customer. In most instances, control passes when the goods are delivered to a destination specified by the customer, typically on board 
+the customer’s appointed vessel. Revenue from the provision of services is recognised over time as the services are provided, but does not represent 
+a significant proportion of total revenue and is aggregated with the respective asset and product revenue for disclosure purposes. 
+The amount of revenue recognised reflects the consideration to which the Group expects to be entitled in exchange for transferring goods or services. 
+Where the Group’s sales are provisionally priced, the final price depends on future index prices. The amount of revenue initially recognised is based on 
+the relevant forward market price. Adjustments between the provisional and final price are accounted for under IFRS 9/AASB 9 ‘Financial Instruments’ 
+(IFRS 9), separately recorded as other revenue and presented as part of the total revenue of each asset. The period between provisional pricing and final 
+invoicing is typically between 60 and 120 days.
+Revenue from the sale of significant by-products is included within revenue. 
+The Group applies the following practical expedients:
+	
+– expected consideration is not adjusted for the effects of the time value of money if the period between the delivery and when the customer pays for the 
+promised good or service is one year or less
+	
+– no disclosure is provided for information relating to unfulfilled performance obligations, either due to the expected duration of the contract term being 
+one year or less, or for longer term contracts, because the entity has a right to consideration (and can recognise revenue) for goods delivered 
+3 Exceptional items
+Exceptional items are those gains or losses where their nature, including the expected frequency of the events giving rise to them, and impact is 
+considered material to the Financial Statements. Such items included within the Group’s profit for the year are detailed below. 
+Year ended 30 June 2025
+Gross
+US$M
+Tax
+US$M
+Net
+US$M
+Exceptional items by category
+Samarco dam failure
+(914)
+ −
+(914)
+Western Australia Nickel (WAN) temporary suspension
+(320)
+96
+(224)
+Total
+(1,234)
+96
+(1,138)
+Attributable to non-controlling interests
+ −
+ −
+ −
+Attributable to BHP shareholders
+(1,234)
+96
+(1,138)
+126
+BHP Annual Report 2025
+
+--- PAGE 129 (matched: context) ---
+Samarco Mineração S.A. (Samarco) dam failure
+The loss of US$914 million (after tax) relates to the Samarco dam failure, which occurred in November 2015, and comprises the following:
+Year ended 30 June 2025
+US$M
+Expenses excluding net finance costs:
+Costs incurred directly by BHP Brasil and other BHP entities in relation to the Samarco dam failure
+(211)
+Profit/(loss) from equity accounted investments, related impairments and expenses:
+Samarco dam failure provision
+(659)
+Fair value change on forward exchange derivatives
+414
+Net finance costs
+(458)
+Income tax expense
+ −
+Total1
+(914)
+1.	 Refer to note 4 ‘Significant events – Samarco dam failure’ for further information. 
+Western Australia Nickel (WAN) temporary suspension
+The Nickel West operations and the West Musgrave project at Western Australia Nickel were transitioned into temporary suspension in December 2024.
+The Group recognised costs of US$224 million (after tax) associated with the transition of operations into temporary suspension. Pre-tax costs of 
+US$320 million included US$410 million related to employee redundancies, contract termination costs and inventory adjustments, offset by US$90 million 
+impairment reversals of certain non-current assets from Nickel West operations to be redeployed to other operations within the Group.
+The exceptional items relating to the years ended 30 June 2024 and 30 June 2023 are detailed below.
+30 June 2024
+Year ended 30 June 2024
+Gross
+US$M
+Tax
+US$M
+Net
+US$M
+Exceptional items by category
+Samarco dam failure
+(3,677)
+(85)
+(3,762)
+Impairment of Western Australia Nickel assets 
+(3,800)
+1,125
+(2,675)
+Blackwater and Daunia gain on divestment
+877
+(203)
+674
+Total
+(6,600)
+837
+(5,763)
+Attributable to non-controlling interests
+ −
+ −
+ −
+Attributable to BHP shareholders
+(6,600)
+837
+(5,763)
+Samarco Mineração S.A. (Samarco) dam failure
+The loss of US$3,762 million (after tax) related to the Samarco dam failure, which occurred in November 2015, and comprised the following:
+Year ended 30 June 2024
+US$M
+Expenses excluding net finance costs:
+Costs incurred directly by BHP Brasil and other BHP entities in relation to the Samarco dam failure
+(139)
+(Loss)/profit from equity accounted investments, related impairments and expenses:
+Samarco dam failure provision
+(2,833)
+Fair value change on forward exchange derivatives
+(199)
+Net finance costs
+(506)
+Income tax expense
+(85)
+Total1
+(3,762)
+1.	 Refer to note 4 ‘Significant events – Samarco dam failure’ for further information. 
+Western Australia Nickel impairment
+The Group recognised an impairment charge of US$2,675 million (after tax) in relation to the Western Australia Nickel assets. The impairment charge 
+reflected the oversupply in the global nickel market that had seen a sharp decline in forward nickel prices in the short to medium term, escalation in 
+capital costs for Western Australia Nickel, and changes to development plans including the Group’s decision, announced on 11 July 2024, to temporarily 
+suspend Nickel West operations and the West Musgrave project at Western Australia Nickel. Refer to note 13 ‘Impairment of non-current assets’ for 
+further information.
+Blackwater and Daunia gain on divestment
+On 2 April 2024 BHP and Mitsubishi Development Pty Ltd (MDP) completed the divestment of the Blackwater and Daunia mines (which were part of the 
+BHP Mitsubishi Alliance (BMA)) to Whitehaven Coal. Each of BHP and MDP held a 50% interest in BMA. 
+Whitehaven Coal paid a US$100 million deposit on signing of the Asset Sale Agreement on 18 October 2023 and a further US$2 billion cash on 
+completion plus a preliminary completion adjustment of US$44.1 million for working capital and other agreed adjustments (100% interest basis). 
+US$1.1 billion in cash remained payable over 3 years after completion and a potential additional amount up to US$0.9 billion in a price-linked earnout may 
+also be payable over 3 years (100% interest basis). The price-linked earnout is subject to a cap of US$350 million each year and depends on average 
+realised pricing exceeding agreed thresholds for each of the 3 years following completion on 2 April 2024. US$0.5 billion of this deferred and contingent 
+consideration has been paid by Whitehaven Coal as at 30 June 2025.
+127
+Operating and Financial Review
+Overview
+Additional Information
+Governance
+Contents
+Financial Statements
+
+--- PAGE 130 (matched: context) ---
+1  Consolidated Financial Statements continued
+3 Exceptional items continued
+The total cash consideration for the transaction could be up to US$4.1 billion plus the final completion adjustment amount (100% interest basis).
+Details of the gain on divestment was as follows:
+US$M
+Net assets disposed
+820
+Cash consideration – BHP share
+ 1,072
+Deferred and contingent consideration1
+690
+Transaction and other directly attributable costs
+(65)
+Income tax expense
+ (203)
+Gain on divestment
+ 674
+1.	 Includes the fair value of contingent payments based on 35% revenue share to BMA, subject to average realised prices achieved by the Assets exceeding thresholds of US$159/tonne in 
+the 12 month period 12 months post completion, US$134/tonne in the 12 month period 24 months post completion and US$134/tonne in the 12 month period 36 months post completion.
+30 June 2023
+Year ended 30 June 2023
+Gross
+US$M
+Tax
+US$M
+Net
+US$M
+Exceptional items by category
+Samarco dam failure
+(340)
+17
+(323)
+Chilean tax reform
+ −
+(283)
+(283)
+Total
+(340)
+(266)
+(606)
+Attributable to non-controlling interests
+ −
+(107)
+(107)
+Attributable to BHP shareholders
+(340)
+(159)
+(499)
+Samarco Mineração S.A. (Samarco) dam failure
+The loss of US$323 million (after tax) related to the Samarco dam failure, which occurred in November 2015, and comprised the following:
+Year ended 30 June 2023
+US$M
+Expenses excluding net finance costs:
+Costs incurred directly by BHP Brasil and other BHP entities in relation to the Samarco dam failure
+(103)
+(Loss)/profit from equity accounted investments, related impairments and expenses:
+Samarco dam failure provision
+(256)
+Fair value change on forward exchange derivatives
+471
+Net finance costs
+(452)
+Income tax benefit
+17
+Total1
+(323)
+1.	 Refer to note 4 ‘Significant events – Samarco dam failure’ for further information. 
+Chilean tax reform
+On 17 May 2023, the Chilean Lower House approved a Royalty Bill which would implement a 1 per cent royalty on revenues, a margin based tax with 
+rates ranging between 8 per cent and 26 per cent, and a 46.5 per cent cap to the overall Chilean tax burden of mining companies. 
+The President of the Lower House formally declared the legislative process complete on 12 June 2023, following receipt of the Chilean President’s formal 
+confirmation that he had waived his veto power to oppose any of the provisions of the Royalty Bill. On 13 July 2023, the Constitutional Court finalised its 
+review of certain aspects of the Royalty Bill, relating only to the distribution of proceeds. 
+Applying judgement, it was determined that the proposed tax rates were substantively enacted prior to 30 June 2023, as the scope of the Constitutional 
+Court review did not extend to reviewing the tax rates.
+While the timing of when the Group’s operations will be impacted by the reform depends on existing stability agreements, relevant deferred tax positions 
+were remeasured by US$283 million in the Group’s FY2023 Financial Statements.
+128
+BHP Annual Report 2025
+
+--- PAGE 131 (matched: receivables_payables) ---
+4 Significant events – Samarco dam failure
+On 5 November 2015, the Samarco Mineração S.A. (Samarco) iron ore operation in Minas Gerais, Brazil, experienced a tailings dam failure that resulted 
+in a release of mine tailings, flooding the communities of Bento Rodrigues, Gesteira and Paracatu de Baixo and impacting other communities downstream 
+(the Samarco dam failure). Refer to section on ‘Samarco’ in the Operating and Financial Review.
+Samarco is jointly owned by BHP Billiton Brasil Ltda. (BHP Brasil) and Vale S.A. (Vale). BHP Brasil’s 50 per cent interest is accounted for as an equity 
+accounted joint venture investment. BHP Brasil does not separately recognise its share of the underlying assets and liabilities of Samarco, but instead 
+records the investment as one line on the balance sheet. Each period, BHP Brasil recognised its 50 per cent share of Samarco’s profit or loss and 
+adjusted the carrying value of the investment in Samarco accordingly. Such adjustment continued until the investment carrying value was reduced to 
+US$ nil, with any additional share of Samarco losses only recognised to the extent that BHP Brasil has an obligation to fund the losses. After applying 
+equity accounting, any remaining carrying value of the investment is tested for impairment. 
+Any charges relating to the Samarco dam failure incurred directly by BHP Brasil or other BHP entities are recognised 100 per cent in the Group’s results.
+The financial impacts of the Samarco dam failure on the Group’s income statement, balance sheet and cash flow statement for the year ended 30 June 
+2025 are shown in the tables below and have been treated as an exceptional item. 
+Financial impacts of Samarco dam failure
+2025
+US$M
+2024
+US$M
+2023
+US$M
+Income statement 
+Expenses excluding net finance costs:
+Costs incurred directly by BHP Brasil and other BHP entities in relation to the Samarco dam failure1
+(211)
+(139)
+(103)
+Profit/(loss) from equity accounted investments, related impairments and expenses
+Samarco dam failure provision2
+(659)
+(2,833)
+(256)
+Fair value change on forward exchange derivatives3
+414
+(199)
+471
+(Loss)/profit from operations
+(456)
+(3,171)
+112
+Net finance costs4
+(458)
+(506)
+(452)
+Loss before taxation
+(914)
+(3,677)
+(340)
+Income tax (expense)/benefit5
+ −
+(85)
+17
+Loss after taxation
+(914)
+(3,762)
+(323)
+Balance sheet movement
+Other financial assets/(liabilities)6
+441
+(280)
+337
+Trade and other payables 
+29
+(4)
+(6)
+Tax liabilities
+ −
+(85)
+17
+Provisions
+656
+(2,824)
+(260)
+Net decrease/(increase) in liabilities
+1,126
+(3,193)
+88
+2025
+US$M
+2024
+US$M
+2023
+US$M
+Cash flow statement 
+Loss before taxation
+(914)
+(3,677)
+(340)
+Adjustments for:
+Samarco dam failure provision2
+659
+2,833
+256
+Fair value change on forward exchange derivatives3
+(414)
+199
+(471)
+(Settlement of)/proceeds from cash management related instruments
+(17)
+218
+134
+Net finance costs4
+458
+506
+ 
+452
+ 
+Changes in assets and liabilities:
+Trade and other payables
+(29)
+4
+ 
+6
+ 
+Net operating cash flows
+(257)
+83
+37
+Net investment and funding of equity accounted investments7
+(1,773)
+(640)
+(448)
+Net investing cash flows
+(1,773)
+(640)
+(448)
+Net decrease in cash and cash equivalents
+(2,030)
+(557)
+(411)
+1.	 Includes legal and advisor costs incurred.
+2.	 US$540 million (2024: US$3,700 million; 2023: US$(33) million) change in estimate and US$119 million (2024: US$(867) million; 2023: US$289 million) exchange translation.
+3.	 The Group enters into forward exchange contracts to limit the Brazilian reais exposure on the dam failure provision. While not applying hedge accounting, the fair value changes in the 
+forward exchange instruments are recorded within Profit/(loss) from equity accounted investments, related impairments and expenses in the Income Statement.
+4.	 Amortisation of discounting of provision.
+5.	 Includes tax on forward exchange derivatives and other taxes incurred during the period.
+6.	 Includes forward exchange contracts described in 3 above, and Senior notes issued by Samarco as part of its Judicial Reorganisation in September 2023. 
+7.	 Current period reflects US$(1,773) million utilisation of the Samarco dam failure provision including payments under the Settlement Agreement ratified on 6 November 2024. 
+Comparative periods comprise utilisation of the Samarco dam failure provision (2024: US$(515) million; 2023: US$(448) million) and in FY2024 US$(125) million provided to Samarco 
+following approval of the Judicial Reorganisation. 
+129
+Operating and Financial Review
+Overview
+Additional Information
+Governance
+Contents
+Financial Statements
+
+--- PAGE 132 (matched: context) ---
+1  Consolidated Financial Statements continued
+4 Significant events – Samarco dam failure continued
+Equity accounted investment in Samarco
+BHP Brasil’s investment in Samarco remains at US$ nil. No dividends have been received by BHP Brasil from Samarco during the period and Samarco 
+currently does not have profits available for distribution. 
+Provision related to the Samarco dam failure
+2025
+US$M
+2024
+US$M
+At the beginning of the financial year
+6,505
+3,681
+Movement in provision
+(656)
+2,824
+Comprising:
+Utilised
+(1,773)
+(515)
+Adjustments charged to the income statement:
+Change in cost estimate 
+540
+3,700
+Amortisation of discounting impacting net finance costs
+458
+506
+Exchange translation
+119
+(867)
+At the end of the financial year
+5,849
+6,505
+Comprising:
+Current
+2,958
+1,500
+Non-current
+2,891
+5,005
+At the end of the financial year
+5,849
+6,505
+Samarco dam failure provision and contingencies
+As at 30 June 2025, BHP Brasil has identified a provision and certain contingent liabilities arising as a consequence of the Samarco dam failure. 
+The provision reflects the future cost estimates associated with the obligations set out in the Settlement Agreement (see below). 
+Contingent liabilities will only be resolved when one or more uncertain future events occur or related impacts become capable of reliable measurement 
+and, as such, determination of contingent liabilities disclosed in the Financial Statements requires significant judgement regarding the outcome of 
+future events. A number of the claims below do not specify the amount of damages sought and, where this is specified, amounts could change as the 
+matter progresses. 
+Ultimately, future changes in all those matters for which a provision has been recognised or contingent liability disclosed could have a material adverse 
+impact on BHP’s business, competitive position, cash flows, prospects, liquidity and shareholder returns. 
+130
+BHP Annual Report 2025
+
+--- PAGE 136 (matched: context) ---
+1  Consolidated Financial Statements continued
+Key judgements and estimates
+Judgements 
+The outcomes of litigation are inherently 
+difficult to predict and significant judgement 
+has been applied in assessing the likely 
+outcome of legal claims and determining which 
+legal claims require recognition of a provision 
+or disclosure of a contingent liability. The facts 
+and circumstances relating to these cases are 
+regularly evaluated in determining whether a 
+provision for any specific claim is required. 
+Management has determined that a provision 
+can be recognised at 30 June 2025 to reflect 
+the estimated costs associated with obligations 
+under the Settlement Agreement. It is not 
+yet possible to provide a range of possible 
+outcomes or a reliable estimate of potential 
+future exposures to BHP in connection to 
+the contingent liabilities noted above, given 
+their status.
+Estimates
+The provision for the Samarco dam failure 
+reflects the Group’s estimate of the costs 
+to meet the Group’s obligations under the 
+Settlement Agreement and requires the use 
+of significant judgements, estimates and 
+assumptions.
+While the provision has been measured based 
+on the latest information available, changes 
+in facts and circumstances are likely in future 
+reporting periods and may lead to material 
+revisions to these estimates and there is a 
+risk that outcomes may be materially higher or 
+lower than amounts currently reflected in the 
+provision. However, it is currently not possible 
+to determine what facts and circumstances 
+may change, therefore revisions in future 
+reporting periods due to the key estimates 
+and factors outlined below cannot be 
+reliably measured.
+The key estimates that may have a material 
+impact upon the provision in the next and 
+future reporting periods include:
+	
+– the cost of compensation to individuals, 
+small businesses, Municipalities and 
+Indigenous and Traditional communities; 
+and
+	
+– the extent to which Samarco is able 
+to directly fund any future obligations 
+relating to the Settlement Agreement. 
+Samarco’s long-term cash flow 
+generation remains highly sensitive to 
+factors including its ability to return to full 
+production capacity, commodity prices 
+and foreign exchange rates.
+The provision may also be affected by 
+factors including but not limited to updates to 
+discount and foreign exchange rates. To limit 
+the Group’s exposure to potential Brazilian 
+reais foreign exchange volatility, the Group 
+has entered into forward exchange contracts, 
+predominantly covering the period up to 
+FY2028. A 0.5% increase in the discount rate 
+would, in isolation, reduce the provision by 
+approximately US$100 million.
+In addition, the provision may be impacted 
+by decisions in, or resolution of, existing and 
+potential legal claims in Brazil including in 
+relation to eligibility under, and adherence 
+to, the Settlement Agreement and claims in 
+other jurisdictions, including the outcome of 
+the United Kingdom group action claims, the 
+Australian class action and the claim filed in 
+the Netherlands against Vale and a Dutch 
+subsidiary of Samarco.
+Given these factors, future actual cash outflows 
+may differ from the amounts currently provided 
+and changes to any of the key assumptions 
+and estimates outlined above could result in a 
+material impact to the provision in the next and 
+future reporting periods.
+The following section provides disclosure of 
+matters to which Samarco (and not the Group) 
+is a party. 
+Samarco
+Dam failure related provision 
+and contingencies
+In addition to its provisions in relation to the 
+Settlement Agreement as at 30 June 2025, 
+Samarco has recognised a provision of US$0.1 
+billion (30 June 2024: US$0.4 billion), based 
+on currently available information, in relation to 
+other dam failure related matters to which BHP 
+Brasil is not a party. 
+The magnitude, scope and timing of these 
+additional costs are subject to a high degree 
+of uncertainty and Samarco has indicated 
+that it anticipates that it will incur future costs 
+beyond those provided. These uncertainties 
+are likely to continue for a significant period 
+and changes to key assumptions could result 
+in a material change to the amount of the 
+provision in future reporting periods. Any 
+such unrecognised obligations are therefore 
+contingent liabilities and, at present, it is not 
+practicable to estimate their magnitude or 
+possible timing of payment. Accordingly, it is 
+also not possible to provide a range of possible 
+outcomes or a reliable estimate of total 
+potential future exposures at this time.
+Samarco is also named as a defendant in a 
+number of other legal proceedings initiated by 
+individuals, non-governmental organisations, 
+corporations and governmental entities in 
+Brazilian Federal and State courts following 
+the Samarco dam failure. The lawsuits include 
+claims for compensation, environmental 
+rehabilitation and violations of Brazilian 
+environmental and other laws, among other 
+matters. The lawsuits seek various remedies 
+including rehabilitation costs, compensation 
+to injured individuals and families of the 
+deceased, recovery of personal and property 
+losses, moral damages and injunctive 
+relief. In addition, government inquiries and 
+investigations relating to the Samarco dam 
+failure have been commenced by numerous 
+agencies of the Brazilian government and are 
+ongoing. Given the status of proceedings it 
+is not possible to provide a range of possible 
+outcomes or a reliable estimate of total 
+potential future exposures to Samarco. 
+Additional lawsuits and government 
+investigations relating to the Samarco dam 
+failure could be brought against Samarco.
+Samarco has also identified a number of 
+individually immaterial tax-related uncertainties 
+which have been reflected, where appropriate, 
+in the Group’s share of associate and joint 
+venture contingent liabilities presented in note 
+32 ‘Contingent liabilities’.
+Samarco insurance
+Samarco has standalone insurance 
+policies in place with Brazilian and global 
+insurers. Insurers’ loss adjusters or claims 
+representatives continue to investigate and 
+assist with the claims process for matters not 
+yet settled. As at 30 June 2025, an insurance 
+receivable has not been recognised by 
+Samarco in respect of ongoing matters.
+Samarco non-dam failure related 
+provisions and contingent liabilities
+The following non-dam failure related matters 
+pre-date and are unrelated to the Samarco 
+dam failure. Samarco is currently contesting 
+aspects of both of these matters in the 
+Brazilian courts. Given the status of these tax 
+matters, the timing of resolution and potential 
+economic outflow for Samarco is uncertain. 
+Brazilian Social Contribution Levy 
+Samarco has received tax assessments 
+for the alleged non-payment of Brazilian 
+Social Contribution Levy for the calendar 
+years 2007-2014. Based on its assessment 
+of currently available information as at 
+30 June 2025, Samarco recognised gross 
+provisions of US$0.4 billion, US$0.2 billion 
+net of US$0.2 billion court deposits 
+paid (30 June 2024: gross provisions 
+of US$0.4 billion, US$0.2 billion net of 
+US$0.2 billion court deposits paid) and has not 
+disclosed contingent liabilities (30 June 2024: 
+contingent liabilities of US$0.2 billion). As at 
+30 June 2025, BHP Brasil’s 50% share of the 
+impact of the provision recognised by Samarco 
+is reflected in the Group’s equity accounting 
+for Samarco. 
+Brazilian corporate income tax rate 
+Samarco has received tax assessments, 
+and disclosed contingent liabilities, for the 
+alleged incorrect calculation of Corporate 
+Income Tax (IRPJ) in respect of the 2000–
+2003 and 2007–2014 income years totalling 
+approximately US$1.0 billion (30 June 2024: 
+US$1.0 billion).
+Brazilian mining royalties
+Samarco has received assessments, and 
+disclosed contingent liabilities, for the 
+alleged incorrect calculation of Financial 
+Compensation for the Exploitation of Mineral 
+Resources (CFEM) in respect of the period 
+1998-2017 totalling approximately US$0.4 
+billion (30 June 2024: US$0.4 billion).
+4 Significant events – Samarco dam failure continued
+134
+BHP Annual Report 2025
+
+--- PAGE 137 (matched: fx_exposure, inventory_working_capital) ---
+5 Expenses and other income
+2025
+US$M
+2024
+US$M
+2023
+US$M
+Employee benefits expense:
+Wages and salaries
+5,017
+4,633
+4,539
+Employee share awards
+127
+112
+97
+Social security costs
+5
+5
+4
+Pension and other post-retirement obligations
+399
+374
+339
+Less employee benefits expense classified as exploration and evaluation expenditure
+(61)
+(49)
+(35)
+Changes in inventories of finished goods and work in progress
+433
+(289)
+301
+Raw materials and consumables used
+5,950
+6,536
+6,710
+Freight and transportation
+2,029
+2,270
+2,299
+External services 
+5,726
+5,795
+4,768
+Third-party commodity purchases
+1,991
+1,977
+1,878
+Net foreign exchange losses/(gains)
+85
+23
+(197)
+Fair value change on derivatives1
+(58)
+84
+135
+Government royalties paid and payable
+2,608
+3,571
+3,841
+Exploration and evaluation expenditure incurred and expensed in the current period
+346
+399
+294
+Depreciation and amortisation expense
+5,540
+5,295
+5,061
+Impairment net of reversals:
+Property, plant and equipment
+106
+3,833
+73
+Goodwill and other intangible assets
+2
+57
+2
+All other operating expenses
+2,074
+2,124
+1,764
+Total expenses
+32,319
+36,750
+31,873
+Loss/(gain) on disposal of subsidiaries and operations2
+117
+(915)
+(8)
+Other income3
+(485)
+(370)
+(386)
+Total other income
+(368)
+(1,285)
+(394)
+1.	 Fair value change on derivatives is principally related to commodity price contracts, foreign exchange contracts and embedded derivatives used in the ordinary course of business as well 
+as derivatives used as part of the funding of dividends.
+2.	 Includes impact of fair value remeasurement of Blackwater and Daunia divestment related contingent consideration. FY24 mainly relates to the gain on divestment of Blackwater and 
+Daunia mines. Refer to note 3 ‘Exceptional items’ for further information.
+3.	 Other income is generally income earned from transactions outside the course of the Group’s ordinary activities and may include certain management fees from non-controlling interests 
+and joint arrangements, royalties and commission income. 
+Recognition and measurement
+Other income is recognised when it is probable that the economic benefits associated with a transaction will flow to the Group and can be reliably 
+measured. Dividend income is recognised upon declaration. 
+135
+Operating and Financial Review
+Overview
+Additional Information
+Governance
+Contents
+Financial Statements
+
+--- PAGE 138 (matched: context) ---
+1  Consolidated Financial Statements continued
+6 Income tax expense
+2025
+US$M
+2024
+US$M
+2023
+US$M
+Total taxation expense comprises:
+Current tax expense
+7,033
+7,435
+6,690
+Deferred tax expense/(benefit)
+177
+(988)
+387
+Total taxation expense
+7,210
+6,447
+7,077
+2025
+US$M
+2024
+US$M
+2023
+US$M
+Factors affecting income tax expense for the year
+Income tax expense differs to the standard rate of corporation tax as follows:
+Profit before taxation
+18,353
+16,048
+21,401
+Tax on profit at Australian prima facie tax rate of 30 per cent
+5,506
+4,814
+6,420
+Derecognition of deferred tax assets and current year tax losses
+1,036
+666
+526
+Tax on remitted and unremitted foreign earnings
+354
+224
+137
+Tax effect of profit/(loss) from equity accounted investments, related impairments and expenses1
+78
+737
+(37)
+Foreign exchange adjustments
+21
+(79)
+94
+Amounts (over)/under provided in prior years 
+(57)
+(25)
+(18)
+Recognition of previously unrecognised tax assets 
+(127)
+(110)
+(109)
+Impact of tax rates applicable outside of Australia
+(1,132)
+(556)
+(558)
+Other  
+451
+344
+236
+Income tax expense
+6,130
+6,015
+6,691
+Royalty-related taxation (net of income tax benefit)2
+1,080
+432
+386
+Total taxation expense
+7,210
+6,447
+7,077
+1.	 This item removes the prima facie tax effect on profit/(loss) from equity accounted investments, related impairments and expenses that are net of tax, with the exception of the Samarco 
+forward exchange derivatives described in note 4 ‘Significant events – Samarco dam failure’, which are taxable. 
+2.	 Includes the revaluation of deferred tax balances in the year ended 30 June 2023, following the substantive enactment of the Chilean Royalty Bill, as presented in note 3 ‘Exceptional items’. 
+Income tax recognised in other comprehensive income is as follows:
+2025
+US$M
+2024
+US$M
+2023
+US$M
+Income tax effect of:
+Items that may be reclassified subsequently to the income statement:
+Hedges:
+Gains/(losses) taken to equity
+(104)
+10
+(29)
+(Gains)/losses transferred to the income statement
+118
+(15)
+45
+Others
+ −
+ −
+(11)
+Income tax credit/(charge) relating to items that may be reclassified subsequently to the income statement
+14
+(5)
+5
+Items that will not be reclassified to the income statement:
+Re-measurement (losses)/gains on pension and medical schemes
+3
+(13)
+7
+Income tax credit/(charge) relating to items that will not be reclassified to the income statement
+3
+(13)
+7
+Total income tax credit/(charge) relating to components of other comprehensive income1
+17
+(18)
+12
+1.	 Included within total income tax relating to components of other comprehensive income is US$17 million relating to deferred taxes and US$ nil relating to current taxes (2024: US$(18) million 
+and US$ nil; 2023: US$12 million and US$ nil).
+136
+BHP Annual Report 2025
+
+--- PAGE 140 (matched: context) ---
+1  Consolidated Financial Statements continued
+7 Earnings per share
+2025
+2024
+2023
+Earnings attributable to BHP shareholders (US$M)
+9,019
+7,897
+12,921
+Weighted average number of shares (Million)
+–	 Basic
+5,073
+5,068
+5,064
+–	 Diluted
+5,083
+5,077
+5,073
+Earnings per ordinary share (US cents)
+–	 Basic
+177.8
+155.8
+255.2
+–	 Diluted
+177.4
+155.5
+254.7
+Headline earnings per ordinary share (US cents)
+–	 Basic
+182.4
+195.9
+256.1
+–	 Diluted
+182.0
+195.6
+255.7
+Earnings on American Depositary Shares represent twice the earnings for BHP Group Limited ordinary shares.
+Headline earnings is a Johannesburg Stock Exchange defined performance measure and is reconciled from earnings attributable to ordinary 
+shareholders as follows:
+2025
+US$M
+2024
+US$M
+2023
+US$M
+Earnings attributable to BHP shareholders
+9,019
+7,897
+12,921
+Adjusted for:
+(Gain)/loss on sales of property, plant and equipment, intangibles and investments
+(3)
+(29)
+(9)
+Impairments of property, plant and equipment and intangibles net of reversals
+154
+3,905
+75
+Loss/(gain) on disposal of subsidiaries and operations
+117
+(915)
+ −
+Tax effect of above adjustments
+(34)
+(928)
+(17)
+Subtotal of adjustments
+234
+2,033
+49
+Headline earnings
+9,253
+9,930
+12,970
+Diluted headline earnings
+9,253
+9,930
+12,970
+Recognition and measurement
+Diluted earnings attributable to BHP shareholders are equal to earnings attributable to BHP shareholders.
+The calculation of the number of ordinary shares used in the computation of basic earnings per share is the weighted average number of ordinary shares 
+of BHP Group Limited outstanding during the period after deduction of the number of shares held by the BHP Group Limited Employee Equity Trust.
+For the purposes of calculating diluted earnings per share, the effect of 10 million dilutive shares has been taken into account for the year ended 
+30 June 2025 (2024: 9 million shares; 2023: 9 million shares). The Group’s only potential dilutive ordinary shares are share awards granted under 
+employee share ownership plans for which terms and conditions are described in note 26 ‘Employee share ownership plans’. Diluted earnings per 
+share calculation excludes instruments which are considered antidilutive.
+At 30 June 2025, there are no instruments which are considered antidilutive (2024: nil; 2023: nil). 
+138
+BHP Annual Report 2025
+
+--- PAGE 141 (matched: inventory_working_capital, receivables_payables) ---
+Working capital
+8 Trade and other receivables
+2025
+US$M
+2024
+US$M
+Trade receivables
+3,081
+3,687
+Other receivables
+1,172
+1,652
+Total
+4,253
+5,339
+Comprising:
+Current
+4,116
+5,169
+Non-current
+137
+170
+Recognition and measurement
+Trade receivables are recognised initially at their transaction price or, for those receivables containing a significant financing component, at fair value. 
+Trade receivables are subsequently measured at amortised cost using the effective interest method, less an allowance for impairment, except for 
+provisionally priced receivables which are subsequently measured at fair value through profit or loss under IFRS 9. 
+The collectability of trade and other receivables is assessed continuously. At the reporting date, specific allowances are made for any expected credit 
+losses based on a review of all outstanding amounts at reporting period-end. Individual receivables are written off when management deems them 
+unrecoverable. The net carrying amount of trade and other receivables approximates their fair values. 
+Credit risk
+Trade receivables generally have terms of less than 30 days. The Group has no material concentration of credit risk with any single counterparty and is 
+not dominantly exposed to any individual industry.
+Credit risk can arise from the non-performance by counterparties of their contractual financial obligations towards the Group. To manage credit risk, the 
+Group maintains Group-wide procedures covering the application for credit approvals, granting and renewal of counterparty limits, proactive monitoring 
+of exposures against these limits and requirements triggering secured payment terms. As part of these processes, the credit exposures with all 
+counterparties are regularly monitored and assessed on a timely basis. The credit quality of the Group’s customers is reviewed and the solvency of each 
+debtor and their ability to pay the receivable is considered in assessing receivables for impairment.
+The 10 largest customers represented 35 per cent (2024: 39 per cent) of total credit risk exposures managed by the Group. 
+Receivables are deemed to be past due or impaired in accordance with the Group’s terms and conditions. These terms and conditions are determined on 
+a case-by-case basis with reference to the customer’s credit quality, payment performance and prevailing market conditions. As at 30 June 2025, trade 
+receivables of US$26 million (2024: US$59 million) were past due but not impaired. The majority of these receivables were less than 30 days overdue.
+At 30 June 2025, trade receivables are stated net of provisions for expected credit losses of US$2 million (2024: US$1 million).
+9 Trade and other payables
+2025
+US$M
+2024
+US$M
+Trade payables
+5,082
+5,338
+Other payables
+1,588
+1,426
+Total
+6,670
+6,764
+Comprising:
+Current
+6,637
+6,719
+Non-current
+33
+45
+10 Inventories
+2025
+US$M
+2024
+US$M
+Definitions
+Raw materials and consumables
+2,677
+2,305
+Spares, consumables and other supplies yet to be utilised in the production 
+process or in the rendering of services.
+Work in progress
+3,186
+3,516
+Commodities currently in the production process that require further processing 
+by the Group to a saleable form.
+Finished goods
+1,115
+1,218
+Commodities ready-for-sale and not requiring further processing by the Group.
+Total1
+6,978
+7,039
+Comprising:
+Inventories classified as non-current are not expected to be utilised or sold 
+within 12 months after the reporting date or within the operating cycle of 
+the business.
+Current
+5,538
+5,828
+Non-current
+1,440
+1,211
+1.	 Inventory write-downs of US$243 million were recognised during the year (2024: US$69 million; 2023: US$100 million) and included US$133 million associated with the transition of 
+WAN operations into temporary suspension (2024: nil; 2023: nil). Inventory write-downs of US$18 million made in previous periods were reversed during the year (2024: US$19 million; 
+2023: US$37 million).
+Recognition and measurement
+Regardless of the type of inventory and its stage in the production process, inventories are valued at the lower of cost and net realisable value. Cost is 
+determined primarily on the basis of average costs and involves estimates of expected metal recoveries and work in progress volumes, calculated using 
+available industry, engineering and scientific data. These estimates are periodically reassessed by the Group taking into account technical analysis and 
+historical performance. 
+For processed inventories, cost is derived on an absorption costing basis. Cost comprises costs of purchasing raw materials and costs of production, 
+including attributable mining and manufacturing overheads taking into consideration normal operating capacity. 
+Inventory quantities are assessed primarily through surveys and assays.
+139
+Operating and Financial Review
+Overview
+Additional Information
+Governance
+Contents
+Financial Statements
+
+--- PAGE 142 (matched: fx_exposure) ---
+1  Consolidated Financial Statements continued
+Resource assets
+11 Property, plant and equipment
+Land and
+buildings
+US$M
+Plant and
+equipment
+US$M
+Other mineral
+assets
+US$M
+Assets under
+construction
+US$M
+Exploration and
+evaluation
+US$M
+Total
+US$M
+Net book value – 30 June 2025
+At the beginning of the financial year 
+7,565
+34,504
+12,227
+17,097
+236
+71,629
+Additions1
+28
+1,653
+1,066
+8,703
+50
+11,500
+Remeasurements of index-linked freight contracts2
+ −
+(210)
+ −
+ −
+ −
+(210)
+Depreciation for the year
+(578)
+(4,441)
+(410)
+ −
+ −
+(5,429)
+Net impairments for the year3
+(7)
+(76)
+(23)
+ −
+ −
+(106)
+Disposals
+(1)
+(19)
+ −
+ −
+ −
+(20)
+Divestment of subsidiaries and operations
+ −
+(1)
+(42)
+ −
+ −
+(43)
+Transfers and other movements
+404
+5,143
+(581)
+(5,754)
+(76)
+(864)
+At the end of the financial year4
+7,411
+36,553
+12,237
+20,046
+210
+76,457
+–	 Cost
+15,617
+93,385
+20,359
+22,002
+223
+151,586
+–	 Accumulated depreciation and impairments
+(8,206)
+(56,832)
+(8,122)
+(1,956)
+(13)
+(75,129)
+Net book value – 30 June 2024
+At the beginning of the financial year 
+8,140
+36,654
+13,304
+13,481
+239
+71,818
+Additions1
+27
+1,206
+795
+8,840
+58
+10,926
+Remeasurements of index-linked freight contracts2
+ −
+230
+ −
+ −
+ −
+230
+Depreciation for the year
+(637)
+(4,287)
+(264)
+ −
+ −
+(5,188)
+Net impairments for the year3
+(88)
+(1,440)
+(930)
+(1,365)
+(10)
+(3,833)
+Disposals
+(1)
+(15)
+ −
+ −
+ −
+(16)
+Divestment of subsidiaries and operations5
+(293)
+(1,093)
+(23)
+(44)
+ −
+(1,453)
+Transfers and other movements
+417
+3,249
+(655)
+(3,815)
+(51)
+(855)
+At the end of the financial year4
+7,565
+34,504
+12,227
+17,097
+236
+71,629
+–	 Cost
+15,180
+86,989
+19,900
+19,106
+1,035
+142,210
+–	 Accumulated depreciation and impairments
+(7,615)
+(52,485)
+(7,673)
+(2,009)
+(799)
+(70,581)
+1. 	Includes change in estimates and net foreign exchange gains/(losses) related to the closure and rehabilitation provisions for operating sites. Refer to note 15 ‘Closure and rehabilitation provisions’.
+2.	 Relates to remeasurements of index-linked freight contracts including continuous voyage charters (CVCs). Refer to note 22 ‘Leases’.
+3.	 Refer to note 13 ‘Impairment of non-current assets’ for information on impairments.
+4.	 Includes the carrying value of the Group’s right-of-use assets relating to land and buildings and plant and equipment of US$2,653 million (2024: US$2,708 million). Refer to note 22 
+‘Leases’ for the movement of the right-of-use assets.
+5.	 Relates to the divestment of the Blackwater and Daunia mines completed on 2 April 2024. 
+Recognition and measurement
+Property, plant and equipment
+Property, plant and equipment is recorded at cost less accumulated depreciation and impairment charges. Cost is the fair value of consideration given 
+to acquire the asset at the time of its acquisition or construction and includes the direct costs of bringing the asset to the location and the condition 
+necessary for operation and the estimated future costs of closure and rehabilitation of the facility. 
+Right-of-use assets are measured at cost, less any accumulated depreciation and impairment losses, and adjusted for any remeasurement of lease 
+liabilities. Refer to note 22 ‘Leases’ for further details. Right-of-use assets are presented within the category of property, plant and equipment according 
+to the nature of the underlying asset leased. 
+Exploration and evaluation
+Exploration costs are incurred to discover mineral resources. Evaluation costs are incurred to assess the technical feasibility and commercial viability 
+of resources found.
+Exploration and evaluation expenditure is charged to the income statement as incurred, except in the following circumstances in which case the 
+expenditure may be capitalised:
+	
+– the exploration and evaluation activity is within an area of interest that was previously acquired as an asset acquisition or in a business combination 
+and measured at fair value on acquisition or
+	
+– the existence of a commercially viable mineral deposit has been established
+A regular review of each area of interest is undertaken to determine the appropriateness of continuing to carry forward costs in relation to that area. 
+Capitalised costs are only carried forward to the extent that they are expected to be recovered through the successful exploitation of the area of interest 
+or alternatively by its sale. To the extent that capitalised expenditure is no longer expected to be recovered, it is charged to the income statement.
+140
+BHP Annual Report 2025
+
+--- PAGE 143 (matched: context) ---
+Development expenditure
+When proven mineral reserves are determined and development is sanctioned, capitalised exploration and evaluation expenditure is reclassified as 
+assets under construction within property, plant and equipment. All subsequent development expenditure is capitalised and classified as assets under 
+construction, provided commercial viability conditions continue to be satisfied.
+The Group may use funds sourced from external parties to finance the acquisition and development of assets and operations. Finance costs are 
+expensed as incurred, except where they relate to the financing of construction or development of qualifying assets. Borrowing costs directly attributable 
+to acquiring or constructing a qualifying asset are capitalised during the development phase. 
+In the instance where saleable material is extracted prior to the commissioning of a project/site, sale proceeds are recognised as revenue, with associated 
+costs also recognised in the income statement. On completion of development, all assets included in assets under construction are reclassified within the 
+relevant category of property, plant and equipment according to the nature of the underlying asset and depreciation commences. 
+Other mineral assets
+Other mineral assets comprise:
+	
+– capitalised exploration, evaluation and development expenditure for assets in production
+	
+– mineral rights acquired
+	
+– capitalised development and production stripping costs
+Overburden removal costs
+The process of removing overburden and other waste materials to access mineral deposits is referred to as stripping. Stripping is necessary to obtain 
+access to mineral deposits and occurs throughout the life of an open-pit mine. Development and production stripping costs are classified as other mineral 
+assets in property, plant and equipment. 
+Stripping costs are accounted for separately for individual components of an ore body. The determination of components is dependent on the mine plan 
+and other factors, including the size, shape and geotechnical aspects of an ore body. The Group accounts for stripping activities as follows:
+Development stripping costs
+These are initial overburden removal costs incurred to obtain access to mineral deposits that will be commercially produced. These costs are capitalised 
+when it is probable that future economic benefits (access to mineral ores) will flow to the Group and costs can be measured reliably. 
+Once the production phase begins, capitalised development stripping costs are depreciated using the units of production method based on the proven 
+and probable reserves of the relevant identified component of the ore body which the initial stripping activity benefits.
+Production stripping costs
+These are post initial overburden removal costs incurred during the normal course of production activity, which commences after the first saleable 
+minerals have been extracted from the component. Production stripping costs can give rise to two benefits, the accounting for which is outlined below:
+Production stripping activity
+Benefits of stripping activity Extraction of ore (inventory) in current period.
+Improved access to future ore extraction.
+Period benefited
+Current period
+Future period(s)
+Recognition and 
+measurement criteria
+When the benefits of stripping activities are realised in the form 
+of inventory produced; the associated costs are recorded in 
+accordance with the Group’s inventory accounting policy.
+When the benefits of stripping activities are improved access to 
+future ore; production costs are capitalised when all the following 
+criteria are met:
+	
+– the production stripping activity improves access to a specific 
+component of the ore body and it is probable that economic 
+benefits arising from the improved access to future ore 
+production will be realised 
+	
+– the component of the ore body for which access has been 
+improved can be identified
+	
+– costs associated with that component can be 
+measured reliably
+Allocation of costs
+Production stripping costs are allocated between the inventory produced and the production stripping asset using a life-of-component 
+waste-to-ore (or mineral contained) strip ratio. When the current strip ratio is greater than the estimated life-of-component ratio a portion 
+of the stripping costs is capitalised to the production stripping asset.
+Asset recognised from 
+stripping activity
+Inventory
+Other mineral assets within property, plant and equipment.
+Depreciation basis
+Not applicable
+On a component-by-component basis using the units of 
+production method based on proven and probable reserves.
+Key judgements and estimates
+Judgements: Judgement is applied by management in determining the components of an ore body.
+Estimates: Estimates are used in the determination of stripping ratios and mineral reserves by component. Changes to estimates related to 
+life-of-component waste-to-ore (or mineral contained) strip ratios and the expected ore production from identified components are accounted for 
+prospectively and may affect depreciation rates and asset carrying values.
+Depreciation
+Depreciation of assets, other than land, assets under construction and capitalised exploration and evaluation that are not depreciated, is calculated 
+using either the straight-line (SL) method or units of production (UoP) method, net of residual values, over the estimated useful lives of specific assets. 
+The depreciation method and rates applied to specific assets reflect the pattern in which the asset’s benefits are expected to be used by the Group. 
+The UoP depreciation method is used when the pattern of use is best reflected by production volumes. The Group’s proved and probable reserves 
+for minerals assets are used to determine UoP depreciation unless doing so results in depreciation charges that do not reflect the asset’s useful life. 
+Where this occurs, alternative approaches to determining reserves are applied, to provide a phasing of periodic depreciation charges that better reflects 
+the asset’s expected useful life. 
+Where assets are dedicated to a mine lease, the useful lives below are subject to the lesser of the asset category’s useful life and the life of the mine 
+lease, unless those assets are readily transferable to another productive mine.
+Assets classified as held for sale are measured at the lower of their carrying amount and fair value less cost to sell and therefore not depreciated. 
+141
+Operating and Financial Review
+Overview
+Additional Information
+Governance
+Contents
+Financial Statements
+
+--- PAGE 146 (matched: context) ---
+1  Consolidated Financial Statements continued
+13 Impairment of non-current assets continued
+Impairment test for goodwill
+The carrying amount of goodwill has been allocated to the CGUs, or groups of CGUs, as follows:
+Cash generating unit
+2025
+US$M
+2024
+US$M
+Copper SA
+1,154
+1,154
+Other
+187
+187
+Total goodwill
+1,341
+1,341
+For the purpose of impairment testing, goodwill has been allocated to CGUs or groups of CGUs, that are expected to benefit from the synergies of 
+previous business combinations, which represent the level at which management will monitor and manage goodwill.
+Copper SA goodwill
+Impairment 
+test conclusion 
+The Group performed an impairment test of the Copper SA Group of CGUs, including goodwill, as at 30 June 2025 and an 
+impairment charge was not required.
+How did the 
+goodwill arise?
+Goodwill of US$1,010 million and US$144 million in relation to the acquisitions of WMC Resources Ltd (2005) and OZ Minerals Ltd 
+(2023), respectively.
+Segment
+Copper SA is part of the Copper reportable segment.
+How were the 
+valuations calculated?
+FVLCD methodology using DCF techniques has been applied in determining the recoverable amount of Copper SA.
+Significant assumptions 
+and sensitivities
+The valuation of Copper SA exceeded its carrying amount by approximately US$10.5 billion (2024:US$8.4 billion) and is most 
+sensitive to changes in copper commodity price, production volumes, operating costs and discount rates. It is considered that there 
+are no reasonably possible changes in these key assumptions that would, in isolation, result in the estimated recoverable amount 
+being equal to the carrying amount. The valuation applied a post-tax real discount rate of 7.0 per cent (2024: 7.0 per cent).
+Key judgements and estimates that have been applied in the FVLCD valuation are disclosed further below.
+Goodwill held by other CGUs is US$187 million (2024: US$187 million). This represents less than one per cent of net assets at 30 June 2025 (2024: less 
+than one per cent). There was no impairment of other goodwill in the year to 30 June 2025 (2024: US$ nil).
+Key judgements and estimates
+Judgements: Assessment of indicators 
+of impairment or impairment reversal 
+and the determination of CGUs for 
+impairment purposes require significant 
+management judgement.
+Indicators of impairment may include changes 
+in the Group’s operating and economic 
+assumptions, including those arising from 
+changes in reserves or mine planning, updates 
+to the Group’s commodity supply, demand 
+and price forecasts, or the possible additional 
+impacts from emerging risks including those 
+related to climate change and the transition 
+to a low-carbon economy. 
+Climate change
+The Group’s impairment assessments may be 
+impacted by climate change and the transition 
+to a low-carbon economy. Further detail is 
+provided in note 16 ‘Climate change’. 
+Estimates: The Group performs a recoverable 
+amount determination for an asset or CGU 
+when there is an indication of impairment or 
+impairment reversal. 
+When the recoverable amount is measured 
+by reference to FVLCD, in the absence 
+of quoted market prices or binding sale 
+agreement, estimates are made regarding 
+the present value of future post-tax cash 
+flows. These estimates are made from the 
+perspective of a market participant and 
+include prices, future production volumes, 
+operating costs, capital expenditure, closure 
+and rehabilitation costs, taxes, risking factors 
+applied to cash flows and discount rates. 
+The cash flow forecasts may include net 
+cash flows expected from the extraction, 
+processing and sale of material that does not 
+currently qualify for inclusion in ore reserves. 
+Reserves and resources are included in the 
+assessment of FVLCD to the extent that it is 
+considered probable that a market participant 
+would attribute value to them.
+When recoverable amount is measured using 
+VIU, estimates are made regarding the present 
+value of future cash flows based on internal 
+budgets and forecasts and life of asset plans. 
+Key estimates are similar to those identified 
+for FVLCD, although some assumptions 
+and values may differ as they reflect the 
+perspective of management rather than 
+a market participant. 
+All estimates require judgements and 
+assumptions and are subject to risk and 
+uncertainty that may be beyond the control 
+of the Group; hence, there is a possibility 
+that changes in circumstances will materially 
+alter projections, which may impact the 
+recoverable amount of an asset or CGU at 
+each reporting date. While no indicators of 
+impairment, or impairment reversal, were 
+identified across the Group’s CGUs at 30 June 
+2025, the carrying value of the Spence CGU 
+is the most susceptible to changes in the 
+significant estimates outlined below in the 
+next reporting period. 
+The significant estimates impacting 
+the Group’s recoverable amount 
+determinations are:
+Commodity prices
+Commodity prices were based on latest 
+internal forecasts which assume short-term 
+market prices will revert to the Group’s 
+assessment of long-term price. These price 
+forecasts reflect management’s long-term 
+views of global supply and demand, built upon 
+past experience of the commodity markets 
+and are benchmarked with external sources 
+of information such as analyst forecasts. 
+Prices are adjusted based upon premiums or 
+discounts applied to global price markers to 
+reflect the location, nature and quality of the 
+Group’s production, or to take into account 
+contracted prices.
+Future production volumes
+Estimated production volumes were 
+based on detailed data and took into 
+account development plans established by 
+management as part of the Group’s long-term 
+planning process. When estimating FVLCD, 
+assumptions reflect all reserves and resources 
+that a market participant would consider 
+when valuing the respective CGU, which in 
+some cases are broader in scope than the 
+reserves that would be used in a VIU test. 
+In determining FVLCD, risk factors may be 
+applied to reserves and resources which do 
+not meet the criteria to be treated as proved.
+Cash outflows (including operating 
+costs, capital expenditure, closure and 
+rehabilitation costs and taxes)
+Cash outflows are based on internal budgets 
+and forecasts and life of asset plans. 
+Cost assumptions reflect management 
+experience and expectations. Tax assumptions 
+reflect existing and substantively enacted 
+tax and royalty regimes and rates applicable 
+in the jurisdiction of the CGU. In the case of 
+FVLCD, cash flow projections include the 
+anticipated cash flow effects of any capital 
+expenditure to enhance production or reduce 
+cost where a market participant may take a 
+consistent view. VIU does not take into account 
+future development.
+Discount rates
+The Group uses real post-tax discount 
+rates applied to real post-tax cash flows. 
+The discount rates are derived using the 
+weighted average cost of capital methodology. 
+Adjustments to the rates are made for any risks 
+that are not reflected in the underlying cash 
+flows, including country risk.
+144
+BHP Annual Report 2025
+
+--- PAGE 147 (matched: fx_exposure) ---
+14 Deferred tax balances
+The movement for the year in the Group’s net deferred tax position is as follows:
+2025
+US$M
+2024
+US$M
+2023
+US$M
+Net deferred tax (liability)/asset
+At the beginning of the financial year
+(3,265)
+(4,243)
+(3,007)
+Acquisition of subsidiaries and operations1
+ −
+–
+(867)
+Income tax (charge)/credit recorded in the income statement2,3
+(177)
+988
+(387)
+Income tax (charge)/credit recorded directly in equity
+(17)
+(6)
+6
+Divestment of subsidiaries and operations
+14
+(3)
+–
+Other movements
+17
+(1)
+12
+At the end of the financial year
+(3,428)
+(3,265)
+(4,243)
+1.	 Relates to the acquisition of OZL on 2 May 2023. 
+2.	 Includes US$1,125 million income tax credit in the year ended 30 June 2024 as a result of an impairment of Western Australia Nickel Assets. 
+3.	 Includes US$(283) million revaluation of deferred tax balances in the year ended 30 June 2023, following the substantive enactment of the Chilean Royalty Bill. Refer to note 3 ‘Exceptional 
+items’ for more information.
+For recognition and measurement of deferred tax assets and liabilities, refer to note 6 ‘Income tax expense’. The temporary exception to recognising and 
+disclosing information about deferred tax assets and liabilities related to Pillar Two income taxes has been applied at 30 June 2025.
+The composition of the Group’s net deferred tax assets and liabilities recognised in the balance sheet and the deferred tax expense charged/(credited) 
+to the income statement is as follows:
+Deferred tax assets
+Deferred tax liabilities
+Charged/(credited) to the income statement
+2025
+US$M
+2024
+US$M
+2025
+US$M
+2024
+US$M
+2025
+US$M
+2024
+US$M
+2023
+US$M
+Type of temporary difference
+Depreciation1
+(893)
+(756)
+5,284
+5,221
+213
+(894)
+452
+Exploration expenditure
+17
+14
+ −
+ −
+(2)
+(2)
+(2)
+Employee benefits
+35
+23
+(477)
+(407)
+(78)
+6
+(94)
+Closure and rehabilitation
+195
+155
+(1,826)
+(1,770)
+(96)
+(29)
+(296)
+Other provisions
+47
+55
+(202)
+(196)
+2
+23
+4
+Deferred income
+ −
+ −
+(9)
+(23)
+14
+(9)
+37
+Deferred charges
+(31)
+(55)
+551
+522
+5
+(148)
+85
+Investments, including foreign tax credits
+281
+274
+516
+411
+96
+(6)
+(54)
+Foreign exchange gains and losses
+(14)
+(9)
+85
+80
+9
+(115)
+42
+Tax losses
+491
+364
+(38)
+(84)
+(80)
+40
+37
+Lease liability1
+23
+9
+(735)
+(730)
+(19)
+45
+(83)
+Other
+(73)
+(7)
+357
+308
+113
+101
+259
+Total 
+78
+67
+3,506
+3,332
+177
+(988)
+387
+1.	 Includes deferred tax associated with the recognition of right-of-use assets and lease liabilities on adoption of IFRS 16. Refer to note 22 ‘Leases’. 
+The composition of the Group’s unrecognised deferred tax assets and liabilities is as follows:
+2025
+US$M
+2024
+US$M
+Unrecognised deferred tax assets
+Tax losses and tax credits1
+10,159
+9,126
+Investments in subsidiaries2
+1,681
+1,533
+Mineral rights3
+3,224
+3,216
+Other deductible temporary differences4
+1,965
+1,978
+Total unrecognised deferred tax assets
+17,029
+15,853
+Unrecognised deferred tax liabilities
+Investments in subsidiaries2
+2,349
+2,307
+Total unrecognised deferred tax liabilities
+2,349
+2,307
+145
+Operating and Financial Review
+Overview
+Additional Information
+Governance
+Contents
+Financial Statements
+
+--- PAGE 148 (matched: context) ---
+1  Consolidated Financial Statements continued
+14 Deferred tax balances continued
+1.	 At 30 June 2025, the Group had income and capital tax losses with a tax benefit of US$5,621 million (2024: US$5,589 million) and tax credits of US$4,538 million (2024: US$3,537 million), 
+which are not recognised as deferred tax assets, because it is not probable that future taxable profits or capital gains will be available against which the Group can utilise the benefits.
+	
+The gross amount of tax losses carried forward that have not been recognised is as follows:
+Year of expiry
+2025
+US$M
+2024
+US$M
+Income tax losses
+Not later than one year
+14
+28
+Later than one year and not later than two years
+16
+10
+Later than two years and not later than five years
+46
+43
+Later than five years and not later than 10 years
+872
+652
+Later than 10 years and not later than 20 years
+623
+1,003
+Unlimited
+5,752
+5,620
+7,323
+7,356
+Capital tax losses
+Not later than one year
+ −
+ −
+Later than two years and not later than five years
+ −
+ −
+Unlimited
+13,371
+13,494
+Gross amount of tax losses not recognised
+20,694
+20,850
+Tax effect of total losses not recognised
+5,621
+5,589
+	
+Of the US$4,538 million of tax credits, US$3,566 million expires not later than 10 years (2024: US$2,792 million) and US$972 million expires later than 10 years and not later than 20 years 
+(2024: US$745 million).
+2.	 The Group has deferred tax assets and deferred tax liabilities associated with undistributed earnings of subsidiaries that have not been recognised because the Group is able to control the 
+timing of the reversal of the temporary differences and it is not probable that these differences will reverse in the foreseeable future. Where the Group has undistributed earnings held by 
+associates and joint interests, the deferred tax liability will be recognised as there is no ability to control the timing of the potential distributions.
+3.	 The Group has deductible temporary differences relating to mineral rights for which deferred tax assets have not been recognised because it is not probable that future capital gains will be 
+available against which the Group can utilise the benefits. The deductible temporary differences do not expire under current tax legislation.
+4.	 The Group has other deductible temporary differences for which deferred tax assets have not been recognised because it is not probable that future taxable profits will be available against 
+which the Group can utilise the benefits. The deductible temporary differences do not expire under current tax legislation.
+15 Closure and rehabilitation provisions
+2025
+US$M
+2024
+US$M
+At the beginning of the financial year
+9,837
+9,887
+Capitalised amounts for operating sites:
+Change in estimate
+548
+463
+Exchange translation 
+(61)
+(58)
+Adjustments charged/(credited) to the income statement:
+Change in estimate
+112
+85
+Exchange translation 
+(11)
+(47)
+Other adjustments to the provision:
+Amortisation of discounting impacting net finance costs 
+510
+556
+Divestment of subsidiaries and operations1
+ −
+(652)
+Expenditure on closure and rehabilitation activities
+(468)
+(395)
+Other movements
+ 1
+(2)
+At the end of the financial year
+10,468
+9,837
+Comprising:
+Current
+662
+610
+Non-current
+9,806
+9,227
+Operating sites
+6,908
+6,349
+Closed sites
+3,560
+3,488
+1.	 Relates to the divestment of the Blackwater and Daunia mines completed on 2 April 2024. 
+Profile of closure and rehabilitation cash flows
+The table below indicates the estimated profile of the Group’s closure and rehabilitation provisions. The profile reflects the undiscounted forecast cash 
+flows that underpin the provisions. In some instances, the Group has an obligation to rehabilitate and maintain a closed site for an indefinite period. 
+For the purpose of this analysis, the cashflow period has been restricted to 100 years.  
+Proportion of the Group’s undiscounted forecast cashflows
+2025
+%
+2024
+%
+In one year or less 
+4
+3
+In more than one year but not more than two years
+3
+3
+In more than two years but not more than five years
+10
+8
+In more than five years but not more than ten years
+15
+15
+In more than ten years
+68
+71
+Total
+100
+100
+146
+BHP Annual Report 2025
+
+--- PAGE 160 (matched: context) ---
+1  Consolidated Financial Statements continued
+22 Leases continued
+Recognition and measurement
+All leases with the exception of short-term (under 12 months) and low-value leases are recognised on the balance sheet, as a right-of-use asset 
+and a corresponding interest bearing liability. Lease liabilities are initially measured at the present value of the future lease payments from the lease 
+commencement date and are subsequently adjusted to reflect the interest on lease liabilities, lease payments and any remeasurements due to, for 
+example, lease modifications or a change to future lease payments linked to an index or rate. Lease payments are discounted using the interest rate 
+implicit in the lease or, where the rate is not readily determinable, the interest payments are discounted at the Group’s weighted average incremental 
+borrowing rate, adjusted to reflect factors specific to the lease, including where relevant the currency, tenor and location of the lease. 
+In addition to containing a lease, the Group’s contractual arrangements may include non-lease components. For example, certain mining services 
+arrangements involve the provision of additional services, including maintenance, drilling activities and the supply of personnel. The Group has elected to 
+separate these non-lease components from the lease components in measuring lease liabilities. Non-lease components are accounted for in accordance 
+with the accounting policies applied to each underlying good or service received.
+Low-value and short-term leases are expensed to the income statement. Variable lease payments not dependent on an index or rate are excluded from 
+lease liabilities, and expensed to the income statement. 
+Right-of-use assets are measured at cost, less any accumulated depreciation and impairment losses, and adjusted for any remeasurement of lease 
+liabilities. The cost will initially correspond to the lease liability, adjusted for initial direct costs, lease payments made prior to lease commencement, 
+capitalised provisions for closure and rehabilitation and any lease incentives received.
+The lease asset and liability associated with all index-linked freight contracts, including continuous voyage charters (CVCs), are measured at each 
+reporting date based on the prevailing freight index (generally the Baltic C5 index).
+Where the Group is the operator of an unincorporated joint operation and all investors are parties to a lease, the Group recognises its proportionate share 
+of the lease liability and associated right-of-use asset. In the event the Group is the sole signatory to a lease, and therefore has the sole legal obligation 
+to make lease payments, the lease liability is recognised in full. Where the associated right-of-use asset is sub-leased (under a finance sub-lease) to a 
+joint operation, for instance where it is dedicated to a single operation and the joint operation has the right to direct the use of the asset, the Group (as 
+lessor) recognises its proportionate share of the right-of-use asset and a net investment in the lease, representing amounts to be recovered from the other 
+parties to the joint operation. If the Group is not party to the head lease contract but sub-leases the associated right-of-use asset (as lessee), it recognises 
+its proportionate share of the right-of-use asset and a lease liability which is payable to the operator.
+Key judgements and estimates
+Judgements: Certain contractual arrangements not in the form of a lease require the Group to apply significant judgement in evaluating whether 
+the Group controls the right to direct the use of assets and therefore whether the contract contains a lease. Management considers all facts and 
+circumstances in determining whether the Group or the supplier has the rights to direct how, and for what purpose, the underlying assets are used in 
+certain mining contracts and other arrangements, including outsourcing and shipping arrangements. Judgement is used to assess which decision-
+making rights mostly affect the benefits of use of the assets for each arrangement. 
+Where a contract includes the provision of non-lease services, judgement is required to identify the lease and non-lease components.
+Estimates: Where the Group cannot readily determine the interest rate implicit in the lease, estimation is involved in the determination of the 
+weighted average incremental borrowing rate to measure lease liabilities. The incremental borrowing rate reflects the rates of interest a lessee 
+would have to pay to borrow over a similar term, with similar security, the funds necessary to obtain an asset of similar value to the right-of-use asset 
+in a similar economic environment. Under the Group’s portfolio approach to debt management, the Group does not specifically borrow for asset 
+purchases. Therefore, the incremental borrowing rate is estimated referencing the Group’s corporate borrowing portfolio and other similar rated 
+entities, adjusted to reflect the terms and conditions of the lease (including the impact of currency, credit rating of subsidiary entering into the lease 
+and the term of the lease), at the inception of the lease arrangement or the time of lease modification. 
+The Group estimates stand-alone prices, where such prices are not readily observable, in order to allocate the contractual payments between lease 
+and non-lease components.
+23 Net finance costs
+2025
+US$M
+2024
+US$M
+2023
+US$M
+Financial expenses
+Interest expense using the effective interest rate method:
+Interest on bank loans, overdrafts and all other borrowings 
+1,325
+1,467
+997
+Interest capitalised at 5.97% (2024: 6.82%; 2023: 5.71%)1
+(595)
+(530)
+(271)
+Interest on lease liabilities
+169
+181
+130
+Discounting on provisions and other liabilities
+975
+1,064
+1,293
+Other gains and losses:
+Fair value change on hedged loans
+263
+(214)
+(803)
+Fair value change on hedging derivatives
+(290)
+188
+691
+Exchange variations on net debt 
+(94)
+27
+9
+Other
+18
+15
+14
+Total financial expenses
+1,771
+2,198
+2,060
+Financial income
+Interest income 
+(603)
+(709)
+(529)
+Other
+(57)
+ −
+ −
+Total financial income
+(660)
+(709)
+(529)
+Net finance costs
+1,111
+1,489
+1,531
+1.	 Interest has been capitalised at the rate of interest applicable to the specific borrowings financing the assets under construction or, where financed through general borrowings, at a 
+capitalisation rate representing the average interest rate on such borrowings. Tax relief for capitalised interest is approximately US$179 million (2024: US$159 million; 2023: US$81 million).
+Recognition and measurement
+Interest income is accrued using the effective interest rate method. Finance costs are expensed as incurred, except where they relate to the financing of 
+construction or development of qualifying assets.
+158
+BHP Annual Report 2025
+
+--- PAGE 161 (matched: fx_exposure) ---
+24 Financial risk management
+24.1 Financial risks
+Financial and capital risk management strategy
+The financial risks arising from the Group’s operations comprise market, liquidity and credit risk. These risks arise in the normal course of business and 
+the Group manages its exposure to them in accordance with the Group’s portfolio risk management strategy. The objective of the strategy is to support 
+the delivery of the Group’s financial targets, while protecting its future financial security and flexibility by taking advantage of the natural diversification 
+provided by the scale, diversity and flexibility of the Group’s operations and activities.
+As part of the risk management strategy, the Group monitors target gearing levels and credit rating metrics under a range of different stress test scenarios 
+incorporating operational and macroeconomic factors.
+Market risk management
+The Group’s activities expose it to market risks associated with movements in interest rates, foreign currencies and commodity prices. Under the strategy 
+outlined above, the Group seeks to achieve financing costs, currency impacts, input costs and commodity prices on a floating or index basis. 
+In executing the strategy, financial instruments are potentially employed in three distinct but related activities. The following table summarises these 
+activities and the key risk management processes: 
+Activity
+Key risk management processes
+1	 Risk mitigation
+On an exception basis, hedging for the purposes of mitigating risk related to specific and significant expenditure on 
+investments or capital projects will be executed if necessary to support the Group’s strategic objectives.
+Execution of transactions within 
+approved mandates.
+2	 Economic hedging of commodity sales, operating costs, short-term cash deposits, other monetary items and 
+debt instruments
+Where Group commodity production is sold to customers on pricing terms that deviate from the relevant index target and 
+where a relevant derivatives market exists, financial instruments may be executed as an economic hedge to align the 
+revenue price exposure with the index target and US dollars.
+Measuring and reporting the 
+exposure in customer commodity 
+contracts and issued debt  
+instruments.
+Where debt is issued in a currency other than the US dollar and/or at a fixed interest rate, fair value and cash flow hedges 
+may be executed to align the debt exposure with the Group’s functional currency of US dollars and/or to swap to a floating 
+interest rate.
+Executing hedging derivatives 
+to align the total group exposure 
+to the index target.
+Where short-term cash deposits and other monetary items are denominated in a currency other than US dollars, 
+derivative financial instruments may be executed to align the foreign exchange exposure to the Group’s functional 
+currency of US dollars.
+Execution of transactions within 
+approved mandates.
+3	 Strategic financial transactions
+Opportunistic transactions may be executed with financial instruments to capture value from perceived market over/
+under valuations. 
+Execution of transactions within 
+approved mandates.
+Primary responsibility for the identification and control of financial risks, including authorising and monitoring the use of financial instruments for the above 
+activities and stipulating policy thereon, rests with the Financial Risk Management Committee under authority delegated by the Chief Executive Officer.
+Interest rate risk
+The Group is exposed to interest rate risk on its outstanding borrowings and short-term cash deposits from the possibility that changes in interest 
+rates will affect future cash flows or the fair value of fixed interest rate financial instruments. Interest rate risk is managed as part of the portfolio risk 
+management strategy. 
+The majority of the Group’s debt is issued at fixed interest rates. The Group has entered into interest rate swaps and cross currency interest rate swaps to 
+convert most of its fixed interest rate exposure to floating US dollar interest rate exposure. As at 30 June 2025, 98 per cent of the Group’s borrowings were 
+exposed to floating interest rates inclusive of the effect of swaps (2024: 97 per cent). 
+The fair value of interest rate swaps and cross currency interest rate swaps in hedge relationships used to hedge both interest rate and foreign currency 
+risks are shown in the valuation hierarchy in section 24.4 ‘Derivatives and hedge accounting’.
+Based on the net debt position as at 30 June 2025, taking into account interest rate swaps and cross currency interest rate swaps, it is estimated that a 
+one percentage point increase in the Secured Overnight Financing Rate (SOFR) interest rate will decrease the Group’s equity and profit after taxation by 
+US$72 million (2024: decrease of US$47 million). This assumes the change in interest rates is effective from the beginning of the financial year and the 
+fixed/floating mix and balances are constant over the year. 
+Currency risk
+The US dollar is the predominant functional currency within the Group and as a result, currency exposures arise from transactions and balances in 
+currencies other than the US dollar. The Group’s potential currency exposures comprise:
+	
+– translational exposure in respect of non-functional currency monetary items 
+	
+– transactional exposure in respect of non-functional currency expenditure and revenues 
+The Group’s foreign currency risk is managed as part of the portfolio risk management strategy. 
+159
+Operating and Financial Review
+Overview
+Additional Information
+Governance
+Contents
+Financial Statements
+
+--- PAGE 162 (matched: fx_exposure, receivables_payables) ---
+1  Consolidated Financial Statements continued
+24 Financial risk management continued
+Translational exposure in respect of non-functional currency monetary items
+Monetary items, including financial assets and liabilities, denominated in currencies other than the functional currency of an operation are restated at the 
+end of each reporting period to US dollar equivalents and the associated gain or loss is taken to the income statement. The exception is foreign exchange 
+gains or losses on foreign currency denominated provisions for closure and rehabilitation at operating sites, which are capitalised in property, plant 
+and equipment. 
+The Group has entered into cross currency interest rate swaps and foreign exchange forwards to convert its significant foreign currency exposures in 
+respect of monetary items into US dollars. Fluctuations in foreign exchange rates are therefore not expected to have a significant impact on equity and 
+profit after tax.
+The following table shows the carrying values of financial assets and liabilities at the end of the reporting period denominated in currencies other than the 
+US dollar that are exposed to foreign currency risk:
+Net financial (liabilities)/assets – by currency of denomination
+2025
+US$M
+2024
+US$M
+AUD
+(4,181)
+(3,850)
+CLP
+(924)
+(150)
+CAD
+(361)
+(543)
+EUR
+(89)
+239
+GBP
+(28)
+323
+BRL
+337
+(29)
+Other
+123
+72
+Total
+(5,123)
+(3,938)
+The principal non-functional currencies to which the Group is exposed are the Australian dollar, the Canadian dollar, the Chilean peso, the Pound sterling, 
+the Brazilian real and the Euro. Based on the Group’s net financial assets and liabilities as at 30 June 2025, a weakening of the US dollar against these 
+currencies (one cent strengthening in Australian dollar, one cent strengthening in Canadian dollar, 10 pesos strengthening in Chilean peso, one penny 
+strengthening in Pound sterling, one centavo strengthening in Brazilian real and one cent strengthening in Euro), with all other variables held constant, 
+would decrease the Group’s equity and profit after taxation by US$29 million (2024: decrease of US$17 million).
+Transactional exposure in respect of non-functional currency expenditure and revenues
+Certain operating and capital expenditure is incurred in currencies other than an operation’s functional currency. To a lesser extent, certain sales revenue 
+is earned in currencies other than the functional currency of operations and certain exchange control restrictions may require that funds be maintained 
+in currencies other than the functional currency of the operation. These currency risks are managed as part of the portfolio risk management strategy. 
+The Group may enter into forward exchange contracts when required under this strategy. 
+Commodity price risk
+The risk associated with commodity prices is managed as part of the portfolio risk management strategy. Substantially all of the Group’s commodity 
+production is sold on market-based index pricing terms, with derivatives used from time to time to achieve a specific outcome.
+Financial instruments with commodity price risk comprise forward commodity and other derivative contracts with net liabilities at fair value of US$1 million 
+(2024: net liabilities of US$42 million). 
+Other financial assets at fair value includes US$122 million (2024: US$195 million) in relation to amounts receivable for the divestment of the Blackwater 
+and Daunia mines which are contingent on future realised coal prices. A 10 per cent change in the coal realised price used in the valuation model, with all 
+other factors held constant, would increase or decrease profit after taxation by approximately US$60 million.
+Provisionally priced commodity sales and purchases contracts
+Provisionally priced sales or purchases volumes are those for which price finalisation, referenced to the relevant index, is outstanding at the reporting 
+date. Provisional pricing mechanisms within these sales and purchases arrangements have the character of a commodity derivative. Trade receivables 
+or payables under these contracts are carried at fair value through profit or loss using Level 2 valuation inputs based on forecast prices in the quotation 
+period. The Group’s exposure at 30 June 2025 to the impact of movements in commodity prices upon provisionally invoiced sales and purchases volumes 
+was predominately around copper.
+The Group had 419 thousand tonnes of copper exposure as at 30 June 2025 (2024: 428 thousand tonnes) that was provisionally priced. The final price 
+of these sales and purchases volumes will be determined during the first half of FY2026. A 10 per cent change in the price of copper realised on the 
+provisionally priced sales, with all other factors held constant, would increase or decrease profit after taxation by US$268 million (2024: US$299 million). 
+The relationship between commodity prices and foreign currencies is complex and movements in foreign exchange rates can impact commodity prices.
+Liquidity risk
+Refer to note 21 ‘Net debt’ for details on the Group’s liquidity risk.
+Credit risk
+Credit risk is the risk that a counterparty will not meet its obligations under a financial instrument or customer contract, leading to a financial loss. 
+The Group is exposed to credit risk from its operating activities (primarily from customer receivables) and from its financing activities, including deposits 
+with banks and financial institutions, other short-term investments, interest rate and currency derivative contracts and other financial instruments.
+Refer to note 8 ‘Trade and other receivables’ and note 21 ‘Net debt’ for details on the Group credit risk. 
+160
+BHP Annual Report 2025
+
+--- PAGE 163 (matched: context) ---
+24.2 Recognition and measurement
+All financial assets and liabilities, other than derivatives and trade receivables, are initially recognised at the fair value of consideration paid or received, 
+net of transaction costs as appropriate. Financial assets are initially recognised on their trade date.
+Financial assets are subsequently carried at fair value or amortised cost based on:
+	
+– the Group’s purpose, or business model, for holding the financial asset
+	
+– whether the financial asset’s contractual terms give rise to cash flows that are solely payments of principal and interest
+The resulting Financial Statements classifications of financial assets can be summarised as follows:
+Contractual cash flows
+Business model
+Category
+Solely principal and interest
+Hold in order to collect contractual cash flows
+Amortised cost
+Solely principal and interest
+Hold in order to collect contractual cash flows and sell
+Fair value through other comprehensive income
+Solely principal and interest
+Hold in order to sell
+Fair value through profit or loss
+Other
+Any of those mentioned above
+Fair value through profit or loss
+Solely principal and interest refers to the Group receiving returns only for the time value of money and the credit risk of the counterparty for financial 
+assets held. The main exceptions for the Group are provisionally priced receivables and derivatives which are measured at fair value through profit or loss 
+under IFRS 9.
+The Group has the intention of collecting payment directly from its customers in most cases, however the Group also participates in receivables 
+financing programs in respect of selected customers. Receivables in these portfolios which are classified as ‘hold in order to sell’, are provisionally priced 
+receivables and are therefore held at fair value through profit or loss prior to sale to the financial institution.
+With the exception of derivative contracts and provisionally priced trade payables which are carried at fair value through profit or loss, the Group’s 
+financial liabilities are classified as subsequently measured at amortised cost. 
+The Group may in addition elect to designate certain financial assets or liabilities at fair value through profit or loss or to apply hedge accounting where 
+they are not mandatorily held at fair value through profit or loss.
+Fair value measurement
+The carrying amount of financial assets and liabilities measured at fair value is principally calculated based on inputs other than quoted prices that are 
+observable for these financial assets or liabilities, either directly (i.e. as unquoted prices) or indirectly (i.e. derived from prices). Where no price information 
+is available from a quoted market source, alternative market mechanisms or recent comparable transactions, fair value is estimated based on the Group’s 
+views on relevant future prices, net of valuation allowances to accommodate liquidity, modelling and other risks implicit in such estimates. 
+The inputs used in fair value calculations are determined by the relevant segment or function. The functions support the assets and operate under 
+a defined set of accountabilities authorised by the Executive Leadership Team. Movements in the fair value of financial assets and liabilities may be 
+recognised through the income statement or in other comprehensive income according to the designation of the underlying instrument. 
+For financial assets and liabilities carried at fair value, the Group uses the following to categorise the inputs to the valuation method used based on the 
+lowest level input that is significant to the fair value measurement as a whole:
+IFRS 13 Fair value hierarchy
+Level 1
+Level 2
+Level 3
+Valuation inputs
+Based on quoted prices (unadjusted) 
+in active markets for identical financial 
+assets and liabilities.
+Based on inputs other than quoted 
+prices included within Level 1 that are 
+observable for the financial asset or 
+liability, either directly (i.e. as unquoted 
+prices) or indirectly (i.e. derived 
+from prices).
+Based on inputs not observable in the 
+market using appropriate valuation 
+models, including discounted cash 
+flow modelling.
+161
+Operating and Financial Review
+Overview
+Additional Information
+Governance
+Contents
+Financial Statements
+
+--- PAGE 164 (matched: receivables_payables) ---
+1  Consolidated Financial Statements continued
+24 Financial risk management continued
+24.3 Financial assets and liabilities
+The financial assets and liabilities are presented by class in the table below at their carrying amounts.
+IFRS 13 Fair value
+hierarchy Level1
+IFRS 9 Classification
+2025
+US$M
+2024
+US$M
+Current cross currency and interest rate swaps2
+2
+Fair value through profit or loss
+13
+5
+Current other derivative contracts3
+2,3
+Fair value through profit or loss
+275
+118
+Current other financial assets4
+Amortised cost
+236
+234
+Current other investments5
+1,2
+Fair value through profit or loss
+37
+24
+Non-current cross currency and interest rate swaps2
+2
+Fair value through profit or loss
+448
+113
+Non-current other derivative contracts3
+2,3
+Fair value through profit or loss
+158
+103
+Non-current other financial assets6
+3
+Fair value through profit or loss
+122
+195
+Non-current other financial assets4,7
+Amortised cost
+191
+398
+Non-current investment in shares
+1,3
+Fair value through other comprehensive income
+64
+201
+Non-current other investments5
+1,2
+Fair value through profit or loss
+139
+219
+Total other financial assets
+1,683
+1,610
+Cash and cash equivalents
+Amortised cost
+11,894
+12,501
+Trade and other receivables8
+Amortised cost
+1,195
+1,597
+Provisionally priced trade receivables
+2
+Fair value through profit or loss
+2,581
+3,250
+Total financial assets
+17,353
+18,958
+Non-financial assets
+91,437
+83,404
+Total assets
+108,790
+102,362
+Current cross currency and interest rate swaps2
+2
+Fair value through profit or loss
+ −
+176
+Current other derivative contracts
+2
+Fair value through profit or loss
+130
+241
+Current other financial liabilities9
+Amortised cost
+84
+95
+Non-current cross currency and interest rate swaps2
+2
+Fair value through profit or loss
+1,056
+1,337
+Non-current other derivative contracts
+2
+Fair value through profit or loss
+ −
+54
+Non-current other financial liabilities9
+Amortised cost
+308
+368
+Total other financial liabilities
+1,578
+2,271
+Trade and other payables10
+Amortised cost
+6,087
+6,049
+Provisionally priced trade payables
+2
+Fair value through profit or loss
+493
+614
+Bank overdrafts and short-term borrowings11
+Amortised cost
+1
+3
+Bank loans11
+Amortised cost
+3,731
+2,610
+Notes and debentures11
+Amortised cost
+17,653
+14,932
+Lease liabilities12
+2,953
+3,116
+Other11
+Amortised cost
+158
+57
+Total financial liabilities
+32,654
+29,652
+Non-financial liabilities
+23,918
+23,590
+Total liabilities
+56,572
+53,242
+1.	
+All of the Group’s financial assets and financial liabilities recognised at fair value were valued using market observable inputs categorised as Level 2 unless specified otherwise in the 
+following footnotes.
+2.	 Cross currency and interest rate swaps are valued using market data including interest rate curves and foreign exchange rates. A discounted cash flow approach is used to derive the fair 
+value of cross currency and interest rate swaps at the reporting date. 
+3.	 Includes net other derivative assets of US$37 million related to power purchase contract agreements that are categorised as Level 3 (2024: US$92 million). 
+4.	 Includes deferred consideration of US$280 million in relation to the divestment of the Blackwater and Daunia mines completed on 2 April 2024 (2024: US$495 million).
+5.	 Includes investments held by BHP Foundation which are restricted and not available for general use by the Group of US$176 million (2024: US$243 million) of which other investments 
+(mainly US Treasury Notes) of US$105 million is categorised as Level 1 (2024: US$134 million). 
+6.	 Includes receivables contingent on future realised coal price of US$122 million (2024: US$195 million).
+7.	
+Includes Senior notes of US$147 million (2024: US$137 million) relating to Samarco with a maturity date of 30 June 2031. Refer to note 4 ‘Significant events – Samarco dam failure’ for 
+further information.
+8.	 Excludes input taxes of US$477 million (2024: US$492 million) included in other receivables.
+9.	 Includes the discounted settlement liability in relation to the cancellation of power contracts at the Group’s Escondida operations. 
+10.	 Excludes input taxes of US$90 million (2024: US$101 million) included in other payables.
+11.	 All interest bearing liabilities, excluding lease liabilities, are unsecured.
+12.	 Lease liabilities are measured in accordance with IFRS 16/AASB 16 ‘Leases’.
+The carrying amounts in the table above generally approximate to fair value. In the case of US$525 million (2024: US$532 million) of fixed rate debt not 
+swapped to floating rate, the fair value at 30 June 2025 was US$541 million (2024: US$538 million). The fair value is determined using a method that can 
+be categorised as Level 2 and uses inputs based on benchmark interest rates, alternative market mechanisms or recent comparable transactions.
+For financial instruments that are carried at fair value on a recurring basis, the Group determines whether transfers have occurred between levels in the 
+fair value hierarchy by reassessing categorisation at the end of each reporting period. There were no transfers between categories during the period.
+Offsetting financial assets and liabilities
+The Group enters into money market deposits and derivative transactions under International Swaps and Derivatives Association master netting 
+agreements that do not meet the offsetting criteria in IAS 32/AASB 132 ‘Financial Instruments: Presentation’, but allow for the related amounts to be set-
+off in certain circumstances. The amounts set out as cross currency and interest rate swaps in the table above represent the derivative financial assets 
+and liabilities of the Group that may be subject to the above arrangements and are presented on a gross basis.
+162
+BHP Annual Report 2025
+
+--- PAGE 165 (matched: context) ---
+24.4 Derivatives and hedge accounting
+The Group uses derivatives to hedge its exposure to certain market risks and may elect to apply hedge accounting.
+Hedge accounting
+Derivatives are included within financial assets or liabilities at fair value through profit or loss unless they are designated as effective hedging instruments. 
+Where hedge accounting is applied, at the start of the transaction, the Group documents the type of hedge, the relationship between the hedging 
+instrument and hedged items and its risk management objective and strategy for undertaking various hedge transactions. The documentation also 
+demonstrates that the hedge is expected to be effective. 
+The Group applies the following types of hedge accounting to its derivatives hedging the interest rate and currency risks of its notes and debentures:
+	
+– Fair value hedges – the fair value gain or loss on interest rate and cross currency swaps relating to interest rate risk, together with the change in the fair 
+value of the hedged fixed rate borrowings attributable to interest rate risk are recognised immediately in the income statement. If the hedge no longer 
+meets the criteria for hedge accounting, the fair value adjustment on the note or debenture is amortised to the income statement over the period to 
+maturity using a recalculated effective interest rate.
+	
+– Cash flow hedges – changes in the fair value of cross currency interest rate swaps which hedge foreign currency cash flows on the notes and 
+debentures are recognised directly in other comprehensive income and accumulated in the cash flow hedging reserve. To the extent a hedge is 
+ineffective, changes in fair value are recognised immediately in the income statement. 
+When a hedging instrument expires, or is sold, terminated or exercised, or when a hedge no longer meets the criteria for hedge accounting, any 
+cumulative gain or loss existing in equity at that time remains in equity and is amortised to the income statement over the period to the hedged 
+item’s maturity.
+When hedged, the Group hedges the full notional value of notes or debentures. However, certain components of the fair value of derivatives are not 
+permitted under IFRS 9 to be included in the hedge accounting above. Certain costs of hedging are permitted to be recognised in other comprehensive 
+income. Any change in the fair value of a derivative that does not qualify for hedge accounting, or is ineffective in hedging the designated risk due to 
+contractual differences between the hedged item and hedging instrument, is recognised immediately in the income statement.
+The table below shows the carrying amounts of the Group’s notes and debentures by currency and the derivatives which hedge them: 
+	
+– The carrying amount of the notes and debentures includes foreign exchange remeasurement to period-end rates and fair value adjustments when 
+included in a fair value hedge. 
+	
+– The breakdown of the hedging derivatives includes remeasurement of foreign currency notional values at period-end rates, fair value movements 
+due to interest rate risk, foreign currency cash flows designated into cash flow hedges, costs of hedging recognised in other comprehensive income, 
+ineffectiveness recognised in the income statement and accruals or prepayments. 
+	
+– The hedged value of notes and debentures includes their carrying amounts adjusted for the offsetting derivative fair value movements due to foreign 
+currency and interest rate risk remeasurement. 
+Carrying
+ amount 
+of hedged
+ loans,  
+notes and 
+debentures 
+De-
+designated 
+hedges1
+Fair value of derivatives
+Hedged
+value
+ of loans,  
+notes and 
+debentures3 
+2025
+US$M
+Foreign
+ exchange
+ notional at
+spot rates
+Interest
+rate risk
+Recognised
+ in cash flow
+ hedging
+ reserve
+Recognised
+in cost of
+ hedging
+ reserve
+Recognised
+ in the
+income
+ statement2
+Accrued
+ and other
+cash flows
+Total
+A
+B
+C
+D
+E
+F
+G
+H
+C to H
+A + B + C + D
+USD
+15,120
+49
+ −
+249
+ −
+ −
+(19)
+(51)
+179
+15,418
+GBP
+1,062
+40
+251
+258
+(19)
+5
+(64)
+37
+468
+1,611
+EUR
+2,481
+97
+122
+50
+41
+(11)
+(51)
+(203)
+(52)
+2,750
+Total
+18,663
+186
+373
+557
+22
+(6)
+(134)
+(217)
+595
+19,779
+Carrying
+ amount of
+notes and
+ debentures
+De-
+designated 
+hedges1
+Fair value of derivatives
+Hedged
+value of
+notes and
+debentures3
+2024
+US$M
+Foreign
+ exchange
+ notional at
+spot rates
+Interest
+rate risk
+Recognised
+ in cash flow
+ hedging
+ reserve
+Recognised
+in cost of
+ hedging
+ reserve
+Recognised
+ in the
+income
+ statement2
+Accrued
+ and other
+cash flows
+Total
+A
+B
+C
+D
+E
+F
+G
+H
+C to H
+A + B + C + D
+USD
+10,928
+52
+ −
+446
+ −
+ −
+ −
+6
+452
+11,426
+GBP
+1,595
+43
+521
+204
+(13)
+3
+(72)
+30
+673
+2,363
+EUR
+2,409
+125
+367
+134
+(27)
+7
+2
+(213)
+270
+3,035
+Total
+14,932
+220
+888
+784
+(40)
+10
+(70)
+(177)
+1,395
+16,824
+1.	 Includes accumulated fair value adjustments on de-designated hedges which are amortised to the income statement over the period to the hedged item’s maturity.
+2.	 Predominantly related to ineffectiveness.
+3.	 Includes US$525 million (2024: US$532 million) of fixed rate debt not swapped to floating rate that is not in a hedging relationship. 
+The weighted average interest rate payable is USD SOFR +1.30 per cent (2024: USD SOFR +1.40 per cent). Refer to note 23 ‘Net finance costs’ for 
+details of net finance costs for the year.
+163
+Operating and Financial Review
+Overview
+Additional Information
+Governance
+Contents
+Financial Statements
+
+--- PAGE 172 (matched: context) ---
+1  Consolidated Financial Statements continued
+29 Investments accounted for using the equity method continued
+Key judgements and estimates
+Judgements: Determining whether joint arrangements structured through a separate vehicle are classified as joint ventures or joint operations can 
+involve significant judgement. The classification depends on an assessment of the venturers’ rights to the assets and obligations for the liabilities of 
+the arrangement in the normal course of business. When making the assessment, management has regard to the legal form of the separate vehicle, 
+the terms of the arrangement and other relevant facts and circumstances. Where venturers have the rights to, and obligations for, substantially all 
+of the output of the arrangement, this is indicative of a joint operation as the venturers have rights to substantially all of the economic benefits of the 
+assets and provide cash flows that are used to settle the liabilities of the arrangement.
+The Group is restricted in its ability to make dividend payments from its investments in associates and joint ventures as any such payments require the 
+approval of all investors in the associates and joint ventures.
+The movement for the year in the Group’s investments accounted for using the equity method is as follows:
+Year ended 30 June 2025
+US$M
+Investment in
+associates
+Investment in
+joint ventures
+Total equity
+accounted
+investments
+At the beginning of the financial year
+1,662
+ −
+1,662
+Profit/(loss) from equity accounted investments, related impairments and expenses1
+397
+(244)
+153
+Investment in equity accounted investments2 
+67
+2,355
+2,422
+Dividends received from equity accounted investments
+(375)
+ −
+(375)
+Other1
+ −
+245
+245
+At the end of the financial year
+1,751
+2,356
+4,107
+1.	 Represents financial impacts of Samarco dam failure in the Group’s profit/(loss) from equity accounted investments, related impairments and expenses. Refer to note 4 ‘Significant events 
+– Samarco dam failure’ for further information.
+2.	 Includes total cash payment of US$2.1 billion for the acquisition of Filo Corp and 50% interest in Josemaria copper deposit. 
+The following table summarises the financial information relating to each of the Group’s significant equity accounted investments. 
+Associates
+Joint ventures
+2025
+US$M
+Antamina
+Individually
+immaterial1
+Samarco2
+Vicuña
+Individually
+immaterial
+Total
+Current assets
+1,773
+ 	
+8773
+	
+54	³
+Non-current assets
+6,944
+6,485 
+4,570
+Current liabilities
+(970)
+(6,180)4
+(61)4
+Non-current liabilities
+(2,599)
+(20,404)5
+(3)5
+Net assets/(liabilities) – 100%
+5,148
+(19,222)
+4,560
+Net assets/(liabilities) – Group share 
+1,737
+(9,611)
+2,280
+Adjustments to net assets related to accounting policy adjustments
+(76)
+−
+76
+Investment in Samarco
+ −
+	
+516	6
+ −
+Impairment of the carrying value of the investment in Samarco 
+ −
+(1,041)7
+ −
+Recognised additional share of losses, net of capital contributions 
+ −
+	
+7,254	
+ −
+Unrecognised losses
+ −
+	
+2,882	8
+ −
+Carrying amount of investments accounted for using the equity method
+1,661
+90
+ −
+2,356
+ −
+4,107
+Revenue – 100%
+4,627
+1,598
+ −
+Profit/(loss)  – 100% 
+1,609
+(4,032)9 	
+2	10
+Share of profit/(loss) of equity accounted investments 
+543
+(2,016)
+1
+Adjustments to share of profit/(loss) related to accounting 
+policy adjustments
+(5)
+−
+ −
+Impairment of the carrying value of the investment in Samarco 
+ −
+−
+ −
+Additional share of Samarco losses
+ −
+458
+ −
+Fair value change on forward exchange derivatives
+ −
+414
+ −
+Movement in unrecognised losses
+ −
+	
+899	8
+ −
+Profit/(loss) from equity accounted investments, related impairments 
+and expenses
+538
+(141)
+(245)
+1
+ −
+153
+Comprehensive income – 100%
+1,609
+(4,032)
+2
+ 
+Share of comprehensive income/(loss) – Group share in equity 
+accounted investments
+538
+(141)
+(245)
+1
+ −
+153
+Dividends received from equity accounted investments 
+375
+ −
+−
+ −
+ −
+375
+170
+BHP Annual Report 2025
+
+--- PAGE 173 (matched: fx_exposure, receivables_payables) ---
+Associates
+Joint ventures
+2024
+US$M
+Antamina
+Individually
+immaterial1
+Samarco2
+Individually
+immaterial
+Total
+Current assets
+1,699
+	
+5643
+Non-current assets
+6,325
+7,214
+Current liabilities
+(987)
+(3,266)4
+Non-current liabilities
+(2,389)
+(23,211)5
+Net assets/(liabilities) – 100%
+4,648
+(18,699)
+Net assets/(liabilities) – Group share 
+1,569
+(9,349)
+Adjustments to net assets related to accounting policy adjustments
+(71)
+–
+Investment in Samarco
+ −
+	
+5166
+Impairment of the carrying value of the investment in Samarco 
+ −
+(1,041)7
+Recognised additional share of losses, net of capital contributions
+ −
+7,891
+Unrecognised losses
+ −
+	
+1,9838
+Carrying amount of investments accounted for using the equity method
+1,498
+164
+–
+–
+1,662
+Revenue – 100%
+4,381
+1,553
+Profit/(loss) – 100% 
+1,353
+(6,726)9
+Share of profit/(loss) of equity accounted investments 
+457
+(3,363)
+Adjustments to share of profit/(loss) related to accounting policy adjustments
+8
+(6)11
+Impairment of the carrying value of the investment in Samarco 
+ −
+–
+Additional share of Samarco losses
+ −
+506
+Fair value change on forward exchange derivatives
+ −
+(199)
+Movement in unrecognised losses
+ −
+	
+308
+Profit/(loss) from equity accounted investments, related impairments and expenses
+465
+(89)
+(3,032)
+–
+(2,656)
+Comprehensive income – 100%
+1,353
+(6,726)
+Share of comprehensive (loss)/income – Group share in equity accounted investments
+465
+(89)
+(3,032)
+–
+(2,656)
+Dividends received from equity accounted investments 
+397
+ −
+–
+–
+397
+Associates
+Joint ventures
+2023
+US$M
+Antamina
+Individually
+immaterial
+Samarco2
+Individually
+immaterial
+Total
+Revenue – 100%
+4,350
+1,554
+Profit/(loss) – 100% 
+1,571
+(3,018)9
+Share of profit/(loss) of equity accounted investments 
+530
+(1,509)
+Adjustments to share of profit/(loss) related to accounting policy adjustments
+(79)
+	
+2311
+Impairment of the carrying value of the investment in Samarco 
+ −
+–
+Additional share of Samarco losses
+ −
+452
+Fair value change on forward exchange derivatives
+ −
+471
+Movement in unrecognised losses
+−
+	
+7788
+Profit/(loss) from equity accounted investments, related impairments and expenses
+451
+(72)
+215
+−
+594
+Comprehensive income – 100%
+1,571
+(3,018)
+Share of comprehensive income/(loss) – Group share in equity accounted investments
+451
+(72)
+215
+–
+594
+Dividends received from equity accounted investments 
+327
+1
+–
+–
+328
+1.	
+The unrecognised share of gain for the period was US$72 million (2024: US$41 million), which decreased the cumulative losses to US$28 million (2024: US$100 million).
+2.	 Refer to note 4 ‘Significant events – Samarco dam failure’ for further information regarding the financial impact of the Samarco dam failure which occurred in November 2015 on BHP 
+Brasil’s share of Samarco’s losses. The financial information disclosed represents the underlying financial information of Samarco updated to reflect the Group’s best estimate of the 
+costs to resolve all aspects of the Federal Public Prosecution Office claim and Framework Agreement.
+3.	 Includes cash and cash equivalents of US$419 million (2024: US$251 million) in Samarco and US$53 million in Vicuña.
+4.	 Includes current financial liabilities (excluding trade and other payables and provisions) of US$ nil (2024: US$ nil) in Samarco and US$1 million in Vicuña.
+5.	 Includes non-current financial liabilities (excluding trade and other payables and provisions) of US$4,625 million (2024: US$4,261 million) in Samarco and US$3 million in Vicuña.
+6.	 Any working capital funding provided to Samarco is capitalised as part of the Group’s investments in joint ventures and disclosed as an impairment included within the Samarco 
+impairment expense line item.
+7.	
+In the year ended 30 June 2016, BHP Brasil recognised an impairment of US$525 million to impair its investment in Samarco to US$ nil. Subsequently, additional cumulative impairment 
+losses relating to working capital funding of US$516 million have been recognised. Following the Judicial Reorganisation in September 2023, no further working capital funding has 
+been provided.  
+8.	 Share of Samarco’s losses for which BHP Brasil does not have an obligation to fund.
+9.	 Includes depreciation and amortisation of US$165 million (2024: US$165 million; 2023: US$144 million), interest income of US$54 million (2024: US$43 million; 2023: US$42 million), 
+interest expense of US$1,686 million (2024: US$807 million; 2023: US$1,384 million), other finance income in relation to the Judicial Reorganisation of US$ nil (2024: US$1,756 million; 
+2023: US$ nil) and income tax (expense)/benefit of US$(623) million (2024: US$999 million; 2023: US$(213) million).
+10.	 Includes depreciation and amortisation of US$1 million, interest income of US$ nil, interest expense of US$ nil and income tax benefit/(expense) of US$ nil. 
+11.	 Includes accounting policy adjustments mainly related to the removal of foreign exchange gains on excluded dividends payable.
+171
+Operating and Financial Review
+Overview
+Additional Information
+Governance
+Contents
+Financial Statements
+
+--- PAGE 174 (matched: context) ---
+1  Consolidated Financial Statements continued
+30 Interests in joint operations
+Significant joint operations of the Group are those with the most significant contributions to the Group’s net profit or net assets. The Group’s interest in the 
+joint operations results are listed in the table below. 
+Group’s interest
+Significant joint operations
+Country of operation
+Principal activity
+2025
+%
+2024
+%
+Mt Goldsworthy1
+Australia
+Iron ore mining
+85
+85
+Mt Newman1
+Australia
+Iron ore mining
+85
+85
+Yandi1
+Australia
+Iron ore mining
+85
+85
+Central Queensland Coal Associates
+Australia
+Coal mining
+50
+50
+1.	 These contractual arrangements are controlled by the Group and do not meet the definition of joint operations. However, as they are formed by contractual arrangement and are not 
+entities, the Group recognises its share of assets, liabilities, revenue and expenses arising from these arrangements.
+Assets held in joint operations subject to significant restrictions are as follows:
+Group’s share
+2025
+US$M
+2024
+US$M
+Current assets
+1,967
+1,928
+Non-current assets
+25,275
+25,307
+Total assets1
+27,242
+27,235
+1.	 While the Group is unrestricted in its ability to sell a share of its interest in these joint operations, it does not have the right to sell individual assets that are used in these joint operations 
+without the unanimous consent of the other participants. The assets in these joint operations are also restricted to the extent that they are only available to be used by the joint operation 
+itself and not by other operations of the Group.
+31 Related party transactions
+The Group’s related parties are predominantly subsidiaries, associates and joint ventures, and key management personnel of the Group. 
+Disclosures relating to key management personnel are set out in note 25 ‘Key management personnel’. Transactions between each parent company and 
+its subsidiaries are eliminated on consolidation and are not disclosed in this note. In the Consolidated Financial Statements of the Group:
+	
+– All transactions to/from related parties are made at arm’s length, i.e. at normal market prices and rates and on normal commercial terms.
+	
+– Outstanding balances at year-end are unsecured and settlement occurs in cash. Loan amounts owing from related parties represent secured loans 
+made to associates and joint ventures under co-funding arrangements. Such loans are made on an arm’s length basis. 
+	
+– No guarantees are provided or received for any related party receivables or payables. 
+	
+– No provision for expected credit losses has been recognised in relation to any outstanding balances and no expense has been recognised in respect 
+of expected credit losses due from related parties.
+	
+– There were no other related party transactions in the year ended 30 June 2025 (2024: US$ nil), other than those with post-employment benefit plans 
+for the benefit of Group employees. These are shown in note 27 ‘Employee benefits, restructuring and post-retirement employee benefits provisions’.
+	
+– Related party transactions with Samarco are described in note 4 ‘Significant events – Samarco dam failure’.
+Further disclosures related to related party transactions are as follows:
+Transactions with related parties
+Joint ventures
+Associates
+2025
+US$M
+2024
+US$M
+2025
+US$M
+2024
+US$M
+Sales of goods/services 
+ −
+–
+ −
+ −
+Purchases of goods/services 
+ −
+–
+1,702.477
+1,606.639
+Interest income
+ −
+–
+ −
+ −
+Interest expense
+ −
+–
+ −
+ −
+Dividends received
+ −
+–
+374.972
+396.856
+Net loans made to/(repayments from) related parties
+ −
+–
+ −
+ −
+Outstanding balances with related parties
+Joint ventures
+Associates
+2025
+US$M
+2024
+US$M
+2025
+US$M
+2024
+US$M
+Trade amounts owing to related parties 
+ −
+–
+224.091
+246.764
+Loan amounts owing to related parties
+ −
+–
+ −
+–
+Trade amounts owing from related parties
+ −
+–
+1.557
+0.249
+Loan amounts owing from related parties
+ −
+–
+ −
+–
+172
+BHP Annual Report 2025
+

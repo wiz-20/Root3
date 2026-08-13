@@ -1,0 +1,6669 @@
+Source: CGL-YE24-Annual-financial-statements.pdf
+Target fiscal year: 2024
+Total relevant pages extracted: 40
+================================================================================
+
+--- PAGE 7 (matched: context) ---
+Audit and risk committee report continued
+Mfundiso Njeke 
+Chairman: Audit and risk committee 
+12 November 2024
+•	 reviewed and recommended to the board for 
+approval the integrated annual report and 
+annual financial statements; and
+•	 evaluated the effectiveness of the committee.
+An overview of the risk management process and 
+function is set out in the corporate governance 
+report available on the Clicks Group website.
+Evaluation of chief financial  
+officer and finance function
+The committee is satisfied that the expertise 
+and experience of the chief financial officer is 
+appropriate to meet the responsibilities of the 
+position. This is based on the qualifications, levels of 
+experience, continuing professional education and 
+the board’s assessment of the financial knowledge 
+of the chief financial officer.
+ The committee is also satisfied as to the 
+appropriateness, expertise and adequacy 
+of resources of the finance function and the 
+experience of senior members of management 
+responsible for the finance function. 
+Approval of the audit and  
+risk committee report
+The committee confirms that it has functioned 
+in accordance with its terms of reference for 
+the 2024 financial year and that its report to 
+shareholders has been approved by the board.
+6
+Clicks Group Audited annual financial statements 2024
+
+--- PAGE 8 (matched: inventory_working_capital) ---
+Inventory valuation and supplier contracts
+Refer to the Significant accounting estimates and judgements – Allowance for net realisable value of inventories, Rebates 
+received from vendors and the accounting policy for revenue with reference to advertising income and notes 1 – Revenue and  
+17 – Inventories to the consolidated financial statements.
+Key audit matter
+How the matter was addressed in our audit
+At 31 August 2024 the group held inventory at a carrying 
+value of R7 063 million.
+In accordance with IAS 2 – Inventories (IAS 2), the  
+group holds inventory at the lower of cost or net 
+realisable value.
+The group sells a wide range of pharmaceutical,  
+health and beauty products and other merchandise.  
+This increases the risk that, as demands change, 
+inventories may need to be sold at a discount below  
+their recorded cost.
+In arriving at the carrying value of inventory at the 
+lower of cost or net realisable value, management 
+has identified slow moving, obsolete and damaged 
+inventories and made adjustments to the carrying value 
+of these items, the calculation of which requires certain 
+estimates and assumptions.
+These judgements include projected likely future sales 
+and estimated selling costs, using factors existing at the 
+reporting date.
+The valuation of inventory is also impacted by rebates 
+received from suppliers, which are off-set against the 
+cost of inventory or recognised as a reduction in cost of 
+sales. Other contracts with suppliers give rise to amounts 
+recognised as “advertising and other income”.
+As a result of the significant audit effort required to assess 
+the judgements made by management with regard to 
+the inputs used to arrive at the net realisable value of 
+inventory and the complexity involved in determining 
+the classification of income and rebates received 
+from suppliers, inventory valuation and classification of 
+supplier contracts were considered a key audit matter in 
+our audit of the consolidated financial statements.
+Our procedures included the following to assess the valuation of 
+inventory:
+•	 We gained an understanding of the process followed by 
+management to estimate the inventory provisions, and tested the 
+design and implementation as well as operating effectiveness of 
+certain key controls related to the recognition of the provisions.
+•	 We assessed management’s application of the inventory provision 
+methodology and principles in line with IAS 2 – Inventories.
+•	 We analysed the group’s obsolescence provision as a percentage 
+of the total inventory on hand and compared this to prior years to 
+assess whether this was reasonable and in line with expectations 
+based on current and expected future market conditions.
+•	 We evaluated, on a sample basis, the integrity of management’s 
+calculations for determining the provision by agreeing the inputs 
+used to the inventory system, including performing mathematical 
+accuracy checks of the formulas used within the calculations and 
+challenged management’s assumptions with reference to the 
+triggers in relation to their obsolescence provision. 
+Our procedures included the following to assess the classification of 
+income from suppliers:
+•	 We evaluated management’s classification of different supplier 
+income streams and checked whether they were accounted 
+for appropriately and inspected, on a sample basis, supporting 
+documentation with suppliers to determine whether the income 
+was correctly classified between inventory rebates and advertising 
+and other income.
+•	 We tested management’s applied supplier rebate accounting 
+and other costs and evaluated that this was in line with IAS 2 – 
+Inventories. 
+We evaluated the appropriateness of the disclosures included in the 
+consolidated financial statements against the requirements of IAS 2.
+Independent auditor’s report
+To the shareholders of Clicks Group Limited
+Report on the audit of the 
+consolidated and separate 
+financial statements
+Opinion
+We have audited the consolidated and 
+separate financial statements of Clicks 
+Group Limited (the group and company) 
+set out on pages 9 to 48, which comprise 
+the consolidated statement of financial 
+position at 31 August 2024, consolidated 
+statement of comprehensive income, 
+consolidated statement of changes in 
+equity, consolidated statement of cash 
+flows for the year then ended, notes 
+to the consolidated statement of cash 
+flows, segmental analysis, accounting 
+policies, notes to the financial statements, 
+company statement of financial position 
+at 31 August 2024, company statement 
+of comprehensive income, company 
+statement of changes in equity, company 
+statement of cash flows for the year then 
+ended, notes to the company statement 
+of cash flows and interest in subsidiary 
+companies.
+In our opinion, the consolidated and 
+separate financial statements present 
+fairly, in all material respects, the 
+consolidated and separate financial 
+position of Clicks Group Limited at  
+31 August 2024, and its consolidated and 
+separate financial performance and 
+consolidated and separate cash flows 
+for the year then ended in accordance 
+with IFRS® Accounting Standards and the 
+Financial Pronouncements as issued by 
+the Financial Reporting Standards Council 
+and SAICA Financial Reporting Guides 
+as issued by the Accounting Practices 
+Committee (collectively “JSE Listings 
+Requirements”), and the requirements of  
+the Companies Act of South Africa.
+Basis for opinion
+We conducted our audit in accordance 
+with International Standards on Auditing 
+(ISAs). Our responsibilities under those 
+standards are further described in the 
+Auditor’s responsibilities for the audit of 
+the consolidated and separate financial 
+statements section of our report. We are 
+independent of the group and company 
+in accordance with the Independent 
+Regulatory Board for Auditors’ Code 
+of Professional Conduct for Registered 
+Auditors (IRBA Code) and other 
+independence requirements applicable to 
+performing audits of financial statements 
+in South Africa. We have fulfilled our other 
+ethical responsibilities in accordance with 
+the IRBA Code and in accordance with 
+other ethical requirements applicable 
+to performing audits in South Africa. 
+The IRBA Code is consistent with the 
+corresponding sections of the International 
+Ethics Standards Board for Accountants’ 
+International Code of Ethics for Professional 
+Accountants (including International 
+Independence Standards). We believe 
+that the audit evidence we have obtained 
+is sufficient and appropriate to provide a 
+basis for our opinion.
+Key audit matters
+Key audit matters are those matters that, 
+in our professional judgement, were of 
+most significance in our audit of the 
+consolidated and separate financial 
+statements of the current period. These 
+matters were addressed in the context 
+of our audit of the consolidated and 
+separate financial statements as a whole, 
+and in forming our opinion thereon, and 
+we do not provide a separate opinion on 
+these matters.
+The key audit matter set out below relates 
+to our audit of the consolidated financial 
+statements. We have determined 
+that there are no key audit matters to 
+communicate in respect of the separate 
+financial statements.
+Other matter
+The consolidated and separate financial statements of the group and company as at and for the year ended 31 August 2023, 
+were audited by another auditor who expressed an unmodified opinion on those consolidated and separate financial statements 
+on 9 November 2023.
+7
+Clicks Group Audited annual financial statements 2024
+
+--- PAGE 9 (matched: context) ---
+Independent auditor’s report continued
+Other information
+The directors are responsible for the other 
+information. The other information comprises  
+the information included in the document titled 
+“Clicks Group Limited Annual financial statements 
+2024”, which includes the Certificate by the 
+company secretary, the Directors’ report and the 
+Audit and risk committee report and, as required 
+by the Companies Act of South Africa, which we 
+obtained prior to the date of this report, and the 
+2024 Integrated annual report, which is expected to 
+be made available to us after that date. The other 
+information does not include the consolidated and 
+separate financial statements and our auditor’s 
+report thereon.
+Our opinion on the consolidated and separate 
+financial statements does not cover the other 
+information and we do not express and will not 
+express an audit opinion or any form of assurance 
+conclusion thereon.
+In connection with our audit of the consolidated 
+and separate financial statements, our responsibility 
+is to read the other information and, in doing 
+so, consider whether the other information is 
+materially inconsistent with the consolidated and 
+separate financial statements or our knowledge 
+obtained in the audit, or otherwise appears to be 
+materially misstated. If, based on the work we have 
+performed, we conclude that there is a material 
+misstatement of this other information, we are 
+required to report that fact. We have nothing to 
+report in this regard.
+Responsibilities of the directors  
+for the consolidated and separate 
+financial statements
+The directors are responsible for the preparation 
+and fair presentation of the consolidated and 
+separate financial statements in accordance 
+with IFRS Accounting Standards as issued by 
+the International Accounting Standards Board 
+(IFRS Accounting Standards) and the Financial 
+pronouncements as issued by the Financial 
+Reporting Standards Council and SAICA Financial 
+Reporting Guides as issued by the Accounting 
+Practices Committee (collectively “JSE Listings 
+Requirements”) and the requirements of the 
+Companies Act of South Africa, and for such internal 
+control as the directors determine is necessary 
+to enable the preparation of consolidated and 
+separate financial statements that are free from 
+material misstatement, whether due to fraud or error.
+In preparing the consolidated and separate 
+financial statements, the directors are responsible 
+for assessing the group’s and company’s ability 
+to continue as a going concern, disclosing, as 
+applicable, matters related to going concern and 
+using the going concern basis of accounting unless 
+the directors either intend to liquidate the group 
+and/or company or to cease operations, or have 
+no realistic alternative but to do so.
+Auditor’s responsibilities for the  
+audit of the consolidated and separate 
+financial statements
+Our objectives are to obtain reasonable assurance 
+about whether the consolidated and separate 
+financial statements as a whole are free from 
+material misstatement, whether due to fraud or 
+error, and to issue an auditor’s report that includes 
+our opinion. Reasonable assurance is a high level 
+of assurance, but is not a guarantee that an audit 
+conducted in accordance with ISAs will always 
+detect a material misstatement when it exists. 
+Misstatements can arise from fraud or error and 
+are considered material if, individually or in the 
+aggregate, they could reasonably be expected 
+to influence the economic decisions of users taken 
+on the basis of these consolidated and separate 
+financial statements.
+As part of an audit in accordance with ISAs, we 
+exercise professional judgement and maintain 
+professional scepticism throughout the audit.  
+We also:
+•	 Identify and assess the risks of material 
+misstatement of the consolidated and separate 
+financial statements, whether due to fraud or 
+error, design and perform audit procedures 
+responsive to those risks, and obtain audit 
+evidence that is sufficient and appropriate to 
+provide a basis for our opinion. The risk of not 
+detecting a material misstatement resulting from 
+fraud is higher than for one resulting from error, as 
+fraud may involve collusion, forgery, intentional 
+omissions, misrepresentations, or the override of 
+internal control.
+•	 Obtain an understanding of internal control 
+relevant to the audit in order to design audit 
+procedures that are appropriate in the 
+circumstances, but not for the purpose of 
+expressing an opinion on the effectiveness of the 
+group’s and company’s internal control.
+•	 Evaluate the appropriateness of accounting 
+policies used and the reasonableness of 
+accounting estimates and related disclosures 
+made by the directors.
+•	 Conclude on the appropriateness of the directors’ 
+use of the going concern basis of accounting 
+and based on the audit evidence obtained, 
+whether a material uncertainty exists related to 
+events or conditions that may cast significant 
+doubt on the group’s and company’s ability to 
+continue as a going concern. If we conclude that 
+a material uncertainty exists, we are required to 
+draw attention in our auditor’s report to the related 
+disclosures in the consolidated and separate 
+financial statements or, if such disclosures  
+are inadequate, to modify our opinion.  
+Our conclusions are based on the audit evidence 
+obtained up to the date of our auditor’s report. 
+However, future events or conditions may cause 
+the group and/or company to cease to continue 
+as a going concern.
+•	 Evaluate the overall presentation, structure 
+and content of the consolidated and separate 
+financial statements, including the disclosures, 
+and whether the consolidated and separate 
+financial statements represent the underlying 
+transactions and events in a manner that 
+achieves fair presentation.
+•	 Obtain sufficient appropriate audit evidence 
+regarding the financial information of the entities 
+or business activities within the group to express an 
+opinion on the consolidated financial statements. 
+We are responsible for the direction, supervision 
+and performance of the group audit. We remain 
+solely responsible for our audit opinion.
+We communicate with the directors regarding, 
+among other matters, the planned scope and 
+timing of the audit and significant audit findings, 
+including any significant deficiencies in internal 
+control that we identify during our audit.
+We also provide the directors with a statement 
+that we have complied with relevant ethical 
+requirements regarding independence, and 
+communicate with them all relationships and other 
+matters that may reasonably be thought to bear on 
+our independence and, where applicable, actions 
+taken to eliminate threats or safeguards applied.
+From the matters communicated with the directors, 
+we determine those matters that were of most 
+significance in the audit of the consolidated 
+and separate financial statements of the current 
+period and are therefore the key audit matters. 
+We describe these matters in our auditor’s report 
+unless law or regulation precludes public disclosure 
+about the matter or when, in extremely rare 
+circumstances, we determine that a matter should 
+not be communicated in our report because 
+the adverse consequences of doing so would 
+reasonably be expected to outweigh the public 
+interest benefits of such communication.
+Report on other legal and  
+regulatory requirements
+In terms of the IRBA Rule published in Government 
+Gazette Number 39475 dated 4 December 2015, we 
+report that KPMG Inc. has been the auditor of Clicks 
+Group Limited for one year.
+KPMG Inc.  
+Registered Auditor 
+ 
+Per IM Engels 
+Chartered Accountant (SA)
+Registered Auditor
+Director
+12 November 2024
+The Halyard
+4 Christiaan Barnard Street
+Cape Town
+8000
+8
+Clicks Group Audited annual financial statements 2024
+
+--- PAGE 10 (matched: fx_exposure, inventory_working_capital, receivables_payables) ---
+Notes
+ 2024 
+R’000
+ 2023 
+R’000
+Revenue
+1 
+ 48 609 808 
+ 44 560 532 
+Turnover
+1 
+ 45 437 640 
+ 41 621 681 
+Cost of merchandise sold
+ 
+(34 805 221)
+(32 307 830)
+Gross profit
+ 10 632 419 
+ 9 313 851 
+Other income
+1
+ 3 082 302 
+ 2 846 623 
+Total income
+ 13 714 721 
+ 12 160 474 
+Expenses
+(9 542 869)
+(8 537 435)
+Depreciation and amortisation
+2 
+(1 681 320)
+(1 460 574)
+Occupancy costs
+3 
+(212 505)
+(189 309)
+Employment costs
+4 
+(4 907 022)
+(4 393 494)
+Other costs
+5 
+(2 729 748)
+(2 485 393)
+Impairment allowance – IFRS 9 ECL
+18 
+(12 274)
+(8 665)
+Trading profit
+ 4 171 852 
+ 3 623 039 
+Loss on disposal of property, plant and equipment 
+(5 415)
+(7 381)
+Profit on disposal of business
+ 180 
+– 
+Profit before financing costs
+ 4 166 617 
+ 3 615 658 
+Net financing expense
+6 
+(265 172)
+(139 352)
+Financial income
+1, 6
+ 89 866 
+ 92 228 
+Financial expense
+6 
+(355 038)
+(231 580)
+Profit before earnings from associates 
+ 3 901 445 
+ 3 476 306 
+Share of loss of associates
+13 
+(7 637)
+(5 201)
+Profit before taxation
+ 3 893 808 
+ 3 471 105 
+Income tax expense
+7 
+(1 056 751)
+(933 577)
+Profit for the year
+ 2 837 057 
+ 2 537 528 
+Other comprehensive income:
+Items that will not be subsequently reclassified to profit or loss, net of tax
+Remeasurement of post-employment benefit obligations
+ 
+ 7 076 
+(159)
+Items that may be subsequently reclassified to profit or loss, net of tax
+Exchange differences on translation of foreign subsidiaries
+22
+(8 326)
+ 6 353 
+Cash flow hedges
+ 21 267 
+ 53 226 
+Cost of hedging reserve
+(19 824)
+(17 846)
+Other comprehensive income for the year, net of tax
+ 193 
+ 41 574 
+Total comprehensive income for the year
+ 2 837 250 
+ 2 579 102
+Earnings per share (cents)
+8
+ 1 190.3 
+ 1 042.3
+Diluted earnings per share (cents)
+8
+ 1 190.3 
+ 1 042.3
+Consolidated statement of 
+comprehensive income
+for the year ended 31 August
+Consolidated statement of 
+financial position
+at 31 August
+Notes
+ 2024 
+R’000
+ 2023 
+R’000
+ASSETS
+Non-current assets
+ 7 930 394 
+ 7 201 109 
+Property, plant and equipment
+9 
+ 2 845 032 
+ 2 643 136 
+Right-of-use assets
+25 
+ 3 505 081 
+ 2 999 297 
+Intangible assets
+10 
+ 946 363 
+ 968 207 
+Goodwill
+11 
+ 209 114 
+ 204 829 
+Deferred tax assets
+12 
+ 85 157 
+ 70 423 
+Investment in associates
+13 
+ 17 436 
+ 21 214 
+Loans receivable
+14 
+ 141 436 
+ 130 597 
+Financial assets at fair value through profit or loss
+15 
+ 180 775 
+ 163 406 
+Current assets
+12 886 747 
+ 11 833 745 
+Inventories
+17 
+ 7 063 280 
+ 6 309 809 
+Trade and other receivables
+18 
+3 057 282
+ 3 019 488 
+Income tax receivable
+ 1 831 
+– 
+Loans receivable
+14 
+ 29 960 
+ 28 030 
+Cash and cash equivalents
+ 2 704 961 
+ 2 455 176 
+Derivative financial assets
+16 
+ 29 433 
+ 21 242 
+Total assets
+20 817 141
+19 034 854
+EQUITY AND LIABILITIES
+Equity
+ 6 285 539 
+ 5 964 814 
+Share capital
+19 
+ 2 381 
+ 2 412 
+Share premium
+19 
+ 1 064 953 
+ 1 064 953 
+Cash flow hedge reserve
+20 
+(8 532)
+(2 984)
+Cost of hedging reserve
+(4 950)
+(6 166)
+Foreign currency translation reserve
+22 
+(8 833)
+(507)
+Distributable reserve
+ 5 240 520 
+ 4 907 106 
+Non-current liabilities
+ 2 702 036 
+ 2 270 392 
+Lease liabilities
+25 
+ 2 536 701 
+ 2 152 485 
+Deferred tax liabilities
+12 
+ 14 480 
+– 
+Employee benefits
+24 
+ 150 855 
+ 117 907 
+Current liabilities
+11 829 566
+ 10 799 648 
+Trade and other payables
+26 
+10 030 903
+ 9 268 898 
+Lease liabilities
+25 
+ 1 249 585 
+ 1 086 440 
+Employee benefits
+24 
+ 386 633 
+ 295 942 
+Income tax payable
+ 146 085 
+ 146 735 
+Derivative financial liabilities
+16 
+ 16 360 
+ 1 633 
+Total equity and liabilities
+20 817 141
+ 19 034 854 
+9
+Clicks Group Audited annual financial statements 2024
+
+--- PAGE 11 (matched: inventory_working_capital) ---
+R’000
+Number
+of shares
+(Note 19)
+’000
+Share
+capital
+(Note 19)
+R’000
+Share
+premium
+(Note 19)
+R’000
+Cash flow 
+hedge reserve
+(Note 20)
+R’000
+Cost of 
+hedging 
+reserve
+R’000
+Foreign 
+currency
+translation
+reserve
+(Note 22)
+R’000
+Distributable
+reserve
+R’000
+Total
+equity
+R’000
+Balance at 1 September 2022
+ 243 970 
+ 2 440 
+ 1 064 953 
+ 7 234 
+(4 983)
+(6 860)
+ 4 636 023 
+ 5 698 807 
+Transactions with owners, recorded directly in equity
+Dividends declared to shareholders (refer note 27)
+–
+–
+–
+– 
+– 
+– 
+(1 562 794)
+(1 562 794)
+Shares repurchased and cancelled
+(2 809)
+(28)
+–
+– 
+– 
+– 
+(703 492)
+(703 520)
+Total transactions with owners 
+(2 809)
+(28)
+–
+– 
+– 
+– 
+(2 266 286)
+(2 266 314)
+Total comprehensive income for the year
+–
+–
+– 
+ 53 226 
+(17 846)
+ 6 353 
+ 2 537 369 
+ 2 579 102 
+Profit for the year
+– 
+–
+–
+– 
+– 
+– 
+ 2 537 528 
+ 2 537 528 
+Remeasurement of post-employment benefit obligations
+– 
+–
+–
+– 
+– 
+– 
+(159)
+(159)
+Cash flow hedge reserve
+– 
+–
+–
+ 53 226 
+– 
+– 
+– 
+ 53 226 
+Cost of hedging reserve
+– 
+–
+–
+– 
+(17 846)
+– 
+– 
+(17 846)
+Exchange differences on translation of foreign subsidiaries
+– 
+– 
+–
+– 
+– 
+ 6 353 
+– 
+ 6 353 
+Transfer of reserves to inventories
+– 
+– 
+–
+(63 444)
+ 16 663 
+– 
+– 
+(46 781)
+Balance at 31 August 2023
+ 241 161 
+ 2 412
+ 1 064 953 
+(2 984)
+(6 166)
+(507)
+ 4 907 106 
+ 5 964 814 
+Transactions with owners, recorded directly in equity
+Dividends declared to shareholders (refer note 27)
+– 
+–
+–
+– 
+– 
+– 
+(1 675 960)
+(1 675 960)
+Shares repurchased and cancelled
+(3 099)
+(31)
+–
+–
+–
+–
+(834 759)
+(834 790)
+Total transactions with owners 
+(3 099)
+(31)
+–
+– 
+– 
+– 
+(2 510 719)
+(2 510 750)
+Total comprehensive income for the year
+– 
+– 
+– 
+ 21 267 
+(19 824)
+(8 326)
+ 2 844 133 
+ 2 837 250 
+Profit for the year
+– 
+– 
+– 
+– 
+– 
+– 
+ 2 837 057 
+ 2 837 057 
+Remeasurement of post-employment benefit obligations
+– 
+– 
+– 
+– 
+– 
+– 
+ 7 076 
+ 7 076 
+Cash flow hedge reserve
+– 
+– 
+– 
+ 21 267 
+– 
+– 
+– 
+ 21 267 
+Cost of hedging reserve
+– 
+– 
+– 
+– 
+(19 824)
+– 
+– 
+(19 824)
+Exchange differences on translation of foreign subsidiaries
+– 
+– 
+– 
+– 
+– 
+(8 326)
+– 
+(8 326)
+Transfer of reserves to inventories
+– 
+–
+–
+(26 815)
+ 21 040 
+– 
+– 
+(5 775)
+Balance at 31 August 2024
+ 238 062 
+2 381
+ 1 064 953 
+(8 532)
+(4 950)
+(8 833)
+ 5 240 520 
+ 6 285 539 
+Consolidated statement of changes in equity
+for the year ended 31 August
+10
+Clicks Group Audited annual financial statements 2024
+
+--- PAGE 12 (matched: context) ---
+Consolidated statement of cash flows
+for the year ended 31 August
+The statement of cash flows has been prepared by applying the indirect method.
+Notes
+ 2024 
+R’000
+ 2023 
+R’000
+Cash effects from operating activities
+Profit before working capital changes 
+ 5 901 873 
+ 5 190 836 
+Working capital changes
+ 99 357 
+ 672 811 
+Cash generated by operations
+ 6 001 230 
+ 5 863 647 
+Interest received
+6
+ 89 229 
+ 92 228 
+Interest paid
+(340 206)
+(218 946)
+Taxation paid
+(1 068 149)
+(968 671)
+Settlement of derivative financial asset used to hedge the long-term incentive scheme
+–
+ 104 609 
+Cash inflow from operating activities before dividends paid
+ 4 682 104 
+ 4 872 867 
+Dividends paid to shareholders
+27 
+(1 675 960)
+(1 562 794)
+Net cash effects from operating activities
+ 3 006 144 
+ 3 310 073 
+Cash effects from investing activities
+Investment in property, plant and equipment and intangible assets to maintain operations
+(337 022)
+(356 542)
+Investment in property, plant and equipment and intangible assets to expand operations
+(553 838)
+(573 462)
+Proceeds from disposal of property, plant and equipment and intangible assets
+ 3 736 
+ 13 972 
+Acquisition of investments
+(7 389)
+(241 008)
+Disposal of investments
+(1 079)
+–
+Investment in associate
+(5 975)
+(14 193)
+Loan advanced to associate
+(30 000)
+– 
+Repayment of loan by associate
+– 
+ 4 717 
+Other loans receivable advanced
+– 
+(44 418)
+Other loans receivable repaid
+ 17 668 
+– 
+Net cash effects from investing activities
+(913 899)
+(1 210 934)
+Cash effects from financing activities
+Shares repurchased
+(834 790)
+(703 520)
+Repayment of lease liabilities
+(1 007 670)
+(954 996)
+Net cash effects from financing activities
+(1 842 460)
+(1 658 516)
+Net increase in cash and cash equivalents
+ 249 785 
+ 440 623 
+Cash and cash equivalents at the beginning of the year
+ 2 455 176 
+ 2 014 553 
+Cash and cash equivalents at the end of the year
+ 2 704 961 
+ 2 455 176 
+11
+Clicks Group Audited annual financial statements 2024
+
+--- PAGE 13 (matched: inventory_working_capital, receivables_payables) ---
+Notes to the consolidated statement of cash flows
+for the year ended 31 August
+ 2024 
+R’000
+ 2023 
+R’000
+Cash flow information
+Profit before working capital changes
+Profit before taxation
+ 3 893 808
+ 3 471 105 
+Adjustment for:
+ 
+Non-cash flow items:
+ 1 737 478 
+ 1 572 998 
+Depreciation and amortisation
+ 1 742 293 
+ 1 519 026 
+Release of cash flow hedge to profit or loss
+ 2 981 
+ 64 620 
+Fair value adjustments on financial assets at fair value through profit or loss
+(17 369)
+(18 354)
+Profit on disposal of business
+(180)
+–
+Net loss of associates
+ 9 753 
+ 7 706 
+Items presented elsewhere in the consolidated statement of cash flows:
+ 5 415 
+ 7 381 
+Loss on disposal of property, plant and equipment
+ 5 415 
+ 7 381 
+Net financing expense
+ 265 172 
+ 139 352 
+ 5 901 873 
+ 5 190 836 
+Working capital changes
+Increase in inventories
+(755 849)
+(127 165)
+(Increase)/decrease in trade and other receivables
+(54 530)
+ 50 357 
+Increase in trade and other payables
+790 574
+ 833 028 
+Increase/(decrease) in employee benefits
+ 119 162 
+(83 409)
+ 99 357 
+ 672 811 
+Tax paid
+Income tax payable at the beginning of the year
+(146 735)
+(190 063)
+Income tax – at acquisition
+–
+(1 703)
+Normal tax charged to profit or loss
+(1 065 668)
+(923 640)
+Income tax payable at the end of the year
+ 144 254 
+ 146 735 
+(1 068 149)
+(968 671)
+Cash and cash equivalents at the end of the year
+Current accounts
+ 392 823 
+ 210 691 
+Short-term deposits
+ 112 138 
+ 20 795 
+Money market fund*
+ 2 200 000 
+ 2 223 690 
+ 2 704 961 
+ 2 455 176 
+ 2024 
+R’000
+ 2023 
+R’000
+Acquisition of investment in subsidiaries
+The group acquired an interest in H. Mallach and Associates Proprietary Limited 
+(trading as M-Kem) during the prior financial year. The cash paid to obtain control was 
+as follows:
+Total purchase price paid in cash
+–
+ 50 000
+Less: Cash of H. Mallach and Associates Proprietary Limited
+–
+(8 789)
+Cash paid to obtain control net of cash acquired
+–
+ 41 211
+The group acquired an interest in 180 Degrees Marketing Proprietary Limited during the 
+prior financial year. The cash paid to obtain control was as follows:
+Total purchase price paid in cash
+–
+ 120 000
+Less: Cash of 180 Degrees Marketing Proprietary Limited
+–
+(5 441)
+Cash paid to obtain control net of cash acquired
+–
+ 114 559 
+The group acquired an interest in Sorbet Group Proprietary Limited during the prior 
+financial year. The cash paid to obtain control was as follows:
+Total purchase price paid in cash
+–
+ 105 000 
+Less: Cash of Sorbet Group Proprietary Limited
+–
+(19 762)
+Cash paid to obtain control net of cash acquired
+–
+ 85 238 
+Sorbet Group Proprietary Limited acquired corporate stores during the current financial 
+year. The cash paid was as follows:
+Total purchase price paid in cash
+ 7 389
+–
+Less: Cash of corporate stores
+–
+–
+Cash paid to obtain control net of cash acquired
+ 7 389
+–
+The group disposed of Unicorn Pharmaceuticals Proprietary Limited during the current 
+financial year. The cash disposed of was as follows:
+Cash of Unicorn Pharmaceuticals Proprietary Limited
+ 1 079
+–
+*	Low-risk corporate money market fund convertible into cash within one business day and held for short-term requirements.
+12
+Clicks Group Audited annual financial statements 2024
+
+--- PAGE 14 (matched: inventory_working_capital, receivables_payables) ---
+Segmental analysis
+for the year ended 31 August
+Retail (Note 34)
+Distribution (Note 34)
+Intragroup elimination
+Total operations
+R’000
+31 August 
+2024
+31 August 
+2023
+31 August 
+2024
+31 August 
+2023
+31 August 
+2024
+31 August 
+2023
+31 August 
+2024
+31 August 
+2023
+Statement of financial position
+Property, plant and equipment
+ 2 486 154 
+ 2 287 344 
+ 358 878 
+ 355 792 
+– 
+– 
+ 2 845 032 
+ 2 643 136 
+Right-of-use assets
+ 3 473 435 
+ 2 952 146 
+ 31 646 
+ 47 151 
+– 
+– 
+ 3 505 081 
+ 2 999 297 
+Intangible assets
+ 760 710 
+ 780 895 
+ 185 653 
+ 187 312 
+– 
+– 
+ 946 363 
+ 968 207 
+Goodwill
+ 112 837 
+ 108 552 
+ 96 277 
+ 96 277 
+– 
+– 
+ 209 114 
+ 204 829 
+Inventories
+ 5 244 745 
+ 4 655 780 
+ 1 999 675 
+ 1 805 492 
+(181 140)
+(151 463)
+ 7 063 280 
+ 6 309 809 
+Trade and other receivables
+ 705 625 
+ 661 561 
+ 3 265 654 
+ 3 302 648 
+(913 997)
+(944 721)
+3 057 282
+ 3 019 488 
+Cash and cash equivalents
+ 2 659 663 
+ 2 437 424 
+ 45 298 
+ 17 752 
+– 
+– 
+ 2 704 961 
+ 2 455 176 
+Other assets
+ 960 541 
+ 892 395 
+ 4 239 574 
+ 3 591 485 
+(4 714 087)
+(4 048 968)
+ 486 028 
+ 434 912 
+Total assets
+ 16 403 710 
+ 14 776 097 
+ 10 222 655 
+ 9 403 909 
+(5 809 224)
+(5 145 152)
+20 817 141
+ 19 034 854 
+Lease liabilities
+ 3 758 394 
+ 3 193 914 
+ 27 892 
+ 45 011 
+– 
+– 
+ 3 786 286 
+ 3 238 925 
+Employee benefits – non-current
+ 139 201 
+ 108 432 
+ 11 654 
+ 9 475 
+– 
+– 
+ 150 855 
+ 117 907 
+Trade and other payables
+ 6 435 703 
+ 5 915 107 
+ 4 516 082 
+ 4 305 397 
+(920 882)
+(951 606)
+10 030 903
+ 9 268 898 
+Employee benefits – current
+ 349 957 
+ 283 504 
+ 36 676 
+ 12 438 
+– 
+– 
+ 386 633 
+ 295 942 
+Other liabilities
+ 4 384 279 
+ 3 690 602 
+ 504 805 
+ 504 806 
+(4 712 159)
+(4 047 040)
+ 176 925 
+ 148 368 
+Total liabilities
+ 15 067 534 
+ 13 191 559 
+ 5 097 109 
+ 4 877 127 
+(5 633 041)
+(4 998 646)
+14 531 602
+ 13 070 040 
+Net assets
+ 1 336 176 
+ 1 584 538 
+ 5 125 546 
+ 4 526 782 
+(176 183)
+(146 506)
+ 6 285 539 
+ 5 964 814 
+Statement of comprehensive income
+Turnover
+ 35 438 490 
+ 31 724 875 
+ 17 749 616 
+ 17 175 276 
+(7 750 466)
+(7 278 470)
+ 45 437 640 
+ 41 621 681 
+Gross profit
+ 10 383 574 
+ 9 146 149 
+ 265 293 
+ 186 996 
+(16 448)
+(19 294)
+ 10 632 419 
+ 9 313 851 
+Other income
+ 1 880 774 
+ 1 689 904 
+ 1 503 110 
+ 1 413 337 
+(301 582)
+(256 618)
+ 3 082 302 
+ 2 846 623 
+Total income
+ 12 264 348 
+ 10 836 053 
+ 1 768 403 
+ 1 600 333 
+(318 030)
+(275 912)
+ 13 714 721 
+ 12 160 474 
+Expenses
+(8 636 237)
+(7 676 923)
+(1 194 984)
+(1 112 827)
+ 288 352 
+ 252 315 
+(9 542 869)
+(8 537 435)
+Depreciation and amortisation
+(1 606 430)
+(1 413 734)
+(74 890)
+(46 840)
+– 
+– 
+(1 681 320)
+(1 460 574)
+Occupancy costs
+(210 203)
+(187 099)
+(3 977)
+(3 871)
+ 1 675 
+ 1 661 
+(212 505)
+(189 309)
+Employment costs
+(4 529 412)
+(4 034 839)
+(377 640)
+(358 655)
+ 30 
+ – 
+(4 907 022)
+(4 393 494)
+Other costs
+(2 287 718)
+(2 036 618)
+(728 677)
+(699 429)
+ 286 647 
+ 250 654 
+(2 729 748)
+(2 485 393)
+Impairment allowance – IFRS 9 ECL
+(2 474)
+(4 633)
+(9 800)
+(4 032)
+– 
+– 
+(12 274)
+(8 665)
+Trading profit/(loss)
+ 3 628 111 
+ 3 159 130 
+ 573 419 
+ 487 506 
+(29 678)
+(23 597)
+ 4 171 852 
+ 3 623 039 
+Ratios
+Increase in turnover
+%
+ 11.7 
+ 7.9 
+ 3.3 
+ 1.5 
+ 6.5 
+ 8.0 
+ 9.2 
+ 5.1 
+Selling price inflation
+%
+ 6.3 
+ 7.0 
+ 3.0 
+ 1.0 
+ – 
+ – 
+ 5.2 
+ 4.9 
+Comparable stores turnover growth
+%
+ 8.4 
+ 3.5 
+ – 
+ – 
+ – 
+ – 
+ 8.4 
+ 3.5 
+Gross profit margin
+%
+ 29.3 
+ 28.8 
+ 1.5 
+ 1.1 
+ – 
+ – 
+ 23.4 
+ 22.4 
+Total income margin
+%
+ 34.6 
+ 34.2 
+ 10.0 
+ 9.3 
+ – 
+ – 
+ 30.2 
+ 29.2 
+Operating expenses as a percentage of turnover
+%
+ 24.4 
+ 24.2 
+ 6.7 
+ 6.5 
+ – 
+ – 
+ 21.0 
+ 20.5 
+Increase in operating expenses
+%
+ 12.5 
+ 11.4 
+ 7.4 
+ 13.4 
+ – 
+ – 
+ 11.8 
+ 11.6 
+Increase/(decrease) in trading profit
+%
+ 14.8 
+ 3.2 
+ 17.6 
+ (18.3)
+ – 
+ – 
+ 15.1 
+ (0.7)
+Trading profit margin
+%
+ 10.2 
+ 10.0 
+ 3.2 
+ 2.8 
+ – 
+ – 
+ 9.2 
+ 8.7 
+Inventory days
+ 76 
+ 75 
+ 42 
+ 39 
+ – 
+ – 
+ 74 
+ 71 
+Trade debtor days
+ 3 
+ 4 
+ 50 
+ 53 
+ – 
+ – 
+ 31 
+ 34 
+Trade creditor days
+ 58 
+ 61 
+ 72 
+ 72 
+ – 
+ – 
+ 70 
+ 71 
+Number of stores
+ 1 002
+ 950
+ –
+ –
+ –
+ –
+ 1 002
+ 950
+as at 31 August 2022/2023
+ 950 
+ 898 
+ – 
+ – 
+ – 
+ – 
+ 950 
+ 898 
+opened/acquired (1)
+ 61 
+ 59 
+ – 
+ – 
+ – 
+ – 
+61
+ 59 
+closed/disposed
+ (9)
+ (7)
+ – 
+ – 
+ – 
+ – 
+(9)
+ (7)
+Number of pharmacies
+ 720 
+ 711 
+ – 
+ – 
+ – 
+ – 
+ 720 
+ 711 
+as at 31 August 2022/2023
+ 711 
+ 673 
+ – 
+ – 
+ – 
+ – 
+ 711 
+ 673 
+new/converted
+ 12 
+ 45 
+ – 
+ – 
+ – 
+ – 
+12
+45
+closed
+ (3)
+ (7)
+ – 
+ – 
+ – 
+ – 
+ (3)
+ (7)
+Total leased area 
+ m2
+ 557 648 
+ 528 788 
+ – 
+ – 
+ – 
+ – 
+ 557 648 
+ 528 788 
+Weighted retail trading area
+ m2
+ 448 255 
+ 425 440 
+ – 
+ – 
+ – 
+ – 
+ 448 255 
+ 425 440 
+Weighted annual sales per m2
+R
+ 77 666 
+ 73 200 
+–
+–
+ – 
+ – 
+ 77 666 
+ 73 200 
+Number of permanent employees
+ 19 129 
+ 17 865 
+ 492 
+ 582 
+ – 
+ – 
+ 19 621 
+ 18 447 
+The intragroup turnover elimination for the year comprises R7 416.9 million (2023: R6 959.0 million) of sales from Distribution to Retail and R333.5 million (2023: R319.5 million) of sales from Retail to Distribution. 
+(1) – Opened/acquired stores excludes 186 Sorbet franchise stores, but includes 9 corporate stores.
+13
+Clicks Group Audited annual financial statements 2024
+
+--- PAGE 15 (matched: inventory_working_capital, receivables_payables, revenue_cos_opex) ---
+Accounting policies
+Basis of preparation 
+The consolidated financial statements for the group 
+and for the company are prepared in accordance 
+with the framework concepts and the measurement 
+and recognition requirements of IFRS® Accounting 
+Standards and the Financial Pronouncements as 
+issued by the Financial Reporting Standards Council 
+and SAICA Financial Reporting guides as issued by 
+the Accounting Practices Committee (collectively 
+“JSE Listing Requirements”) and the South African 
+Companies Act. 
+The financial statements are presented in 
+South African Rands (Rands), rounded to the nearest 
+thousand. They are prepared on the basis that the 
+group and the company are going concerns, using 
+the historical cost basis of measurement, except 
+for certain financial instruments which have been 
+measured at fair value. The accounting policies 
+set out below have been applied consistently in all 
+material respects to all periods presented in these 
+consolidated financial statements. 
+The preparation of financial statements in 
+accordance with IFRS® Accounting Standards 
+requires management to make estimates, 
+judgements and assumptions that affect the 
+accounting policies and the reported amounts 
+of assets, liabilities, income and expenses. 
+Such estimates and assumptions are based on 
+historical experience and various other factors 
+that are believed to be reasonable under the 
+circumstances. Actual results may differ from these 
+estimates. Uncertainty about these assumptions 
+and estimates could result in outcomes that 
+require a material adjustment to the carrying 
+amount of assets or liabilities affected in future 
+periods. Estimates and the underlying assumptions 
+are reviewed on an ongoing basis. Revisions to 
+accounting estimates are recognised in the period 
+in which the estimates are revised. 
+Significant accounting  
+estimates and judgements 
+Estimates and judgements that have a significant 
+risk of causing a material adjustment to the carrying 
+amounts of assets and liabilities within the next 
+financial year are outlined below and disclosed in 
+the relevant notes to the financial statements. 
+Allowance for net realisable value of inventories 
+The group evaluates its inventory to ensure that 
+it is carried at the lower of cost or net realisable 
+value. Provision is made against slow moving, 
+obsolete and damaged inventories. Damaged 
+inventories are identified and written down through 
+the inventory counting procedures conducted 
+within each business. Allowance for slow moving 
+and obsolete inventories is assessed by each 
+business as part of their ongoing financial reporting. 
+Obsolescence is assessed based on comparison of 
+the level of inventory holding to the projected likely 
+future sales less selling costs using factors existing at 
+the reporting date. Refer to note 17 for further detail.
+Rebates received from vendors 
+The group enters into agreements with many of its 
+vendors providing for inventory purchase rebates 
+based upon achievement of specified volumes 
+of purchases, with many of these agreements 
+applying to the calendar year. For certain 
+agreements, the rebates increase as a proportion 
+of purchases as higher quantities or values of 
+purchases are made relative to the prior period. 
+The group accrues the receipt of vendor rebates 
+as part of its cost of sales for products sold, taking 
+into consideration the cumulative purchases of 
+inventory to date. Rebates are accrued monthly, 
+with an extensive reassessment of the rebates 
+earned being performed at the reporting date. 
+Consequently, the rebates actually received may 
+vary from that accrued in the financial statements.
+Impairment of financial assets 
+At the reporting date the group recognises a loss 
+allowance for financial assets.
+Trade receivables: The loss allowances for financial 
+assets recognised by the group at the reporting date 
+are based on the assumptions about risk of default 
+and expected loss rates. The group uses judgement 
+in making these assumptions. These assumptions 
+are based on the group’s history, existing market 
+conditions, as well as forward-looking information at 
+the end of each reporting period.
+The group uses a provision matrix to calculate 
+expected credit losses (ECLs) for trade 
+receivables. The provision rates are based on 
+days past due for groupings of various customer 
+segments that have similar loss patterns (by 
+product type and revenue stream, i.e. pharmacy, 
+wholesale and rebate debtors).
+The provision matrix is initially based on the group’s 
+historical observed default rates. The group will 
+calibrate the matrix to adjust the historical credit 
+loss experience with forward-looking information. 
+For instance, if forecast economic conditions (i.e. 
+pharmaceutical regulations) are expected to 
+deteriorate over the next year which can lead to an 
+increased number of defaults in pharmacy debtors, 
+the historical default rates are adjusted. At every 
+reporting date the historical observed default rates 
+are updated and changes in the forward-looking 
+estimates are analysed.
+The assessment of the correlation between 
+historical observed default rates, forecast 
+economic conditions and ECLs is a significant 
+estimate. The amount of ECLs is sensitive to 
+changes in circumstances and of forecast 
+economic conditions. The group’s historical 
+credit loss experience and forecast of economic 
+conditions may also not be representative of 
+customers’ actual default in the future.  
+The information about the ECLs on the group’s 
+trade receivables is disclosed in note 18.
+The determination of recoverability is established 
+using the ECL model. Refer to note 18 for  
+further detail.
+Impairment of non-financial assets 
+Goodwill and intangible assets with an  
+indefinite useful life are tested for impairment  
+at least annually.
+Intangible assets with a finite useful life and 
+property, plant and equipment are considered 
+for impairment when an indication of possible 
+impairment exists. In determining fair value less 
+costs of disposal, recent market transactions are 
+taken into account. If no such transactions can be 
+identified an appropriate valuation model is used.
+Intangible assets with an indefinite useful life: 
+The group assesses intangible assets with an 
+indefinite useful life for impairment annually or 
+whenever there is an indication of potential 
+impairment. The group evaluates the carrying 
+value of intangible assets with an indefinite useful 
+life by comparing their recoverable amount to 
+their carrying amounts. The recoverable amount is 
+determined based on the higher of the asset’s fair 
+value less costs to sell or its value in use. Fair value is 
+determined using appropriate valuation techniques. 
+Value in use is calculated by discounting estimated 
+future cash flows generated by the asset. 
+Details of the assumptions used in the intangible 
+assets’ impairment test are detailed in note 10.
+Goodwill: Determining whether goodwill is 
+impaired requires an estimation of the value in use 
+of the cash-generating units to which goodwill has 
+been allocated. 
+The value-in-use calculation requires the directors 
+to estimate the future cash flows expected to 
+arise from the cash-generating unit and a suitable 
+pre-tax discount rate that is reflective of the cash-
+generating unit’s risk profile, in order to calculate 
+the value in use. Details of the assumptions used in 
+the impairment test are detailed in note 11.
+Clicks Group Limited is a company domiciled in South Africa. The consolidated financial 
+statements as at and for the year ended 31 August 2024 comprise the company, its 
+subsidiaries and associates (collectively referred to as “the group”).
+14
+Clicks Group Audited annual financial statements 2024
+
+--- PAGE 16 (matched: context) ---
+Accounting policies continued
+Assessment of useful lives and residual  
+values of property, plant and equipment  
+and right-of-use assets: Assessments of 
+estimated useful lives and residual values are 
+performed annually after considering factors 
+such as technological innovation, maintenance 
+programmes, relevant market information and 
+management consideration. In assessing residual 
+values, the group considers the remaining life of 
+the asset, its projected disposal value and future 
+market conditions. The group assesses the right-of-
+use assets for impairment upon identification of any 
+impairment indicators.
+Income tax
+The group is subject to income tax in numerous 
+jurisdictions. Significant judgement is required 
+in determining the provision for tax as there are 
+many transactions and calculations for which the 
+ultimate tax determination is uncertain during the 
+ordinary course of business. The group recognises 
+liabilities for anticipated tax issues based on 
+estimates of the taxes that are likely to become 
+due. Where the final tax outcome of these matters 
+is different from the amounts that were initially 
+recorded, such differences will impact the income 
+tax and deferred tax provisions in the period in 
+which such determination is made. Refer to  
+note 7 for further detail. 
+Deferred tax
+The group recognises the net future tax benefit 
+related to deferred income tax assets to the extent 
+that it is probable that the deductible temporary 
+differences will reverse in the foreseeable future. 
+Assessing the recoverability of deferred income 
+tax assets requires the group to make significant 
+estimates related to expectations of future taxable 
+income. Estimates of future taxable income are 
+based on forecast cash flows from operations 
+and the application of existing tax laws in each 
+jurisdiction. To the extent that future cash flows and 
+taxable income differ significantly from estimates, 
+the ability of the group to realise the net deferred 
+tax assets recorded at the end of the reporting 
+period could be impacted. The group assesses how 
+uncertain tax positions affect the determination of 
+income tax and deferred income tax. The group 
+also considers whether tax authorities will accept 
+certain tax treatments, determines the probabilities 
+of the acceptance and the impact on income  
+tax and deferred income tax. Refer to note 12 for 
+further detail. 
+Employee benefits liabilities 
+Post-retirement defined benefits are provided for 
+certain existing and former employees. Actuarial 
+valuations are performed to assess the financial 
+position of the relevant funds and are based 
+on assumptions which include mortality rates, 
+healthcare inflation, the expected long-term rate of 
+return on investments, the discount rate and current 
+market conditions. Additionally, the group operates 
+a long-term incentive scheme, which involves 
+significant estimates. Valuation of the scheme is 
+based on performance metrics, expected payout 
+rates and other relevant assumptions. Refer to 
+note 24 for further detail, including the valuation 
+methodology, key assumptions and any sensitivity 
+analysis conducted. 
+Measurement of share-based payments 
+The cumulative expense recognised in terms of  
+the group’s share-based payment scheme reflects 
+the extent, in the opinion of management, to which 
+the vesting period has expired and the number of 
+rights to options granted that will ultimately vest.  
+At the end of each reporting date the unvested 
+rights are adjusted by the number forfeited 
+during the period to reflect the actual number of 
+instruments outstanding. Management is of the 
+opinion that this represents the most accurate 
+estimate of the number of instruments that will 
+ultimately vest. The fair value attached to share 
+options granted is valued using the Monte Carlo 
+option pricing model. The key assumptions used 
+in the calculation include estimates of the group’s 
+expected share price volatility, dividend yield, risk-
+free interest rate and forfeiture rate. 
+Clicks ClubCard customer loyalty scheme 
+The ClubCard points earned by customers provide 
+them with a material right to obtain a credit in 
+future, which results in a performance obligation 
+on the group to fulfil. The transaction price is 
+allocated to the product and the points on  
+a relative standalone selling price basis.  
+When estimating the standalone selling price 
+of the loyalty points, the group considers the 
+likelihood that the customer will redeem the 
+points. The redemption rate is based on historical 
+experience, which is subject to uncertainty. 
+Insurance cell captive 
+The group has determined that it does not have 
+control over its insurance cell captive as the assets 
+and liabilities are considered to belong to the 
+insurer and not the investee. The cell captive has 
+therefore not been consolidated and, as the group 
+is exposed to financial risk rather than insurance 
+risk, the group has accounted for its investment as 
+a financial asset at fair value through profit or loss in 
+accordance with IFRS 9. 
+Measurement of financial instruments 
+The fair value of financial instruments that are not 
+traded in an active market and are material to the 
+group, is determined by using valuation techniques 
+outlined in note 29, which may include the use 
+of external independent valuators to value these 
+unquoted financial instruments.
+Valuation of lease liabilities and  
+right-of-use assets 
+The application of IFRS 16 requires the group to 
+make judgements and estimates that affect the 
+valuation of lease liabilities and the valuation of 
+right-of-use assets. These include determining 
+contracts in the scope of IFRS 16, determining the 
+lease term and determining the interest rate used 
+for discounting future cash flows.
+The group generally enters into property leases 
+with renewal options. The lease term determined 
+by the group generally comprises non-cancellable 
+periods of lease contracts, periods covered by an 
+option to extend the lease if the group is reasonably 
+certain to exercise that option and periods covered 
+by an option to terminate the lease if the group is 
+reasonably certain not to exercise that option.  
+The same term is applied as economic useful life  
+of right-of-use assets. 
+The group applies judgement in evaluating whether 
+it is reasonably certain or not to exercise the option 
+to renew or terminate the lease. It considers all 
+relevant factors that create an economic incentive 
+to exercise either the renewal or termination.  
+The group has concluded that at the inception 
+of the lease, there are significant uncertainties as 
+to whether the group may exercise the extension 
+options. Therefore, renewal periods for property 
+leases are generally not included as part of the 
+lease term as these are not reasonably certain to 
+be exercised at the commencement date. 
+After the commencement date the group will 
+reassess the lease term upon the occurrence of 
+a significant event or change in circumstances 
+that are within the control of the group and affect 
+whether the group is reasonably certain or not to 
+exercise an option not previously included in its 
+determination of the lease term. The group will 
+also reassess its estimation of the non-cancellable 
+period for any lease terminating within 12 months. 
+Any change to the non-cancellable period will 
+be considered a change in estimate and will be 
+applied prospectively. The carrying amount of the 
+lease liability is adjusted to reflect the payments 
+to be made over the revised term, which are 
+discounted at the revised discount rate.  
+An equivalent adjustment is made to the carrying 
+value of the right-of-use asset, with the revised 
+carrying amount being depreciated over the 
+remaining (revised) lease term. 
+The group cannot readily determine the interest 
+rate implicit in the lease, therefore it uses its 
+incremental borrowing rate (IBR) to measure 
+lease liabilities. The IBR is the rate of interest that 
+15
+Clicks Group Audited annual financial statements 2024
+
+--- PAGE 17 (matched: context) ---
+Accounting policies continued
+the group would have to pay to borrow, over a 
+similar term and with a similar security, the funds 
+necessary to obtain an asset of a similar value 
+to the right-of-use asset in a similar economic 
+environment. The IBR therefore reflects what the 
+group could borrow at, which requires estimation 
+when no observable rates are available. 
+The group uses a portfolio approach when 
+determining the discount rate as lease terms are 
+similar and are concluded under similar economic 
+conditions. The majority of leases are concluded in 
+South Africa and are negotiated at a group level. 
+The group estimates the IBR using observable inputs 
+(such as the Johannesburg Interbank Average Rate 
+(JIBAR)) and adjusts it with certain entity-specific 
+estimates such as a credit spread applicable to the 
+lease term and a group-specific discount, taking 
+into account the group’s credit rating observed in 
+the period when the lease contract commences or 
+is modified. 
+Basis of consolidation
+The group financial statements include the 
+financial statements of the company and 
+subsidiaries that it controls. Control is achieved 
+when the group is exposed, or has rights, to 
+variable returns from its involvement with the 
+investee and has the ability to affect those returns 
+through its power over the investee. 
+The group considers all relevant facts and 
+circumstances in assessing whether it has the power 
+over an investee and reassesses whether it controls 
+an investee if facts and circumstances indicate that 
+there are changes to one or more of the elements 
+of control. The financial results of subsidiaries are 
+included in the consolidated financial statements 
+from the date that control was obtained and, 
+where applicable, up to the date that control 
+ceased. All intragroup transactions and balances, 
+including any unrealised gains and losses arising 
+from intragroup transactions, are eliminated on 
+consolidation. Unrealised losses are eliminated in 
+the same way as unrealised gains but only to the 
+extent that there is no evidence of impairment. 
+The financial statements of the subsidiaries are 
+prepared for the same reporting period as the 
+parent company using consistent accounting 
+policies. The company carries its investments in 
+subsidiaries at cost less accumulated impairment.
+Fair value measurement 
+The group measures financial instruments, such as 
+derivatives and certain investments at fair value, 
+at each reporting date. The fair values of financial 
+instruments measured at amortised cost are 
+disclosed should it be determined that the carrying 
+value of these instruments does not reasonably 
+approximate their fair value at each reporting date. 
+Fair value is the price that would be received to sell 
+an asset or paid to transfer a liability in an orderly 
+transaction between market participants at the 
+measurement date. The fair value measurement is 
+based on the presumption that the transaction to sell 
+the asset or transfer the liability takes place either: 
+•	 in the principal market for the asset or liability; or 
+•	 in the absence of a principal market, in the most 
+advantageous market for the asset or liability. 
+The principal or the most advantageous market 
+must be accessible by the group. The fair value 
+of an asset or a liability is measured using the 
+assumptions that market participants would use 
+when pricing the asset or liability, assuming that 
+market participants act in their economic best 
+interest. A fair value measurement of a non-financial 
+asset takes into account a market participant’s 
+ability to generate economic benefits by using 
+the asset in its highest and best use or by selling it 
+to another market participant that would use the 
+asset in its highest and best use. The group uses 
+valuation techniques that are appropriate in the 
+circumstances and for which sufficient data are 
+available to measure fair value, maximising the use 
+of relevant observable inputs and minimising the 
+use of unobservable inputs. All assets and liabilities 
+for which fair value is measured or disclosed in the 
+financial statements are categorised within the fair 
+value hierarchy, described as follows, based on the 
+lowest level input that is significant to the fair value 
+measurement as a whole: 
+Level 1 – Quoted (unadjusted) market prices in 
+active markets for identical assets  
+or liabilities. 
+Level 2 – Valuation techniques for which the lowest 
+level input (other than quoted prices 
+included in level 1) that is significant to 
+the fair value measurement is directly or 
+indirectly observable. 
+Level 3 – Valuation techniques for which the lowest 
+level input that is significant to the fair 
+value measurement is unobservable. 
+For assets and liabilities that are recognised in 
+the financial statements on a recurring basis, the 
+group determines whether transfers have occurred 
+between the levels in the hierarchy by reassessing 
+categorisation (based on the lowest level input 
+that is significant to the fair value measurement 
+as a whole) at the end of each reporting period. 
+For the purpose of fair value disclosures, the group 
+has determined classes of assets and liabilities on 
+the basis of the nature, characteristics and risks of 
+the asset or liability and the level of the fair value 
+hierarchy as explained above. 
+Goodwill 
+Goodwill is initially measured at cost, being the 
+excess of the consideration transferred over the 
+group’s net identifiable assets acquired and 
+liabilities assumed. 
+If this consideration is lower than the fair value of the 
+net assets of the subsidiary acquired, the difference 
+is recognised in profit or loss. After initial recognition 
+goodwill is measured at cost less any accumulated 
+impairment losses. 
+Contingent consideration
+In accordance with IFRS 3 – Business Combinations, 
+the group recognises and accounts for a 
+contingent consideration arising from business 
+combinations. The group’s contingent consideration 
+represents obligations that arise from the group’s 
+commitment to transfer additional assets to the 
+acquiree upon the occurrence of specified future 
+events. The group’s contingent consideration is 
+initially recognised at fair value at the acquisition 
+date as part of the purchase consideration. 
+Subsequent changes in the fair value of the 
+contingent consideration are recognised in profit 
+or loss. The group periodically reassesses the fair 
+value of the contingent consideration, taking into 
+account any new information and developments 
+that may affect the probability of the contingency’s 
+outcome. Any adjustments resulting from these 
+reassessments are recorded in the financial 
+statements in the reporting period in which  
+they occur. 
+Investment in associates 
+An associate is an entity in which the group has 
+significant influence. Significant influence is the 
+power to participate in the financial and operating 
+policy decisions of the investee but is not control or 
+joint control of those policies. The group’s interests 
+in its associates are accounted for using the equity 
+method. On initial recognition the investment in 
+associates is recognised at cost and subsequently 
+the carrying amount is increased or decreased to 
+recognise the group’s share of the net assets of the 
+associates after the date of acquisition. Goodwill 
+relating to the associates is included in the carrying 
+amount of the investment and is neither amortised 
+nor individually tested for impairment.
+The group’s share of the associates’ profit or loss 
+is recognised in profit or loss, outside of trading 
+profit and represents profit or loss after tax of the 
+associates. Where there has been a change 
+recognised directly in other comprehensive 
+income or equity of the associates, the group 
+recognises its share of any changes and discloses 
+this, where applicable, in the group statement of 
+other comprehensive income or group statement 
+of changes in equity. Distributions received from 
+16
+Clicks Group Audited annual financial statements 2024
+
+--- PAGE 18 (matched: receivables_payables) ---
+Accounting policies continued
+the associates reduce the carrying amount of the 
+investment. Unrealised gains and losses resulting 
+from transactions between the group and the 
+associates are eliminated to the extent of the 
+group’s interest in the associates. After application 
+of the equity method the group determines 
+whether it is necessary to recognise any additional 
+impairment loss with respect to its net investment 
+in the associates. The group determines at each 
+reporting date whether there is objective evidence 
+that the investment in associates is impaired.  
+If there is such evidence the group calculates the 
+amount of impairment as the difference between 
+the recoverable amount of the investment and its 
+carrying value and then recognises the loss in profit 
+or loss. Where the group’s interest in associates 
+is reduced but the equity method continues 
+to be applied, the group reclassifies to profit or 
+loss the proportion of the gain or loss previously 
+recognised in other comprehensive income (where 
+appropriate) relative to that reduction in ownership 
+interest. The use of the equity method should cease 
+from the date that significant influence is lost.  
+The company carries its investments in associates 
+at cost less accumulated impairment in its separate 
+financial statements.
+Foreign currency 
+Functional and presentation currency 
+All items in the financial statements of the group’s 
+subsidiaries are measured using the currency of 
+the primary economic environment in which the 
+subsidiary operates (the functional currency). 
+The group’s consolidated financial statements 
+are presented in Rands, which is the company’s 
+functional and the group’s presentation currency.
+Foreign currency transactions and balances 
+Transactions in foreign currencies are translated 
+to the respective functional currencies of 
+group entities at rates of exchange ruling at the 
+transaction date. Monetary assets and liabilities 
+denominated in foreign currencies at the reporting 
+date are translated to the functional currency at 
+the rates of exchange ruling at that date.  
+The foreign currency gain or loss on monetary  
+items is the difference between amortised cost 
+in the functional currency at the beginning of 
+the period, adjusted for the effective interest and 
+payments during the period. Non-monetary items 
+that are measured in terms of historical cost in a 
+foreign currency are translated using the exchange 
+rates at the dates of the initial transactions.  
+Non-monetary assets and liabilities denominated  
+in foreign currencies that are measured at fair value 
+are translated to the functional currency at the 
+exchange rate at the date that the fair value was 
+determined. Foreign exchange differences arising 
+on translation are recognised in profit or loss.
+Foreign operations 
+The assets and liabilities of foreign operations, 
+including goodwill and fair value adjustments 
+arising on acquisition, are translated to Rands at 
+exchange rates at the reporting date. The income 
+and expenses of foreign operations are translated 
+to Rands at the average exchange rates for 
+the period. Gains and losses on translation are 
+recognised in other comprehensive income and 
+presented within equity in the foreign currency 
+translation reserve (FCTR). When a foreign operation 
+is disposed of, in part or in full, the related amount in 
+the FCTR is transferred to profit or loss.
+Financial instruments 
+Initial recognition and measurement 
+The group recognises a financial asset or financial 
+liability when it becomes a party to the contractual 
+provisions of the instrument.
+Financial assets
+A financial asset is classified, at initial recognition, 
+and subsequently measured at amortised cost, fair 
+value through other comprehensive income (OCI) 
+or fair value through profit or loss. 
+The classification of financial assets at initial 
+recognition depends on the financial asset’s 
+contractual cash flow characteristics and the 
+group’s business model for managing them.  
+The group initially measures a financial asset at its 
+fair value plus transaction costs, in the case of a 
+financial asset not at fair value through profit or loss. 
+Trade receivables that do not contain a significant 
+financing component or for which the group has 
+applied the practical expedient are measured at 
+the transaction price determined under IFRS 15. 
+In order for a financial asset to be classified and 
+measured at amortised cost or fair value through 
+OCI, it needs to give rise to cash flows that are 
+“solely payments of principal and interest (SPPI)” on 
+the principal amount outstanding. This assessment 
+is referred to as the SPPI test and is performed at an 
+instrument level. 
+The group’s business model for managing financial 
+assets refers to how it manages its financial assets 
+in order to generate cash flows. The business 
+model determines whether cash flows will result 
+from collecting contractual cash flows, selling the 
+financial assets, or both. 
+Purchases or sales of financial assets that require 
+delivery of assets within a time frame established 
+by regulation or convention in the marketplace 
+(regular way trades) are recognised on the trade 
+date, i.e. the date that the group commits to 
+purchase or sell the asset. 
+Financial liabilities
+Classification of financial liabilities
+A financial liability is classified, at initial recognition, 
+in either of the following categories: 
+Financial liability at fair value  
+through profit or loss
+Financial liabilities classified at fair value through 
+profit or loss are initially recognised at fair value and 
+any gains or losses arising on remeasurement are 
+recognised in profit or loss; or
+Financial liabilities at amortised costs
+Financial liabilities classified at amortised cost are 
+recognised at fair value plus transaction costs in the 
+case of a financial liability not recognised at fair 
+value through profit or loss.
+Subsequent measurement 
+For purposes of subsequent measurement, the 
+group’s financial assets are classified into the 
+following categories: 
+•	 financial assets at amortised cost  
+(debt instruments); and 
+•	 financial assets at fair value through profit or loss. 
+Financial assets at amortised cost  
+(debt instruments) 
+This category is the most relevant to the group.  
+The group measures financial assets at amortised 
+cost if both of the following conditions are met: 
+•	 the financial asset is held within a business model 
+with the objective to hold financial assets in order 
+to collect contractual cash flows; and 
+•	 the contractual terms of the financial asset give 
+rise on specified dates to cash flows that are SPPIs 
+on the principal amount outstanding. 
+Financial assets at amortised cost are subsequently 
+measured using the effective interest method 
+and are subject to impairment. Gains and losses 
+are recognised in profit or loss when the asset is 
+derecognised, modified or impaired. 
+The group’s financial assets at amortised cost 
+includes trade receivables, cash and cash 
+equivalents and loans receivable. 
+Financial assets at fair value through  
+profit or loss 
+Financial assets at fair value through profit or loss 
+include financial assets held for trading, financial 
+assets designated upon initial recognition at fair 
+value through profit or loss, or financial assets 
+mandatorily required to be measured at fair value. 
+Financial assets are classified as held for trading 
+if they are acquired for the purpose of selling 
+or repurchasing in the near term. Derivatives, 
+including separated embedded derivatives, are 
+also classified as held for trading unless they are 
+designated as effective hedging instruments. 
+17
+Clicks Group Audited annual financial statements 2024
+
+--- PAGE 19 (matched: fx_exposure, receivables_payables) ---
+Accounting policies continued
+Financial assets with cash flows that are not SPPIs 
+are classified and measured at fair value through 
+profit or loss, irrespective of the business model. 
+Financial assets at fair value through profit or loss 
+are carried in the statement of financial position at 
+fair value with net changes in fair value recognised 
+in the statement of profit or loss. 
+This category includes derivative instruments, 
+investments in collective investment schemes and 
+the insurance cell captive. 
+Cash and cash equivalents 
+Cash and cash equivalents are categorised as a 
+financial asset at amortised cost and, subsequent to 
+initial recognition, are measured at amortised cost. 
+For the purpose of the statement of cash flows, 
+cash and cash equivalents comprise cash on hand, 
+deposits held on call with banks and investments in 
+money market instruments, net of bank overdrafts, 
+all of which are available for use by the group, 
+unless otherwise stated.  
+Interest-bearing borrowings 
+Interest-bearing borrowings are financial liabilities 
+with fixed or determinable payments. Subsequent 
+to initial recognition these financial instruments are 
+measured at amortised cost, with any difference 
+between cost and redemption value being 
+recognised in profit or loss over the period of the 
+borrowings on an effective interest basis. 
+Trade and other payables 
+Subsequent to initial recognition trade and other 
+payables are measured at amortised cost. 
+Derivative financial instruments and  
+hedging activities 
+The group uses derivative financial instruments 
+to hedge its exposure to foreign exchange risks 
+arising from operational activities, as well as 
+market risk arising on cash-settled share-based 
+compensation schemes and employee benefits. In 
+accordance with its treasury policy, the group does 
+not hold or issue derivative financial instruments for 
+trading purposes. Subsequent to initial recognition 
+derivatives are measured at fair value. The method 
+of recognising the resulting gain or loss depends on 
+whether the derivative is designated as a hedging 
+instrument and, if so, the nature of the item being 
+hedged. Where a derivative financial instrument 
+is used to hedge the variability in cash flows that 
+is attributable to a particular risk associated with 
+a recognised asset or liability or a highly probable 
+forecast transaction or the foreign currency risk in a 
+firm commitment, the hedge is classified as a cash 
+flow hedge. 
+Hedge relationships are formally documented 
+and designated at inception. The documentation 
+includes identification of the hedged item and 
+the hedging instrument and details the risk that is 
+being hedged and the way in which effectiveness 
+will be assessed at inception and during the period 
+of the hedge. If the hedge is not highly effective 
+in off-setting changes in fair values or cash flows 
+attributable to the hedged risk, consistent with the 
+documented risk management strategy, hedge 
+accounting is discontinued. 
+Cash flow hedges 
+Where a derivative financial instrument is 
+designated as a hedge of the variability in cash 
+flows of a recognised asset or liability or a highly 
+probable forecast transaction, the effective portion 
+of the gain or loss on the hedging instrument 
+is recognised in OCI. The ineffective portion is 
+recognised in profit or loss. 
+When the forecast transaction results in the 
+recognition of a financial asset or financial liability 
+the cumulative gain or loss is reclassified from OCI in 
+the same period in which the hedged forecast cash 
+flows/hedged item affect profit or loss. Otherwise, 
+the cumulative gain or loss is removed from OCI 
+and recognised in profit or loss at the same time 
+as the hedged transaction. When the forecast 
+transaction that is hedged results in the recognition 
+of a non-financial asset (for example, inventory 
+or property, plant and equipment) the gains and 
+losses previously deferred in equity are transferred 
+from equity and included in the initial measurement 
+of the cost of the asset. The deferred amounts are 
+ultimately recognised in cost of goods sold in the 
+case of inventory or in depreciation in the case of 
+property, plant and equipment. Hedge accounting 
+is discontinued if the hedge no longer meets the 
+criteria for hedge accounting; if the hedging 
+instrument expires or is sold, terminated or exercised; 
+if the forecast transaction is no longer expected to 
+occur; or if hedge designation is revoked.  
+On the discontinuance of hedge accounting 
+(except where a forecast transaction is no longer 
+expected to occur), the cumulative unrealised gain 
+or loss recognised in OCI is recognised in profit or loss 
+when the forecast transaction occurs and affects 
+profit or loss. Where a forecast transaction is no 
+longer expected to occur the cumulative unrealised 
+gain or loss is recognised immediately in profit or loss. 
+The group designates the spot element of forward 
+contracts as a hedge instrument. As such, the 
+hedging relationship of the hedge instruments to 
+the hedged risk components is equal but opposite. 
+Hedge effectiveness testing is based on the 
+hypothetical derivative method and compares 
+the changes in the fair value of the hedging 
+instruments against the changes in fair value of 
+the hedged items. Hedge ineffectiveness arises 
+from differences in the timing of the cash flows of 
+the hedged items and the hedging instruments, as 
+well as changes to the forecasted amount of cash 
+flows of hedged items and hedging instruments. 
+The forward element is recognised directly in a 
+separate cost of hedging reserve under equity. 
+The forward contracts hedge foreign currency risk 
+relating to inventory purchases. Upon recognition 
+of the inventory the amount accumulated in 
+the cost of hedging reserve is removed from the 
+reserve and recognised directly in the initial cost of 
+inventory. This does not constitute a reclassification 
+adjustment and will therefore be transferred directly 
+out of equity and not through OCI.
+Derivatives not qualifying for hedge accounting 
+Certain derivative instruments do not qualify for 
+hedge accounting. Such derivatives are classified 
+as at fair value through profit or loss and changes in 
+the fair value of any derivative instruments that do 
+not qualify for hedge accounting are recognised 
+immediately in profit or loss. 
+Derecognition 
+Financial assets 
+A financial asset (or, where applicable, a part of a 
+financial asset or part of a group of similar financial 
+assets) is derecognised when the contractual 
+rights to the cash flows from the asset expire, or it 
+transfers the rights to receive the contractual cash 
+flows on the financial asset in a transaction in which 
+substantially all the risks and rewards of ownership or 
+control of the financial asset are transferred.  
+Where the group has transferred its rights to receive 
+cash flows from an asset and has neither transferred 
+nor retained substantially all the risks and rewards 
+of the asset nor transferred control of the asset, 
+the asset is recognised to the extent of the group’s 
+continuing involvement in the asset. Continuing 
+involvement that takes the form of a guarantee 
+over the transferred asset is measured at the lower 
+of the original carrying amount of the asset and the 
+maximum amount of consideration that the group 
+could be required to repay. 
+Financial liabilities 
+A financial liability is derecognised when the 
+obligation under the liability is discharged, 
+cancelled or expires. Where an existing financial 
+liability is replaced by another from the same 
+18
+Clicks Group Audited annual financial statements 2024
+
+--- PAGE 20 (matched: context) ---
+Accounting policies continued
+lender on substantially different terms, or the terms 
+of an existing liability are substantially modified, 
+such an exchange or modification is treated as 
+a derecognition of the original liability and the 
+recognition of a new liability, and the difference in 
+the respective carrying amounts is recognised in 
+profit or loss. 
+Offset 
+Financial assets and financial liabilities are off-set 
+and the net amount reported in the statement of 
+financial position when the group has a legally 
+enforceable right to set off the recognised amounts 
+and intends either to settle on a net basis, or to 
+realise the asset and settle the liability simultaneously. 
+Property, plant and equipment 
+Recognition and measurement 
+Items of property, plant and equipment, including 
+owner-occupied buildings, are stated at historical 
+cost less accumulated depreciation and 
+accumulated impairment losses. Land is stated 
+at cost less impairment losses. Cost includes 
+expenditure that is directly attributable to the 
+acquisition of the asset. Installation and other costs, 
+which comprise materials and direct labour costs 
+necessarily incurred in order to acquire property, 
+plant and equipment, are also included in cost. 
+When parts of property, plant and equipment 
+have different useful lives they are accounted 
+for as separate items (major components) of 
+property, plant and equipment. Borrowing costs 
+are capitalised in line with the accounting policy 
+outlined under financial expenses. Gains or losses 
+on the disposal of property, plant and equipment, 
+comprising the difference between the net disposal 
+proceeds and the carrying amount of the asset, are 
+recognised in profit or loss. 
+Subsequent costs
+Subsequent expenditure relating to an item of 
+property, plant and equipment is capitalised 
+when it is probable that future economic benefits 
+embodied within the item will flow to the group 
+and its cost can be measured reliably. All other 
+subsequent expenditure is recognised as an 
+expense in the period in which it is incurred. 
+Depreciation 
+Depreciation is recognised in profit or loss on a 
+straight-line basis over the estimated useful life of 
+each part of the asset in order to reduce the cost of 
+the asset to its residual value. Residual value is the 
+amount that an entity could receive for the asset at 
+the reporting date if the asset were already of the 
+age and the condition that it will be in when the 
+entity expects to dispose of it. Residual value does 
+not include expected future inflation. Land is  
+not depreciated.
+The estimated useful lives for the current and 
+comparative periods are as follows:
+Buildings
+50 years
+Computer equipment
+3 to 7 years
+Equipment
+3 to 10 years
+Furniture and fittings
+5 to 10 years
+Motor vehicles
+5 years
+Depreciation methods, useful lives and residual 
+values are reviewed at each reporting date.
+Leases 
+Initial recognition and measurement 
+The group assesses at contract inception whether 
+a contract is, or contains, a lease. That is, if the 
+contract conveys the right to control the use of an 
+identified asset for a period of time in exchange for 
+consideration.
+Group as lessee 
+The group applies a single recognition and 
+measurement approach for all leases, except for 
+short-term leases and leases of low-value assets. 
+The election for short-term leases are made by class 
+of the underlying asset to which the right of use 
+relates. The election for leases where the underlying 
+asset is of low value is made on a lease-by-lease 
+basis. The group recognises lease liabilities to make 
+lease payments and right-of-use assets representing 
+the right to use the underlying assets. 
+The group recognises lease payments in respect 
+of leases of low-value assets and short-term leases 
+that have a lease term of 12 months or less as an 
+expense on a straight-line basis over the lease term. 
+A right-of-use asset and a lease liability are 
+recognised at the commencement date of the 
+contract for all leases conveying the right to control 
+the use of an identified asset for a period of time. 
+The right-of-use assets are initially measured at cost, 
+which comprises: 
+•	 the amount of the initial measurement of the 
+lease liability; 
+•	 any lease payments made at or before  
+the commencement date, less any lease 
+incentives; and 
+•	 any initial direct cost incurred by the group. 
+The lease liability is initially measured at the present 
+value of the lease payments that are not paid at 
+the commencement date. These include: 
+•	 fixed payments, less any lease incentive 
+receivables; 
+•	 variable lease payments that depend on a 
+rate, initially measured using the rate as at the 
+commencement date; 
+•	 the exercise price of a purchase option if the 
+group is reasonably certain to exercise that 
+option; and 
+•	 payments of penalties for terminating the lease, 
+if the lease term reflects the group exercising an 
+option to terminate the lease. 
+The lease payments exclude variable elements 
+which are dependent on external factors such as 
+sales volume. Variable payments not included in 
+the initial measurement of the lease liability are 
+recognised directly in profit or loss in the period 
+in which the event or condition that triggers 
+payment occurs. 
+In calculating the present value of lease payments, 
+the group uses its incremental borrowing rate at 
+the lease commencement date since the interest 
+rate implicit in the lease is not readily determinable. 
+After the commencement date the amount of lease 
+liabilities is increased to reflect the accretion of 
+interest and reduced for the lease payments made. 
+In addition, the carrying amount of lease liabilities 
+is remeasured if there is a modification, a change 
+in the lease term, a change in the lease payments 
+(e.g. changes to future payments resulting from a 
+change in an index or rate used to determine such 
+lease payments) or a change in the assessment of 
+an option to purchase the underlying asset. 
+The lease term determined by the group comprises: 
+•	 non-cancellable periods of lease contracts; 
+•	 periods covered by an option to extend the lease 
+if the group is reasonably certain to exercise that 
+option at the inception of the lease; and 
+•	 periods covered by an option to terminate the 
+lease if the group is reasonably certain not to 
+exercise that option at the inception of the lease. 
+Subsequent measurement 
+After the commencement date the right-of-use 
+assets are measured at cost less any accumulated 
+depreciation, any accumulated impairment  
+losses and adjusted for any remeasurement of  
+the lease liability. 
+Right-of-use assets are depreciated on a straight-
+line basis over the shorter of the lease term and the 
+estimated useful lives of the assets. 
+The lease liability is measured by increasing the 
+carrying value to reflect interest on the lease liability, 
+reducing the carrying amount to reflect lease 
+payments made and remeasuring the carrying 
+amount to reflect any lease modifications. 
+Intangible assets (other than goodwill) 
+Intangible assets (other than goodwill) are 
+initially recognised at cost if acquired externally, 
+or at fair value if acquired as part of a business 
+combination. Expenditure on internally generated 
+development activity is capitalised if the product 
+or process is technically and commercially 
+feasible, the group has sufficient resources to 
+19
+Clicks Group Audited annual financial statements 2024
+
+--- PAGE 21 (matched: context) ---
+Accounting policies continued
+complete development, the group has intention 
+to complete and use or sell it, it is probable that 
+future economic benefits relating to the asset will 
+flow to the group and the cost can be measured 
+reliably. The expenditure capitalised includes the 
+cost of materials, direct labour and an appropriate 
+proportion of overheads. Subsequent expenditure 
+is capitalised only when it increases the future 
+economic benefits embodied in the associated 
+intangible asset. Other research and development 
+expenditure is recognised in profit or loss as an 
+expense when incurred. No value is attached to 
+internally developed and maintained trademarks 
+or brand names. Expenditure incurred to maintain 
+trademarks and brand names is recognised in 
+profit or loss as incurred. Intangible assets which 
+have finite useful lives are measured at cost less 
+accumulated amortisation and accumulated 
+impairment. Intangible assets that are assessed as 
+having a finite useful life are amortised over their 
+useful lives on a straight-line basis from the date 
+they become available for use and are tested for 
+impairment if indications exist that they may be 
+impaired. Intangible assets with indefinite useful 
+lives are not amortised and are tested annually for 
+impairment. The estimated useful lives of intangible 
+assets for the current and comparative periods are 
+as follows: 
+Capitalised software 
+development and purchased 
+computer software
+3 to 10 years
+Contractual rights
+5 years
+Trademarks
+Indefinite useful life
+Other trademarks   
+10 to 20 years
+Amortisation methods, residual values and 
+remaining useful lives of intangible assets with finite 
+useful lives are reassessed annually.
+Inventories 
+Merchandise for resale is valued on the weighted 
+average cost basis and is stated at the lower of cost 
+and net realisable value. The cost of inventories 
+comprises all costs of purchase, conversion and 
+other costs incurred in bringing the inventories to 
+their present location and condition, and is stated 
+net of purchase incentives. 
+Net realisable value is the estimated selling price in 
+the ordinary course of business less the estimated 
+costs to complete and sell the product. The cost 
+of merchandise sold includes normal shrinkage, 
+wastage and inventory losses. Obsolete, redundant 
+and slow-moving inventories are identified on a 
+regular basis and are written down to their net 
+realisable value. The carrying amount of inventory 
+is recognised as an expense in the period in which 
+the related revenue is recognised. 
+Impairment of assets 
+Non-financial assets 
+The carrying amounts of the group’s non-financial 
+assets other than inventories (see accounting 
+policy note for inventories) and deferred tax assets 
+(see accounting policy note for deferred tax), are 
+reviewed at each reporting date to determine 
+whether there is any indication of impairment.  
+If any such indication exists, the asset’s recoverable 
+amount is estimated. For goodwill and intangible 
+assets that have an indefinite useful life and 
+intangible assets that are not yet available for 
+use, the recoverable amount is estimated at 
+each reporting date. Whenever the carrying 
+amount of an asset or its cash-generating unit 
+exceeds its recoverable amount, an impairment 
+loss is recognised in profit or loss. As goodwill is not 
+capable of generating cash flows independently of 
+other assets, in assessing the recoverable amount of 
+goodwill, it is allocated to cash-generating units on 
+a reasonable and consistent basis.  
+Where appropriate, corporate assets are also 
+allocated to cash-generating units on a reasonable 
+and consistent basis. The recoverable amount of 
+the cash-generating unit (including an allocation 
+of goodwill and corporate assets) is assessed with 
+reference to the future cash flows of the cash-
+generating unit. Where an impairment is identified 
+for a cash-generating unit, the impairment is 
+applied first to the goodwill allocated to the  
+cash-generating unit and then to other assets on a 
+pro rata basis comprising the cash-generating unit, 
+provided that each identifiable asset is not reduced 
+to below its recoverable amount. 
+Recoverable amount 
+The recoverable amount of an asset is the greater 
+of its fair value less costs of disposal and its value 
+in use. Recoverable amounts are estimated for 
+individual assets or, if an asset does not generate 
+largely independent cash flows, for a cash-
+generating unit. A cash-generating unit is the 
+smallest collection of assets capable of generating 
+cash flows independent of other assets or other 
+cash-generating units. The fair value less costs of 
+disposal is the amount obtainable from the sale 
+of an asset or cash-generating unit in an orderly 
+transaction between market participants at the 
+measurement date. Value in use is the present 
+value of estimated future cash flows expected to 
+arise from the continuing use of an asset or cash-
+generating unit and from its disposal at the end 
+of its useful life. The estimated future cash flows 
+are discounted using a pre-tax discount rate that 
+reflects current market assessments of the time 
+value of money and the risks specific to the asset. 
+Reversal of impairment losses 
+Impairment losses recognised in prior years are 
+assessed at each reporting date for any indicators 
+that the losses have decreased or no longer exist. 
+Reversal of impairment losses recognised in prior 
+years are recorded when there is an indication that 
+the impairment losses recognised for the asset no 
+longer exist or have decreased, either as a result of 
+an event occurring after the impairment loss was 
+recognised or if there has been a change in the 
+estimates used to calculate the recoverable amount. 
+An impairment loss is reversed only to the extent 
+that the carrying amount of the affected asset is not 
+increased to an amount higher than the carrying 
+amount that would have been determined, net of 
+depreciation or amortisation, had no impairment 
+loss been recognised in prior years. The reversal is 
+recorded as income in profit or loss. An impairment 
+loss in respect of goodwill is never reversed.
+Financial assets 
+The group applies the expected credit loss (ECL) 
+model for recognition of the loss allowance on 
+financial instruments at amortised cost. The ECL 
+represents a probability-weighted estimate of 
+credit losses over the expected useful life of the 
+financial instrument. Credit losses are defined as 
+the difference between all contractual cash flows 
+that are due to the group in accordance with the 
+contract and all the cash flows that the group 
+expects to receive. The ECL is calculated as the 
+present value of these expected cash shortfalls, 
+discounted at the financial asset’s original effective 
+interest rate if discounting is material. The carrying 
+amount of the asset is reduced through the use of 
+an allowance account and the loss is recognised in 
+profit or loss for financial assets at amortised cost.
+The group applies the simplified approach for ECLs 
+on trade receivables. The simplified approach uses 
+the lifetime ECLs for each class of receivables.  
+A loss rate for each class of receivables is 
+established, based on past losses for retail and 
+distribution debtors. The loss rate is adjusted for 
+forward-looking information, reflecting reasonable 
+and supportable information that is available without 
+undue cost or effort at the reporting date about past 
+events, current conditions and forecasts of future 
+economic conditions. This rate is applied to each 
+class of receivables to calculate the allowance. 
+The group established the following macroeconomic 
+factors to influence its forward-looking assessment:
+•	 Retail: The group identified pharmacy/medical 
+regulations, inflation and foreign currency 
+movements as items considered when the loss 
+rates were determined. 
+•	 Distribution: The group identified inflation, interest 
+rates and petrol prices as items considered when 
+the loss rates were determined. 
+20
+Clicks Group Audited annual financial statements 2024
+
+--- PAGE 22 (matched: revenue_cos_opex) ---
+Accounting policies continued
+The macroeconomic factors considered are those 
+factors which might influence the ability of the 
+counterparty to settle their debt and cause the 
+group not to recover the debt. 
+The group applies the general approach for 
+establishing the allowance in terms of the ECL 
+model for loans and other receivables. ECLs are 
+recognised in two stages. For credit exposures for 
+which there has not been a significant increase in 
+credit risk since initial recognition, ECLs are provided 
+for credit losses that result from default events that 
+are possible within the next 12 months (a 12-month 
+ECL). For those credit exposures for which there 
+has been a significant increase in credit risk since 
+initial recognition, a loss allowance is required for 
+credit losses expected over the remaining life of the 
+exposure, irrespective of the timing of the default 
+(a lifetime ECL). The group determines whether the 
+credit risk of a financial instrument has increased 
+significantly since initial recognition by considering 
+reasonable and supportable information that is 
+available without undue cost or effort.  
+This information includes both quantitative and 
+qualitative factors. Refer note 29 for further detail.
+Share capital
+Share capital 
+Ordinary share capital represents the value of 
+ordinary shares issued. 
+Share premium 
+Share premium represents the excess consideration 
+received by the company over the par value of 
+ordinary shares issued and the accumulated IFRS 2 
+share-based payment expense relating to the 
+employee share ownership scheme and is classified 
+as equity. 
+Share repurchases 
+Ordinary shares in Clicks Group Limited have been 
+acquired by the group in terms of an approved 
+share repurchase programme. Immediately after 
+the repurchases an instruction letter is sent to 
+the JSE to cancel these shares. The cost of these 
+shares is deducted from distributable reserves, the 
+share capital is reduced with the issued ordinary 
+share value and the number of shares is deducted 
+from both the number of shares in issue and the 
+weighted average number of shares. 
+Employee benefits 
+Short-term employee benefits 
+The cost of all short-term employee benefits is 
+recognised as an expense during the period in 
+which the employee renders the related service. 
+Accruals for employee entitlements to wages, 
+salaries, bonuses and annual leave represent the 
+amount which the group has a present obligation 
+to pay as a result of employees’ services provided 
+up to the reporting date. 
+The accruals have been calculated at 
+undiscounted amounts based on current wage  
+and salary rates. 
+Other long-term employee benefits 
+Liabilities for long-term employee benefits, other 
+than pension plans, which are not expected to be 
+settled within 12 months, are discounted to present 
+value using the market yields at the reporting date 
+on government bonds with maturity dates that most 
+closely match the terms of maturity of the group’s 
+related liabilities. 
+Defined contribution retirement funds 
+A defined contribution plan is a post-employment 
+benefit plan under which an entity pays fixed 
+contributions into a separate entity and will have 
+no legal or constructive obligation to pay further 
+amounts. The group operates a retirement scheme 
+comprising a number of defined contribution funds 
+in South Africa, the assets of which are held in 
+separate trustee administered funds. The retirement 
+schemes are funded by payments from employees 
+and the relevant group entity. Contributions to these 
+funds are recognised as an expense in profit or loss 
+as incurred. 
+Prepaid contributions are recognised as an asset to 
+the extent that a cash refund or reduction in future 
+payments are available. 
+Post-retirement medical aid benefits –  
+defined benefit plans
+A defined benefit plan is a post-employment benefit 
+plan other than a defined contribution plan. 
+The group’s obligation to provide post-retirement 
+medical aid benefits to certain employees is 
+calculated by estimating the amount of future 
+benefit that qualifying employees have earned 
+in return for their service in the current and prior 
+periods. This benefit is discounted to determine its 
+present value using a discount rate based on the 
+market yields at the reporting date on government 
+bonds with maturity dates that most closely match 
+the terms of maturity of the group’s obligation. 
+The calculation is performed by a qualified actuary 
+using the projected unit credit method. 
+Current service costs represents the increase in 
+the defined benefit plan resulting from employee 
+services in the current year and is recognised in 
+profit or loss as employee services are rendered. 
+Past service costs are recognised in profit or loss at 
+the earlier of the date of the plan amendment or 
+curtailment, and the date that the group recognises 
+restructuring-related costs. The group recognises 
+actuarial gains or losses from defined benefit plans 
+immediately in OCI. 
+Cash-settled share-based  
+compensation benefits 
+The group grants cash-settled appreciation rights 
+to management in terms of a long-term incentive 
+scheme. The value of these appreciation rights are 
+linked to the total shareholder return (capital gain 
+plus dividends) over the vesting period. The cost of 
+cash-settled transactions is measured initially at fair 
+value at the grant date, further details of which are 
+given in note 24.1 This fair value is expensed over 
+the period until the vesting date with recognition of 
+a corresponding liability. The liability is remeasured 
+to fair value at each reporting date up to and 
+including the settlement date, with changes in fair 
+value recognised in employee benefits expense 
+(see note 4). 
+Cash-settled earnings-based  
+compensation benefits 
+The group grants cash-settled appreciation rights 
+to management in terms of a long-term incentive 
+scheme. The value of these appreciation rights 
+are linked to the performance of diluted headline 
+earnings per shares (HEPS). The liability, which is 
+not expected to be settled within 12 months, is 
+discounted to present value using market yields 
+at the reporting date on government bonds with 
+maturity dates that most closely match the terms  
+of maturity of the group’s related liabilities.  
+Any difference between projected performance 
+and actual performance is recognised through an 
+actuarial gain or loss based on the projected unit 
+credit method which is recognised immediately in 
+profit or loss. 
+Financial guarantees
+Financial guarantee contracts are recognised as a 
+financial liability at the time the guarantee is issued. 
+The liability is initially measured at fair value and 
+subsequently at the higher of: 
+•	 the amount determined in accordance with the 
+ECL model under IFRS 9 – Financial Instruments; 
+and 
+•	 the amount initially recognised less, where 
+appropriate, the cumulative amount of income 
+recognised in accordance with the principles of 
+IFRS 15 – Revenue from Contracts with Customers. 
+The fair value of financial guarantees is determined 
+based on the present value of the difference in cash 
+flows between the contractual payments required 
+under the debt instrument and the payments that 
+would be required without the guarantee, or the 
+estimated amount that would be payable to a third 
+party for assuming the obligations. 
+21
+Clicks Group Audited annual financial statements 2024
+
+--- PAGE 23 (matched: receivables_payables, revenue_cos_opex) ---
+Accounting policies continued
+Revenue
+Revenue from contracts with customers 
+Revenue from contracts with customers is 
+recognised upon the satisfaction of a performance 
+obligation, when control of all goods and services 
+are transferred to the customer and is measured at 
+the consideration to which the group is entitled. 
+Turnover 
+Revenue from sale of retail and wholesale 
+goods are recognised at the point when goods 
+are transferred to the customer. The revenue is 
+measured at the amount to which the group 
+expects to be entitled to with regards to the sale 
+and is therefore the consideration less any rebates, 
+discounts and deferred revenue. 
+Distribution and logistics fee income 
+Distribution and logistics fee income are 
+recognised at the point when the goods are 
+delivered to the client, on delivery of the service 
+and are measured at the consideration receivable 
+less rebates and discounts. 
+Advertising income 
+Where advertising income represents payment for 
+a distinct service (as in co-operative agreements), 
+income received is recognised at the point when 
+the performance obligation in terms of the contract 
+is satisfied, when the service is provided to the 
+customer. Advertising income is measured at the 
+amount as entitled by the group in terms of the 
+contract with the customer. 
+Variable consideration/deferred revenue 
+Right of return 
+Customers have the right to return goods purchased 
+from the group, within the time frame as set out 
+in the group’s returns policy. The group uses the 
+expected value method to estimate the goods that 
+will not be returned since this method best predicts 
+the amount of variable consideration to which the 
+group will be entitled. For goods that are expected 
+to be returned, instead of revenue, the group 
+recognises a refund liability. A right of return asset 
+(and corresponding adjustment to cost of sales) is 
+also recognised for the right to recover products 
+from a customer. 
+Loyalty cards 
+The group operates a loyalty scheme through 
+Clicks ClubCard. The card allows customers to 
+accumulate ClubCard points that entitle them, 
+subject to certain criteria, to vouchers that may be 
+used in-store. 
+The loyalty points give rise to a performance 
+obligation as they provide a material right to the 
+customer to claim a future credit. A portion of 
+the transaction price is allocated to the loyalty 
+points awarded to customers based on relative 
+standalone selling price and recognised as a 
+contract liability until the points are redeemed. 
+Revenue is recognised upon redemption of the 
+points by the customer. 
+When estimating the standalone selling price of the 
+loyalty points, the group considers the likelihood 
+that the customer will redeem the points. The group 
+updates its estimates of the points that will be 
+redeemed and any adjustments to the contract 
+liability balance are charged against revenue. 
+Gift cards/vouchers 
+Customers have the option of buying gift cards 
+and vouchers at all retail stores. The vouchers may 
+be used in-store. On purchase, the fair value (cash 
+value) of the vouchers is recognised as a liability 
+and is recognised as revenue on redemption of the 
+gift cards/vouchers by the customers. 
+Assets and liabilities arising from revenue from 
+contracts with customers 
+Right of return assets 
+The sale of certain goods provides the customer 
+with a right to return the asset in terms of the group’s 
+returns policy. The right of return provides the group 
+with a probable right to receive return assets. These 
+assets are recognised as part of inventory and are 
+measured at the cost of assets sold that will, in all 
+probability, be returned to the group. 
+Refund liabilities 
+The customer’s right to return certain goods sold 
+provides the group with a probable obligation 
+to refund the customer with the consideration 
+received. The refund liability is recognised as part of 
+trade and other payables and is recognised at the 
+consideration received for the sale of the goods, 
+including VAT. 
+Financial income
+Financial income comprises interest income and 
+dividend income. Interest income is recognised 
+in profit or loss on a time proportion basis, taking 
+account of the principal outstanding and the 
+effective interest rate over the period to maturity 
+when it is probable that such income will accrue to 
+the group.
+Dividend income is recognised when the right to 
+receive payment is established. In the statement of 
+cash flows the group classifies interest received as 
+operating activities and dividends received from 
+subsidiaries as investing activities.
+Financial expenses 
+Financial expenses comprise interest payable on 
+lease liabilities, interest payable on borrowings 
+calculated using the effective interest method and 
+unwinding of the discount on provisions and long-
+term employee benefits. Borrowing costs directly 
+attributable to the acquisition, construction or 
+production of qualifying assets, which are assets 
+that necessarily take a substantial period of time to 
+get ready for their intended use or sale, are added 
+to the cost of those assets, until such time as the 
+assets are substantially ready for their intended use 
+or sale. In the statement of cash flows the group 
+classifies interest paid as operating activities.
+Income tax 
+Income tax expense on the profit or loss for the year 
+comprises current and deferred tax. Income tax 
+is recognised in profit or loss except to the extent 
+that it relates to items recognised in OCI or directly 
+in equity in which case the tax is recognised in 
+OCI or in equity, respectively. Current tax is the 
+expected tax payable on the taxable profit for the 
+current year using tax rates enacted or substantively 
+enacted at the reporting date and any adjustment 
+to tax payable in respect of previous years. 
+Deferred tax
+Deferred tax is recognised for all temporary 
+differences between the tax value of an asset 
+or liability and the carrying amount for financial 
+reporting purposes, except for the initial recognition 
+of goodwill, the initial recognition of assets or 
+liabilities in a transaction that is not a business 
+combination and that affects neither accounting 
+nor taxable profit, and differences relating to 
+investments in subsidiaries and jointly controlled 
+entities, to the extent that they will probably not 
+reverse in the foreseeable future. Deferred tax is 
+measured at the tax rates that are expected to 
+be applied to the temporary differences when 
+they reverse, based on the laws that have been 
+enacted or substantively enacted at the reporting 
+date. Deferred tax assets and liabilities are off-set if 
+there is a legally enforceable right to off-set current 
+tax liabilities and assets, and they relate to income 
+taxes levied by the same tax authority on the same 
+taxable entity, or on different tax entities, but they 
+intend to settle current tax liabilities and assets on 
+a net basis or their tax assets and liabilities will be 
+realised simultaneously. Deferred tax assets are 
+recognised for all deductible temporary differences 
+and tax losses to the extent that it is probable that 
+future taxable profit will be available against which 
+the deductible temporary differences and tax losses 
+can be utilised. Deferred tax assets are reviewed at 
+each reporting date and are reduced to the extent 
+that it is no longer probable that the related tax 
+benefit will be realised. 
+22
+Clicks Group Audited annual financial statements 2024
+
+--- PAGE 24 (matched: context) ---
+Accounting policies continued
+Dividends withholding tax 
+Dividends withholding tax is levied on the beneficial 
+owner of the shares instead of the group. The 
+tax is withheld by the group and paid over to 
+the South African Revenue Service (SARS) on the 
+beneficiaries’ behalf. The resultant tax expense and 
+liability has been transferred to the shareholder 
+and is no longer accounted for as part of the tax 
+charge for the group. Amounts not yet paid over to 
+SARS are included in trade and other payables and 
+the measurement of the dividend amount is not 
+impacted by the withholding tax. In the statement 
+of cash flows the group classifies dividends paid as 
+operating activities.
+Segment reporting 
+The group has adopted the “management 
+approach” to reporting segment information, 
+basing this on the group’s internal management 
+reporting data used internally by the chief 
+operating decision-maker (CODM). An operating 
+segment is defined as a component of an  
+entity that engages in business activities from  
+which it may earn revenues and incur expenses 
+(including revenues and expenses relating to 
+transactions with other components of the same 
+entity) whose operating results are regularly 
+reviewed by the entity’s CODM to make decisions 
+about resources to be allocated to the segment 
+and assess its performance and for which discrete 
+financial information is available. The group has 
+identified its Retail and Distribution segments as 
+reporting segments. 
+Earnings per share 
+The group presents basic and diluted earnings 
+per share (EPS) for its ordinary shares. Basic EPS is 
+calculated by dividing the profit or loss attributable 
+to the ordinary shareholders by the weighted 
+average number of ordinary shares outstanding 
+during the period. Diluted EPS is determined by 
+adjusting the profit or loss attributable to ordinary 
+shareholders and the weighted average number of 
+ordinary shares outstanding for the dilutive effects 
+of all dilutive potential ordinary shares. Headline 
+earnings circular is taken into account when 
+calculating EPS.
+Recent accounting developments 
+Standards, amendments and interpretations 
+issued but not yet effective and under review as 
+to their effect on the group 
+The International Accounting Standards Board 
+(IASB) and the International Financial Reporting 
+Interpretations Committee (IFRIC) have issued 
+several standards, amendments and interpretations, 
+with an effective date after the date of these 
+financial statements, which management believes 
+could impact the group in future periods. 
+Supplier finance arrangements
+The IASB has issued new requirements which calls 
+for more transparency regarding the impact of 
+supplier finance arrangements on the financial 
+statements. The amendments introduce two new 
+disclosure objectives – one in IAS 7 and another in 
+IFRS 7 as follows:
+•	 assess the impact of supplier finance 
+arrangements on the group’s liabilities and cash 
+flows; and
+•	 assess and understand the impact of supplier 
+finance arrangements on the group’s exposure to 
+liquidity risk and how the group might be affected 
+if the arrangements were no longer available.
+The above amendments are effective for periods 
+beginning on or after 1 January 2024. The group has 
+elected not to early adopt this amendment. 
+Financial instruments classification and 
+measurement
+Amendments made to IFRS 9 and IFRS 7 will clarify 
+how financial assets and financial liabilities are 
+recognised and derecognised at settlement 
+date, except for regular purchases or sales of 
+financial assets and financial liabilities that meet 
+the new exception. The new exception allows early 
+derecognition of certain financial liabilities settled 
+via electronic payments systems.
+Presentation and disclosure in  
+financial statements
+IFRS 18 introduces a more structured income 
+statement with three distinct categories of income 
+and expenses, requiring the presentation of an 
+“trading profit” subtotal. It mandates detailed 
+disclosures of management’s performance 
+measures, integrating non-GAAP measures 
+into audited financial statements. Investors will 
+benefit from greater consistency of presentation 
+in the income and cash flow statements and 
+more disaggregated information. The enhanced 
+disaggregation guidance will ensure better insight 
+into the financial performance of the group.
+The above amendments are effective for periods 
+beginning on or after 1 January 2027. The group has 
+elected not to early adopt this amendment. 
+23
+Clicks Group Audited annual financial statements 2024
+
+--- PAGE 25 (matched: inventory_working_capital, revenue_cos_opex) ---
+Notes to the annual financial statements	
+for the year ended 31 August
+Group
+2024 
+R’000
+2023
+R’000
+1 
+Revenue
+Revenue from contracts with customers
+Goods sold to customers
+45 437 640
+ 41 621 681 
+Other income
+3 082 302
+ 2 846 623 
+Distribution and logistics fees
+1 349 266
+ 1 283 509 
+Advertising and other income
+1 733 036
+ 1 563 114 
+Total revenue from contracts with customers
+48 519 942
+ 44 468 304 
+Financial income
+89 866
+ 92 228 
+Total revenue
+48 609 808
+ 44 560 532 
+Retail turnover can be further disaggregated between the following  
+retail categories:
+Pharmacy
+ 9 745 692 
+ 8 951 799 
+Front shop health
+ 8 951 836 
+ 8 083 648 
+Beauty and personal care
+ 11 369 375 
+ 9 808 752 
+General merchandise
+ 5 371 587 
+ 4 880 676 
+Total Retail turnover1
+ 35 438 490
+ 31 724 875
+Distribution turnover can be further disaggregated between the following 
+categories:
+Fine wholesale
+ 13 205 444 
+ 13 268 057 
+Clicks
+ 7 414 243 
+ 6 943 527 
+Private hospitals
+ 4 958 817 
+ 5 260 010 
+Independent pharmacies and other
+ 832 384 
+ 1 064 520 
+Bulk wholesale
+ 4 544 172 
+ 3 907 219 
+Total Distribution turnover1
+ 17 749 616
+ 17 175 276
+Intergroup elimination
+(7 750 466)
+(7 278 470)
+Total group turnover
+ 45 437 640
+ 41 621 681
+1 	
+Revenue has been further disaggregated to provide enhanced disclosure.
+2 
+Depreciation and amortisation
+Depreciation of property, plant and equipment (see note 9)
+563 232
+ 507 691 
+Depreciation of right-of-use assets (see note 25)
+ 1 049 269 
+ 920 282 
+Amortisation of intangible assets (see note 10)
+129 793
+ 91 053 
+Total depreciation and amortisation
+ 1 742 294 
+ 1 519 026
+Depreciation included in cost of merchandise sold
+(60 974)
+(58 452)
+Depreciation and amortisation included in expenses
+ 1 681 320 
+ 1 460 574 
+Group
+2024 
+R’000
+2023
+R’000
+3 
+Occupancy costs
+Turnover rental expense
+48 651
+46 554
+Other rental expenses1
+163 854
+142 755
+Total occupancy cost
+212 505
+189 309
+1	
+Other rental expenses include expenses paid to landlords related to property leases not qualifying for IFRS 16 recognition, other than the turnover rental 
+expense, which is separately disclosed.
+4 
+Employment costs
+Directors’ emoluments (excluding incentives, see note 4.1)
+24 732
+  23 309 
+Non-executive fees
+  7 083 
+  6 426 
+Executive
+17 649
+  16 883 
+Salary
+  16 207 
+  15 666 
+Other benefits
+1 442
+  1 217 
+Long-term incentive scheme – TSR (see note 24)
+45 786
+(19 038)
+Release of gain on cash flow hedge to profit or loss 
+  2 981 
+  64 620 
+Long-term incentive scheme – HEPS (see note 24)
+35 729
+  33 655 
+Long-term incentive scheme – ROIC (see note 24)
+10 869
+–
+Staff salaries and wages
+4 473 546
+ 4 041 922 
+Contributions to defined contribution plans
+  250 150 
+  220 963 
+Leave pay costs (see note 24)
+  26 862 
+  19 186 
+Bonuses (see note 24)
+  242 304 
+  198 071 
+Post-retirement medical aid benefit (see note 24)
+   702 
+   736 
+Total employment costs
+ 5 113 661 
+ 4 583 424 
+Employment costs included in cost of merchandise sold and inventories
+(206 639)
+(189 930)
+Employment costs included in expenses
+ 4 907 022 
+ 4 393 494 
+For further detail of directors’ emoluments refer to the Remuneration report 
+available on the group’s website.
+Included in total employment costs are the following aggregate amounts 
+(including directors’ emoluments) relating to transactions with key 
+management personnel:
+  90 702 
+  92 502 
+Short-term employee benefits
+  36 118 
+  33 851 
+Post-employment benefits
+  2 959 
+  2 639 
+Short-term incentive scheme
+  18 122 
+  14 797 
+Long-term incentive scheme
+  33 503 
+  9 786 
+Retirement benefits
+–
+  31 429 
+Non-executive directors’ fees
+ 7 083 
+  6 426 
+97 785
+ 98 928 
+24
+Clicks Group Audited annual financial statements 2024
+
+--- PAGE 26 (matched: context) ---
+4 
+Employment costs (continued)
+4.1 
+Directors’ remuneration
+Executive directors’ remuneration
+Total
+annual
+guaran-
+teed
+pay
+RONA
+short-
+term
+incentive
+Perfor-
+mance 
+based
+long-
+term 
+incentive1
+Total
+variable
+pay
+Total
+Director
+(R’000)
+Pension
+fund
+Other
+benefits
+Salary
+2024 
+Bertina Engelbrecht
+ 10 223 
+ 653 
+–
+ 10 876 
+6 573
+15 654
+22 227
+33 103
+Gordon Traill
+ 5 984 
+ 789 
+–
+ 6 773 
+3 411
+3 594
+7 005
+13 778
+Total
+ 16 207 
+1 442
+–
+17 649
+9 984
+19 248
+29 232
+46 881
+2023 
+Bertina Engelbrecht
+ 9 465 
+ 604 
+–
+ 10 069 
+ 5 679 
+ 3 670 
+ 9 349 
+ 19 418 
+Gordon Traill3
+ 3 710 
+ 489 
+ – 
+ 4 199 
+ 1 974 
+ 2 002 
+ 3 976 
+ 8 175 
+Michael Fleming2
+ 2 491 
+ 124 
+ – 
+ 2 615 
+ 1 230 
+–
+ 1 230 
+ 3 845 
+Total
+ 15 666 
+ 1 217 
+ – 
+ 16 883 
+ 8 883 
+ 5 672 
+ 14 555 
+ 31 438 
+1 	
+Payments relating to the performance for the year ended 31 August are paid in November. The expense is provided for over the three-year vesting 
+period and two-year retention period (2023: three-year vesting period) in the relevant financial year.
+2 	
+Michael Fleming resigned on 31 December 2022 and received payment consisting of a long service award and of incentive amounts in respect of 
+long-term incentive schemes, in the amount of R31.4 million which payment constituted part of the lump sum payable to him, on his retirement.
+3 	
+Gordon Traill was appointed as CFO 1 January 2023. The remuneration disclosed is as of date of appointment.
+The total number of ordinary shares in issue is 238 062 465 (2023: 241 160 799). Percentage of issued share 
+capital held by directors is 0.1% (2023: 0.1%).
+Non-executive directors’ remuneration
+2024 directors’ fees
+2023 directors’ fees
+Director 
+(R’000)
+Holding
+company
+Subsidiary
+company
+Total
+Holding
+company
+Subsidiary
+company
+Total
+David Nurek
+ 1 846 
+– 
+ 1 846 
+ 1 665 
+– 
+ 1 665 
+Fatima Abrahams1, 2
+– 
+–
+– 
+ 297 
+ 70 
+ 367 
+John Bester3
+ 250 
+– 
+ 250 
+ 615 
+– 
+ 615 
+Martin Rosen4
+– 
+– 
+– 
+ 204 
+– 
+ 204 
+Mfundiso Njeke5
+ 1 045 
+– 
+ 1 045 
+  947 
+– 
+  947 
+Penelope Osiris (née Moumakwa)6
+  568 
+189 
+  757 
+  516 
+ 108 
+  624 
+Sango Ntsaluba
+  932 
+–
+  932 
+  828 
+– 
+  828 
+Richard Inskip7
+  630 
+– 
+  630 
+  77 
+– 
+  77 
+Nomgando Matyumza8
+  884 
+– 
+  884 
+  744 
+– 
+  744 
+Christine Ramon9
+  739 
+– 
+  739 
+  355 
+– 
+  355 
+Total
+ 6 894 
+189
+ 7 083 
+ 6 248 
+ 178 
+ 6 426 
+Total directors’ remuneration
+Executive directors
+46 881
+ 31 438 
+Non-executive directors
+ 7 083 
+ 6 426 
+Total directors’ remuneration
+53 964
+ 37 864 
+1 	
+The fees paid to Professor Abrahams include fees for her appointment as director of Clicks Retailers Proprietary Limited and  
+New Clicks South Africa Proprietary Limited.        
+2 	
+Retired as a non-executive director 26 January 2023. 
+3 	
+Retired as a non-executive director 1 February 2024. 
+4 	
+Retired as a non-executive director 26 January 2023.
+5 	
+Appointed as lead independent director effective 1 February 2024.
+6 	
+The fees paid to Penelope Osiris (née Moumakwa) include fees for her appointment as director of Clicks Retailers Proprietary Limited and  
+New Clicks South Africa Proprietary Limited.
+7 	
+Appointed as a non-executive director effective 1 July 2023.
+8 	
+Appointed as a non-executive director effective 1 September 2022.
+9 	
+Appointed as a non-executive director effective 7 February 2023.
+Notes to the annual financial statements continued
+25
+Clicks Group Audited annual financial statements 2024
+
+--- PAGE 27 (matched: fx_exposure) ---
+Group
+2024
+R’000
+2023
+R’000
+5 
+Other costs
+Other operating costs include:3
+Fees paid for outside services
+Technical services
+ 56 079 
+ 29 548 
+Foreign exchange losses/(gains) – realised
+ 2 089 
+(576)
+Water and electricity1
+368 724
+351 190 
+Advertising expenses
+417 637
+381 210
+Transport fees
+254 148
+258 722
+Data fees
+261 194
+260 976
+Commissions expense
+214 322
+189 239
+Auditors’ remuneration
+13 045
+11 081
+Financial statements audit
+11 748
+9 900
+Other assurance work2
+1 100
+682
+Non-audit services
+197
+499
+1 	
+Water and electricity costs includes generator fuel costs.
+2 	
+Relates to ISAE 3402 reasonable assurance work for distribution business.
+3 	
+Other costs have been further disaggregated to provide enhanced disclosure.
+6 
+Net financing expense
+Recognised in profit or loss:
+Interest income on bank deposits and investments
+ 68 490 
+ 75 331 
+Other interest income
+ 21 376 
+ 16 897 
+Financial income
+ 89 866 
+ 92 228 
+Interest expense on financial liabilities measured at amortised cost
+ 340 206 
+ 218 946 
+Cash interest expense
+ 58 181 
+ 16 410 
+Lease liability interest expense (see note 25)
+ 282 025 
+ 202 536 
+Other interest expense (see note 24.2)
+ 14 832 
+ 12 634 
+Financial expense
+ 355 038 
+ 231 580 
+Net financing expense
+ 265 172 
+ 139 352 
+Group
+Company
+ 2024
+R’000
+2023
+R’000
+ 2024
+R’000
+2023
+R’000
+7 
+Income tax expense
+South African normal tax
+Current tax
+Current year
+1 042 258
+ 902 292 
+ 569 
+ 502 
+Capital gains tax
+ 3 773 
+– 
+ – 
+– 
+Prior-year overprovision
+(12 211)
+(11 500)
+ – 
+– 
+Deferred tax
+Current year
+(23 231)
+ 6 134 
+ – 
+– 
+Prior-year (overprovision)/underprovision
+(4 080)
+ 453 
+ – 
+– 
+Foreign tax
+Current tax
+Current year
+ 9 848 
+ 20 438 
+ – 
+– 
+Withholding tax
+22 000
+ 12 410 
+3 500
+– 
+Deferred tax
+Current year
+17 540
+ 2 914 
+ – 
+– 
+Change in foreign tax rate
+ 865 
+– 
+–
+–
+Prior-year (overprovision)/underprovision
+(11)
+ 436 
+ – 
+– 
+Income tax expense per statement of  
+comprehensive income
+ 1 056 751 
+ 933 577 
+ 4 069 
+ 502 
+Deferred tax – current year
+ 1 016 
+(4 276)
+–
+–
+Cash flow hedge recognised in other  
+comprehensive income
+ 7 866 
+ 19 687 
+–
+– 
+Cash flow hedge recognised in equity
+(9 918)
+(23 466)
+–
+– 
+Remeasurement of post-employment benefit 
+obligations
+ 2 618 
+(59)
+–
+– 
+Cost of hedging reserve
+ 450 
+(438)
+–
+–
+Total income tax charge
+ 1 057 767 
+ 929 301 
+ 4 069 
+502
+Reconciliation of rate of tax 
+%
+%
+%
+%
+Standard rate – South Africa
+ 27.00 
+27.00
+ 27.00 
+27.00
+Adjusted for:
+Disallowable expenditure*
+ 0.34 
+ 0.43 
+ – 
+–
+Exempt income and allowances**
+ (0.50)
+ (0.55)
+ (26.98)
+ (26.98)
+Foreign tax rate variations
+ (0.02)
+ (0.03)
+ – 
+ – 
+Foreign withholding tax
+ 0.56 
+ 0.36 
+0.14
+ – 
+Prior-year net overprovision
+(0.41)
+ (0.31)
+ – 
+ – 
+Capital gains tax
+ 0.10 
+–
+ – 
+ – 
+Change in foreign tax rate
+ 0.02 
+–
+–
+–
+Share of loss in associate
+ 0.05 
+–
+–
+–
+Effective tax rate
+27.14
+26.90
+0.16
+0.02
+* 	
+Disallowable expenditure consists of expenses not in the production of income and expenditure of a capital nature, which includes legal fees, consulting 
+fees, share-related expenses and donations.
+** 	 Exempt income and allowances consists of tax-free allowances received such as the employment tax incentive and the learnership tax allowance.
+Four of the subsidiaries of the group has an estimated tax loss of R53.4 million (2023: R99.4 million) available for 
+set-off against future taxable income of that subsidiary. A deferred tax asset of R16.5 million (2023: R27.0 million) 
+has been recognised in respect of the total estimated tax loss (see note 12).
+Notes to the annual financial statements continued
+26
+Clicks Group Audited annual financial statements 2024
+
+--- PAGE 28 (matched: context) ---
+8 
+Earnings per share
+The calculation of basic and headline earnings per share at 31 August 2024 was based on profit for the year 
+attributable to ordinary shareholders of Clicks Group Limited of R2 837.1 million (2023: R2 537.5 million) and 
+headline earnings of R2 844.6 million (2023: R2 542.9 million) divided by the weighted average number of 
+ordinary shares as follows:
+Group
+2024
+R’000
+ 2023 
+R’000
+Reconciliation of headline earnings
+Profit attributable to equity holders of the parent
+ 2 837 057 
+ 2 537 528 
+Adjusted for:
+ 7 541 
+ 5 388 
+Loss on disposal of property, plant and equipment
+ 5 415 
+ 7 381 
+Profit on disposal of business
+(180)
+– 
+Total tax effect of adjustments
+ 2 306 
+(1 993)
+Headline earnings 
+ 2 844 598 
+ 2 542 916 
+2024
+cents
+2023
+cents
+Earnings per share 
+ 1 190.3 
+ 1 042.3 
+Headline earnings per share
+ 1 193.5 
+ 1 044.5 
+Diluted earnings per share 
+ 1 190.3 
+ 1 042.3 
+Diluted headline earnings per share
+ 1 193.5 
+ 1 044.5 
+2024
+’000
+2023
+’000
+Reconciliation of shares in issue to weighted average number  
+of shares in issue
+Total number of shares in issue at the beginning of the year
+ 241 161 
+ 243 970 
+Shares purchased and cancelled during the year weighted for the period held
+(2 815)
+(510)
+Weighted average number of shares in issue for the year
+ 238 346 
+ 243 460 
+Reconciliation of weighted average number of shares to weighted  
+average diluted number of shares in issue
+Weighted average number of shares in issue for the year
+ 238 346 
+ 243 460 
+Dilution
+–
+–
+Weighted average diluted number of shares in issue for the year
+ 238 346 
+ 243 460 
+Group
+ 2024
+ 2023
+Cost
+R’000
+Accumulated
+depreciation 
+and
+impairment
+losses
+R’000
+Cost
+R’000
+Accumulated
+depreciation 
+and
+impairment
+losses
+R’000
+9
+Property, plant and equipment
+Land
+ 25 809 
+ – 
+ 25 809 
+ – 
+Buildings
+ 618 233 
+(91 184)
+ 606 465 
+(84 224)
+Computer equipment
+ 839 216 
+(524 484)
+ 743 757 
+(459 660)
+Equipment
+ 725 485 
+(356 942)
+ 614 746 
+(297 168)
+Furniture and fittings
+ 3 443 408 
+(1 870 830)
+ 3 141 112 
+(1 684 314)
+Motor vehicles
+ 69 641 
+(33 320)
+ 65 086 
+(28 473)
+ 5 721 792 
+(2 876 760)
+ 5 196 975 
+(2 553 839)
+All group property is owner-occupied.
+The carrying amount of the group’s property, plant and equipment is reconciled as follows:
+Land
+R’000
+Buildings
+R’000
+Computer
+equipment
+R’000
+Equipment
+R’000
+Furniture
+and fittings
+R’000
+Motor
+vehicles
+R’000
+Total
+R’000
+Carrying amount at  
+1 September 2022
+ 25 809 
+ 504 687 
+ 231 266 
+ 249 240 
+ 1 346 390 
+ 17 570 
+ 2 374 962 
+Additions
+–
+ 20 637 
+ 140 175 
+ 124 503 
+ 475 845 
+ 23 159 
+ 784 319 
+Additions due to 
+acquisitions of 
+subsidiaries
+–
+ 864 
+ 1 070 
+ 730 
+ 1 141 
+ 772 
+ 4 577 
+Disposals
+–
+ – 
+ (706)
+ (177)
+ (11 586)
+ (562)
+(13 031)
+Depreciation
+–
+ (3 947)
+ (87 708)
+ (56 718)
+ (354 992)
+ (4 326)
+(507 691)
+Carrying amount at  
+31 August 2023
+ 25 809 
+ 522 241 
+ 284 097 
+ 317 578 
+ 1 456 798 
+ 36 613 
+ 2 643 136 
+Additions
+ – 
+  12 364 
+131 938
+121 782
+500 621
+  5 867 
+772 572
+Additions due to 
+acquisitions
+–
+–
+42
+456
+3 333
+–
+3 831
+Disposals
+ – 
+ (596)
+ (406)
+ (3 309)
+ (6 666)
+ (298)
+(11 275)
+Depreciation
+ – 
+ (6 960)
+ (100 939)
+ (67 964)
+ (381 508)
+ (5 861)
+(563 232)
+Carrying amount at  
+31 August 2024
+ 25 809 
+  527 049 
+  314 732 
+  368 543 
+ 1 572 578 
+  36 321  2 845 032 
+Notes to the annual financial statements continued
+27
+Clicks Group Audited annual financial statements 2024
+
+--- PAGE 30 (matched: context) ---
+Group
+ 2024
+R’000
+ 2023
+R’000
+11 
+Goodwill
+Balance at the beginning of the year
+ 204 829 
+ 102 806 
+Acquired in business acquisition
+ 4 285 
+ 102 023 
+Balance at the end of the year
+ 209 114 
+ 204 829 
+Goodwill comprises:
+United Pharmaceutical Distributors Proprietary Limited (UPD) (see note 11.1)
+ 96 277 
+ 96 277 
+Amalgamated Pharmacy Group Proprietary Limited (Amalgamated Pharmacy 
+Group) (see note 11.2)
+ 6 529 
+ 6 529 
+Sorbet Holdings Proprietary Limited (see note 11.3)
+ 18 662 
+ 14 377 
+180 Degrees Marketing Proprietary Limited (see note 11.2)
+ 66 589 
+ 66 589 
+H. Mallach and Associates Proprietary Limited (see note 11.2)
+ 21 057 
+ 21 057 
+Assessment of impairment of goodwill
+11.1
+Budgeted operating cash flows for the UPD business unit were projected and discounted at the 
+group’s weighted average pre-tax cost of capital. The impairment calculations performed indicated 
+that goodwill was not impaired.
+The following key assumptions were made in determining the value in use of the UPD cash-
+generating unit:
+i) 	 A forecast horizon of three years was used. The forecast horizon comprises the three-year plan 
+drafted in the last quarter of the 2024 financial year, whereafter a perpetuity growth rate of 6.5% 
+(2023: 6.5%) is used.
+ii)	 The values assigned to the three-year plan revenue and cost growth assumptions reflect current 
+trends, anticipated market developments and management’s experience.
+iii) 	The key assumptions for the recoverable amount are the long-term growth rate and the  
+discount rate. The long-term growth rate used is purely for the impairment testing of goodwill 
+under IAS 36 – Impairment of Assets and does not reflect long-term planning assumptions used  
+by the group for investment proposals or for any other assessments.
+iv) 	A discount rate of 11.4% (2023: 10.7%) per annum, being the group’s pre-tax weighted average 
+cost of capital, was used. The group’s pre-tax weighted average cost of capital is deemed 
+appropriate as, together with the Clicks business, both businesses largely operate within 
+South Africa and are subject to similar market risks.
+Management believes that any reasonably possible change in any of these assumptions would not 
+cause the carrying amounts to exceed their recoverable amounts.
+11.2
+Due to the synergies that arose on acquisition, goodwill relating to the purchase of the pharmacy 
+business from Amalgamated Pharmacy Group and 180 Degrees Marketing Proprietary Limited has 
+been attributed to the Clicks business as a cash-generating unit, which represents the lowest level 
+within the group at which goodwill is monitored for internal management purposes. 
+Due to the synergies that arose on acquisition, goodwill relating to the purchase of the 24-hour 
+pharmacy business has been attributed to H. Mallach and Associates Proprietary Limited as a cash-
+generating unit, which represents the lowest level within the group at which goodwill is monitored 
+for internal management purposes. 
+Applying IAS 36, goodwill relating to the above acquisitions has been tested for impairment at the 
+same level as the Clicks business unit.
+Budgeted operating cash flows for the related business units were projected and discounted at 
+the group’s weighted average pre-tax cost of capital. The impairment calculations performed 
+indicated that goodwill was not impaired.
+The following key assumptions were made in determining the value in use:
+i) 	 A forecast horizon of three years was used. The forecast horizon comprises the three-year plan 
+drafted in the last quarter of the 2024 financial year, whereafter a perpetuity growth rate of 7.0% 
+(2023: 7.0%) is used.
+ii) 	 The values assigned to the three-year plan revenue and cost growth assumptions reflect current 
+trends, anticipated market developments and management’s experience.
+iii) 	The key assumptions for the recoverable amount are the long-term growth rate and the  
+discount rate. The long-term growth rate used is purely for the impairment testing of goodwill  
+under IAS 36 – Impairment of Assets and does not reflect long-term planning assumptions used  
+by the group for investment proposals or for any other assessments. 
+iv) 	A discount rate of 11.4% (2023: 10.7%) per annum, being the group’s pre-tax weighted average cost 
+of capital, was used. The group’s pre-tax weighted average cost of capital is deemed appropriate 
+as, together with the Clicks business, both businesses largely operate within South Africa and are 
+subject to similar market risks.
+Management believes that any reasonably possible change in any of these assumptions would not 
+cause the carrying amounts to exceed their recoverable amounts.
+The tests performed on all cash-generating units did not indicate any impairment as at year-end.
+Notes to the annual financial statements continued
+29
+Clicks Group Audited annual financial statements 2024
+
+--- PAGE 31 (matched: inventory_working_capital) ---
+11
+Goodwill (continued)
+11.3
+Due to the synergies that arose on acquisition, goodwill relating to the purchase of the salon 
+beauty franchise has been attributed to Sorbet Holdings Proprietary Limited as a cash-generating 
+unit, which represents the lowest level within the group at which goodwill is monitored for internal 
+management purposes.
+Applying IAS 36, goodwill relating to the above acquisition has been tested for impairment at the 
+same level as the Sorbet business unit.
+Budgeted operating cash flows for the related business units were projected and discounted at the 
+group’s weighted average pre-tax cost of capital. 
+The impairment calculations performed indicated that goodwill was not impaired.
+The following key assumptions were made in determining the value in use:
+i) 	 A forecast horizon of three years was used. The forecast horizon comprises the three-year plan 
+drafted in the last quarter of the 2024 financial year, whereafter a perpetuity growth rate of 7.0% 
+(2023: 7.0%) is used.
+ii) 	 The values assigned to the three-year plan revenue and cost growth assumptions reflect current 
+trends, anticipated market developments and management’s experience.
+iii) 	The key assumptions for the recoverable amount are the long-term growth rate and the  
+discount rate. The long-term growth rate used is purely for the impairment testing of goodwill  
+under IAS 36 – Impairment of Assets and does not reflect long-term planning assumptions used  
+by the group for investment proposals or for any other assessments.
+iv) 	A discount rate of 11.4% (2023: 10.7%) per annum, being the group’s pre-tax weighted average cost 
+of capital, was used. The group’s pre-tax weighted average cost of capital is deemed appropriate 
+as the business largely operates within South Africa and is subject to similar market risks.
+Management believes that any reasonably possible change in any of these assumptions would not 
+cause the carrying amounts to exceed their recoverable amounts.
+The tests performed on all cash-generating units did not indicate any impairment as at year-end.
+Group
+Company
+ 2024 
+R’000
+ 2023
+R’000
+ 2024 
+R’000
+ 2023
+R’000
+12 
+Deferred tax assets/(liabilities)
+Deferred tax assets
+ 85 157 
+ 70 423 
+– 
+– 
+Deferred tax liabilities
+(14 480)
+–
+– 
+– 
+ 70 677 
+ 70 423 
+– 
+– 
+Balance at the beginning of the year
+ 70 423 
+ 86 810 
+–
+– 
+Deferred tax on acquisition of subsidiaries
+ – 
+(10 726)
+–
+–
+Deferred tax on disposal of subsidiary
+(7 647)
+–
+–
+–
+Current deferred tax charge to profit or loss (see note 7)
+ 8 917 
+(9 937)
+–
+–
+Current deferred tax (debit)/credit to other 
+comprehensive income and equity (see note 7)
+(1 016)
+ 4 276 
+–
+– 
+Balance at the end of the year
+ 70 677 
+ 70 423 
+– 
+– 
+Arising as a result of:
+Capital gains tax
+(46 392)
+(46 392)
+– 
+– 
+Derivative financial assets and liabilities
+(9 672)
+(12 253)
+– 
+– 
+Employee obligations
+ 119 522 
+ 91 637 
+– 
+– 
+Income and expense accrual
+161 657
+ 174 332 
+– 
+– 
+Inventories
+ 50 032 
+ 42 396 
+– 
+– 
+Lease liabilities
+ 100 849 
+ 87 312 
+– 
+– 
+Prepayments
+(37 457)
+(29 945)
+– 
+– 
+Property, plant and equipment and intangble assets
+(211 063)
+(160 219)
+– 
+– 
+Tax losses
+ 16 653 
+ 26 977 
+– 
+– 
+Trademarks
+(73 452)
+(103 422)
+– 
+– 
+Balance at the end of the year
+ 70 677 
+ 70 423 
+– 
+– 
+The capital gains deferred tax liability arises on the revaluation of a forward purchase of shares by the 
+company in a subsidiary company.
+Derivative financial assets and liabilities include a credit of R2.1 million (2023: R3.8 million) recognised in other 
+comprehensive income and equity.
+In respect of the deferred tax asset recognised by four (2023: three) subsidiary companies, the directors 
+consider that sufficient future taxable income will be generated by the subsidiary companies to utilise the 
+deferred tax assets recognised.	 	
+	
+	
+	
+	
+	
+	
+Notes to the annual financial statements continued
+30
+Clicks Group Audited annual financial statements 2024
+
+--- PAGE 32 (matched: context) ---
+13 
+Investment in associates
+The group acquired a 22.67% economic interest in Mistragystix Proprietary Limited (Mistragystix) in the  
+2021 financial year for R13 million, paid on signing of the contract. 
+An additional investment was made during the 2024 financial year to the value of R6.0 million  
+(2023: R21.7 million). The increase in the investment is proportionate to the shareholding, therefore  
+the shareholding percentage remained the same.
+The group’s interest in Mistragystix is accounted for using the equity method in the consolidated 
+financial statements.
+The following amounts represent the group’s interest in the associates:
+Group
+ 2024 
+R’000
+ 2023 
+R’000
+Group’s carrying amount of the investments
+ 17 436 
+ 21 214 
+Group’s proportionate share of loss for the year
+(7 637)
+(5 201)
+Dividends received from the associate
+–
+ 1 137 
+Group
+ 2024 
+R’000
+ 2023 
+R’000
+14 
+Loans receivable
+AfroBotanics Proprietary Limited
+– 
+ 200 
+Mistragystix Proprietary Limited (see note 14.1)
+ 126 000 
+ 99 000 
+Abbott Laboratories SA Proprietary Limited (see note 14.2)
+ 15 436 
+ 31 397 
+Non-current loans receivable
+ 141 436 
+ 130 597 
+Mistragystix Proprietary Limited (see note 14.1)
+ 14 000 
+ 11 000 
+Abbott Laboratories SA Proprietary Limited (see note 14.2)
+ 15 960 
+ 17 030 
+Current loans receivable
+ 29 960 
+ 28 030 
+Total loans receivable
+ 171 396 
+ 158 627 
+14.1 The loan carries interest at three-month JIBAR plus 5.36% and is fully repayable by 31 August 2027.  
+The loan is secured by a pledge and cession of the shareholders of Mistragystix Proprietary Limited’s 
+shares and underlying company assets (including moveable assets and stock) in favour  
+of K2021423995 (South Africa) Proprietary Limited, a subsidiary of Clicks Group Limited.
+14.2 The loan is unsecured and interest free and is repayable in monthly instalments of R1.5 million.  
+The loan will be fully repaid on 14 August 2026.
+15 
+Financial assets at fair value through profit or loss
+Group
+ 2024 
+R’000
+ 2023 
+R’000
+Investment in Guardrisk Insurance Company Limited (Cell number 171)  
+(see note 15.1)
+ 14 688 
+ 10 913 
+Collective investment scheme funds (see note 15.2)
+ 166 087 
+ 152 493 
+Total financial assets at fair value through profit or loss
+ 180 775 
+ 163 406 
+15.1 The investment in Guardrisk Insurance Company Limited is the net investment in the group’s 
+insurance cell captive which is not deemed to be in the group’s control in accordance with IFRS 10 – 
+Consolidated Financial Statements.
+15.2 The New Clicks Foundation Trust invests in collective investment schemes.
+16 
+Derivative financial instruments
+Group
+ 2024 
+ 2023
+Assets
+R’000
+Liabilities
+R’000
+Assets
+R’000
+Liabilities
+R’000
+Equity derivative hedge – current
+ 29 433 
+ – 
+ 7 973 
+–
+Forward exchange contracts – current
+ – 
+(16 360)
+ 13 269 
+(1 633)
+ 29 433 
+(16 360)
+ 21 242 
+(1 633)
+Equity derivative hedge
+European call options have been purchased to hedge the cash-settled share-based payment obligation 
+relating to tranche 16 of the total shareholder return long-term incentive scheme (refer to note 24.1).
+The expiration date of this hedging instrument and the vesting dates of the hedged items coincide on  
+31 August 2024. Refer to note 20 detailing the equity derivative hedge’s impact on profit or loss and other 
+comprehensive income.
+The fair value of these equity derivative hedges are calculated using a Monte Carlo option pricing model 
+with reference to the closing share price, 180-day historical volatility, the 12-month trailing dividend yield 
+and the risk-free rate.
+Forward exchange contracts
+For currency derivatives, fair values are calculated using standard market calculation conventions with 
+reference to the relevant closing market spot rates, forward foreign exchange and interest rates.  
+The notional principal amounts of the outstanding forward foreign exchange contracts at 31 August 2024 
+was R780 million (2023: R678 million). Refer to note 20 detailing the foreign exchange hedging impact on 
+profit or loss and other comprehensive income.
+Notes to the annual financial statements continued
+31
+Clicks Group Audited annual financial statements 2024
+
+--- PAGE 33 (matched: inventory_working_capital, receivables_payables, revenue_cos_opex) ---
+17 
+Inventories
+Group
+ 2024 
+R’000
+ 2023 
+R’000
+Inventories comprise:
+Goods for resale
+ 6 650 232 
+ 5 962 649 
+Right of return asset
+  16 942 
+  19 117 
+Goods in transit
+  396 106 
+  328 043 
+Total inventories
+ 7 063 280 
+ 6 309 809 
+Inventories stated at net realisable value1
+  43 482 
+  72 323 
+Cost of inventories recognised as cost of sales
+34 805 221
+32 307 830
+The group’s inventory balances is stated net of impairment allowances.  
+The analysis of impairment allowances are as follows:
+Balance at the beginning of the year2
+108 284
+158 497
+Inventory allowance raised during the year
+64 880
+23 221
+Inventory allowance derecognised on sale of goods
+(69 115)
+(73 434)
+Balance at the end of the year2
+104 049
+108 284 
+1	
+The value of inventories stated at net realisable value is determined based on management’s best estimate of the likely selling price at  
+which the inventories in question could be sold in the ordinary course of business less the directly attributable selling costs. 
+2	
+The comparative amounts of the analysis of impairment allowances have been restated to provide enhanced disclosure.
+18 
+Trade and other receivables
+Trade and other receivables comprise:
+Group
+ 2024 
+R’000
+ 2023 
+R’000
+Trade receivables
+1 993 790
+ 2 072 261 
+Less: impairment of trade receivables
+(23 292)
+(22 263)
+Trade receivables – net 
+1 970 498
+ 2 049 998 
+Prepayments
+  195 203 
+  152 993 
+Income accruals
+  416 950 
+  392 240 
+Logistics fees and other receivables
+  474 631 
+  424 257 
+Total trade and other receivables
+3 057 282
+ 3 019 488 
+The carrying amount of trade and other receivables approximates their fair 
+value. Trade and other receivables are predominantly non-interest bearing. 
+Refer to note 29.4 for the credit risk management of trade and other receivables.
+Impairment losses are recorded in the allowance account until the group is 
+satisfied that the amount is irrecoverable and is written off against the financial 
+asset directly. Impairment losses have been included in the statement of 
+comprehensive income. 
+The movement in the allowance for impairment loss in respect of trade 
+receivables during the year was as follows:	
+	
+	
+Balance at 1 September 
+  22 263 
+  41 715 
+Impairment provision raised/(reversed)
+  2 287 
+(13 683)
+Impairment loss utilised
+(1 258)
+(5 769)
+Balance at 31 August
+  23 292 
+  22 263 
+The impairment allowance can be reconciled as follows:
+Trade receivables expected credit loss (recognised)/reversed
+(2 287)
+  13 683 
+Other receivables impairment allowance
+(9 987)
+(22 348)
+(12 274)
+(8 665)
+Notes to the annual financial statements continued
+32
+Clicks Group Audited annual financial statements 2024
+
+--- PAGE 34 (matched: fx_exposure, inventory_working_capital) ---
+19 
+Share capital and share premium
+Group and Company
+ 2024 
+R’000
+ 2023 
+R’000
+Authorised – group and company
+600 million (2023: 600 million) ordinary shares of one cent each
+ 6 000 
+ 6 000 
+Issued ordinary shares – group and company
+238.062 million (2023: 241.161 million) ordinary shares of one cent each
+  2 381 
+  2 412 
+Share premium – group
+ 1 064 953 
+ 1 064 953
+Share premium – company
+ 3 301 189 
+ 3 301 189
+The company and the group have different values for share premium due to the issue of ordinary shares  
+at the 30-day volume-weighted average price (VWAP) on 2 February 2018 which was settled by  
+The Clicks Group Employee Share Ownership Trust, a subsidiary of the group. Other differences arose in 
+previous years, being preliminary expenses written off against share premium related to the acquisition  
+of  certain businesses in 1996 and the cancellation of shares at a holding company level at market value 
+while on consolidation the cancellation was carried out at cost.
+Group and Company
+Ordinary shares
+Total
+ 2024 
+‘000
+Total
+ 2023 
+‘000
+Reconciliation of total number of shares in issue to net number of shares in issue
+Total number of shares in issue at the end of the year
+  238 062 
+  241 161 
+Net number of shares in issue at the end of the year
+  238 062 
+  241 161 
+During the year the group repurchased and cancelled 3 098 334 Clicks Group Limited ordinary shares.
+The holders of ordinary shares are entitled to receive dividends as declared from time to time and are 
+entitled to one vote per share at meetings of the company.
+20 
+Cash flow hedge reserve
+The cash flow hedge reserve represents the effective portion of fair value gains or losses in respect of cash 
+flow hedges.
+Group
+ 2024 
+R’000
+ 2023 
+R’000
+Reconciliation of cash flow hedging reserve
+Balance at the beginning of year
+(2 984)
+ 7 234 
+Movement relating to forward exchange contracts
+(23 322)
+(3 634)
+Total gain for the year recognised in other comprehensive income
+ 3 493 
+ 59 810 
+Gains reclassified to inventories directly from the statement of changes  
+in equity
+(26 815)
+(63 444)
+Movement relating to the equity derivative hedge
+ 17 774 
+(6 584)
+Total profit/(loss) for the year in other comprehensive income
+ 14 989 
+(54 646)
+Losses reclassified to employment cost in other comprehensive income
+ 2 785 
+ 48 062 
+Balance at the end of the year
+(8 532)
+(2 984)
+Refer to note 16 – Derivative financial instruments for further information.
+21 
+Cost of hedging reserve
+The cost of hedging reserve represents the cumulative gains or losses associated with the time value of  
+options and forward points on derivatives used for hedging.
+22 
+Foreign currency translation reserve
+Group
+ 2024 
+R’000
+ 2023 
+R’000
+Unrealised loss on the translation of assets and liabilities of subsidiaries whose 
+financial statements are denominated in foreign currencies
+(8 833)
+(507)
+(8 833)
+(507)
+Reconciliation of foreign currency translation reserve
+Balance at the beginning of the year
+(507)
+(6 860)
+Exchange differences on translation of foreign subsidiaries
+(8 326)
+  6 353 
+Balance at the end of the year
+(8 833)
+(507)
+23
+Distributable reserves
+The reserves represent retained earnings available for distribution to shareholders, subject to the provisions 
+of the Companies Act No. 71 of 2008 and any other applicable regulations.
+Notes to the annual financial statements continued
+33
+Clicks Group Audited annual financial statements 2024
+
+--- PAGE 35 (matched: context) ---
+Group
+ 2024 
+R’000
+ 2023 
+R’000
+24 
+Employee benefits
+Long-term incentive schemes
+  93 706 
+  54 949 
+Post-retirement medical obligations
+  57 149 
+  62 958 
+Total long-term employee benefits
+  150 855 
+  117 907 
+Accounted for as follows:
+Long-term employee benefits recognised in terms of IFRS 2 –  
+Share-based Payments (see note 24.1)
+  37 772 
+  14 835 
+Long-term employee benefits recognised in terms of IAS 19 –  
+Employee Benefits (see note 24.2)
+  113 083 
+  103 072 
+Total long-term employee benefits
+  150 855 
+  117 907 
+Long-term employee benefits recognised in terms of IFRS 2 – Share-based Payments
+Long-term
+incentive
+scheme –
+TSR
+(Note 24.1)
+R’000
+Long-term cash-settled share-based payment liability
+Balance at 1 September 2022
+  36 643 
+Expense from cash-settled share-based payment
+(19 038)
+Reclassification to short-term benefits
+(2 770)
+Balance at 31 August 2023
+  14 835 
+Release from cash-settled share-based payment
+  45 786 
+Reclassification to short-term benefits
+(22 849)
+Balance at 31 August 2024
+  37 772 
+24.1
+Long-term incentive scheme – total shareholder return (TSR)
+During 2024 the group replaced the TSR element of its long-term incentive scheme with a return on 
+invested capital model to align the interests of executives with those of shareholders by including 
+both an earnings performance metric as well as efficient management of the group’s capital.
+Tranches 16 and 17  are the only tranches in issue with options where the TSR performance measure 
+applies. The group has 0.7 million cash-settled appreciation rights issued to management.
+The value of these appreciation rights are linked to the TSR (capital gain plus dividends) over a three-
+year, four-year and five-year vesting period. These appreciation rights are classified as cash-settled 
+share-based payment benefits and the liability has been valued using the Monte Carlo option 
+pricing model by an independent, external valuator.
+The September 2020 (tranche 15) options were forfeited without settlement as the growth hurdles 
+were not met.
+The contractual life of the September 2021 (tranche 16) options outstanding at year-end was one year.
+The contractual life of the September 2022 (tranche 17) options outstanding at year-end was two 
+years for 60% of the tranche, three years for 20% and four years for the remaining 20%.
+24 
+Employee benefits (continued)
+24.1
+Long-term incentive scheme – total shareholder return (TSR) (continued)
+Details of share option allocations – 2024
+ Option 
+price
+Balance 
+at the
+beginning
+of the year
+Granted
+during
+the year
+Delivered
+during
+the year1
+Forfeited
+during
+the year
+Balance 
+at the 
+end of
+the year
+September 2020 options
+–
+  246 587 
+–
+–
+(246 587)
+–
+September 2021 options
+R18.79
+  345 655 
+–
+–
+(15 948)
+329 707
+September 2022 options
+R83.86
+  408 755 
+– 
+– 
+(8 418)
+400 337
+1 	
+The exercise date VWAP was R358.27.	
+	
+	
+The assumptions used in estimating the fair value at year-end are listed below:
+Share 
+price at
+grant 
+date 
+Risk-
+free 
+rate (%)
+Expected
+dividend
+yield (%)
+Expected
+volatility 
+(%)
+Expected
+forfeiture
+rate (%)
+September 2021 options three-year  
+vesting period
+R288.97
+7.62
+1.80
+26.13
+4.00
+September 2022 options three-year  
+vesting period
+R298.29
+7.95
+2.35
+20.69
+4.00
+Details of share option allocations – 2023
+ Option 
+price
+Balance 
+at the
+beginning
+of the year
+Granted
+during
+the year
+Delivered
+during
+the year1
+Forfeited
+during
+the year
+Balance 
+at the 
+end of
+the year
+September 2019 options
+–
+  372 561 
+– 
+(372 561)
+– 
+– 
+September 2020 options
+–
+  307 474 
+– 
+(38 805)
+(22 082)
+  246 587 
+September 2021 options
+R18.79
+  402 332 
+– 
+(16 923)
+(39 754)
+  345 655 
+September 2022 options
+R83.86
+–   408 755 
+– 
+– 
+  408 755 
+1 	
+The exercise date VWAP was R278.87.
+Notes to the annual financial statements continued
+34
+Clicks Group Audited annual financial statements 2024
+
+--- PAGE 38 (matched: context) ---
+24
+Employee benefits (continued)
+24.6
+The leave pay accrual is based on actual leave days by an employee multiplied by the employee’s 
+current total daily cost to company.	
+	
+	
+	
+	
+	
+	
+24.7
+The bonus accrual includes a guaranteed thirteenth cheque and an incentive bonus based on the 
+business or group’s performance. The bonus is provided for all employees who qualify in respect of 
+the expected cash payment.
+24.8
+The overtime accrual is in respect of overtime worked in August 2024 which is paid in September 2024.
+24.9
+Pension and provident funds
+Three funds, which are registered and governed in terms of the Pension Funds Act, No. 24 of 1956,  
+are operated by the group.
+These funds are:
+•	 the Clicks Group Retirement Fund;
+•	 the Clicks Group Negotiated Pension Fund; and
+•	 the Clicks Group Negotiated Provident Fund.
+All permanent full-time staff members in South Africa, Lesotho and Eswatini are obliged to join one of 
+the funds. Employees in Namibia are members of the Namflex Umbrella Pension Fund and those in 
+Botswana are members of the Sentlhaga Pension Fund.
+The funds are all defined contribution schemes and the group carries no liability in relation to these 
+funds. All funds provide death and disability cover, while the negotiated funds also include a funeral 
+benefit. Combined membership across the funds was 18 951 (2023: 17 671) at year-end.
+24.10 Medical aid funds
+Membership of one of the Discovery Health Medical Aid Scheme benefit options is actively 
+encouraged.
+At year-end 15 456 (2023: 14 186) South African employees were principal members of a medical aid 
+scheme, of which 15 414 (2023: 14 142) were principal members of a Discovery Health medical aid 
+scheme and 42 (2023: 44) were principal members of various other medical aid schemes. 
+At year-end three (2023: three) Botswana employees were principal members with BOMaid, 21  
+(2023: 19) Namibian employees were principal members of Namibia Health Plan and 20 (2023: 21) 
+Eswatini employees were principal members of Oracle Health.
+At year-end 79.6% (2023: 77.9%) of the permanent full-time employees were members of a medical 
+aid scheme. Increasing the health benefits available to employees will be a focus area for the group 
+in the years ahead.
+Employee and company contributions to the above funds are included in employment costs 
+detailed in note 4.
+25 
+Leases
+The group enters into lease agreements for all of its retail stores, its distribution administration building and 
+other equipment items. The group accounts for its leases of retail stores and its distribution administration 
+buildings in terms of IFRS 16 and applies the “short-term leases” and “low-value items” exemptions to its 
+equipment leases, assessed by class of underlying asset and on a lease-by-lease basis, respectively. Leases 
+of the group’s retail stores have an average lease term of five years (2023: five years), although leases could 
+be negotiated with varying terms. Several of these lease contracts include renewal options. The group 
+assesses on a contract-by-contract basis whether it’s probable that these options will be entered into and 
+whether the options should be capitalised to the lease term 12 months prior to the option being exercisable. 
+The group discounts future lease payments at the group’s average incremental borrowing rate on inception 
+of the lease, which was 9.6% at 31 August 2024 (8.7% at 31 August 2023). The group entered into lease 
+contracts for stores which have not opened yet, amounting to R107.8 million (2023: R54.2 million).
+Reconciliation of right-of-use assets
+Total
+R’000
+As at 1 September 2022
+ 2 827 826 
+Additions
+ 1 020 399 
+New stores
+  257 930 
+Business acquisitions
+  109 666 
+Renewals
+  652 803 
+Depreciation
+(920 282)
+Remeasurements, modifications and terminations
+  71 354 
+As at 31 August 2023
+ 2 999 297 
+Additions
+ 1 499 886 
+New stores
+  327 246 
+Renewals
+ 1 172 640 
+Depreciation
+(1 049 269)
+Remeasurements, modifications and terminations
+  55 167 
+As at 31 August 2024
+ 3 505 081 
+Reconciliation of lease liabilities
+As at 1 September 2022
+ 3 099 884 
+Additions
+ 1 022 683 
+New stores
+  257 930 
+Business acquisitions
+  111 950 
+Renewals
+  652 803 
+Interest
+  202 536 
+Payments
+(1 157 532)
+Remeasurements, modifications and terminations
+  71 354 
+As at 31 August 2023
+ 3 238 925 
+Additions
+ 1 499 886 
+New stores
+  327 246 
+Renewals
+ 1 172 640 
+Interest
+  282 025 
+Payments
+ (1 289 695)
+Remeasurements, modifications and terminations
+  55 145 
+As at 31 August 2024
+ 3 786 286 
+Notes to the annual financial statements continued
+37
+Clicks Group Audited annual financial statements 2024
+
+--- PAGE 39 (matched: receivables_payables) ---
+25 
+Leases (continued)
+ 2024 
+R’000
+ 2023 
+R’000
+Non-current lease liabilities
+ 2 536 701 
+ 2 152 485 
+Current lease liabilities
+ 1 249 585 
+ 1 086 440 
+ 3 786 286 
+ 3 238 925 
+The group’s rental agreements include both fixed and variable payments. The fixed rental payments relate 
+to base rentals that are paid to landlords based on the contractual obligation of the group.  
+The variable rental payments consist of both other lease-related costs not included in the lease liability, as 
+well as turnover rentals, which represents lease payments calculated as a percentage of the turnover of 
+the specific store. The percentage payable is determined as part of the rental agreement. Turnover rental 
+averages 0.1% (2023: 0.1%) of turnover.
+ 2024
+R’000
+ 2023 
+R’000
+Fixed rental payments reducing the lease liability
+ 1 289 695 
+ 1 157 532 
+Rental payments as a result of short-term leases
+  21 708 
+  23 190 
+Rental payments as a result of low-value assets
+  13 703 
+  9 697 
+Variable lease payments not reducing the lease liability
+  199 990 
+  180 786 
+Total cash outflow
+ 1 525 096 
+ 1 371 205 
+Maturity of lease commitments
+The group leases all its retail premises and certain of its pharmaceutical distribution centre sites.
+The lease agreements provide for minimum payments together, in certain instances, with contingent rental 
+payments determined on the basis of achieving a specified threshold turnover. 
+The leases are discounted at the group’s average borrowing rate.
+Future minimum lease payments under non-cancellable leases due:
+ 2024 
+R’000
+ 2023 
+R’000
+– Not later than one year
+ 1 313 733 
+ 1 130 772 
+– Later than one year, not later than five years
+ 3 091 296 
+ 2 477 780 
+– Later than five years
+  248 228 
+  217 855 
+4 653 257
+ 3 826 407 
+Group
+ 2024 
+R’000
+ 2023 
+R’000
+26 
+Trade and other payables
+The following are included in trade and other payables:
+Trade payables
+7 636 203
+ 7 216 445 
+Loyalty programme deferred income (see note 26.1)
+  180 619 
+  163 555 
+Refund liability
+  23 709 
+  31 892 
+Non-trade payables and accruals (see note 26.2)
+2 190 372
+ 1 857 006 
+10 030 903
+ 9 268 898 
+The following are excluded from financial liabilities (see note 29.5), but included in 
+trade and other payables:
+Loyalty programme deferred income (see note 26.1)
+(180 619)
+(163 555)
+Other deferred income (see note 26.3)
+(243 466)
+(202 751)
+Value-added tax
+(378 557)
+(277 576)
+Financial liabilities (see note 29.5)
+9 228 261
+ 8 625 016 
+26.1
+Loyalty programme deferred income
+The deferred income relating to points is determined based on the value of unredeemed vouchers in 
+issue, as well as the value of points on qualifying sales that have not been converted into vouchers.
+Based on the historic redemption rate, it is assumed that 90% of all points in issue are  
+ultimately redeemed.
+Estimates are made based on historic trends regarding the value of points on qualifying sales that will 
+ultimately convert into vouchers issued.
+Revenue recognised during the current year which was included in the loyalty programme deferred 
+income opening balance amounted to R164 million.
+Revenue recognised during the current year which was included in the other deferred income 
+opening balance amounted to R203 million.
+26.2
+Non-trade payables and accruals consist of expense and payroll accruals, value-added tax, 
+unredeemed gift cards and income received in advance.
+26.3
+Relating to non-applicant marketing and distribution fees that United Pharma Marketing Proprietary 
+Limited receives from the supplier.
+Notes to the annual financial statements continued
+38
+Clicks Group Audited annual financial statements 2024
+
+--- PAGE 40 (matched: receivables_payables) ---
+Group
+ 2024 
+R’000
+ 2023 
+R’000
+27 
+Dividends to shareholders
+Previous year final cash dividend out of distributable reserves – 494.0 cents per 
+share paid 29 January 2024
+(2023: 457.0 cents per share paid 30 January 2023 out of distributable reserves)
+ 1 176 029 
+ 1 114 941 
+A current-year interim cash dividend of 210.0 cents per share was paid 1 July 2024 
+out of distributable reserves
+(2023: 185.0 cents per share paid 3 July 2023 out of distributable reserves)
+  499 931 
+  447 853 
+Total dividends to shareholders
+ 1 675 960 
+ 1 562 794 
+On 23 October 2024 the directors approved the final proposed dividend of 566.0 cents per share  
+(R1 347.4 million).
+The source of such a dividend will be from distributable reserves and paid in cash and will be recognised in 
+the statement of changes in equity in 2025.
+Dividend payout ratio
+The dividend payout ratio is 65.0%.
+For further details refer to the directors’ report on page 3.
+28
+Financial risk management
+The group’s activities expose it to a variety of financial risks: market risk (including currency risk, price risk, interest 
+rate risk), credit risk and liquidity risk.
+This note presents information about the group’s exposure to each of the above risks, the group’s objectives, 
+policies and processes for measuring and managing risk, and the management of capital. Further quantitative 
+disclosures are included throughout these consolidated financial statements.
+The group’s overall risk management programme focuses on the unpredictability of financial markets and seeks 
+to minimise potential adverse effects on the group’s financial performance. The group uses derivative financial 
+instruments to hedge certain risk exposures.
+The group treasury functions within the parameters of the treasury policy and reports to a sub-committee  
+of management.
+Market risk
+Market risk is the risk that changes in market prices, such as foreign exchange rates, interest rates and equity 
+prices, will affect the group’s income or the value of its holdings of financial instruments.
+The objective of market risk management is to manage and control market risk exposures within acceptable 
+parameters, while optimising the return on risk.
+The group buys derivatives to hedge economic exposures in the ordinary course of business to manage certain 
+market risks.
+Currency risk
+The group is exposed to foreign exchange risk through its imports of merchandise. The currencies in which these 
+transactions are primarily denominated are USD, EUR, GBP and CNY. The group’s treasury risk management policy is 
+to take out forward exchange contracts, to cover both committed and anticipated exposures.
+The impact of a 10% strengthening or weakening of the currency against the USD, EUR, GBP and CNY with all 
+other variables held constant is disclosed in note 29.2. The effect of this movement is based on the outstanding 
+forward foreign exchange contracts held by the group at year-end.
+Interest rate risk
+The group has interest-bearing assets and liabilities in the form of call deposits, money market investments 
+and short-term borrowings. Interest-bearing assets and liabilities have variable rates which are impacted by 
+market factors and expose the group to cash flow interest rate risk.
+There were no material interest rate sensitivities at year-end. 
+Price risk
+The group’s exposure to other price risk relates to fluctuations in the share price of the company as a result  
+of the options that have been granted to employees in terms of the long-term incentive scheme  
+(refer note 24.1). The group uses derivative financial instruments in the form of options to hedge exposure 
+in respect of fluctuations in the share scheme obligation arising from movements in the company’s share 
+price. Sufficient options were purchased in order to settle the total expected future obligation. As a result of 
+the hedging  relationship, movements in the company share price will not have a material impact on either 
+profit or loss or equity of the group.
+Credit risk
+Credit risk is the risk of financial loss to the group if a customer or counterparty to a financial instrument fails 
+to meet its contractual obligations and arises primarily from the group’s receivables. Credit risk is managed 
+on a group basis. Credit risk arises from cash and cash equivalents, money market investments, derivative 
+financial instruments and deposits with banks and financial institutions, as well as credit exposures to 
+Distribution and Retail customers, including outstanding receivables and committed transactions.
+Trade and other receivables
+The group’s exposure to credit risk is influenced mainly by the individual characteristics of each customer. 
+In relation to the Retail business, trade receivables primarily relate to recoverables from vendors with which 
+the group has a trading relationship and medical aids with respect to pharmacy recoverables, while in 
+Distribution customers (excluding intercompany) are primarily hospitals and independent pharmacists.
+In relation to the Distribution business, the risk management has been delegated to the management of  
+the subsidiary business.
+Management has a credit policy in place and the exposure to credit risk is monitored on an ongoing basis. 
+Credit evaluations are performed on all customers.
+Credit Guarantee Insurance Corporation of Africa Limited is utilised to cover the majority of wholesale 
+customers with a credit balance over a predetermined amount.
+Goods are sold subject to retention of title clauses in Distribution so that in the event of non-payment the 
+group may have a secured claim.
+The group establishes an allowance for impairment that represents its estimate of expected credit losses in 
+respect of trade and other receivables.
+The main components of this allowance are specific loss components that relate to individually significant 
+exposures, and a collective loss component established for groups of similar assets in respect of losses that 
+have been expected but not yet identified.
+The collective loss allowance is determined based on historical data of payment statistics of similar financial 
+assets and forward-looking information.
+Notes to the annual financial statements continued
+39
+Clicks Group Audited annual financial statements 2024
+
+--- PAGE 41 (matched: fx_exposure) ---
+28	
+Financial risk management (continued)
+Liquidity risk
+Liquidity risk is the risk that the group will not be able to meet its financial obligations as they fall due.
+The group’s approach is to ensure, as far as possible, that it will always have sufficient liquidity to meet its liabilities 
+when due, under both normal and stressed conditions, without incurring unacceptable losses or risk damage 
+to the group’s reputation. Due to the dynamic nature of the underlying businesses, group treasury maintains 
+flexibility in funding by holding availability through credit lines. No significant concentrations of liquidity risk.  
+At year-end  the group’s total uncommitted facilities available were R4 139 million and USD62 million (2023:  
+R3 639 million and USD62 million). See note 29.5 for details for maturity analysis of the group’s financial liabilities.
+Capital risk management
+The group’s objectives when managing capital are to safeguard the group’s ability to continue as a going 
+concern in order to provide returns for shareholders and benefits for other stakeholders, and to maintain an 
+optimal capital structure to reduce the cost of capital.
+In order to maintain or adjust the capital structure, the group may adjust the amount of dividends paid to 
+shareholders, return capital to shareholders and issue new shares. The group’s target of maintaining a ratio of 
+shareholders’ interest to total assets is in the range of 30% to 35%. This is obtained through achieving the group’s 
+earnings targets, management of working capital, share buy-backs and dividends.
+In 2024 the shareholders’ interest to total assets was 30.2% (2023: 31.3%).
+29
+Financial instruments
+Market risk
+29.1
+Treasury risk management
+The treasury committee meets on a regular basis to analyse currency and interest rate exposures and 
+re-evaluate treasury management strategies.
+29.2
+Foreign exchange risk management
+The group is exposed to foreign currency risk as it imports merchandise. This risk is mitigated by 
+entering into forward exchange contracts. These contracts are matched with anticipated future cash 
+flows in foreign currencies.
+The group does not use forward exchange contracts for speculative purposes.
+The group has measured these instruments at fair value (see note 16).
+Exposure to currency risk – foreign exchange contracts
+31 August 2024
+31 August 2023
+USD
+‘000
+GBP
+‘000
+EUR
+‘000
+CNY
+‘000
+USD
+‘000
+GBP
+‘000
+EUR
+‘000
+CNY
+‘000
+Forecast purchases 
+and payables due at 
+the end of the year
+  23 369 
+4 226
+8 212
+91 198
+25 975
+3 465
+8 203
+111 152
+Forward exchange 
+contracts subject to 
+cash flow hedging
+  21 229 
+2 809
+4 305
+91 558
+18 290
+1 400
+5 311
+76 759
+Net exposure
+  2 140 
+1 417
+3 907
+(360)
+7 685
+2 065
+2 892
+34 393
+The following exchange rates applied during the year:
+Average rate
+Reporting date 
+mid-spot rate
+ 2024 
+ 2023 
+ 2024 
+ 2023 
+USD
+ 18.66 
+ 18.07 
+ 17.75 
+ 18.71 
+GBP
+ 23.53 
+ 22.02 
+ 23.38 
+ 23.80 
+EUR
+ 20.16 
+ 19.18 
+ 19.66 
+ 20.43 
+CNY
+ 2.58 
+ 2.56 
+ 2.51 
+ 2.58 
+Foreign exchange rate sensitivity analysis
+The following table details the group’s sensitivity to a 10% strengthening in the South African Rand 
+against the relevant foreign currencies. 10% is the sensitivity rate used when reporting foreign 
+currency risk internally to management personnel and represents management’s assessment 
+of a reasonably possible change in foreign exchange rates. The sensitivity analysis includes only 
+outstanding foreign currency denominated monetary items and their adjusted translation for a 10% 
+change in foreign currency rates.
+USD impact
+GBP impact
+EUR impact
+CNY impact
+ 2024 
+R’000
+ 2023 
+R’000
+ 2024 
+R’000
+ 2023 
+R’000
+ 2024 
+R’000
+ 2023 
+R’000
+ 2024 
+R’000
+ 2023 
+R’000
+Decrease in pre-tax 
+other comprehensive 
+income
+(39 145)
+(33 736)
+(6 601)
+(3 320)
+(8 667)
+(10 808)
+(23 624)
+(19 974)
+Increase in  
+profit before tax
+ 3 799 
+ 14 383 
+ 3 312 
+ 4 916 
+ 7 682 
+ 5 909 
+(91)
+ 8 890 
+For a 10% weakening of the South African Rand against the relevant currency, there would be an 
+equal but opposite increase in equity.
+Notes to the annual financial statements continued
+40
+Clicks Group Audited annual financial statements 2024
+
+--- PAGE 42 (matched: receivables_payables) ---
+29
+Financial instruments (continued)
+29.3
+Fair values of financial instruments
+The fair values of financial assets and liabilities, together with the carrying amounts shown in the 
+statement of financial position, are as follows:
+31 August 2024
+31 August 2023
+Carrying 
+value
+R’000
+Fair 
+value
+R’000
+Carrying 
+value
+R’000
+Fair
+ value
+R’000
+Financial assets
+Trade receivables (see note 18)
+Amortised cost
+1 970 498
+1 970 498
+ 2 049 998  2 049 998 
+Logistics fees and other 
+receivables (see note 18)
+Amortised cost
+  474 631 
+  474 631 
+  424 257 
+  424 257 
+Loans receivable (see note 14)
+Amortised cost
+  171 396 
+  171 396 
+  158 627 
+  158 627 
+Financial assets at fair value 
+through profit or loss (see note 15)
+Financial assets 
+at fair value 
+through profit  
+or loss
+  180 775 
+  180 775 
+  163 406 
+  163 406 
+Cash and cash equivalents 
+Amortised cost
+ 2 704 961 
+ 2 704 961 
+ 2 455 176 
+ 2 455 176 
+Equity derivative contracts 
+designated as hedging 
+instruments (see note 16)
+Financial assets 
+at fair value 
+through OCI
+  29 433 
+  29 433 
+  7 973 
+  7 973 
+Forward exchange contracts 
+designated as hedging 
+instruments (see note 16)
+Financial assets 
+at fair value 
+through OCI
+–
+–
+  13 269 
+  13 269 
+Financial liabilities
+Trade and other payables  
+(see note 26)
+Financial 
+liabilities 
+measured at 
+amortised cost
+9 228 261
+9 228 261
+ 8 625 016 
+ 8 625 016 
+Forward exchange contracts  
+designated as hedging 
+instruments (see note 16)
+Financial 
+liabilities 
+measured at fair 
+value through 
+OCI
+  16 360 
+  16 360 
+  1 633 
+  1 633 
+Basis for determining fair values
+The following summarises the significant methods and assumptions used in estimating the fair values of 
+financial instruments reflected in the table above.	
+Derivatives
+Fair values of currency and equity derivatives are calculated using standard market calculation 
+conventions with reference to the relevant closing market spot rates, forward foreign exchange and 
+share price.
+Non-derivative financial assets and liabilities
+Fair value is calculated based on the present value of future principal and interest cash flows, discounted 
+at the market rate of interest at the reporting date except for the insurance cell captive where fair value is 
+determined based on the net asset value at the reporting date.
+The fair value of unit trusts are determined by reference to the quoted price in an active market.
+The table below provides the valuation method of financial instruments carried at fair value.  
+The different levels have been defined as follows:
+Level 1 – 	Quoted prices (unadjusted) in active markets for identical assets and liabilities.
+Level 2 – Inputs other than quoted prices included within level 1 that are observable for the asset or 
+liability, either directly (i.e. prices) or indirectly (i.e. derived from prices).
+Level 3 – 	Inputs for the asset or liability that are not based on observable market data  
+(unobservable inputs).
+The fair value of financial instruments that are not traded in an active market is determined by using 
+valuation techniques. These valuation techniques maximise the use of observable market data where 
+it is available and rely as little as possible on entity-specific estimates. If all significant inputs required 
+to fair value an instrument are observable, the instrument is included in level 2.
+If one or more of the significant inputs is not based on observable market data, the instrument is 
+included in level 3.
+Financial assets and financial liabilities measured at fair value
+Level 1
+R’000
+Level 2
+R’000
+Level 3
+R’000
+Total
+R’000
+Group
+2024
+Financial assets
+Financial assets at fair value through profit or loss – 
+Investment in Guardrisk Insurance Company Limited 
+(see note 15)
+– 
+  14 688 
+– 
+  14 688 
+Financial assets at fair value through profit or loss – 
+collective investment schemes (see note 15)
+  166 087 
+– 
+– 
+  166 087 
+Equity derivative contracts designated as hedging 
+instruments (see note 16)
+– 
+  29 433 
+– 
+  29 433 
+Total
+  166 087 
+  44 121 
+–
+  210 208 
+Financial liabilities
+Forward exchange contracts designated as hedging 
+instruments (see note 16)
+– 
+(16 360)
+– 
+(16 360)
+Notes to the annual financial statements continued
+41
+Clicks Group Audited annual financial statements 2024
+
+--- PAGE 43 (matched: receivables_payables) ---
+29
+Financial instruments (continued)
+29.3
+Fair values of financial instruments (continued)
+Level 1
+R’000
+Level 2
+R’000
+Level 3
+R’000
+Total
+R’000
+Group
+2023
+Financial assets
+Financial assets at fair value through profit or loss – 
+Investment in Guardrisk Insurance Company Limited 
+(see note 15)
+– 
+  10 913 
+– 
+  10 913 
+Financial assets at fair value through profit or loss – 
+collective investment schemes (see note 15)
+  152 493 
+– 
+– 
+  152 493 
+Equity derivative contracts designated as hedging 
+instruments (see note 16)
+– 
+  7 973 
+– 
+  7 973 
+Forward exchange contracts designated as hedging 
+instruments (see note 16)
+– 
+  13 269 
+– 
+  13 269 
+Total
+  152 493 
+  32 155 
+– 
+  184 648 
+Financial liabilities
+Forward exchange contracts designated as hedging 
+instruments (see note 16)
+– 
+(1 633)
+– 
+(1 633)
+There have been no transfers between levels 1, 2 and 3 during the period.
+29.4
+Financial instruments (continued)
+29.4
+Credit risk management
+Credit risk refers to the risk that a counterparty may default on its contractual obligation resulting 
+in financial loss to the group. The group is exposed to credit risk arising from cash equivalents, a 
+money market investment, derivative financial instruments and deposits with  banks and financial 
+institutions, as well as credit exposures to Distribution and Retail customers, including outstanding 
+receivables and committed transactions. Management has a formal credit policy in place as a 
+means of mitigating the risk of financial loss to the group.
+The carrying amount of financial assets represents the maximum credit exposure. The maximum 
+exposure to credit risk at the reporting date was:
+Carrying amount
+ 2024
+R’000
+ 2023 
+R’000
+Derivative financial assets (see note 16)
+  29 433 
+  21 242 
+Trade receivables (see note 18)
+1 970 498
+ 2 049 998 
+Logistics fees and other receivables (see note 18)
+  474 631 
+  424 257 
+Cash and cash equivalents
+ 2 704 961 
+ 2 455 176 
+Loans receivable (see note 14)
+  171 396 
+  158 627 
+5 350 919
+ 5 109 300 
+Trade receivables
+The group’s exposure to credit risk is influenced mainly by the individual characteristics of each 
+customer. Management has a credit policy in place and exposure to credit risk is monitored on an 
+ongoing basis. Credit evaluations are performed on all customers who purchase from the group.  
+The group uses the expected credit loss model whereby a provision matrix is performed on the 
+simplified method to calculate the provision.
+Trade receivables can be categorised into Distribution customers and Retail customers.
+Carrying amount
+ 2024
+R’000
+ 2023 
+R’000
+Retail customers
+  90 750 
+  104 868 
+Distribution customers
+1 879 748
+ 1 945 130 
+1 970 498
+ 2 049 998 
+Notes to the annual financial statements continued
+42
+Clicks Group Audited annual financial statements 2024
+
+--- PAGE 44 (matched: receivables_payables) ---
+29
+Financial instruments (continued)
+29.4
+Credit risk management (continued)
+Expected credit loss model
+At each reporting date the group performs an impairment analysis using a provision matrix 
+to determine the expected credit loss of trade receivables. The receivables balances are 
+disaggregated according to similar characteristics and loss patterns, being pharmacy and wholesale 
+debtors. The group used historical loss rates, adjusted for forward-looking information as per the group 
+accounting policy to determine the loss rate as outlined below:
+The group’s trade receivables are stated net of impairment losses. An analysis of impairment losses 
+are as follows:
+Retail 
+Distribution 
+ 2024 
+R’000
+ 2023 
+R’000
+ 2024 
+R’000
+ 2023 
+R’000
+Balance at the beginning of the year
+(8 990)
+(25 353)
+(13 273)
+(16 362)
+Impairment allowance (recognised)/reversed 
+during the year
+ (38)
+  16 363 
+(2 249)
+(2 680)
+Trade receivables written off during the year as 
+uncollectable
+–
+–
+  1 258 
+  5 769 
+Balance at the end of the year
+(9 028)
+(8 990)
+(14 264)
+(13 273)
+The creation of impairment losses have been included in note 18.
+Amounts charged to the allowance account are generally written off to the financial asset when 
+there is no expectation of recovery.
+Retail customers
+The ageing of trade receivables at the reporting date was:
+2024 
+2023
+Loss
+ rate
+%
+Estimated
+gross
+carrying
+amount at
+default
+R’000
+Expected 
+credit loss
+R’000
+Net
+R’000
+Loss 
+rate 
+%
+Estimated
+ gross 
+carrying 
+amount at
+ default
+R’000
+Expected 
+credit 
+loss
+R’000
+Net
+R’000
+Not past due
+9.0
+  99 778 
+(9 028)
+  90 750 
+7.9
+  113 858 
+(8 990)  104 868 
+Retail trade receivables mainly relate to receivables from medical aids with respect to pharmacy 
+debtors. 
+Trade debtors are classified as past due when they have passed their payment date by one day.
+29
+Financial instruments (continued)
+29.4
+Credit risk management (continued)
+Distribution customers 
+The ageing of trade receivables at the reporting date was:
+2024
+2023
+Loss
+rate
+%
+Estimated 
+gross 
+carrying 
+amount at
+default
+R’000
+Expected
+ credit loss
+R’000
+Net
+R’000
+Loss
+rate
+%
+Estimated 
+gross 
+carrying 
+amount at
+ default
+R’000
+Expected
+ credit loss
+R’000
+Net
+R’000
+Not past due
+0.5
+1 788 762
+(8 226) 1 780 536
+0.4
+ 1 914 141 
+(7 541) 1 906 600 
+Past due  
+0 – 30 days
+0.5
+57 993
+(273)
+57 720
+0.3
+  24 349 
+(64)
+  24 285 
+Past due more 
+than 31 days
+12.2
+47 257
+(5 765)
+41 492
+28.5
+  19 913 
+(5 668)
+  14 245 
+Total
+0.8
+1 894 012
+(14 264) 1 879 748
+0.7
+ 1 958 403 
+(13 273) 1 945 130 
+Distribution customers are primarily hospitals and independent pharmacists. The Distribution business 
+minimises its exposure to credit risk by insuring debtors with balances greater than a predetermined 
+amount. There is an excess (which varies between hospitals and independent pharmacists) that is 
+carried by the Distribution business with the balance being covered by Credit Guarantee Insurance 
+Corporation of Africa Limited. 
+Insured debtors:
+Gross amount
+ 2024 
+R’000
+ 2023 
+R’000
+Insured 
+1 894 012
+ 1 958 403 
+The exposure to credit risk in respect of these debtors is managed through credit evaluations. Expected 
+credit losses are immaterial.
+Cash and cash equivalents
+The group’s banking facilities are with reputable institutions, all of which have a strong credit rating and 
+expected credit losses are immaterial.	
+Other loans
+Other loans are reviewed at least on an annual basis to assess their recoverability. The recoverability  
+of the loans have been assessed and no impairments have been noted. Expected credit losses on loans 
+are immaterial.
+Notes to the annual financial statements continued
+43
+Clicks Group Audited annual financial statements 2024
+
+--- PAGE 45 (matched: receivables_payables) ---
+29
+Financial instruments (continued)
+29.5
+Liquidity risk management
+Liquidity and interest risk tables
+The following tables detail the group’s remaining contractual maturity for its financial liabilities, 
+including interest payments and excluding the impact of netting agreements:
+Carrying 
+amount
+R’000
+Contractual 
+cash flows
+R’000
+Not later 
+than one
+ year
+R’000
+Later than 
+one year, 
+not later
+ than 
+five years
+R’000
+Later than 
+five years
+R’000
+2024
+Liabilities
+Derivative financial liabilities  
+(see note 16)
+  16 360 
+  16 360 
+  16 360 
+– 
+– 
+Trade and other payables  
+(see note 26)
+9 228 261
+9 228 261
+9 228 261
+– 
+– 
+Lease liabilities (see note 25)
+ 3 786 286 
+4 653 257
+ 1 313 733 
+ 3 091 296 
+  248 228 
+13 030 907
+13 897 878
+10 558 354
+ 3 091 296 
+  248 228 
+2023
+Liabilities
+Derivative financial liabilities  
+(see note 16)
+  1 633 
+  1 633 
+  1 633 
+– 
+– 
+Trade and other payables  
+(see note 26)
+ 8 625 016 
+ 8 625 016 
+ 8 625 016 
+– 
+– 
+Lease liabilities (see note 25)
+ 3 238 925 
+ 3 826 407 
+ 1 130 772 
+ 2 477 780 
+  217 855 
+ 11 865 574 
+ 12 453 056 
+ 9 757 421 
+ 2 477 780 
+  217 855 
+30 
+Capital commitments
+Group
+2024 
+R’000
+ 2023 
+R’000
+Capital expenditure approved by the directors
+Contracted
+102 054
+  142 032 
+Not contracted
+922 891
+  737 518 
+1 024 945
+  879 550 
+Capital commitments relate to the group’s investment in property, plant and equipment and intangible 
+assets to maintain and expand operations.
+The capital expenditure will be financed from internally generated funds and borrowings.
+31 
+Financial guarantees
+Group companies provide surety for other group companies to the value of R4 139 million and USD62 million 
+(2023: R3 639 million and USD62 million) with respect to facilities held with various banks. At year-end these 
+facilities had no drawings by group companies (2023: nil). The fair values of the financial guarantees are 
+considered negligible.
+32 
+Related party transactions
+32.1 Group
+Clicks Group Limited is the ultimate holding company of the group.
+Transactions between group subsidiaries
+During the year, in the ordinary course of business, certain companies within the group entered into 
+transactions with one another. These intragroup transactions have been eliminated on consolidation. 
+For a list of the group’s subsidiaries, see page 48.
+Related party transactions include:
+i) 	 dividends paid and received from subsidiary companies and associates;	
+ii) 	 interest received from or paid to subsidiary companies;	
+iii) 	loans to or from subsidiary companies;
+iv) 	sale of goods between subsidiary companies; and	
+v) 	 administration fees received from or paid to subsidiary companies.	
+Directors and key management
+Certain non-executive directors are also non-executive directors of other public companies which 
+transact with the group. The relevant directors do not believe that they have control, joint control or 
+significant influence over the financial or operating policies of those companies.
+Executive directors’ employment contracts do not provide for a defined period of employment, 
+but specify a notice period for the chief executive officer of 12 months and six months for the other 
+executive directors. During this notice period all standard benefits accrue to the directors in question. 
+Contracts do not provide for predetermined compensation on termination other than that accorded 
+to employees in terms of the group’s remuneration policies.
+Employee benefits paid to directors and key management personnel are detailed in note 4.
+Shares held by directors and their related entities
+The audited percentage of shares held by directors of the company at year-end is disclosed on  
+page 50.
+Notes to the annual financial statements continued
+44
+Clicks Group Audited annual financial statements 2024
+
+--- PAGE 46 (matched: context) ---
+32
+Related party transactions (continued)
+32.1
+Group (continued)
+Group
+2024 
+R’000
+ 2023 
+R’000
+Transactions with Sorbet Brands Proprietary Limited
+Dividends received
+–
+  1 137 
+Management fee received
+–
+  2 939 
+Royalties paid
+–
+  10 160 
+Transactions with Mistragystix Proprietary Limited
+Interest income
+  17 505 
+  14 185 
+Loan receivable
+  140 000 
+  110 000 
+Other related parties
+The group has identified The Clicks Helping Hand Trust as a related party because of the group’s 
+involvement in the charitable and developmental activities of the trust. The group has not 
+consolidated the trust as it is not exposed to variable returns from them and any non-financial benefit 
+is considered to be insignificant. The total net assets for the trust is R14 626 462 (2023: R17 539 630) and 
+a net surplus of R2 913 167 (2023: R2 778 325). Donations to the trust during the year from subsidiary 
+companies were:
+Group
+ 2024 
+R’000
+ 2023 
+R’000
+The Clicks Helping Hand Trust
+  6 045 
+  5 801 
+No financial benefits were derived by the group from this relationship.
+Contributions to pension and provident fund
+Contributions paid to pension and provident fund are included in note 4 and additional information 
+in note 24.
+32.2 Company
+The company has the following related party transactions:
+Company
+2024 
+R’000
+ 2023 
+R’000
+32.2.1 Dividends received
+New Clicks South Africa Proprietary Limited
+ 2 450 000 
+ 2 620 000 
+Clicks Group Eswatini Proprietary Liminted
+  35 000 
+–
+Total dividends received from related parties
+ 2 485 000 
+ 2 620 000 
+32.2.2 Loans by subsidiary companies
+New Clicks South Africa Proprietary Limited
+ 3 087 763 
+ 3 147 710 
+Clicks Centurion Proprietary Limited
+  9 000
+  9 000
+Clicks Group Eswatini Proprietary Limited
+31 500
+–
+3 128 263
+ 3 156 710 
+A schedule of the loans and investments in related parties is included on page 48.
+33 	
+Borrowing powers	
+In terms of the memorandum of incorporation, the borrowing powers of the company are unlimited.
+34 	
+Operating segments
+The group has identified two reportable segments, as described below.
+For each of the operating brands, the group’s chief decision-makers review internal management reports on 
+a monthly basis. The following describes the operations in each of the group’s reportable segments:
+Retail
+Retail comprises Clicks, a specialist health, beauty and homeware retailer; Sorbet, a franchising of hair 
+and beauty salons; 180 Degrees Marketing, a software development company; and The Body Shop, which 
+specialises in naturally inspired luxury toiletries, cosmetics, gifting and grooming, with stores in the Republic 
+of South Africa, Namibia, Eswatini, Botswana and Lesotho. The revenue, assets and liabilities recognised in 
+countries outside of South Africa are not significant in relation to those recognised locally.
+Distribution
+UPD is a national full-range pharmaceutical wholesaler and also provides distribution capability for the  
+Clicks Group. UPD operates within the Republic of South Africa.	
+The information regarding the results of each reportable segment is included on page 13. Performance 
+is measured based on segment trading profit, as included in the internal management reports that are 
+reviewed by the group’s chief operating decision-makers. Segment profit is used to measure performance 
+as management believes that such information is the most relevant in evaluating the results of certain 
+segments relative to other entities that operate within these industries. Inter-segment transactions are on  
+an arm’s length basis.
+Major customers
+There are no external customers that account for more than 10% of the group’s revenue.
+35	
+Events after reporting date
+On 24 October 2024 a final gross cash dividend of 566.0 cents per share (R1 347.4 million) was declared out 
+of distributable reserves.
+Notes to the annual financial statements continued
+45
+Clicks Group Audited annual financial statements 2024
+
+--- PAGE 47 (matched: receivables_payables) ---
+Company statement  
+of comprehensive income
+Company statement  
+of changes in equity
+Company statement 
+of financial position
+for the year ended 31 August 2024
+for the year ended 31 August 2024
+at 31 August 2024
+Notes
+ 2024 
+R’000
+ 2023 
+R’000
+Dividend income from subsidiary
+32.2.1
+ 2 485 000 
+ 2 620 000 
+Bank charges
+(10)
+(9)
+Operating costs
+(64)
+(54)
+Profit before financing cost
+ 2 484 926 
+ 2 619 937 
+Financial income
+  2 180 
+ 1 868
+Profit before taxation
+ 2 487 106 
+ 2 621 805 
+Income tax expense
+7
+(4 069)
+(502)
+Profit for the year
+ 2 483 037 
+ 2 621 303 
+Other comprehensive income for the year, net of tax
+–
+–
+Total comprehensive income for the year
+ 2 483 037 
+ 2 621 303 
+Notes
+ 2024 
+R’000
+ 2023 
+R’000
+Assets
+Non-current assets
+Interest in subsidiary companies (see page 48)
+ 3 753 013 
+ 3 781 460 
+Current assets
+  2 155 
+492
+Cash and cash equivalents
+  2 155 
+492
+Total assets
+ 3 755 168 
+ 3 781 952 
+Equity
+ 3 744 903 
+ 3 772 616 
+Share capital
+19
+  2 381 
+  2 412 
+Share premium
+19
+ 3 301 189 
+ 3 301 189 
+Distributable reserve
+  441 333 
+  469 015 
+Current liabilities
+  10 265 
+  9 336 
+Trade and other payables
+  2 268 
+  1 275 
+Income tax payable
+  7 997 
+  8 061 
+Total equity and liabilities
+ 3 755 168 
+ 3 781 952 
+Number 
+of shares
+(Note 19)
+‘000
+Share
+capital
+(Note 19)
+R’000
+Share
+premium
+(Note 19)
+R’000
+Distributable
+reserve
+R’000
+Total
+R’000
+Balance at 1 September 2022
+ 243 970 
+ 2 440 
+ 3 301 189 
+ 113 998 
+ 3 417 627 
+Total comprehensive income for the year
+–
+ – 
+–
+ 2 621 303 
+ 2 621 303 
+Shares repurchased and cancelled
+(2 809)
+(28)
+–
+(703 492)
+(703 520)
+Dividend declared to shareholders (see note 27)
+–
+ – 
+–
+(1 562 794)
+(1 562 794)
+Balance at 31 August 2023
+ 241 161 
+ 2 412 
+ 3 301 189 
+ 469 015 
+ 3 772 616 
+Total comprehensive income for the year
+ – 
+ – 
+–
+ 2 483 037 
+ 2 483 037 
+Shares repurchased and cancelled 
+(3 099)
+(31)
+–
+(834 759)
+(834 790)
+Dividend declared to shareholders (see note 27)
+ – 
+ – 
+–
+(1 675 960)
+(1 675 960)
+Balance at 31 August 2024
+ 238 062 
+ 2 381 
+ 3 301 189 
+ 441 333 
+ 3 744 903 
+46
+Clicks Group Audited annual financial statements 2024
+
+--- PAGE 48 (matched: receivables_payables) ---
+2024 
+R’000
+Restated
+2023
+R’000
+Cash effects of operating activities
+Loss before working capital changes
+ (74)
+(63)
+Working capital changes
+ 993 
+(930)
+Cash generated by operations
+ 919 
+(993)
+Interest received
+ 2 180 
+ 1 868 
+Taxation paid
+ (4 133)
+(434)
+Cash (outflow)/inflow from operating activities before dividends paid
+(1 034)
+ 441 
+Dividends paid to shareholders
+(1 675 960)
+(1 562 794)
+Net cash effects of operating activities
+ (1 676 994)
+(1 562 353)
+Cash effects of investing activities
+Loan from/(to) subsidiaries*
+59 947
+–
+Dividends received from subsidiary*
+2 453 500
+2 265 124
+Net cash effects of investing activities
+ 2 513 447 
+ 2 265 124 
+Cash effects of financing activities
+Shares repurchased
+ (834 790)
+(703 520)
+Net cash effects of financing activities
+(834 790)
+(703 520)
+Net movement in cash and cash equivalents
+ 1 663 
+(749)
+Cash and cash equivalents at the beginning of the year
+ 492 
+ 1 241 
+Cash and cash equivalents at the end of the year
+ 2 155 
+ 492 
+ 2024 
+R’000
+ 2023 
+R’000
+Loss before working capital changes
+Profit before taxation
+ 2 487 106 
+ 2 621 805 
+Adjustment for:
+Dividend received
+(2 485 000)
+(2 620 000)
+Financial income
+(2 180)
+(1 868)
+(74)
+(63)
+Working capital changes
+Increase/(decrease) in trade and other payables
+ 993 
+(930)
+ 993 
+(930)
+Taxation paid
+Income tax payable at the beginning of the year
+  8 061 
+  7 993 
+Current tax charge
+  4 069 
+   502 
+Income tax payable at the end of the year
+(7 997)
+(8 061)
+ 4 133 
+434
+Company statement  
+of cash flows
+Notes to the company statement 
+of cash flows
+for the year ended 31 August 2024
+for the year ended 31 August 2024
+*	 The 2023 cash flow statement has been restated. The line items impacted have been marked with an asterisk (*). 
+As a result of the correction, loans to subsidiaries and dividends received from subsidiary both reduced by  
+R354.9 million. The net cash effects of investing activities of R2 265.1 million remained unchanged. The restatement 
+had no impact on the statements of comprehensive income or financial position of the company.
+47
+Clicks Group Audited annual financial statements 2024
+
+--- PAGE 49 (matched: context) ---
+Interest in subsidiary companies
+at 31 August
+Name of company/entity and nature of business
+Country of
+incorporation
+ Ordinary issued 
+share capital/
+trust capital1 
+Shares at cost less amounts written off
+Amount owing by subsidiaries2
+ 2024 
+ R’000
+ 2023 
+ R’000
+ 2024 
+ R’000
+ 2023 
+ R’000
+Directly held
+i)
+Trading
+New Clicks South Africa Proprietary Limited
+South Africa
+ R500 
+  272 439 
+ 272 439 
+ 3 087 763 
+ 3 147 710 
+ii)
+Property owning
+Clicks Centurion Proprietary Limited
+South Africa
+ R10 
+ * 
+ * 
+ 9 000 
+ 9 000 
+iii)
+New Clicks Foundation Trust
+South Africa
+R5 000
+ – 
+ – 
+ – 
+ – 
+Indirectly held
+i)
+Trading
+Clicks Group (Eswatini) Proprietary Limited
+Eswatini
+       E2 
+ – 
+ – 
+31 500
+ – 
+The Clicks Organisation (Botswana) Proprietary Limited
+Botswana
+ BWP3 000 
+ – 
+ – 
+ – 
+ – 
+Clicks Group (Namibia) Proprietary Limited
+Namibia
+ N$100 
+ – 
+ – 
+ – 
+ – 
+Clicks Group (Lesotho) Proprietary Limited
+Lesotho
+ M1 000 
+ – 
+ – 
+ – 
+ – 
+Clicks Retailers Proprietary Limited
+South Africa
+ R200 
+ – 
+ – 
+ – 
+ – 
+Clicks Investments Proprietary Limited
+South Africa
+ R16 685 175 000 
+ – 
+ – 
+ – 
+ – 
+180 Degrees Services Proprietary Limited
+South Africa
+ R120 
+ – 
+ – 
+ – 
+ – 
+K2021423995 (South Africa) Proprietary Limited
+South Africa 
+ R100 
+ – 
+ – 
+ – 
+ – 
+180 Degrees Marketing Proprietary Limited
+South Africa 
+ R100 
+ – 
+ – 
+ – 
+ – 
+Sorbet Group Proprietary Limited 
+South Africa 
+ R11 200 400 
+ – 
+ – 
+ – 
+ – 
+H. Mallach and Associates Proprietary Limited (trading as M-Kem)
+South Africa 
+ R100 
+ – 
+ – 
+ – 
+ – 
+ii)
+Name protection and dormant
+Two companies (2023: two companies)
+ – 
+ – 
+ – 
+ – 
+  272 439 
+ 272 439 
+ 3 128 263 
+ 3 156 710 
+Shares at cost less amounts written off
+  272 439 
+ 272 439 
+Amounts owing by subsidiary companies
+ 3 128 263 
+3 156 710
+Share-based payments capitalised
+  352 311 
+ 352 311 
+Interest in subsidiaries
+ 3 753 013 
+ 3 781 460 
+All other loans are interest free, unsecured and repayable by agreement.
+* 	
+Values less than R1 000.
+1 	
+All directly and indirectly owned subsidiaries are wholly owned by group.
+2 	
+There is no intention for the company to recall the loans in the next 12 months after the reporting date.
+48
+Clicks Group Audited annual financial statements 2024
+

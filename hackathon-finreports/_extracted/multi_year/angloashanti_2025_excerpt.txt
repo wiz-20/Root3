@@ -1,0 +1,6991 @@
+Source: ERDEC25.pdf
+Target fiscal year: 2025
+Total relevant pages extracted: 37
+================================================================================
+
+--- PAGE 5 (matched: context) ---
+2025   I   GROUP PERFORMANCE
+ CONTINUED
+Q4 2025 EARNINGS RELEASE
+6
+OPERATIONAL HIGHLIGHTS
+•
+TRIFR at managed operations was 0.97 injuries per million hours worked in 2025, well below industry benchmarks
+•
+Gold production for the Group(1)(2)(3) increased by 16% year-on-year in 2025, reaching 3,091koz compared to 2,661koz 
+in 2024 
+•
+Sukari contributed 500,000oz in gold production for 2025, cementing itself as a Tier 1 asset for the Group
+•
+Obuasi delivered a strong 266,000oz in 2025, a 20% year-on-year increase, as underground mined tonnes and grade 
+improved, together with an uplift in plant recoveries, while Siguiri also grew production by 6% year-on-year 
+•
+Gold production from managed operations(1)(2)(3) rose 19% year-on-year to 2,788koz in 2025, up from 2,352koz in 2024, 
+supported by consistent production delivery from Sukari, Obuasi, Siguiri, Geita, Cerro Vanguardia and Cuiabá 
+•
+Australia’s gold production was lower year-on-year in 2025, in line with internal expectations
+•
+Total cash costs per ounce* for the Group(1)(2) increased 7% to $1,242/oz in 2025, from $1,157/oz in 2024; AISC per 
+ounce* for the Group(1)(2) rose 6% to $1,709/oz in 2025, from $1,611/oz in 2024
+•
+Total cash costs per ounce* from managed operations(1)(2) increased 5% year-on-year to $1,252/oz in 2025, from 
+$1,187/oz in 2024 mainly driven by cost inflation reflecting increases in labour, consumable stores and mining contractor 
+costs, and higher gold royalty costs
+•
+AISC per ounce* from managed operations(1)(2) rose 5% year-on-year to $1,751/oz in 2025, from $1,672/oz in 2024, 
+reflecting higher total cash costs per ounce* and higher sustaining capital expenditure* reinvestment
+•
+AngloGold Ashanti achieved full-year 2025 guidance for gold production. AISC per ounce* and total cash costs per 
+ounce* were marginally above guidance due to higher royalty costs related to the higher gold price
+* Refer to “Non-GAAP disclosure” for definitions and reconciliations.
+OPERATING RESULTS
+Quarter
+Quarter
+Year
+Year
+ended
+ended
+%
+ended
+ended
+%
+Dec
+Dec
+Variance
+Dec
+Dec
+Variance
+US Dollar millions, except as otherwise noted
+2025
+2024
+2025
+2024
+Gold production - Group(1)(2)(3) (koz)
+ 
+799  
+750 
+ 7 % 
+3,091  
+2,661 
+ 16 %
+Gold production - Managed operations(1)(2)(3)(koz)
+ 
+720  
+670 
+ 7 % 
+2,788  
+2,352 
+ 19 %
+Total cash costs* - Group(1)(2) ($/oz)
+ 
+1,292  
+1,144 
+ 13 % 
+1,242  
+1,157 
+ 7 %
+Total cash costs* - Managed operations(1)(2) ($/oz)
+ 
+1,307  
+1,165 
+ 12 % 
+1,252  
+1,187 
+ 5 %
+AISC* - Group(1)(2) ($/oz)
+ 
+1,805  
+1,647 
+ 10 % 
+1,709  
+1,611 
+ 6 %
+AISC* - Managed operations(1)(2) ($/oz)
+ 
+1,881  
+1,702 
+ 11 % 
+1,751  
+1,672 
+ 5 %
+
+--- PAGE 6 (matched: revenue_cos_opex) ---
+KEY STATISTICS
+Quarter
+Quarter
+Year
+Year
+ended
+ended
+ended
+ended
+Dec
+Dec
+Dec
+Dec
+US Dollar millions, except as otherwise noted
+2025
+2024
+2025
+2024
+Operating review
+Gold
+Produced - Group(1)(2)(3)
+- oz (000)
+ 
+799  
+750  
+3,091  
+2,661 
+Produced - Managed operations(1)(2)(3)
+- oz (000)
+ 
+720  
+670  
+2,788  
+2,352 
+Produced - Non-managed joint ventures(1)
+- oz (000)
+ 
+79  
+80  
+303  
+309 
+Sold - Group(1)(2)(3)
+- oz (000)
+ 
+803  
+725  
+3,105  
+2,679 
+Sold - Managed operations(1)(2)(3)
+- oz (000)
+ 
+725  
+647  
+2,807  
+2,370 
+Sold - Non-managed joint ventures(1)
+- oz (000)
+ 
+78  
+78  
+298  
+309 
+Financial review
+Gold income
+- $m
+ 
+3,023  
+1,716  
+9,730  
+5,673 
+Cost of sales - Group(1)(2)
+- $m
+ 
+1,521  
+1,144  
+5,454  
+4,106 
+Cost of sales - Managed operations(1)(2)
+- $m
+ 
+1,425  
+1,043  
+5,022  
+3,726 
+Cost of sales - Non-managed joint ventures(1)
+- $m
+ 
+96  
+101  
+432  
+380 
+Total operating costs
+- $m
+ 
+986  
+815  
+3,655  
+2,911 
+Gross profit
+- $m
+ 
+1,643  
+707  
+4,871  
+2,067 
+Average gold price received per ounce* - Group(1)(2)
+- $/oz
+ 
+4,171  
+2,653  
+3,468  
+2,394 
+Average gold price received per ounce* - Managed operations(1)(2)
+- $/oz
+ 
+4,172  
+2,652  
+3,466  
+2,393 
+Average gold price received per ounce* - Non-managed joint ventures(1)
+- $/oz
+ 
+4,162  
+2,662  
+3,483  
+2,401 
+All-in sustaining costs per ounce* - Group(1)(2)
+- $/oz
+ 
+1,805  
+1,647  
+1,709  
+1,611 
+All-in sustaining costs per ounce* - Managed operations(1)(2)
+- $/oz
+ 
+1,881  
+1,702  
+1,751  
+1,672 
+All-in sustaining costs per ounce* - Non-managed joint ventures(1)
+- $/oz
+ 
+1,108  
+1,188  
+1,317  
+1,146 
+Total cash costs per ounce* - Group(1)(2)
+- $/oz
+ 
+1,292  
+1,144  
+1,242  
+1,157 
+Total cash costs per ounce* - Managed operations(1)(2)
+- $/oz
+ 
+1,307  
+1,165  
+1,252  
+1,187 
+Total cash costs per ounce* - Non-managed joint ventures(1)
+- $/oz
+ 
+1,156  
+967  
+1,148  
+935 
+Profit before taxation
+- $m
+ 
+1,444  
+698  
+4,276  
+1,672 
+Adjusted EBITDA*
+- $m
+ 
+2,175  
+884  
+6,294  
+2,747 
+Total borrowings
+- $m
+ 
+2,258  
+2,125  
+2,258  
+2,125 
+Adjusted net debt (cash)*
+- $m
+ 
+(879)  
+567  
+(879)  
+567 
+Profit attributable to equity shareholders
+- $m
+ 
+855  
+470  
+2,636  
+1,004 
+- US cents/share
+ 
+168  
+103  
+519  
+233 
+Headline earnings(4)
+- $m
+ 
+967  
+405  
+2,725  
+954 
+- US cents/share
+ 
+190  
+89  
+537  
+221 
+Net cash inflow from operating activities
+- $m
+ 
+1,622  
+690  
+4,784  
+1,968 
+Free cash flow*
+- $m
+ 
+1,050  
+302  
+2,908  
+956 
+Capital expenditure - Group(1)(2)
+- $m
+ 
+495  
+369  
+1,600  
+1,215 
+Capital expenditure - Managed operations(1)(2)
+- $m
+ 
+454  
+333  
+1,449  
+1,090 
+Capital expenditure - Non-managed joint ventures(1)
+- $m
+ 
+41  
+36  
+151  
+125 
+(1) The term “managed operations” refers to subsidiaries managed by AngloGold Ashanti and included in its consolidated reporting, while the term “non-managed joint 
+ventures” (i.e., Kibali) refers to equity-accounted joint ventures that are reported based on AngloGold Ashanti’s share of attributable earnings and are not managed 
+by AngloGold Ashanti. Managed operations are reported on a consolidated basis. Non-managed joint ventures are reported on an attributable basis. 
+(2) On 22 November 2024, the acquisition of Centamin was successfully completed. Centamin has been included from the effective date of the acquisition.
+(3) Includes gold concentrate from the Cuiabá mine sold to third parties.
+(4) The financial measures “headline earnings (loss)” and “headline earnings (loss) per share” are not calculated in accordance with IFRS® Accounting Standards, but in 
+accordance with the Headline Earnings Circular 1/2023, issued by the South African Institute of Chartered Accountants (SAICA), at the request of the Johannesburg 
+Stock Exchange Limited (JSE). These measures are required to be disclosed by the JSE Listings Requirements and therefore do not constitute Non-GAAP financial 
+measures for purposes of the rules and regulations of the US Securities and Exchange Commission (“SEC”) applicable to the use and disclosure of Non-GAAP 
+financial measures.
+* Refer to “Non-GAAP disclosure” for definitions and reconciliations.
+$ represents US Dollar, unless otherwise stated.
+Rounding of figures may result in computational discrepancies.
+GROUP   I   FINANCIAL AND OPERATING KEY STATISTICS
+ 
+Q4 2025 EARNINGS RELEASE
+7
+
+--- PAGE 7 (matched: context) ---
+Gold production
+Group gold production for Q4 2025 totalled 799,000oz, a 7% 
+increase from 750,000oz in Q4 2024. This strong year-on-
+year growth was mainly the result of another full-quarter 
+production contribution from Sukari, combined with solid gold 
+production increases at Obuasi (+12koz), Siguiri (+11koz) 
+and Cuiabá (+2koz). The Group experienced lower gold 
+production at Geita (-23koz), mainly due to lower mined 
+grades from underground operations, and lower plant 
+recoveries from poor grinding and underperformance of the 
+gravity gold circuit; at Serra Grande (-11koz), which was sold 
+on 1 December 2025; at Sunrise Dam (-8koz), mainly due to 
+lower recovered grade resulting from mine plan changes and 
+lower loader and stope availability; at Tropicana (-7koz), 
+mainly due to a higher proportion of lower grade stockpile 
+ore processed; and at Cerro Vanguardia (-5koz), mainly due 
+to lower tonnes treated from open pit operations. Gold 
+production at Iduapriem, and Kibali remained largely 
+unchanged year-on-year. 
+Group gold production for 2025 totalled 3,091,000oz, a 16% 
+increase from 2,661,000oz in 2024. This strong year-on-year 
+growth was mainly driven by the addition of Sukari 
+production into the portfolio, and production improvements at 
+Obuasi (+45koz), Siguiri (+16koz), Geita (+9koz), Cerro 
+Vanguardia (+4koz) and Cuiabá (+2koz). The Group 
+experienced lower gold production at Iduapriem (-38koz), 
+Sunrise Dam (-27koz), Serra Grande (-27koz), Tropicana 
+(-8koz) and Kibali (-6koz).
+Obuasi delivered significant improvements for both the 
+quarter and year, with gold production increasing by 20% in 
+Q4 2025 compared to Q4 2024, as well as a 20% year-on-
+year increase in 2025 compared to 2024. These increases 
+were mainly driven by an increase in tonnes treated from 
+underground operations; overcoming the ventilation and 
+equipment constraints experienced in 2024; and an increase 
+in recovered grades due to a combination of higher 
+underground feed grades, together with the commissioning 
+and optimisation of a second flash cell.
+Siguiri also delivered a solid Q4 2025 and 2025 full year, 
+with gold production increasing by 15% in Q4 2025 
+compared to Q4 2024, benefiting from an increase in 
+recovered grade, with higher plant recoveries due to 
+improved carbon management, and an increase in tonnes 
+treated due to higher mill run time.
+Costs
+Total cash costs per ounce* for the Group increased by 13% 
+year-on-year to $1,292/oz in Q4 2025, compared to $1,144/
+oz in Q4 2024. The increase was largely driven by higher 
+royalty costs linked to the stronger average gold price 
+received per ounce*, which resulted in an estimated 8% 
+increase in total cash costs per ounce*. In addition, costs 
+increased as a result of an estimated 4% rise in inflation 
+mainly due to increases in labour, consumable stores and 
+mining contractor costs, reflecting consumer price index 
+(“CPI”) movements in the jurisdictions where the Group 
+operates.
+Managed operations recorded a 12% year-on-year increase 
+in total cash costs per ounce*, rising from $1,165/oz in Q4 
+2024 to $1,307/oz in Q4 2025. In addition to the impact of 
+the higher gold royalties, the increase reflects lower gold 
+production at Geita, Sunrise Dam, Tropicana, Cerro 
+Vanguardia and Serra Grande, as well as increases in 
+labour, consumable stores and contractor costs at Siguiri 
+and Obuasi. This increase was partially offset by the addition 
+of Sukari production to the portfolio, and stronger production 
+performances at Siguiri, Obuasi and Cuiabá.
+Total cash costs per ounce* at the Group’s non-managed 
+joint ventures increased by 20% year-on-year to $1,156/oz in 
+Q4 2025, compared to $967/oz in Q4 2024. The increase 
+was primarily driven by higher royalties and increases in 
+labour, consumable stores and mining contractor costs at 
+Kibali year-on-year.
+All-in sustaining costs per ounce* (“AISC”) for the Group 
+increased by 10% year-on-year to $1,805/oz in Q4 2025, 
+compared to $1,647/oz in Q4 2024. At the managed 
+operations, AISC per ounce* increased by 11% to $1,881/oz 
+in Q4 2025, up from $1,702/oz in Q4 2024, reflecting higher 
+total cash costs per ounce* and higher year-on-year 
+sustaining capital expenditure*. AISC per ounce* at the non-
+managed joint ventures decreased by 7% to $1,108/oz in Q4 
+2025, from $1,188/oz in Q4 2024, primarily due to a year-on-
+year decrease in rehabilitation and other expenditure at 
+Kibali.
+Total cash costs per ounce* for the Group increased by 7% 
+year-on-year to $1,242/oz for 2025, compared to $1,157/ oz 
+in 2024. This increase was primarily driven by higher royalty 
+costs linked to the stronger average gold price received per 
+ounce*, which resulted in an estimated 6% increase in total 
+cash costs per ounce*, and an estimated 3% rise in inflation 
+driven by higher labour, stores and mining contractor costs. 
+These impacts were partially offset by a favourable 
+cumulative foreign currency exchange rate against the US 
+dollar, which resulted in a 2% cost benefit.
+Managed operations reported a 5% year-on-year increase in 
+total cash costs per ounce*, from $1,187/oz in 2024 to 
+$1,252/oz in 2025. This increase was primarily driven by 
+higher gold royalty costs and higher labour, consumable 
+stores and mining contractor costs, including operational 
+challenges at Iduapriem, Sunrise Dam and Serra Grande. 
+This increase was partially offset by the inclusion of Sukari 
+production into the portfolio and strong operational 
+performances at Obuasi, Siguiri, Geita, Cerro Vanguardia 
+and Cuiabá.
+Total cash costs per ounce* at non-managed joint ventures 
+increased by 23% year-on-year to $1,148/oz for 2025, up 
+from $935/oz in 2024, primarily due to year-on-year 
+increases in labour, consumable stores and mining 
+contractor costs and higher gold royalties at Kibali.
+AISC per ounce* for the Group increased by 6% year-on-
+year to $1,709/oz in 2025, from $1,611/oz in 2024. For 
+managed operations, AISC per ounce* increased by 5% to 
+$1,751/oz for 2025, up from $1,672/oz in 2024, reflecting the 
+impact of higher total cash costs per ounce*, and higher 
+sustaining capital expenditure*, partially offset by the positive 
+impact of the inclusion of Sukari production in the portfolio. 
+AISC per ounce* at non-managed joint ventures increased 
+by 15% to $1,317/oz for 2025, compared to $1,146/oz for 
+2024, primarily due to increases in labour, consumable 
+stores and mining contractor costs and higher sustaining 
+capital expenditure*.
+Adjusted EBITDA* 
+Adjusted earnings before interest, tax, depreciation and 
+amortisation* (“Adjusted EBITDA*”) for Q4 2025 increased to 
+$2,175m, up from $884m in Q4 2024. This strong year-on-
+year growth was underpinned by a favourable operating and 
+GROUP   I   FINANCIAL AND OPERATING RESULTS
+ QUARTERLY REVIEW
+Q4 2025 EARNINGS RELEASE
+8
+
+--- PAGE 18 (matched: context) ---
+Corporate update
+Issued share capital
+As at 19 February 2026, the total issued ordinary share 
+capital of the Company consisted of 505,014,800 ordinary 
+shares of $1.00 each. Each AngloGold Ashanti ordinary 
+share carries one voting right. The Company does not hold 
+any of its ordinary shares in treasury.
+This figure may be used by AngloGold Ashanti shareholders 
+to determine whether they are required to notify their 
+interest, or a change to their interest, in the Company under 
+its Articles of Association or to comply with any other 
+applicable laws and regulations.
+Sale of the Serra Grande mine
+On 1 December 2025, AngloGold Ashanti completed the sale 
+of Mineração Serra Grande S.A., which owns the Serra 
+Grande mine (“MSG”) in the state of Goiás, Brazil, to Aura 
+Minerals Inc. 
+Quebradona
+On 20 June 2025, the Colombian Ministry of Environment 
+and Sustainable Development issued Resolution No. 855 of 
+2025, declaring a temporary renewable natural resources 
+reserve zone over multiple municipalities in the southwest of 
+the Department of Antioquia, including the area in which the 
+Quebradona project is located.
+Resolution No. 855 restricts mining activities for three years 
+(extendable for a further two years) while authorities may 
+conduct technical studies regarding the conservation value 
+of the area and subsequently determine whether to convert 
+the area to a permanent protected area or to withdraw the 
+temporary designation. No new environmental permits or 
+licences may be issued as long as Resolution No. 855 is in 
+force, though it expressly provides that existing concessions, 
+permits and licences must be respected.
+On 2 December 2025, the Company lodged an annulment 
+and redress claim against Resolution No. 855 before the 
+Colombian courts, which is currently pending the Court’s 
+admission.
+Change to Board of Directors
+Effective 27 October 2025, Mr. Marcus Randolph joined 
+AngloGold Ashanti’s board of directors as an independent 
+non-executive director. Mr. Randolph serves as a member of 
+the Compensation and Human Resources Committee and 
+the Social, Ethics and Sustainability Committee.
+Annual General Meeting (AGM)
+The Company's AGM will be held at, and will be broadcast 
+from, the Group’s global headquarters at 6363 S. Fiddlers 
+Green Circle, Suite 1000, Greenwood Village, CO 80111, 
+United States of America at 9:00 a.m. (MDT) on 5 May 2026, 
+with a record date of 13 March 2026. 
+Shareholders should refer to the Notice of Meeting which is 
+expected to be made available on the Company’s website on 
+or around 26 March 2026 at www.anglogoldashanti.com/
+investors/shareholders/general-meetings 
+for 
+further 
+information.
+Arthur Gold Project pre-feasibility study (a) (b) (c)
+With completion of the pre-feasibility (“PFS”), a Probable 
+Mineral Reserve of 4.9Moz of contained gold (88Mt at 1.75 
+g/t) and 7.8Moz of contained silver (88Mt at 2.76g/t) is 
+reported for the first time as at 31 December 2025 for the 
+Arthur Gold Project. This supports an initial nine-year mine 
+life with an estimated average annual production of 
+approximately 500,000oz.
+There is also a gold Indicated Mineral Resource of 1.0Moz 
+and a gold Inferred Mineral Resource of 5.5Moz in addition 
+to the gold Mineral Reserve of 4.9Moz as at 31 December 
+2025 at the Merlin deposit. Silver by-product at Merlin 
+includes a silver Indicated Mineral Resource of 2.0Moz and 
+a silver Inferred Mineral Resource of 13.7Moz. Drilling 
+programmes remain underway with the aim to convert 
+additional Mineral Resource, expand the mineralised 
+footprint and support additional technical studies.
+The Company expects that the Arthur Gold Project will have 
+a structurally competitive cost profile, with AISC per ounce* 
+estimated at $954/oz. This resilience is underpinned by 
+predominantly oxide mineralisation (>95%) and planned 
+conventional processing flowsheets. The development plan 
+envisions an integrated operation comprising a 7Mtpa milling 
+facility and a 5.5Mtpa crushed heap-leach circuit. The 
+Company anticipates that mining will utilize conventional 
+open-pit methods with electric rope shovels and ultra-class 
+haul trucks. To ensure environmental stewardship, the Arthur 
+Gold Project is planned to use filtered, dry-stacked tailings 
+for enhanced water conservation.
+The PFS report is expected to be presented to the AGA 
+Board of Directors for approval to transition to the feasibility 
+study phase in June 2026.
+Arthur 2026 Mineral Reserve Results Summary 
+Key Metric
+Mineral Reserve
+Initial Mineral Reserve @$1,950/oz
+88Mt @ 1.75g/t for 4.9Moz
+Gold Produced (Moz)
+c.4.5
+Ore Tonnes (Mtpa)
+c.12.75
+Life of Mine (Yrs) - initial
+c. 9
+Avg. Annual Production (koz)
+c. 500
+LOM Total Cash Costs* ($/oz)
+c.778
+LOM AISC ($/oz)
+c. 954
+Project Capital Expenditure* ($bn)
+c. 3.6
+(a) 
+The Pre-Feasibility Technical Report Summary for the Arthur Gold Project 
+will be filed as an exhibit to the Company’s annual report on Form 20-F 
+for the financial year ended 31 December 2025 to be filed with the SEC. 
+(b) 
+Arthur Gold Project Mineral Reserve and Mineral Resource estimates are 
+presented as at 31 December 2025, unless otherwise stated, and 
+economic estimates presented are calculated based on the Mineral 
+Reserve declared in the PFS only, exclusive of Mineral Resource. For 
+further information see “2025 Mineral Resource and Mineral Reserve 
+Information” below.
+(c) 
+The Company is not providing quantitative reconciliations to the most 
+directly comparable IFRS measures for its Non-GAAP forward-looking 
+information shown above in reliance on the exception provided by Rule 
+100(a)(2) of Regulation G because the reconciliations cannot be 
+performed without unreasonable efforts as such IFRS measures cannot 
+be reliably estimated due to their dependence on future uncertainties and 
+adjusting items, including, among other factors, changes in economic, 
+social, political and market conditions, including related to inflation or 
+international conflicts, the success of business and operating initiatives, 
+changes in the regulatory environment and other government actions, 
+including environmental approvals, fluctuations in gold prices and 
+exchange rates, the outcome of pending or future litigation proceedings, 
+any supply chain disruptions, any public health crises, pandemics or 
+epidemics, and other business and operational risks and challenges and 
+other factors, including mining accidents, that the Company cannot 
+reasonably predict at this time but which may be material.
+Exploration update
+For detailed disclosure on the exploration work done for the 
+three months ended 31 December 2025, see the Exploration 
+Update 
+document 
+on 
+the 
+Company’s 
+website 
+at 
+www.anglogoldashanti.com 
+on 
+both 
+brownfield 
+and 
+greenfield exploration programmes.
+REGIONS   I   FINANCIAL AND OPERATING RESULTS
+ QUARTER IN REVIEW CONTINUED
+Q4 2025 EARNINGS RELEASE
+19
+
+--- PAGE 19 (matched: revenue_cos_opex) ---
+GROUP INCOME STATEMENT
+Quarter
+Quarter
+Year
+Year
+ended
+ended
+ended
+ended
+Dec
+Dec
+Dec
+Dec
+2025
+2024
+2025
+2024
+US Dollar millions, except as otherwise noted
+Unaudited
+Unaudited
+Unaudited
+Unaudited
+Revenue from product sales
+ 
+3,068  
+1,750  
+9,893  
+5,793 
+Cost of sales
+ 
+(1,425)  
+(1,043)  
+(5,022)  
+(3,726) 
+Gross profit 
+ 
+1,643  
+707  
+4,871  
+2,067 
+Corporate administration, marketing and related expenses
+ 
+(45)  
+(32)  
+(138)  
+(118) 
+Exploration and evaluation costs
+ 
+(90)  
+(75)  
+(267)  
+(252) 
+(Impairment) reversal of impairment, (derecognition of assets) and profit (loss) 
+on disposal (1)
+ 
+(110)  
+72  
+(88)  
+58 
+Other expenses
+ 
+(62)  
+(26)  
+(248)  
+(144) 
+Finance income
+ 
+38  
+38  
+152  
+160 
+Foreign exchange and fair value adjustments
+ 
+16  
+29  
+(41)  
+(87) 
+Finance costs and unwinding of obligations
+ 
+(54)  
+(41)  
+(220)  
+(167) 
+Share of associates and joint ventures’ profit
+ 
+108  
+26  
+255  
+155 
+Profit before taxation
+ 
+1,444  
+698  
+4,276  
+1,672 
+Taxation
+ 
+(433)  
+(204)  
+(1,102)  
+(623) 
+Profit for the period
+ 
+1,011  
+494  
+3,174  
+1,049 
+Attributable to:
+Equity shareholders
+ 
+855  
+470  
+2,636  
+1,004 
+Non-controlling interests
+ 
+156  
+24  
+538  
+45 
+ 
+1,011  
+494  
+3,174  
+1,049 
+Basic earnings per ordinary share (US cents) (2)
+ 
+168  
+103  
+519  
+233 
+Diluted earnings per ordinary share (US cents) (3)
+ 
+168  
+103  
+519  
+233 
+(1) (Impairment) reversal of impairment, (derecognition of assets) and profit (loss) on disposal line item for the year ended 31 December 2025 includes an impairment 
+on Quebradona of $98m and a loss on disposal of $47m relating to the disposal of the Doropo and Archean-Birimian Contact (ABC) projects, partially offset by a 
+reversal of impairment for Mineração Serra Grande mine (MSG) of $59m (gross of taxation).
+(2) Calculated on the basic weighted average number of ordinary shares.
+(3) Calculated on the diluted weighted average number of ordinary shares.
+GROUP   I   FINANCIAL RESULTS
+ INCOME STATEMENT
+Q4 2025 EARNINGS RELEASE
+20
+
+--- PAGE 20 (matched: inventory_working_capital, receivables_payables) ---
+GROUP STATEMENT OF FINANCIAL POSITION
+As at
+As at
+Dec
+Dec
+2025
+2024
+US Dollar millions, except as otherwise noted
+Unaudited
+Unaudited
+Revised
+ASSETS
+Non-current assets
+Tangible assets
+ 
+8,515  
+8,512 
+Right of use assets
+ 
+187  
+123 
+Intangible assets
+ 
+106  
+98 
+Investments in associates and joint ventures
+ 
+726  
+530 
+Other investments
+ 
+12  
+54 
+Loan receivable
+ 
+200  
+203 
+Inventories
+ 
+175  
+158 
+Trade, other receivables and other assets (1)
+ 
+249  
+213 
+Contingent consideration (1)
+ 
+60  
+30 
+Reimbursive right for post-retirement benefits
+ 
+51  
+49 
+Deferred taxation 
+ 
+106  
+85 
+Cash restricted for use
+ 
+44  
+41 
+ 
+10,431  
+10,096 
+Current assets
+Loan receivable
+ 
+133  
+260 
+Inventories
+ 
+1,076  
+1,055 
+Trade, other receivables and other assets (1)
+ 
+423  
+356 
+Contingent consideration (1)
+ 
+62  
+18 
+Taxation
+ 
+3  
+— 
+Cash restricted for use
+ 
+23  
+20 
+Cash and cash equivalents 
+ 
+2,905  
+1,425 
+Assets held for sale (2)
+ 
+22  
+— 
+ 
+4,647  
+3,134 
+Total assets
+ 
+15,078  
+13,230 
+EQUITY AND LIABILITIES
+Share capital and premium
+ 
+554  
+526 
+Accumulated profit (losses) and other reserves
+ 
+7,537  
+6,103 
+Shareholders’ equity
+ 
+8,091  
+6,629 
+Non-controlling interests
+ 
+1,825  
+1,884 
+Total equity
+ 
+9,916  
+8,513 
+Non-current liabilities
+Borrowings
+ 
+2,025  
+1,901 
+Lease liabilities
+ 
+155  
+65 
+Environmental rehabilitation and other provisions 
+ 
+687  
+656 
+Provision for pension and post-retirement benefits
+ 
+61  
+57 
+Trade and other payables
+ 
+14  
+6 
+Deferred taxation
+ 
+600  
+502 
+ 
+3,542  
+3,187 
+Current liabilities
+Borrowings
+ 
+19  
+83 
+Lease liabilities
+ 
+59  
+76 
+Environmental rehabilitation and other provisions 
+ 
+131  
+109 
+Trade and other payables
+ 
+1,001  
+957 
+Taxation
+ 
+377  
+277 
+Bank overdraft
+ 
+23  
+28 
+Liabilities held for sale (2)
+ 
+10  
+— 
+ 
+1,620  
+1,530 
+Total liabilities
+ 
+5,162  
+4,717 
+Total equity and liabilities
+ 
+15,078  
+13,230 
+(1) Contingent consideration, which was previously reported as part of trade, other receivables and other assets, is now reported separately on the statement of financial 
+position as these assets have a different measurement basis. Comparative periods have been reclassified. The increase in contingent consideration from December 
+2024 is mainly as a result of contingent consideration recognised for the sale of the Doropo and ABC projects of $38m and the sale of MSG of $44m.
+(2) The assets and liabilities held for sale relate to the La Colosa project being classified as a disposal group held for sale.
+GROUP   I   FINANCIAL RESULTS
+ STATEMENT OF FINANCIAL POSITION
+Q4 2025 EARNINGS RELEASE
+21
+
+--- PAGE 21 (matched: context) ---
+GROUP STATEMENT OF CASH FLOWS
+Quarter
+Quarter
+Year
+Year
+ended
+ended
+ended
+ended
+Dec
+Dec
+Dec
+Dec
+2025
+2024
+2025
+2024
+US Dollar millions, except as otherwise noted
+Unaudited
+Unaudited
+Unaudited
+Unaudited
+Cash flows from operating activities
+Cash generated from operations
+ 
+1,902  
+713  
+5,409  
+2,063 
+Dividends received from joint ventures
+ 
+67  
+44  
+122  
+88 
+Taxation refund
+ 
+1  
+—  
+11  
+6 
+Taxation paid
+ 
+(348)  
+(67)  
+(758)  
+(189) 
+Net cash inflow from operating activities
+ 
+1,622  
+690  
+4,784  
+1,968 
+Cash flows from investing activities
+Capital expenditure on tangible and intangible assets
+ 
+(454)  
+(333)  
+(1,449)  
+(1,090) 
+Acquisition of assets  (1)
+ 
+(158)  
+—  
+(158)  
+— 
+Dividends from associates and other investments
+ 
+—  
+12  
+—  
+12 
+Proceeds from disposal of tangible assets
+ 
+14  
+15  
+14  
+16 
+Proceeds from disposal of subsidiary, net of cash disposed (2)
+ 
+52  
+—  
+77  
+— 
+Deferred compensation received
+ 
+—  
+—  
+19  
+5 
+Other investments and assets acquired
+ 
+—  
+(1)  
+(3)  
+(30) 
+Proceeds on disposal of investment (3)
+ 
+—  
+—  
+70  
+— 
+Payment upon disposal of joint venture and associate
+ 
+—  
+(2)  
+—  
+(2) 
+Loans advanced to associates and joint ventures
+ 
+—  
+—  
+—  
+(1) 
+Acquisition of subsidiary, net of cash acquired
+ 
+—  
+68  
+—  
+68 
+(Increase) decrease in cash restricted for use
+ 
+1  
+(10)  
+(3)  
+5 
+Interest received
+ 
+24  
+25  
+92  
+106 
+Repayment of loans advanced to joint ventures
+ 
+84  
+10  
+161  
+149 
+Net cash outflow from investing activities
+ 
+(437)  
+(216)  
+(1,180)  
+(762) 
+Cash flows from financing activities
+Proceeds from borrowings
+ 
+—  
+180  
+285  
+655 
+Repayment of borrowings
+ 
+(65)  
+(338)  
+(245)  
+(909) 
+Repayment of lease liabilities
+ 
+(23)  
+(23)  
+(92)  
+(91) 
+Finance costs – borrowings
+ 
+(89)  
+(36)  
+(164)  
+(126) 
+Finance costs – leases
+ 
+(5)  
+(3)  
+(17)  
+(11) 
+Other borrowing costs
+ 
+—  
+—  
+—  
+(1) 
+Dividends paid
+ 
+(670)  
+(65)  
+(1,871)  
+(244) 
+Net cash outflow from financing activities
+ 
+(852)  
+(285)  
+(2,104)  
+(727) 
+Net increase in cash and cash equivalents
+ 
+333  
+189  
+1,500  
+479 
+Translation
+ 
+5  
+(17)  
+(15)  
+(37) 
+Reclassification to disposal group held for sale
+ 
+12  
+—  
+—  
+— 
+Cash and cash equivalents at beginning of period (net of bank overdraft)
+ 
+2,532  
+1,225  
+1,397  
+955 
+Cash and cash equivalents at end of period (net of bank overdraft) 
+ 
+2,882  
+1,397  
+2,882  
+1,397 
+(1) The acquisition of assets relates to the exploration assets of Augusta Gold Corp.
+(2) The proceeds relate to the disposal of the Doropo project ($25m) and the disposal of MSG, net of cash disposed ($52m).
+(3) The proceeds relate to the disposal of the investment in G2 Goldfields Inc.
+GROUP   I   FINANCIAL RESULTS
+ STATEMENT OF CASH FLOWS
+Q4 2025 EARNINGS RELEASE
+22
+
+--- PAGE 22 (matched: context) ---
+AngloGold Ashanti’s operating segments are being reported based on the financial information regularly provided to the Chief 
+Executive Officer and the Executive Committee, collectively identified as the Chief Operating Decision Maker (CODM). Individual 
+members of the Executive Committee are responsible for geographic regions of the business. Under the Group’s operating model, 
+the financial results and the composition of the operating segments are reported to the CODM per geographical region and the 
+Projects segment which comprises all the major non-sustaining capital projects with the potential to be developed into operating 
+entities. In addition to the geographical reportable segments structure, the Group has voluntarily disaggregated and disclosed the 
+financial information on a line-by-line basis for each mining operation to facilitate comparability of mine performance. 
+GOLD INCOME
+Quarter
+Quarter
+Year
+Year
+ended
+ended
+ended
+ended
+Dec
+Dec
+Dec
+Dec
+2025
+2024
+2025
+2024
+US Dollar millions, except as otherwise noted
+Unaudited
+Unaudited
+Unaudited
+Unaudited
+AFRICA
+ 
+2,183  
+1,114  
+7,152  
+3,756 
+Kibali - Attributable 45%
+ 
+327  
+208  
+1,038  
+741 
+Iduapriem
+ 
+224  
+125  
+704  
+563 
+Obuasi
+ 
+328  
+157  
+942  
+530 
+Siguiri
+ 
+328  
+182  
+990  
+653 
+Geita
+ 
+484  
+323  
+1,730  
+1,150 
+Sukari
+ 
+492  
+119  
+1,748  
+119 
+AUSTRALIA
+ 
+650  
+441  
+1,876  
+1,394 
+Sunrise Dam
+ 
+247  
+176  
+789  
+626 
+Tropicana - Attributable 70%
+ 
+403  
+265  
+1,087  
+768 
+AMERICAS
+ 
+517  
+369  
+1,740  
+1,264 
+Cerro Vanguardia
+ 
+148  
+116  
+612  
+439 
+AngloGold Ashanti Mineração (1)
+ 
+323  
+195  
+946  
+634 
+Serra Grande
+ 
+46  
+58  
+182  
+191 
+ 
+3,350  
+1,924  
+10,768  
+6,414 
+Equity-accounted joint venture included above
+ 
+(327)  
+(208)  
+(1,038)  
+(741) 
+ 
+3,023  
+1,716  
+9,730  
+5,673 
+(1) Includes income from sale of gold concentrate.
+BY-PRODUCT REVENUE
+US Dollar millions, except as otherwise noted
+Unaudited
+Unaudited
+Unaudited
+Unaudited
+AFRICA
+ 
+3  
+1  
+11  
+6 
+Kibali - Attributable 45%
+ 
+—  
+—  
+2  
+2 
+Obuasi
+ 
+—  
+—  
+1  
+1 
+Siguiri
+ 
+—  
+—  
+—  
+1 
+Geita
+ 
+1  
+1  
+4  
+2 
+Sukari
+ 
+2  
+—  
+4  
+— 
+AUSTRALIA
+ 
+2  
+1  
+6  
+5 
+Sunrise Dam
+ 
+1  
+—  
+2  
+2 
+Tropicana - Attributable 70%
+ 
+1  
+1  
+4  
+3 
+AMERICAS
+ 
+40  
+32  
+148  
+111 
+Cerro Vanguardia
+ 
+36  
+30  
+130  
+109 
+AngloGold Ashanti Mineração
+ 
+4  
+2  
+18  
+2 
+ 
+45  
+34  
+165  
+122 
+Equity-accounted joint venture included above
+ 
+—  
+—  
+(2)  
+(2) 
+ 
+45  
+34  
+163  
+120 
+GROUP   I   SEGMENTAL
+ GOLD AND BY-PRODUCT INCOME
+Q4 2025 EARNINGS RELEASE
+23
+
+--- PAGE 23 (matched: revenue_cos_opex) ---
+COST OF SALES
+Quarter
+Quarter
+Year
+Year
+ended
+ended
+ended
+ended
+Dec
+Dec
+Dec
+Dec
+2025
+2024
+2025
+2024
+US Dollar millions, except as otherwise noted
+Unaudited
+Unaudited
+Unaudited
+Unaudited
+AFRICA
+ 
+989  
+658  
+3,466  
+2,304 
+Kibali - Attributable 45%
+ 
+96  
+101  
+432  
+380 
+Iduapriem
+ 
+108  
+91  
+424  
+351 
+Obuasi
+ 
+138  
+101  
+458  
+360 
+Siguiri
+ 
+173  
+134  
+591  
+518 
+Geita
+ 
+253  
+148  
+773  
+612 
+Sukari
+ 
+221  
+83  
+789  
+83 
+Administration and other
+ 
+—  
+—  
+(1)  
+— 
+AUSTRALIA
+ 
+285  
+259  
+1,009  
+945 
+Sunrise Dam
+ 
+116  
+114  
+442  
+430 
+Tropicana - Attributable 70%
+ 
+158  
+135  
+527  
+479 
+Administration and other
+ 
+11  
+10  
+40  
+36 
+AMERICAS
+ 
+245  
+230  
+973  
+858 
+Cerro Vanguardia
+ 
+94  
+99  
+441  
+368 
+AngloGold Ashanti Mineração
+ 
+120  
+98  
+391  
+352 
+Serra Grande
+ 
+31  
+32  
+139  
+136 
+Administration and other
+ 
+—  
+1  
+2  
+2 
+CORPORATE AND OTHER
+ 
+2  
+(3)  
+6  
+(1) 
+ 
+1,521  
+1,144  
+5,454  
+4,106 
+Equity-accounted joint venture included above
+ 
+(96)  
+(101)  
+(432)  
+(380) 
+ 
+1,425  
+1,043  
+5,022  
+3,726 
+GROSS PROFIT (1)
+US Dollar millions, except as otherwise noted
+Unaudited
+Unaudited
+Unaudited
+Unaudited
+AFRICA
+ 
+1,197  
+458  
+3,696  
+1,459 
+Kibali - Attributable 45%
+ 
+231  
+107  
+608  
+363 
+Iduapriem
+ 
+117  
+34  
+280  
+213 
+Obuasi
+ 
+190  
+57  
+485  
+171 
+Siguiri
+ 
+156  
+48  
+400  
+136 
+Geita
+ 
+231  
+176  
+960  
+540 
+Sukari
+ 
+272  
+36  
+962  
+36 
+Administration and other
+ 
+—  
+—  
+1  
+— 
+AUSTRALIA
+ 
+367  
+184  
+874  
+453 
+Sunrise Dam
+ 
+132  
+63  
+350  
+197 
+Tropicana - Attributable 70%
+ 
+246  
+131  
+564  
+292 
+Administration and other
+ 
+(11)  
+(10)  
+(40)  
+(36) 
+AMERICAS
+ 
+312  
+169  
+915  
+517 
+Cerro Vanguardia
+ 
+90  
+47  
+301  
+180 
+AngloGold Ashanti Mineração
+ 
+207  
+98  
+573  
+283 
+Serra Grande
+ 
+15  
+25  
+43  
+56 
+Administration and other
+ 
+—  
+(1)  
+(2)  
+(2) 
+CORPORATE AND OTHER
+ 
+(2)  
+3  
+(6)  
+1 
+ 
+1,874  
+814  
+5,479  
+2,430 
+Equity-accounted joint venture included above
+ 
+(231)  
+(107)  
+(608)  
+(363) 
+ 
+1,643  
+707  
+4,871  
+2,067 
+(1) The Group’s segmental profit measure is gross profit, which excludes the results of associates and joint ventures. For the reconciliation of gross profit to profit before 
+taxation, refer to the Group income statement.
+GROUP   I   SEGMENTAL
+ COST OF SALES AND GROSS PROFIT
+Q4 2025 EARNINGS RELEASE
+24
+
+--- PAGE 24 (matched: context) ---
+AMORTISATION
+Quarter
+Quarter
+Year
+Year
+ended
+ended
+ended
+ended
+Dec
+Dec
+Dec
+Dec
+2025
+2024
+2025
+2024
+US Dollar millions, except as otherwise noted
+Unaudited
+Unaudited
+Unaudited
+Unaudited
+AFRICA
+ 
+343  
+142  
+1,006  
+455 
+Kibali - Attributable 45%
+ 
+28  
+25  
+107  
+92 
+Iduapriem
+ 
+28  
+19  
+113  
+79 
+Obuasi
+ 
+21  
+22  
+87  
+75 
+Siguiri
+ 
+18  
+14  
+64  
+51 
+Geita
+ 
+127  
+42  
+256  
+138 
+Sukari
+ 
+121  
+20  
+379  
+20 
+AUSTRALIA 
+ 
+59  
+58  
+181  
+190 
+Sunrise Dam
+ 
+22  
+19  
+67  
+77 
+Tropicana - Attributable 70%
+ 
+37  
+39  
+113  
+112 
+Administration and other
+ 
+—  
+—  
+1  
+1 
+AMERICAS
+ 
+47  
+62  
+203  
+195 
+Cerro Vanguardia
+ 
+8  
+21  
+68  
+61 
+AngloGold Ashanti Mineração
+ 
+31  
+33  
+105  
+112 
+Serra Grande
+ 
+8  
+8  
+30  
+22 
+CORPORATE AND OTHER
+ 
+1  
+1  
+4  
+4 
+ 
+450  
+263  
+1,394  
+844 
+Equity-accounted joint venture included above
+ 
+(28)  
+(25)  
+(107)  
+(92) 
+ 
+422  
+238  
+1,287  
+752 
+CAPITAL EXPENDITURE
+US Dollar millions, except as otherwise noted
+Unaudited
+Unaudited
+Unaudited
+Unaudited
+AFRICA
+ 
+354  
+247  
+1,135  
+814 
+Kibali - Attributable 45%
+ 
+41  
+36  
+151  
+125 
+Iduapriem
+ 
+63  
+50  
+173  
+169 
+Obuasi
+ 
+64  
+54  
+209  
+202 
+Siguiri
+ 
+50  
+29  
+102  
+102 
+Geita
+ 
+58  
+58  
+238  
+196 
+Sukari
+ 
+78  
+20  
+262  
+20 
+AUSTRALIA
+ 
+61  
+40  
+185  
+153 
+Sunrise Dam
+ 
+29  
+26  
+87  
+65 
+Tropicana - Attributable 70%
+ 
+32  
+14  
+98  
+88 
+AMERICAS
+ 
+71  
+66  
+236  
+209 
+Cerro Vanguardia
+ 
+21  
+24  
+64  
+71 
+AngloGold Ashanti Mineração
+ 
+46  
+30  
+135  
+98 
+Serra Grande
+ 
+4  
+12  
+37  
+40 
+PROJECTS
+ 
+8  
+16  
+42  
+38 
+Colombian projects
+ 
+1  
+8  
+13  
+13 
+North American projects
+ 
+7  
+8  
+29  
+25 
+CORPORATE AND OTHER
+ 
+1  
+—  
+2  
+1 
+ 
+495  
+369  
+1,600  
+1,215 
+Equity-accounted joint venture included above
+ 
+(41)  
+(36)  
+(151)  
+(125) 
+ 
+454  
+333  
+1,449  
+1,090 
+GROUP   I   SEGMENTAL
+ AMORTISATION AND CAPITAL EXPENDITURE
+Q4 2025 EARNINGS RELEASE
+25
+
+--- PAGE 35 (matched: context) ---
+AngloGold Ashanti plc today announces an interim dividend for the three months ended 31 December 2025 of 173 US cents per 
+share. In respect of the interim dividend, the timelines, including dates for currency conversions, set out below will apply.
+To holders of ordinary shares on the New York Stock Exchange (NYSE)
+2026
+Ex-dividend on NYSE
+Friday, 13 March
+Record date
+Friday, 13 March
+Payment date
+Friday, 27 March
+To holders of ordinary shares on the South African Register
+Additional information for South African resident shareholders of AngloGold Ashanti: 
+Shareholders registered on the South African section of the register are advised that the distribution of 173 US cents per ordinary 
+share will be converted to South African rands at the applicable exchange rate.
+In compliance with the requirements of Strate and the Johannesburg Stock Exchange (JSE) Listings Requirements, the salient 
+dates for payment of the dividend are as follows:
+2026
+Declaration date
+Friday, 20 February
+Currency conversion rate for South African rands announcement date
+Friday, 6 March
+Last date to trade ordinary shares cum dividend
+Tuesday, 10 March
+Ordinary shares trade ex-dividend
+Wednesday, 11 March
+Record date
+Friday, 13 March
+Payment date
+Friday, 27 March
+Dividends in respect of dematerialised shareholdings will be credited to shareholders’ accounts with the relevant CSDP (as defined 
+below) or broker.
+To comply with further requirements of Strate, share certificates may not be dematerialised or rematerialised between Wednesday, 
+11 March 2026 and Friday, 13 March 2026, both days inclusive. No transfers between South African, NYSE and Ghanaian share 
+registers will be permitted between Friday, 6 March 2026 and Friday, 13 March 2026, both days inclusive.
+Details of the exchange rates applicable to the dividend and a summary of the tax considerations applicable to South African 
+shareholders is expected to be published on Friday, 6 March 2026.
+To Beneficial Owners on the Ghana sub-register holding shares through the nominee arrangement with the 
+Central Securities Depositary (GH) LTD
+2026
+Currency conversion date
+Friday, 6 March
+Last date to trade and to register shares cum dividend
+Tuesday, 10 March
+Shares trade ex-dividend
+Wednesday, 11 March
+Record date
+Friday, 13 March
+Approximate payment date of dividend
+Friday, 27 March
+To Beneficial Owners holding Ghanaian Depositary Shares (GhDSs) and acting by National Trust Holding 
+Company Ltd as depository agent 100 GhDSs represent one ordinary share
+2026
+Currency conversion date
+Friday, 6 March
+Last date to trade and to register GhDSs cum dividend
+Tuesday, 10 March
+GhDSs trade ex-dividend
+Wednesday, 11 March
+Record date
+Friday, 13 March
+Approximate payment date of dividend
+Friday, 27 March
+Beneficial owners on the Ghana sub-register holding shares and beneficial owners holding GhDSs are advised that the distribution 
+of 173 US cents per ordinary share will be converted to Ghanaian cedis at the applicable exchange rate. Assuming an exchange 
+rate of US$1/¢11.0000, the gross dividend payable per share, is equivalent to ca. ¢19.0300 Ghanaian cedis. However, the actual 
+rate of payment will depend on the exchange rate on the date for currency conversion.
+Entitlement to interim dividends
+A “Shareholder of Record” is a person appearing on the register of members of the Company in respect of ordinary shares at the 
+close of business on the relevant record date. A “Beneficial Owner” is a person who holds ordinary shares of the Company through 
+a bank, broker, central securities depository participant (“CSDP”), Shareholder of Record or other agent (sometimes referred to as 
+holding shares “in street name”).
+2025   I   DIVIDENDS
+Q4 2025 EARNINGS RELEASE
+36
+
+--- PAGE 36 (matched: revenue_cos_opex) ---
+Non-GAAP disclosure
+From time to time AngloGold Ashanti may publicly disclose certain “Non-GAAP” financial measures in the course of its financial 
+presentations, earnings releases, earnings conference calls and otherwise.
+In this document, AngloGold Ashanti presents the financial items “total cash costs”, “total cash costs per ounce”, “all-in sustaining 
+costs”, “all-in sustaining costs per ounce”, “average gold price received per ounce”, “sustaining capital expenditure” and “non-
+sustaining capital expenditure”, which have been determined using industry guidelines and practices and are not measures under 
+IFRS. In addition, AngloGold Ashanti also presents the financial items “Adjusted EBITDA”, “Adjusted net debt (cash)” and “free 
+cash flow” which are not measures under IFRS either. An investor should not consider these items in isolation or as alternatives to 
+cost of sales, gold income, capital expenditure, profit (loss) before taxation, total borrowings, cash flows from operating activities or 
+any other measure of financial performance presented in accordance with IFRS or as an indicator of the Group’s performance. The 
+Group uses certain Non-GAAP performance measures and ratios in managing the business and may provide users of this financial 
+information with additional meaningful comparisons between current results and results in prior operating periods. Non-GAAP 
+financial measures should be viewed in addition to, and not as an alternative to, the reported operating results or any other 
+measure of performance prepared in accordance with IFRS. In addition, the presentation of these measures may not be 
+comparable to similarly titled measures that other companies use. 
+The term “managed operations” refers to subsidiaries managed by AngloGold Ashanti and included in its consolidated reporting, 
+while the term “non-managed joint ventures” refers to equity-accounted joint ventures that are reported based on AngloGold 
+Ashanti’s share of attributable earnings and are not managed by AngloGold Ashanti. Managed operations are reported on a 
+consolidated basis. Non-managed joint ventures are reported on an attributable basis.
+All-in sustaining costs
+During 2018, the World Gold Council (“WGC”), an industry body, published a revised Guidance Note on the “all-in sustaining costs” 
+metric, which gold mining companies can use to supplement their overall Non-GAAP disclosure. The WGC worked closely with its 
+members (including AngloGold Ashanti) to develop these Non-GAAP measures which are intended to provide further transparency 
+into the full cost associated with producing gold. It is expected that this metric, which AngloGold Ashanti provides herein, will be 
+helpful to investors, governments, local communities and other stakeholders in understanding the economics of gold mining. 
+“All-in sustaining costs” is a Non-GAAP measure which is an extension of the existing “total cash costs” metric and incorporates all 
+costs related to sustaining production and in particular, recognises sustaining capital expenditures associated with developing and 
+maintaining gold mines. In addition, this metric includes the cost associated with Corporate Office structures that support these 
+operations, the community and environmental rehabilitation costs attendant with responsible mining and any exploration and 
+evaluation cost associated with sustaining current operations. “All-in sustaining costs per ounce - managed operations” ($/oz) is 
+calculated by dividing the consolidated US dollar value of this cost metric by the consolidated ounces of gold sold. “All-in sustaining 
+costs per ounce - non-managed joint ventures” ($/oz) is calculated by dividing the attributable US dollar value of this cost metric by 
+the attributable ounces of gold sold.
+Total cash costs
+“Total cash costs” is calculated in accordance with the guidelines of the Gold Institute industry standard and industry practice and is 
+a Non-GAAP measure. The Gold Institute, which has been incorporated into the National Mining Association, is a non-profit 
+international association of miners, refiners, bullion suppliers and manufacturers of gold products, which developed a uniform 
+format for reporting total cash costs on a per ounce basis. The guidance was first adopted in 1996 and revised in November 1999.
+“Total cash costs” is a Non-GAAP measure and, as calculated and reported by AngloGold Ashanti, include costs for all mining, 
+processing, onsite administration costs, royalties and production taxes, as well as contributions from by-products, but exclude 
+amortisation of tangible, intangible and right of use assets, rehabilitation costs and other non-cash costs, retrenchment costs, 
+corporate administration, marketing and related costs, capital costs and exploration costs. “Total cash costs per ounce - managed 
+operations” ($/oz) is calculated by dividing the consolidated US dollar value of this cost metric by the consolidated ounces of gold 
+produced. “Total cash costs per ounce - non-managed joint ventures” ($/oz) is calculated by dividing the attributable US dollar 
+value of this cost metric by the attributable ounces of gold produced.
+Average gold price received per ounce
+“Average gold price received per ounce” is a Non-GAAP measure which gives an indication of revenue earned per ounce of gold 
+sold and serves as a benchmark of performance against the market spot gold price. “Average gold price received per ounce - 
+managed operations” is calculated by dividing the consolidated US dollar value of this revenue metric by the consolidated ounces 
+of gold sold. “Average gold price received per ounce - non-managed joint ventures” is calculated by dividing the attributable US 
+dollar value of this revenue metric by the attributable ounces of gold sold.
+Sustaining capital expenditure
+“Sustaining capital expenditure” is a Non-GAAP measure comprising capital expenditure incurred to sustain and maintain existing 
+assets at their current productive capacity in order to achieve constant planned levels of productive output and capital expenditure 
+to extend useful lives of existing production assets. This includes replacement of vehicles, plant and machinery, Mineral Reserve 
+development, deferred stripping and capital expenditure related to financial benefit initiatives, safety, health and the environment.
+NON-GAAP DISCLOSURE   I   RESULTS
+ 
+Q4 2025 EARNINGS RELEASE
+37
+
+--- PAGE 37 (matched: context) ---
+Non-sustaining capital expenditure
+“Non-sustaining capital expenditure” is a Non-GAAP measure comprising capital expenditure incurred at new operations and 
+capital expenditure related to ‘major projects’ at existing operations where these projects will materially increase production.
+While the Gold Institute provided definitions for the calculation of “total cash costs” and the WGC published a revised Guidance 
+Note on the “all-in sustaining costs” metric during 2018, the calculation of “total cash costs”, “total cash costs per ounce”, “all-in 
+sustaining costs” and “all-in sustaining costs per ounce” may vary significantly among gold mining companies, and by themselves 
+do not necessarily provide a basis for comparison with other gold mining companies. However, AngloGold Ashanti believes that 
+“total cash costs” and “all-in sustaining costs” in total by mine and per ounce by mine as well as “average gold price received per 
+ounce”, “sustaining capital expenditure” and “non-sustaining capital expenditure” are useful indicators to investors and 
+management as they provide:
+•
+an indication of profitability, efficiency and cash flows;
+•
+the trend in costs as the mining operations mature over time on a consistent basis; and
+•
+an internal benchmark of performance to allow for comparison against other mines, both within the Group and at other gold 
+mining companies.
+Management prepares its internal management reporting documentation, for use and decision making by the Chief Operating 
+Decision Maker (CODM), on a total basis. 
+The key metrics are based on the total ounces, gold income, “total cash costs”, “all-in sustaining costs”, “sustaining capital 
+expenditure” and “non-sustaining capital expenditure” from each operation and as a consequence includes AngloGold Ashanti’s 
+share of the “total cash costs”, “all-in sustaining costs”, “sustaining capital expenditure” and “non-sustaining capital expenditure” of 
+its non-managed joint ventures that are accounted for under the equity method. In a capital intensive industry, this basis allows 
+management to make operating and resource allocation decisions on a comparable basis between mining operations irrespective 
+of whether they are consolidated or accounted for under the equity method. This basis of calculating the metrics is consistent with 
+the WGC’s Guidance Note on the “all-in sustaining costs” metric.
+Although AngloGold Ashanti has shareholder rights and board representation commensurate with its ownership interests in its 
+equity-accounted non-managed joint ventures and reviews the underlying operating results including “total cash costs”, “all-in 
+sustaining costs”, “sustaining capital expenditure” and “non-sustaining capital expenditure” with them at each reporting period, it 
+does not have direct control over their operations or resulting revenue and expenses, nor does it have a proportionate legal interest 
+in each financial statement line item. AngloGold Ashanti’s use of “total cash costs”, “all-in sustaining costs”, “sustaining capital 
+expenditure” and “non-sustaining capital expenditure” on a total basis, is not intended to imply that it has any such control or 
+proportionate legal interest, but rather to reflect the Non-GAAP measures on a basis consistent with its internal and external 
+segmental reporting.
+Adjusted EBITDA
+“Adjusted EBITDA” is a Non-GAAP measure and, as calculated and reported by AngloGold Ashanti, includes profit (loss) before 
+taxation, amortisation of tangible, intangible and right of use assets, retrenchment costs at the operations, finance income, other 
+gains (losses), care and maintenance costs, finance costs and unwinding of obligations, impairment and derecognition of assets, 
+impairment of investments, profit (loss) on disposal of assets and investments, gain (loss) on early settlement of hedge contracts, 
+fair value adjustments, repurchase premium and costs on settlement of issued bonds and the share of associates’ EBITDA. The 
+Adjusted EBITDA calculation is based on the formula included in AngloGold Ashanti’s Revolving Credit Facility Agreements for 
+compliance with the debt covenant formula. 
+“Adjusted EBITDA margin” is calculated as the percentage of Adjusted EBITDA divided by revenue from product sales.
+Adjusted net debt (cash)
+“Adjusted net debt (cash)” is a Non-GAAP measure and, as calculated and reported by AngloGold Ashanti, includes total 
+borrowings adjusted for the unamortised portion of borrowing costs and IFRS 16 lease adjustments; less cash restricted for use 
+and cash and cash equivalents (net of bank overdraft). The Adjusted net debt (cash) calculation is based on the formula included in 
+AngloGold Ashanti’s Revolving Credit Facility Agreements for compliance with the debt covenant formula.
+Free cash flow
+AngloGold Ashanti has revised its definition of “free cash flow” in order to align it with industry practice. “Free cash flow" is a Non-
+GAAP measure and, as calculated and reported by AngloGold Ashanti, includes operating cash flow less capital expenditure. 
+Operating cash flow is defined as net cash flow from operating activities, plus repayment of loans advanced to joint ventures, less 
+dividends paid to non-controlling interests. “Free cash flow” for the three months and year ended 31 December 2024 has been 
+adjusted to reflect this change in reporting.
+Reconciliations
+All-in sustaining costs and total cash costs per ounce
+A reconciliation of cost of sales as included in AngloGold Ashanti’s Earnings Release for the three months and years ended 31 
+December 2025 and 31 December 2024, to “all-in sustaining costs”, “all-in sustaining costs per ounce”, “total cash costs” and “total 
+cash costs per ounce” for each of the three-month periods and years ended 31 December 2025 and 31 December 2024, is 
+presented on a total (Group), total (managed operations/non-managed joint ventures) and segment basis in Note A below. 
+NON-GAAP DISCLOSURE   I   RESULTS
+ CONTINUED
+Q4 2025 EARNINGS RELEASE
+38
+
+--- PAGE 38 (matched: context) ---
+In addition, the Company has provided detail of the consolidated ounces of gold produced and sold by mine (for managed 
+operations) and the attributable ounces of gold produced and sold by mine (for non-managed joint ventures) for each of those 
+periods below. 
+Average gold price received per ounce
+A reconciliation of gold income as included in AngloGold Ashanti’s Earnings Release for the three months and years ended 31 
+December 2025 and 31 December 2024, to “average gold price received per ounce” for each of the three-month periods and years 
+ended 31 December 2025 and 31 December 2024, is presented on a total (Group) and total (managed operations/non-managed 
+joint ventures) basis in Note B below.
+Sustaining capital expenditure and non-sustaining capital expenditure
+A reconciliation of capital expenditure as included in AngloGold Ashanti’s Earnings Release for the three months and years ended 
+31 December 2025 and 31 December 2024, to “sustaining capital expenditure” and “non-sustaining capital expenditure” for each of 
+the three-month periods and years ended 31 December 2025 and 31 December 2024, is presented on a total (Group), total 
+(managed operations/non-managed joint ventures) and segment basis in Note C below.
+Adjusted EBITDA
+A reconciliation of profit (loss) before taxation as included in AngloGold Ashanti’s Earnings Release for the three months and years 
+ended 31 December 2025 and 31 December 2024, to “Adjusted EBITDA” for each of the three-month periods and years ended   
+31 December 2025 and 31 December 2024, is presented on a total (Group) basis in Note D below.
+Adjusted net debt (cash)
+A reconciliation of total borrowings as included in AngloGold Ashanti’s Earnings Release as at 31 December 2025 and 31 
+December 2024 to “Adjusted net debt (cash)” as at 31 December 2025 and 31 December 2024, is presented on a total (Group) 
+basis in Note E below.
+Free cash flow
+A reconciliation of net cash flow from operating activities as included in AngloGold Ashanti’s Earnings Release for the three months 
+and years ended 31 December 2025 and 31 December 2024, to “free cash flow” for each of the three-month periods and years 
+ended 31 December 2025 and 31 December 2024, is presented on a total (Group) basis in Note F below.
+NON-GAAP DISCLOSURE   I   RESULTS
+ CONTINUED
+Q4 2025 EARNINGS RELEASE
+39
+Cerro Vanguardia, Argentina
+
+--- PAGE 39 (matched: geographic_foreign_revenue, revenue_cos_opex) ---
+ALL-IN SUSTAINING COSTS
+FOR THE QUARTER ENDED 31 DECEMBER 2025
+Corporate
+and other(3)
+AFRICA
+AUSTRALIA
+Kibali
+Non-managed 
+joint ventures
+Iduapriem
+Obuasi
+Siguiri
+Geita
+Sukari
+Africa other
+Managed 
+operations
+Sunrise 
+Dam
+Tropicana
+Australia 
+other
+Australia
+in US Dollar millions, except as otherwise noted
+Cost of sales per segmental information (2)
+ 
+2  
+96  
+96  
+108  
+138  
+173  
+253  
+221  
+—  
+893  
+116  
+158  
+11  
+285 
+By-product revenue
+ 
+—  
+—  
+—  
+—  
+—  
+—  
+(1)  
+(2)  
+—  
+(3)  
+(1)  
+(1)  
+—  
+(2) 
+Amortisation of tangible, intangible and right of use assets
+ 
+(1)  
+(28)  
+(28)  
+(28)  
+(21)  
+(18)  
+(127)  
+(121)  
+—  
+(315)  
+(22)  
+(37)  
+—  
+(59) 
+Adjusted for decommissioning and inventory amortisation
+ 
+—  
+—  
+—  
+—  
+—  
+—  
+—  
+—  
+—  
+—  
+—  
+—  
+—  
+— 
+Corporate administration, marketing and related expenses
+ 
+44  
+—  
+—  
+—  
+—  
+—  
+—  
+—  
+—  
+—  
+—  
+—  
+—  
+— 
+Lease payment sustaining
+ 
+1  
+(1)  
+(1)  
+3  
+—  
+1  
+4  
+—  
+—  
+8  
+4  
+6  
+—  
+10 
+Sustaining exploration and study costs
+ 
+—  
+—  
+—  
+1  
+1  
+3  
+2  
+—  
+—  
+7  
+2  
+—  
+—  
+2 
+Total sustaining capital expenditure
+ 
+1  
+21  
+21  
+39  
+47  
+37  
+53  
+43  
+—  
+219  
+29  
+13  
+—  
+42 
+All-in sustaining costs (5)
+ 
+46  
+87  
+87  
+123  
+164  
+196  
+185  
+142  
+—  
+810  
+127  
+139  
+11  
+277 
+Gold sold - oz (000)
+ 
+—  
+78  
+78  
+53  
+78  
+79  
+114  
+119  
+—  
+443  
+60  
+96  
+—  
+156 
+All-in sustaining costs per ounce - $/oz (1)
+ 
+—  
+1,108  
+1,108  
+2,303  
+2,079  
+2,493  
+1,621  
+1,211  
+—  
+1,830  
+2,145  
+1,444  
+—  
+1,783 
+(1) In addition to the operational performances of the mines, “all-in sustaining costs per ounce” and “total cash costs per ounce” are affected by fluctuations in the foreign currency exchange rate. AngloGold Ashanti reports “all-in sustaining costs per 
+ounce” calculated to the nearest US dollar amount and gold sold in ounces. AngloGold Ashanti reports “total cash costs per ounce” calculated to the nearest US dollar amount and gold produced in ounces. “All-in sustaining costs per ounce” and 
+“total cash costs per ounce” may not be calculated based on amounts presented in this table due to rounding.
+(2) Refer to Segmental reporting.
+(3) Corporate includes non-gold producing managed operations.
+(4) Total including equity-accounted non-managed joint ventures.
+(5) “Total cash costs” and “all-in sustaining costs” may not be calculated based on amounts presented in this table due to rounding.
+Rounding of figures may result in computational discrepancies.
+NON-GAAP DISCLOSURE   I   NOTE A 
+ 
+Q4 2025 EARNINGS RELEASE
+40
+
+--- PAGE 40 (matched: geographic_foreign_revenue, revenue_cos_opex) ---
+ALL-IN SUSTAINING COSTS
+FOR THE QUARTER ENDED 31 DECEMBER 2025
+AMERICAS
+Projects
+GROUP
+GROUP EXCL. SUKARI(6)
+Cerro
+Vanguardia
+AngloGold
+Ashanti
+Mineração 
+Serra Grande
+Americas 
+other
+Americas
+Non-
+managed 
+joint 
+ventures
+Managed 
+operations
+Group total (4)
+Managed 
+operations 
+Group total (4)
+in US Dollar millions, except as otherwise noted
+Cost of sales per segmental information (2)
+ 
+94  
+120  
+31  
+—  
+245  
+—  
+96  
+1,425  
+1,521 
+ 
+1,204  
+1,300 
+By-product revenue
+ 
+(36)  
+(4)  
+—  
+—  
+(40)  
+—  
+—  
+(45)  
+(45)  
+(43)  
+(43) 
+Amortisation of tangible, intangible and right of use assets
+ 
+(8)  
+(31)  
+(8)  
+—  
+(47)  
+—  
+(28)  
+(422)  
+(450)  
+(301)  
+(329) 
+Adjusted for decommissioning and inventory amortisation
+ 
+(5)  
+(1)  
+—  
+—  
+(6)  
+—  
+—  
+(6)  
+(6)  
+(6)  
+(6) 
+Corporate administration, marketing and related expenses
+ 
+—  
+—  
+—  
+—  
+—  
+1  
+—  
+45  
+45 
+ 
+45  
+45 
+Lease payment sustaining
+ 
+—  
+6  
+1  
+—  
+7  
+—  
+(1)  
+26  
+25 
+ 
+26  
+25 
+Sustaining exploration and study costs
+ 
+1  
+1  
+—  
+—  
+2  
+(1)  
+—  
+10  
+10 
+ 
+10  
+10 
+Total sustaining capital expenditure
+ 
+21  
+41  
+4  
+—  
+66  
+1  
+21  
+329  
+350 
+ 
+286  
+307 
+All-in sustaining costs (5)
+ 
+67  
+132  
+29  
+—  
+228  
+2  
+87  
+1,363  
+1,450 
+ 
+1,221  
+1,308 
+Gold sold - oz (000)
+ 
+36  
+79  
+11  
+—  
+126  
+—  
+78  
+725  
+803 
+ 
+606  
+684 
+All-in sustaining costs per ounce - $/oz (1)
+ 
+1,850  
+1,670  
+2,583  
+—  
+1,806  
+—  
+1,108  
+1,881  
+1,805 
+ 
+2,012  
+1,908 
+(1) In addition to the operational performances of the mines, “all-in sustaining costs per ounce” and “total cash costs per ounce” are affected by fluctuations in the foreign currency exchange rate. AngloGold Ashanti reports “all-in sustaining 
+costs per ounce” calculated to the nearest US dollar amount and gold sold in ounces. AngloGold Ashanti reports “total cash costs per ounce” calculated to the nearest US dollar amount and gold produced in ounces. “All-in sustaining costs 
+per ounce” and “total cash costs per ounce” may not be calculated based on amounts presented in this table due to rounding.
+(2) Refer to Segmental reporting.
+(3) Corporate includes non-gold producing managed operations.
+(4) Total including equity-accounted non-managed joint ventures.
+(5) “Total cash costs” and “all-in sustaining costs” may not be calculated based on amounts presented in this table due to rounding.
+(6) Adjusted to exclude Sukari operation which was acquired on 22 November 2024 as part of the Centamin acquisition.
+Rounding of figures may result in computational discrepancies.
+NON-GAAP DISCLOSURE   I   NOTE A  
+ 
+Q4 2025 EARNINGS RELEASE
+41
+
+--- PAGE 41 (matched: geographic_foreign_revenue, revenue_cos_opex) ---
+TOTAL CASH COSTS
+FOR THE QUARTER ENDED 31 DECEMBER 2025
+Corporate 
+and other(3)
+AFRICA
+AUSTRALIA
+Kibali
+Non-managed 
+joint ventures
+Iduapriem
+Obuasi
+Siguiri
+Geita
+Sukari
+Africa other
+Managed 
+operations
+Sunrise 
+Dam
+Tropicana
+Australia 
+other
+Australia
+in US Dollar millions, except as otherwise noted
+Cost of sales per segmental information (2)
+ 
+2  
+96  
+96  
+108  
+138  
+173  
+253  
+221  
+—  
+893  
+116  
+158  
+11  
+285 
+ - By-product revenue
+ 
+—  
+—  
+—  
+—  
+—  
+—  
+(1)  
+(2)  
+—  
+(3)  
+(1)  
+(1)  
+—  
+(2) 
+ - Inventory change
+ 
+—  
+1  
+1  
+(6)  
+(11)  
+14  
+8  
+—  
+—  
+5  
+(3)  
+(7)  
+—  
+(10) 
+ - Amortisation of tangible assets
+ 
+(1)  
+(28)  
+(28)  
+(26)  
+(21)  
+(17)  
+(121)  
+(120)  
+—  
+(305)  
+(17)  
+(30)  
+—  
+(47) 
+ - Amortisation of right of use assets
+ 
+—  
+—  
+—  
+(2)  
+—  
+(1)  
+(6)  
+(1)  
+—  
+(10)  
+(5)  
+(7)  
+—  
+(12) 
+ - Amortisation of intangible assets
+ 
+—  
+—  
+—  
+—  
+—  
+—  
+—  
+—  
+—  
+—  
+—  
+—  
+—  
+— 
+ - Rehabilitation and other non-cash costs
+ 
+—  
+22  
+22  
+1  
+(5)  
+(7)  
+—  
+—  
+—  
+(11)  
+3  
+1  
+—  
+4 
+ - Retrenchment costs
+ 
+—  
+—  
+—  
+—  
+—  
+—  
+—  
+—  
+—  
+—  
+—  
+—  
+—  
+— 
+Total cash costs (5)
+ 
+—  
+92  
+92  
+74  
+100  
+163  
+133  
+99  
+—  
+569  
+93  
+114  
+11  
+218 
+Gold produced - oz (000)
+ 
+—  
+79  
+79  
+50  
+72  
+85  
+113  
+119  
+—  
+439  
+58  
+93  
+—  
+151 
+Total cash costs per ounce - $/oz (1)
+ 
+—  
+1,156  
+1,156  
+1,489  
+1,376  
+1,898  
+1,187  
+841  
+—  
+1,297  
+1,601  
+1,234  
+—  
+1,445 
+(1) In addition to the operational performances of the mines, “all-in sustaining costs per ounce” and “total cash costs per ounce” are affected by fluctuations in the foreign currency exchange rate. AngloGold Ashanti reports “all-in sustaining costs per 
+ounce” calculated to the nearest US dollar amount and gold sold in ounces. AngloGold Ashanti reports “total cash costs per ounce” calculated to the nearest US dollar amount and gold produced in ounces. “All-in sustaining costs per ounce” and 
+“total cash costs per ounce” may not be calculated based on amounts presented in this table due to rounding.
+(2) Refer to Segmental reporting.
+(3) Corporate includes non-gold producing managed operations.
+(4) Total including equity-accounted non-managed joint ventures.
+(5) “Total cash costs” and “all-in sustaining costs” may not be calculated based on amounts presented in this table due to rounding.
+Rounding of figures may result in computational discrepancies.
+NON-GAAP DISCLOSURE   I   NOTE A 
+ 
+Q4 2025 EARNINGS RELEASE
+42
+
+--- PAGE 42 (matched: geographic_foreign_revenue, revenue_cos_opex) ---
+TOTAL CASH COSTS
+FOR THE QUARTER ENDED 31 DECEMBER 2025
+AMERICAS
+Projects
+GROUP
+GROUP EXCL. SUKARI(6)
+Cerro
+Vanguardia
+AngloGold
+Ashanti
+Mineração
+Serra Grande
+Americas 
+other
+Americas
+Non-
+managed 
+joint 
+ventures
+Managed 
+operations
+Group total (4)
+Managed 
+operations
+Group total (4)
+in US Dollar millions, except as otherwise noted
+Cost of sales per segmental information (2)
+ 
+94  
+120  
+31  
+—  
+245  
+—  
+96  
+1,425  
+1,521 
+ 
+1,204  
+1,300 
+- By-product revenue
+ 
+(36)  
+(4)  
+—  
+—  
+(40)  
+—  
+—  
+(45)  
+(45)  
+(43)  
+(43) 
+- Inventory change
+ 
+3  
+(2)  
+—  
+—  
+1  
+—  
+1  
+(4)  
+(3)  
+(4)  
+(3) 
+- Amortisation of tangible assets
+ 
+(8)  
+(27)  
+(6)  
+—  
+(41)  
+—  
+(28)  
+(394)  
+(422)  
+(274)  
+(302) 
+- Amortisation of right of use assets
+ 
+—  
+(4)  
+(2)  
+—  
+(6)  
+—  
+—  
+(28)  
+(28)  
+(27)  
+(27) 
+- Amortisation of intangible assets
+ 
+—  
+—  
+—  
+—  
+—  
+—  
+—  
+—  
+— 
+ 
+—  
+— 
+- Rehabilitation and other non-cash costs
+ 
+(4)  
+—  
+—  
+—  
+(4)  
+—  
+22  
+(11)  
+11 
+ 
+(11)  
+11 
+- Retrenchment costs
+ 
+—  
+(1)  
+—  
+—  
+(1)  
+—  
+—  
+(1)  
+(1)  
+(1)  
+(1) 
+Total cash costs (5)
+ 
+49  
+82  
+23  
+—  
+154  
+—  
+92  
+941  
+1,033 
+ 
+842  
+934 
+Gold produced - oz (000)
+ 
+42  
+77  
+11  
+—  
+130  
+—  
+79  
+720  
+799 
+ 
+601  
+680 
+Total cash costs per ounce - $/oz (1)
+ 
+1,142  
+1,058  
+2,095  
+—  
+1,178  
+—  
+1,156  
+1,307  
+1,292 
+ 
+1,398  
+1,370 
+(1) In addition to the operational performances of the mines, “all-in sustaining costs per ounce” and “total cash costs per ounce” are affected by fluctuations in the foreign currency exchange rate. AngloGold Ashanti reports “all-in sustaining 
+costs per ounce” calculated to the nearest US dollar amount and gold sold in ounces. AngloGold Ashanti reports “total cash costs per ounce” calculated to the nearest US dollar amount and gold produced in ounces. “All-in sustaining 
+costs per ounce” and “total cash costs per ounce” may not be calculated based on amounts presented in this table due to rounding.
+(2) Refer to Segmental reporting.
+(3) Corporate includes non-gold producing managed operations.
+(4) Total including equity-accounted non-managed joint ventures.
+(5) “Total cash costs” and “all-in sustaining costs” may not be calculated based on amounts presented in this table due to rounding.
+(6) Adjusted to exclude Sukari operation which was acquired on 22 November 2024 as part of the Centamin acquisition.
+Rounding of figures may result in computational discrepancies.
+NON-GAAP DISCLOSURE   I   NOTE A 
+Q4 2025 EARNINGS RELEASE
+43
+
+--- PAGE 43 (matched: geographic_foreign_revenue, revenue_cos_opex) ---
+ALL-IN SUSTAINING COSTS
+FOR THE QUARTER ENDED 31 DECEMBER 2024
+Corporate 
+and other(3)
+AFRICA
+AUSTRALIA
+Kibali
+Non-managed 
+joint ventures
+Iduapriem
+Obuasi
+Siguiri
+Geita
+Sukari
+Africa other
+Managed 
+operations
+Sunrise 
+Dam
+Tropicana
+Australia 
+other
+Australia
+in US Dollar millions, except as otherwise noted
+Cost of sales per segmental information (2)
+ 
+(3)  
+101  
+101  
+91  
+101  
+134  
+148  
+83  
+—  
+557  
+114  
+135  
+10  
+259 
+By-product revenue
+ 
+—  
+—  
+—  
+—  
+—  
+—  
+(1)  
+—  
+—  
+(1)  
+—  
+(1)  
+—  
+(1) 
+Amortisation of tangible, intangible and right of use assets
+ 
+(1)  
+(25)  
+(25)  
+(19)  
+(22)  
+(14)  
+(42)  
+(20)  
+—  
+(117)  
+(19)  
+(39)  
+—  
+(58) 
+Adjusted for decommissioning and inventory amortisation
+ 
+—  
+—  
+—  
+—  
+—  
+—  
+—  
+—  
+—  
+—  
+—  
+—  
+—  
+— 
+Corporate administration, marketing and related expenses
+ 
+31  
+—  
+—  
+—  
+—  
+—  
+—  
+—  
+—  
+—  
+—  
+—  
+—  
+— 
+Lease payment sustaining
+ 
+1  
+(3)  
+(3)  
+1  
+—  
+1  
+6  
+—  
+—  
+8  
+4  
+3  
+—  
+7 
+Sustaining exploration and study costs
+ 
+—  
+—  
+—  
+—  
+1  
+2  
+(2)  
+—  
+—  
+1  
+—  
+—  
+—  
+— 
+Total sustaining capital expenditure
+ 
+—  
+19  
+19  
+28  
+34  
+26  
+52  
+20  
+—  
+160  
+26  
+11  
+—  
+37 
+All-in sustaining costs (5)
+ 
+28  
+93  
+93  
+100  
+113  
+150  
+161  
+83  
+—  
+607  
+125  
+109  
+10  
+244 
+Gold sold - oz (000)
+ 
+—  
+78  
+78  
+47  
+59  
+69  
+122  
+44  
+—  
+341  
+66  
+100  
+—  
+166 
+All-in sustaining costs per ounce - $/oz (1)
+ 
+—  
+1,188  
+1,188  
+2,131  
+1,905  
+2,186  
+1,327  
+1,858  
+—  
+1,780  
+1,888  
+1,086  
+—  
+1,465 
+(1) In addition to the operational performances of the mines, “all-in sustaining costs per ounce” and “total cash costs per ounce” are affected by fluctuations in the foreign currency exchange rate. AngloGold Ashanti reports “all-in sustaining costs per 
+ounce” calculated to the nearest US dollar amount and gold sold in ounces. AngloGold Ashanti reports “total cash costs per ounce” calculated to the nearest US dollar amount and gold produced in ounces. “All-in sustaining costs per ounce” and 
+“total cash costs per ounce” may not be calculated based on amounts presented in this table due to rounding.
+(2) Refer to Segmental reporting.
+(3) Corporate includes non-gold producing managed operations.
+(4) Total including equity-accounted non-managed joint ventures.
+(5) “Total cash costs” and “all-in sustaining costs” may not be calculated based on amounts presented in this table due to rounding.
+Rounding of figures may result in computational discrepancies.
+NON-GAAP DISCLOSURE   I   NOTE A 
+ 
+Q4 2025 EARNINGS RELEASE
+44
+
+--- PAGE 44 (matched: geographic_foreign_revenue, revenue_cos_opex) ---
+ALL-IN SUSTAINING COSTS
+FOR THE QUARTER ENDED 31 DECEMBER 2024
+AMERICAS
+Projects
+GROUP
+GROUP EXCL. SUKARI(6)
+Cerro
+Vanguardia
+AngloGold
+Ashanti
+Mineração 
+Serra 
+Grande
+Americas 
+other
+Americas
+Non-
+managed 
+joint 
+ventures
+Managed 
+operations
+Group total (4)
+Managed 
+operations
+Group total (4)
+in US Dollar millions, except as otherwise noted
+Cost of sales per segmental information (2)
+ 
+99  
+98  
+32  
+1  
+230  
+—  
+101  
+1,043  
+1,144 
+ 
+960  
+1,061 
+By-product revenue
+ 
+(30)  
+(2)  
+—  
+—  
+(32)  
+—  
+—  
+(34)  
+(34)  
+(34)  
+(34) 
+Amortisation of tangible, intangible and right of use assets
+ 
+(21)  
+(33)  
+(8)  
+—  
+(62)  
+—  
+(25)  
+(238)  
+(263)  
+(218)  
+(243) 
+Adjusted for decommissioning and inventory amortisation
+ 
+6  
+—  
+—  
+—  
+6  
+—  
+—  
+6  
+6 
+ 
+6  
+6 
+Corporate administration, marketing and related expenses
+ 
+—  
+—  
+—  
+—  
+—  
+1  
+—  
+32  
+32 
+ 
+32  
+32 
+Lease payment sustaining
+ 
+—  
+6  
+3  
+—  
+9  
+—  
+(3)  
+25  
+22 
+ 
+25  
+22 
+Sustaining exploration and study costs
+ 
+1  
+1  
+—  
+—  
+2  
+—  
+—  
+3  
+3 
+ 
+3  
+3 
+Total sustaining capital expenditure
+ 
+24  
+30  
+12  
+—  
+66  
+3  
+19  
+266  
+285 
+ 
+246  
+265 
+All-in sustaining costs (5)
+ 
+79  
+100  
+40  
+—  
+219  
+4  
+93  
+1,102  
+1,195 
+ 
+1,019  
+1,112 
+Gold sold - oz (000)
+ 
+44  
+74  
+22  
+—  
+140  
+—  
+78  
+647  
+725 
+ 
+603  
+681 
+All-in sustaining costs per ounce - $/oz (1)
+ 
+1,811  
+1,344  
+1,842  
+—  
+1,574  
+—  
+1,188  
+1,702  
+1,647 
+ 
+1,691  
+1,633 
+(1) In addition to the operational performances of the mines, “all-in sustaining costs per ounce” and “total cash costs per ounce” are affected by fluctuations in the foreign currency exchange rate. AngloGold Ashanti reports “all-in 
+sustaining costs per ounce” calculated to the nearest US dollar amount and gold sold in ounces. AngloGold Ashanti reports “total cash costs per ounce” calculated to the nearest US dollar amount and gold produced in ounces. 
+“All-in sustaining costs per ounce” and “total cash costs per ounce” may not be calculated based on amounts presented in this table due to rounding.
+(2) Refer to Segmental reporting.
+(3) Corporate includes non-gold producing managed operations.
+(4) Total including equity-accounted non-managed joint ventures.
+(5) “Total cash costs” and “all-in sustaining costs” may not be calculated based on amounts presented in this table due to rounding.
+(6) Adjusted to exclude Sukari operation which was acquired on 22 November 2024 as part of the Centamin acquisition.
+Rounding of figures may result in computational discrepancies.
+NON-GAAP DISCLOSURE   I   NOTE A 
+ 
+Q4 2025 EARNINGS RELEASE
+45
+
+--- PAGE 45 (matched: geographic_foreign_revenue, revenue_cos_opex) ---
+TOTAL CASH COSTS
+FOR THE QUARTER ENDED 31 DECEMBER 2024
+Corporate
+and other(3)
+AFRICA
+AUSTRALIA
+Kibali
+Non-managed 
+joint ventures
+Iduapriem
+Obuasi
+Siguiri
+Geita
+Sukari
+Africa other
+Managed 
+operations
+Sunrise 
+Dam
+Tropicana
+Australia 
+other
+Australia
+in US Dollar millions, except as otherwise noted
+Cost of sales per segmental information (2)
+ 
+(3)  
+101  
+101  
+91  
+101  
+134  
+148  
+83  
+—  
+557  
+114  
+135  
+10  
+259 
+ - By-product revenue
+ 
+—  
+—  
+—  
+—  
+—  
+—  
+(1)  
+—  
+—  
+(1)  
+—  
+(1)  
+—  
+(1) 
+ - Inventory change
+ 
+—  
+1  
+1  
+6  
+(1)  
+11  
+17  
+(17)  
+—  
+16  
+(1)  
+—  
+—  
+(1) 
+ - Amortisation of tangible assets
+ 
+(1)  
+(25)  
+(25)  
+(18)  
+(22)  
+(13)  
+(37)  
+(19)  
+—  
+(109)  
+(15)  
+(37)  
+—  
+(52) 
+ - Amortisation of right of use assets
+ 
+—  
+—  
+—  
+(1)  
+—  
+(1)  
+(5)  
+(1)  
+—  
+(8)  
+(4)  
+(2)  
+—  
+(6) 
+ - Amortisation of intangible assets
+ 
+—  
+—  
+—  
+—  
+—  
+—  
+—  
+—  
+—  
+—  
+—  
+—  
+—  
+— 
+ - Rehabilitation and other non-cash costs
+ 
+—  
+—  
+—  
+(3)  
+(7)  
+(2)  
+(1)  
+—  
+—  
+(13)  
+(1)  
+(2)  
+—  
+(3) 
+ - Retrenchment costs
+ 
+—  
+—  
+—  
+—  
+—  
+—  
+—  
+—  
+—  
+—  
+—  
+—  
+—  
+— 
+Total cash costs (5)
+ 
+(4)  
+77  
+77  
+74  
+71  
+129  
+121  
+46  
+—  
+441  
+93  
+93  
+9  
+195 
+Gold produced - oz (000)
+ 
+—  
+80  
+80  
+50  
+60  
+74  
+136  
+40  
+—  
+360  
+66  
+100  
+—  
+166 
+Total cash costs per ounce - $/oz (1)
+ 
+—  
+967  
+967  
+1,478  
+1,169  
+1,747  
+892  
+1,165  
+—  
+1,225  
+1,406  
+924  
+—  
+1,171 
+(1) In addition to the operational performances of the mines, “all-in sustaining costs per ounce” and “total cash costs per ounce” are affected by fluctuations in the foreign currency exchange rate. AngloGold Ashanti reports “all-in sustaining costs per 
+ounce” calculated to the nearest US dollar amount and gold sold in ounces. AngloGold Ashanti reports “total cash costs per ounce” calculated to the nearest US dollar amount and gold produced in ounces. “All-in sustaining costs per ounce” and 
+“total cash costs per ounce” may not be calculated based on amounts presented in this table due to rounding.
+(2) Refer to Segmental reporting.
+(3) Corporate includes non-gold producing managed operations.
+(4) Total including equity-accounted non-managed joint ventures.
+(5) “Total cash costs” and “all-in sustaining costs” may not be calculated based on amounts presented in this table due to rounding.
+Rounding of figures may result in computational discrepancies.
+NON-GAAP DISCLOSURE   I   NOTE A 
+Q4 2025 EARNINGS RELEASE
+46
+
+--- PAGE 46 (matched: geographic_foreign_revenue, revenue_cos_opex) ---
+TOTAL CASH COSTS
+FOR THE QUARTER ENDED 31 DECEMBER 2024
+AMERICAS
+Projects
+GROUP
+GROUP EXCL. SUKARI(6)
+Cerro
+Vanguardia
+AngloGold
+Ashanti
+Mineração
+Serra 
+Grande
+Americas 
+other
+Americas
+Non-
+managed 
+joint 
+ventures
+Managed 
+operations
+Group total (4)
+Managed 
+operations
+Group total (4)
+in US Dollar millions, except as otherwise noted
+Cost of sales per segmental information (2)
+ 
+99  
+98  
+32  
+1  
+230  
+—  
+101  
+1,043  
+1,144 
+ 
+960  
+1,061 
+- By-product revenue
+ 
+(30)  
+(2)  
+—  
+—  
+(32)  
+—  
+—  
+(34)  
+(34)  
+(34)  
+(34) 
+- Inventory change
+ 
+9  
+(1)  
+1  
+—  
+9  
+—  
+1  
+24  
+25 
+ 
+41  
+42 
+- Amortisation of tangible assets
+ 
+(21)  
+(27)  
+(7)  
+—  
+(55)  
+—  
+(25)  
+(217)  
+(242)  
+(198)  
+(223) 
+- Amortisation of right of use assets
+ 
+—  
+(6)  
+(1)  
+—  
+(7)  
+—  
+—  
+(21)  
+(21)  
+(21)  
+(21) 
+- Amortisation of intangible assets
+ 
+—  
+—  
+—  
+—  
+—  
+—  
+—  
+—  
+— 
+ 
+—  
+— 
+- Rehabilitation and other non-cash costs
+ 
+(2)  
+2  
+4  
+—  
+4  
+—  
+—  
+(12)  
+(12)  
+(12)  
+(12) 
+- Retrenchment costs
+ 
+—  
+(1)  
+—  
+—  
+(1)  
+—  
+—  
+(1)  
+(1)  
+(1)  
+(1) 
+Total cash costs (5)
+ 
+54  
+64  
+30  
+1  
+149  
+—  
+77  
+781  
+858 
+ 
+735  
+812 
+Gold produced - oz (000)
+ 
+47  
+75  
+22  
+—  
+144  
+—  
+80  
+670  
+750 
+ 
+630  
+710 
+Total cash costs per ounce - $/oz (1)
+ 
+1,155  
+859  
+1,338  
+—  
+1,035  
+—  
+967  
+1,165  
+1,144 
+ 
+1,165  
+1,143 
+(1) In addition to the operational performances of the mines, “all-in sustaining costs per ounce” and “total cash costs per ounce” are affected by fluctuations in the foreign currency exchange rate. AngloGold Ashanti reports “all-in 
+sustaining costs per ounce” calculated to the nearest US dollar amount and gold sold in ounces. AngloGold Ashanti reports “total cash costs per ounce” calculated to the nearest US dollar amount and gold produced in ounces. 
+“All-in sustaining costs per ounce” and “total cash costs per ounce” may not be calculated based on amounts presented in this table due to rounding.
+(2) Refer to Segmental reporting.
+(3) Corporate includes non-gold producing managed operations.
+(4) Total including equity-accounted non-managed joint ventures.
+(5) “Total cash costs” and “all-in sustaining costs” may not be calculated based on amounts presented in this table due to rounding.
+(6) Adjusted to exclude Sukari operation which was acquired on 22 November 2024 as part of the Centamin acquisition.
+Rounding of figures may result in computational discrepancies.
+NON-GAAP DISCLOSURE   I   NOTE A 
+Q4 2025 EARNINGS RELEASE
+47
+
+--- PAGE 47 (matched: geographic_foreign_revenue, revenue_cos_opex) ---
+ALL-IN SUSTAINING COSTS
+FOR THE YEAR ENDED 31 DECEMBER 2025
+Corporate 
+and other 
+(3)
+AFRICA
+AUSTRALIA
+Kibali
+Non-managed 
+joint ventures
+Iduapriem
+Obuasi
+Siguiri
+Geita
+Sukari
+Africa 
+other
+Managed 
+operations
+Sunrise 
+Dam
+Tropicana
+Australia 
+other
+Australia
+in US Dollar millions, except as otherwise noted
+Cost of sales per segmental information (2)
+ 
+6  
+432  
+432  
+424  
+458 
+591 
+773  
+789  
+(1)  
+3,034  
+442  
+527  
+40  
+1,009 
+By-product revenue
+ 
+—  
+(2)  
+(2)  
+—  
+(1)  
+—  
+(4)  
+(4)  
+—  
+(9)  
+(2)  
+(4)  
+—  
+(6) 
+Amortisation of tangible, intangible and right of use assets
+ 
+(4)  
+(107)  
+(107)  
+(113)  
+(87)  
+(64)  
+(256)  
+(379)  
+—  
+(899)  
+(67)  
+(113)  
+(1)  
+(181) 
+Adjusted for decommissioning and inventory amortisation
+ 
+—  
+—  
+—  
+—  
+(1)  
+—  
+(1)  
+—  
+—  
+(2)  
+1  
+—  
+—  
+1 
+Corporate administration, marketing and related expenses
+ 
+135  
+—  
+—  
+—  
+—  
+—  
+—  
+—  
+—  
+—  
+—  
+—  
+—  
+— 
+Lease payment sustaining
+ 
+1  
+(1)  
+(1)  
+6  
+—  
+5  
+21  
+3  
+—  
+35  
+15  
+21  
+1  
+37 
+Sustaining exploration and study costs
+ 
+—  
+—  
+—  
+4  
+1  
+10  
+9  
+—  
+—  
+24  
+2  
+—  
+—  
+2 
+Total sustaining capital expenditure
+ 
+2  
+71  
+71  
+101  
+174  
+85  
+218  
+145  
+—  
+723  
+87  
+35  
+—  
+122 
+All-in sustaining costs (5)
+ 
+139  
+393  
+393  
+421  
+544  
+627  
+760  
+554  
+—  
+2,906  
+478  
+467  
+40  
+985 
+Gold sold - oz (000)
+ 
+—  
+298  
+298  
+201  
+269  
+289  
+499  
+507  
+—  
+1,765  
+230  
+309  
+—  
+539 
+All-in sustaining costs per ounce - $/oz (1)
+ 
+—  
+1,317  
+1,317  
+2,096  
+2,026  
+2,165  
+1,525  
+1,094  
+—  
+1,647  
+2,078  
+1,508  
+—  
+1,825 
+(1) In addition to the operational performances of the mines, “all-in sustaining costs per ounce” and “total cash costs per ounce” are affected by fluctuations in the foreign currency exchange rate. AngloGold Ashanti reports “all-in sustaining costs per 
+ounce” calculated to the nearest US dollar amount and gold sold in ounces. AngloGold Ashanti reports “total cash costs per ounce” calculated to the nearest US dollar amount and gold produced in ounces. “All-in sustaining costs per ounce” and 
+“total cash costs per ounce” may not be calculated based on amounts presented in this table due to rounding.
+(2) Refer to Segmental reporting.
+(3) Corporate includes non-gold producing managed operations.
+(4) Total including equity-accounted non-managed joint ventures.
+(5) “Total cash costs” and “all-in sustaining costs” may not be calculated based on amounts presented in this table due to rounding.
+Rounding of figures may result in computational discrepancies.
+NON-GAAP DISCLOSURE   I   NOTE A 
+ 
+Q4 2025 EARNINGS RELEASE
+48
+
+--- PAGE 48 (matched: geographic_foreign_revenue, revenue_cos_opex) ---
+ALL-IN SUSTAINING COSTS
+FOR THE YEAR ENDED 31 DECEMBER 2025
+AMERICAS
+Projects
+GROUP
+GROUP EXCL. SUKARI(6)
+Cerro
+Vanguardia
+AngloGold 
+Ashanti 
+Mineração
+Serra 
+Grande
+Americas 
+other
+Americas
+Non-
+managed 
+joint 
+ventures
+Managed 
+operations
+Group total (4)
+Managed 
+operations
+Group total (4)
+in US Dollar millions, except as otherwise noted
+Cost of sales per segmental information (2)
+ 
+441  
+391  
+139  
+2  
+973  
+—  
+432  
+5,022  
+5,454 
+ 
+4,233  
+4,665 
+By-product revenue
+ 
+(130)  
+(18)  
+—  
+—  
+(148)  
+—  
+(2)  
+(163)  
+(165)  
+(159)  
+(161) 
+Amortisation of tangible, intangible and right of use assets
+ 
+(68)  
+(105)  
+(30)  
+—  
+(203)  
+—  
+(107)  
+(1,287)  
+(1,394)  
+(908)  
+(1,015) 
+Adjusted for decommissioning and inventory amortisation
+ 
+(3)  
+(1)  
+—  
+—  
+(4)  
+—  
+—  
+(5)  
+(5)  
+(5)  
+(5) 
+Corporate administration, marketing and related expenses
+ 
+—  
+—  
+—  
+—  
+—  
+3  
+—  
+138  
+138 
+ 
+138  
+138 
+Lease payment sustaining
+ 
+—  
+23  
+8  
+—  
+31  
+2  
+(1)  
+106  
+105 
+ 
+103  
+102 
+Sustaining exploration and study costs
+ 
+6  
+1  
+—  
+—  
+7  
+1  
+—  
+34  
+34 
+ 
+34  
+34 
+Total sustaining capital expenditure
+ 
+64  
+119  
+37  
+—  
+220  
+3  
+71  
+1,070  
+1,141 
+ 
+925  
+996 
+All-in sustaining costs (5)
+ 
+309  
+410  
+154  
+3  
+876  
+8  
+393  
+4,914  
+5,307 
+ 
+4,360  
+4,753 
+Gold sold - oz (000)
+ 
+178  
+272  
+53  
+—  
+503  
+—  
+298  
+2,807  
+3,105 
+ 
+2,300  
+2,598 
+All-in sustaining costs per ounce - $/oz (1)
+ 
+1,726  
+1,506  
+2,951  
+—  
+1,741  
+—  
+1,317  
+1,751  
+1,709 
+ 
+1,895  
+1,829 
+(1) In addition to the operational performances of the mines, “all-in sustaining costs per ounce” and “total cash costs per ounce” are affected by fluctuations in the foreign currency exchange rate. AngloGold Ashanti reports “all-in sustaining 
+costs per ounce” calculated to the nearest US dollar amount and gold sold in ounces. AngloGold Ashanti reports “total cash costs per ounce” calculated to the nearest US dollar amount and gold produced in ounces. “All-in sustaining 
+costs per ounce” and “total cash costs per ounce” may not be calculated based on amounts presented in this table due to rounding.
+(2) Refer to Segmental reporting.
+(3) Corporate includes non-gold producing managed operations.
+(4) Total including equity-accounted non-managed joint ventures.
+(5) “Total cash costs” and “all-in sustaining costs” may not be calculated based on amounts presented in this table due to rounding.
+(6) Adjusted to exclude Sukari operation which was acquired on 22 November 2024 as part of the Centamin acquisition.
+Rounding of figures may result in computational discrepancies.
+NON-GAAP DISCLOSURE   I   NOTE A 
+ 
+Q4 2025 EARNINGS RELEASE
+49
+
+--- PAGE 49 (matched: geographic_foreign_revenue, revenue_cos_opex) ---
+TOTAL CASH COSTS
+FOR THE YEAR ENDED 31 DECEMBER 2025
+Corporate and 
+other (3)
+AFRICA
+AUSTRALIA
+Kibali
+Non-managed 
+joint ventures
+Iduapriem
+Obuasi
+Siguiri
+Geita
+Sukari
+Africa 
+other
+Managed 
+operations
+Sunrise 
+Dam
+Tropicana
+Australia 
+other
+Australia
+in US Dollar millions, except as otherwise noted
+Cost of sales per segmental information (2)
+ 
+6  
+432  
+432  
+424  
+458  
+591  
+773  
+789  
+(1)  
+3,034  
+442  
+527  
+40  
+1,009 
+- By-product revenue
+ 
+—  
+(2)  
+(2)  
+—  
+(1)  
+—  
+(4)  
+(4)  
+—  
+(9)  
+(2)  
+(4)  
+—  
+(6) 
+- Inventory change
+ 
+—  
+8  
+8  
+(3)  
+(4)  
+—  
+3  
+(12)  
+—  
+(16)  
+3  
+(5)  
+—  
+(2) 
+- Amortisation of tangible assets
+ 
+(3)  
+(106)  
+(106)  
+(107)  
+(87)  
+(59)  
+(234)  
+(377)  
+—  
+(864)  
+(52)  
+(89)  
+—  
+(141) 
+- Amortisation of right of use assets
+ 
+—  
+(1)  
+(1)  
+(6)  
+—  
+(5)  
+(22)  
+(2)  
+—  
+(35)  
+(15)  
+(24)  
+(1)  
+(40) 
+- Amortisation of intangible assets
+ 
+(1)  
+—  
+—  
+—  
+—  
+—  
+—  
+—  
+—  
+—  
+—  
+—  
+—  
+— 
+- Rehabilitation and other non-cash costs
+ 
+—  
+17  
+17  
+(13)  
+(13)  
+(11)  
+(6)  
+(3)  
+—  
+(46)  
+4  
+—  
+(1)  
+3 
+- Retrenchment costs
+ 
+—  
+—  
+—  
+—  
+—  
+—  
+—  
+—  
+—  
+—  
+—  
+—  
+—  
+— 
+Total cash costs (5)
+ 
+2  
+348  
+348  
+295  
+353  
+516  
+510  
+391  
+(1)  
+2,064  
+379  
+406  
+37  
+822 
+Gold produced - oz (000)
+ 
+—  
+303  
+303  
+199  
+266  
+289  
+492  
+500  
+—  
+1,746  
+232  
+305  
+—  
+537 
+Total cash costs per ounce - $/oz (1)
+ 
+—  
+1,148  
+1,148  
+1,482  
+1,325  
+1,783  
+1,038  
+783  
+—  
+1,182  
+1,634  
+1,330  
+—  
+1,530 
+(1) In addition to the operational performances of the mines, “all-in sustaining costs per ounce” and “total cash costs per ounce” are affected by fluctuations in the foreign currency exchange rate. AngloGold Ashanti reports “all-in sustaining costs per 
+ounce” calculated to the nearest US dollar amount and gold sold in ounces. AngloGold Ashanti reports “total cash costs per ounce” calculated to the nearest US dollar amount and gold produced in ounces. “All-in sustaining costs per ounce” and 
+“total cash costs per ounce” may not be calculated based on amounts presented in this table due to rounding.
+(2) Refer to Segmental reporting.
+(3) Corporate includes non-gold producing managed operations.
+(4) Total including equity-accounted non-managed joint ventures.
+(5) “Total cash costs” and “all-in sustaining costs” may not be calculated based on amounts presented in this table due to rounding.
+Rounding of figures may result in computational discrepancies.
+NON-GAAP DISCLOSURE   I   NOTE A 
+Q4 2025 EARNINGS RELEASE
+50
+
+--- PAGE 50 (matched: geographic_foreign_revenue, revenue_cos_opex) ---
+TOTAL CASH COSTS
+FOR THE YEAR ENDED 31 DECEMBER 2025
+AMERICAS
+Projects
+GROUP
+GROUP EXCL. SUKARI(6)
+Cerro
+Vanguardia
+AngloGold
+Ashanti
+Mineração
+Serra 
+Grande
+Americas 
+other
+Americas
+Non-
+managed 
+joint 
+ventures
+Managed 
+operations
+Group total (4)
+Managed 
+operations
+Group total (4)
+in US Dollar millions, except as otherwise noted
+Cost of sales per segmental information (2)
+ 
+441  
+391  
+139  
+2  
+973  
+—  
+432  
+5,022  
+5,454 
+ 
+4,233  
+4,665 
+ - By-product revenue
+ 
+(130)  
+(18)  
+—  
+—  
+(148)  
+—  
+(2)  
+(163)  
+(165)  
+(159)  
+(161) 
+ - Inventory change
+ 
+(4)  
+—  
+1  
+—  
+(3)  
+—  
+8  
+(21)  
+(13)  
+(9)  
+(1) 
+ - Amortisation of tangible assets
+ 
+(68)  
+(86)  
+(24)  
+—  
+(178)  
+—  
+(106)  
+(1,186)  
+(1,292)  
+(809)  
+(915) 
+ - Amortisation of right of use assets
+ 
+—  
+(19)  
+(6)  
+—  
+(25)  
+—  
+(1)  
+(100)  
+(101)  
+(98)  
+(99) 
+ - Amortisation of intangible assets
+ 
+—  
+—  
+—  
+—  
+—  
+—  
+—  
+(1)  
+(1)  
+(1)  
+(1) 
+ - Rehabilitation and other non-cash costs
+ 
+(18)  
+—  
+5  
+—  
+(13)  
+—  
+17  
+(56)  
+(39)  
+(53)  
+(36) 
+ - Retrenchment costs
+ 
+(1)  
+(1)  
+(1)  
+—  
+(3)  
+—  
+—  
+(3)  
+(3)  
+(3)  
+(3) 
+Total cash costs (5)
+ 
+220  
+266  
+115  
+2  
+603  
+—  
+348  
+3,491  
+3,839 
+ 
+3,100  
+3,448 
+Gold produced - oz (000)
+ 
+179  
+273  
+53  
+—  
+505  
+—  
+303  
+2,788  
+3,091 
+ 
+2,288  
+2,591 
+Total cash costs per ounce - $/oz (1)
+ 
+1,227  
+976  
+2,165  
+—  
+1,195  
+—  
+1,148  
+1,252  
+1,242 
+ 
+1,355  
+1,330 
+(1) In addition to the operational performances of the mines, “all-in sustaining costs per ounce” and “total cash costs per ounce” are affected by fluctuations in the foreign currency exchange rate. AngloGold Ashanti reports “all-in sustaining 
+costs per ounce” calculated to the nearest US dollar amount and gold sold in ounces. AngloGold Ashanti reports “total cash costs per ounce” calculated to the nearest US dollar amount and gold produced in ounces. “All-in sustaining 
+costs per ounce” and “total cash costs per ounce” may not be calculated based on amounts presented in this table due to rounding.
+(2) Refer to Segmental reporting.
+(3) Corporate includes non-gold producing managed operations.
+(4) Total including equity-accounted non-managed joint ventures.
+(5) “Total cash costs” and “all-in sustaining costs” may not be calculated based on amounts presented in this table due to rounding.
+(6) Adjusted to exclude Sukari operation which was acquired on 22 November 2024 as part of the Centamin acquisition.
+Rounding of figures may result in computational discrepancies.
+NON-GAAP DISCLOSURE   I   NOTE A 
+ 
+Q4 2025 EARNINGS RELEASE
+51
+
+--- PAGE 51 (matched: geographic_foreign_revenue, revenue_cos_opex) ---
+ALL-IN SUSTAINING COSTS
+FOR THE YEAR ENDED 31 DECEMBER 2024
+Corporate 
+and other 
+(3)
+AFRICA
+AUSTRALIA
+Kibali
+Non-managed 
+joint ventures
+Iduapriem
+Obuasi
+Siguiri
+Geita
+Sukari
+Africa 
+other
+Managed 
+operations
+Sunrise 
+Dam
+Tropicana
+Australia 
+other
+Australia
+in US Dollar millions, except as otherwise noted
+Cost of sales per segmental information (2)
+ 
+(1)  
+380  
+380  
+351  
+360 
+518 
+612  
+83  
+—  
+1,924  
+430  
+479  
+36  
+945 
+By-product revenue
+ 
+—  
+(2)  
+(2)  
+—  
+(1)  
+(1)  
+(2)  
+—  
+—  
+(4)  
+(2)  
+(3)  
+—  
+(5) 
+Amortisation of tangible, intangible and right of use assets
+ 
+(4)  
+(92)  
+(92)  
+(79)  
+(75)  
+(51)  
+(138)  
+(20)  
+—  
+(363)  
+(77)  
+(112)  
+(1)  
+(190) 
+Adjusted for decommissioning and inventory amortisation
+ 
+—  
+—  
+—  
+—  
+—  
+—  
+(1)  
+—  
+—  
+(1)  
+(1)  
+—  
+—  
+(1) 
+Corporate administration, marketing and related expenses
+ 
+115  
+—  
+—  
+—  
+—  
+—  
+—  
+—  
+—  
+—  
+—  
+—  
+—  
+— 
+Lease payment sustaining
+ 
+1  
+(1)  
+(1)  
+6  
+—  
+3  
+22  
+—  
+—  
+31  
+18  
+10  
+1  
+29 
+Sustaining exploration and study costs
+ 
+—  
+—  
+—  
+—  
+2  
+6  
+6  
+—  
+—  
+14  
+1  
+—  
+—  
+1 
+Total sustaining capital expenditure
+ 
+1  
+68  
+68  
+108  
+145  
+93  
+181  
+20  
+—  
+547  
+65  
+37  
+—  
+102 
+All-in sustaining costs (5)
+ 
+112  
+354  
+354  
+385  
+430  
+569  
+680  
+83  
+—  
+2,147  
+434  
+411  
+36  
+881 
+Gold sold - oz (000)
+ 
+—  
+309  
+309  
+238  
+222  
+272  
+479  
+44  
+—  
+1,255  
+261  
+317  
+—  
+578 
+All-in sustaining costs per ounce - $/oz (1)
+ 
+—  
+1,146  
+1,146  
+1,614  
+1,942  
+2,093  
+1,418  
+1,858  
+—  
+1,709  
+1,665  
+1,297  
+—  
+1,526 
+(1) In addition to the operational performances of the mines, “all-in sustaining costs per ounce” and “total cash costs per ounce” are affected by fluctuations in the foreign currency exchange rate. AngloGold Ashanti reports “all-in sustaining costs per 
+ounce” calculated to the nearest US dollar amount and gold sold in ounces. AngloGold Ashanti reports “total cash costs per ounce” calculated to the nearest US dollar amount and gold produced in ounces. “All-in sustaining costs per ounce” and 
+“total cash costs per ounce” may not be calculated based on amounts presented in this table due to rounding.
+(2) Refer to Segmental reporting.
+(3) Corporate includes non-gold producing managed operations.
+(4) Total including equity-accounted non-managed joint ventures.
+(5) “Total cash costs” and “all-in sustaining costs” may not be calculated based on amounts presented in this table due to rounding.
+Rounding of figures may result in computational discrepancies.
+NON-GAAP DISCLOSURE   I   NOTE A 
+ 
+Q4 2025 EARNINGS RELEASE
+52
+
+--- PAGE 52 (matched: geographic_foreign_revenue, revenue_cos_opex) ---
+ALL-IN SUSTAINING COSTS
+FOR THE YEAR ENDED 31 DECEMBER 2024
+AMERICAS
+Projects
+GROUP
+GROUP EXCL. SUKARI(6)
+Cerro 
+Vanguardia
+AngloGold 
+Ashanti 
+Mineração
+Serra 
+Grande
+Americas 
+other
+Americas
+Non-
+managed 
+joint 
+ventures
+Managed 
+operations
+Group total (4)
+Managed 
+operations
+Group total (4)
+in US Dollar millions, except as otherwise noted
+Cost of sales per segmental information (2)
+ 
+368  
+352  
+136  
+2  
+858  
+—  
+380  
+3,726  
+4,106 
+ 
+3,643  
+4,023 
+By-product revenue
+ 
+(109)  
+(2)  
+—  
+—  
+(111)  
+—  
+(2)  
+(120)  
+(122)  
+(120)  
+(122) 
+Amortisation of tangible, intangible and right of use assets
+ 
+(61)  
+(112)  
+(22)  
+—  
+(195)  
+—  
+(92)  
+(752)  
+(844)  
+(732)  
+(824) 
+Adjusted for decommissioning and inventory amortisation
+ 
+9  
+(1)  
+(1)  
+—  
+7  
+—  
+—  
+5  
+5 
+ 
+5  
+5 
+Corporate administration, marketing and related expenses
+ 
+—  
+—  
+—  
+—  
+—  
+3  
+—  
+118  
+118 
+ 
+118  
+118 
+Lease payment sustaining
+ 
+—  
+27  
+10  
+—  
+37  
+1  
+(1)  
+99  
+98 
+ 
+99  
+98 
+Sustaining exploration and study costs
+ 
+6  
+2  
+—  
+—  
+8  
+1  
+—  
+24  
+24 
+ 
+24  
+24 
+Total sustaining capital expenditure
+ 
+71  
+98  
+40  
+—  
+209  
+5  
+68  
+864  
+932 
+ 
+844  
+912 
+All-in sustaining costs (5)
+ 
+284  
+365  
+162  
+2  
+813  
+10  
+354  
+3,963  
+4,317 
+ 
+3,880  
+4,234 
+Gold sold - oz (000)
+ 
+183  
+274  
+80  
+—  
+537  
+—  
+309  
+2,370  
+2,679 
+ 
+2,326  
+2,635 
+All-in sustaining costs per ounce - $/oz (1)
+ 
+1,544  
+1,334  
+2,039  
+—  
+1,514  
+—  
+1,146  
+1,672  
+1,611 
+ 
+1,668  
+1,607 
+(1) In addition to the operational performances of the mines, “all-in sustaining costs per ounce” and “total cash costs per ounce” are affected by fluctuations in the foreign currency exchange rate. AngloGold Ashanti reports “all-in sustaining 
+costs per ounce” calculated to the nearest US dollar amount and gold sold in ounces. AngloGold Ashanti reports “total cash costs per ounce” calculated to the nearest US dollar amount and gold produced in ounces. “All-in sustaining 
+costs per ounce” and “total cash costs per ounce” may not be calculated based on amounts presented in this table due to rounding.
+(2) Refer to Segmental reporting.
+(3) Corporate includes non-gold producing managed operations.
+(4) Total including equity-accounted non-managed joint ventures.
+(5) “Total cash costs” and “all-in sustaining costs” may not be calculated based on amounts presented in this table due to rounding.
+(6) Adjusted to exclude Sukari operation which was acquired on 22 November 2024 as part of the Centamin acquisition.
+Rounding of figures may result in computational discrepancies.
+NON-GAAP DISCLOSURE   I   NOTE A 
+  
+Q4 2025 EARNINGS RELEASE
+53
+
+--- PAGE 53 (matched: geographic_foreign_revenue, revenue_cos_opex) ---
+TOTAL CASH COSTS
+FOR THE YEAR ENDED 31 DECEMBER 2024
+Corporate 
+and other 
+(3)
+AFRICA
+AUSTRALIA
+Kibali
+Non-
+managed 
+joint ventures
+Iduapriem
+Obuasi
+Siguiri
+Geita
+Sukari
+Africa other
+Managed 
+operations
+Sunrise 
+Dam
+Tropicana
+Australia 
+other
+Australia
+in US Dollar millions, except as otherwise noted
+Cost of sales per segmental information (2)
+ 
+(1)  
+380  
+380  
+351  
+360  
+518  
+612  
+83  
+—  
+1,924  
+430  
+479  
+36  
+945 
+- By-product revenue
+ 
+—  
+(2)  
+(2)  
+—  
+(1)  
+(1)  
+(2)  
+—  
+—  
+(4)  
+(2)  
+(3)  
+—  
+(5) 
+- Inventory change
+ 
+—  
+2  
+2  
+1  
+(2)  
+4  
+7  
+(17)  
+—  
+(7)  
+(3)  
+(7)  
+—  
+(10) 
+- Amortisation of tangible assets
+ 
+(3)  
+(91)  
+(91)  
+(75)  
+(75)  
+(48)  
+(111)  
+(19)  
+—  
+(328)  
+(61)  
+(106)  
+—  
+(167) 
+- Amortisation of right of use assets
+ 
+(1)  
+(1)  
+(1)  
+(4)  
+—  
+(3)  
+(27)  
+(1)  
+—  
+(35)  
+(16)  
+(6)  
+(1)  
+(23) 
+- Amortisation of intangible assets
+ 
+—  
+—  
+—  
+—  
+—  
+—  
+—  
+—  
+—  
+—  
+—  
+—  
+—  
+— 
+- Rehabilitation and other non-cash costs
+ 
+—  
+1  
+1  
+(7)  
+(14)  
+(6)  
+(3)  
+—  
+—  
+(30)  
+(2)  
+(2)  
+(1)  
+(5) 
+- Retrenchment costs
+ 
+—  
+—  
+—  
+—  
+—  
+—  
+—  
+—  
+—  
+—  
+—  
+—  
+—  
+— 
+Total cash costs (5)
+ 
+(5)  
+289  
+289  
+265  
+268  
+465  
+476  
+46  
+(1)  
+1,519  
+347  
+354  
+34  
+735 
+Gold produced - oz (000)
+ 
+—  
+309  
+309  
+237  
+221  
+273  
+483  
+40  
+—  
+1,254  
+259  
+313  
+—  
+572 
+Total cash costs per ounce - $/oz (1)
+ 
+—  
+935  
+935  
+1,118  
+1,214  
+1,703  
+984  
+1,165  
+—  
+1,212  
+1,343  
+1,132  
+—  
+1,287 
+(1) In addition to the operational performances of the mines, “all-in sustaining costs per ounce” and “total cash costs per ounce” are affected by fluctuations in the foreign currency exchange rate. AngloGold Ashanti reports “all-in sustaining costs per 
+ounce” calculated to the nearest US dollar amount and gold sold in ounces. AngloGold Ashanti reports “total cash costs per ounce” calculated to the nearest US dollar amount and gold produced in ounces. “All-in sustaining costs per ounce” and 
+“total cash costs per ounce” may not be calculated based on amounts presented in this table due to rounding.
+(2) Refer to Segmental reporting.
+(3) Corporate includes non-gold producing managed operations.
+(4) Total including equity-accounted non-managed joint ventures.
+(5) “Total cash costs” and “all-in sustaining costs” may not be calculated based on amounts presented in this table due to rounding.
+Rounding of figures may result in computational discrepancies.
+NON-GAAP DISCLOSURE   I   NOTE A 
+  
+Q4 2025 EARNINGS RELEASE
+54
+
+--- PAGE 54 (matched: geographic_foreign_revenue, revenue_cos_opex) ---
+TOTAL CASH COSTS
+FOR THE YEAR  ENDED 31 DECEMBER 2024
+AMERICAS
+Projects
+GROUP
+GROUP EXCL. SUKARI(6)
+Cerro 
+Vanguardia
+AngloGold
+Ashanti
+Mineração
+Serra 
+Grande
+Americas 
+other
+Americas
+Non-
+managed 
+joint 
+ventures
+Managed 
+operations
+Group total (4)
+Managed 
+operations
+Group total (4)
+in US Dollar millions, except as otherwise noted
+Cost of sales per segmental information (2)
+ 
+368  
+352  
+136  
+2  
+858  
+—  
+380  
+3,726  
+4,106 
+ 
+3,643  
+4,023 
+ - By-product revenue
+ 
+(109)  
+(2)  
+—  
+—  
+(111)  
+—  
+(2)  
+(120)  
+(122)  
+(120)  
+(122) 
+ - Inventory change
+ 
+1  
+(2)  
+—  
+—  
+(1)  
+—  
+2  
+(18)  
+(16)  
+(1)  
+1 
+ - Amortisation of tangible assets
+ 
+(61)  
+(89)  
+(18)  
+—  
+(168)  
+—  
+(91)  
+(666)  
+(757)  
+(647)  
+(738) 
+ - Amortisation of right of use assets
+ 
+—  
+(23)  
+(4)  
+—  
+(27)  
+—  
+(1)  
+(86)  
+(87)  
+(86)  
+(87) 
+ - Amortisation of intangible assets
+ 
+—  
+—  
+—  
+—  
+—  
+—  
+—  
+—  
+— 
+ 
+—  
+— 
+ - Rehabilitation and other non-cash costs
+ 
+(10)  
+2  
+—  
+—  
+(8)  
+—  
+1  
+(43)  
+(42)  
+(43)  
+(42) 
+ - Retrenchment costs
+ 
+(1)  
+(1)  
+(1)  
+—  
+(3)  
+—  
+—  
+(3)  
+(3)  
+(3)  
+(3) 
+Total cash costs (5)
+ 
+189  
+237  
+113  
+2  
+541  
+—  
+289  
+2,790  
+3,079 
+ 
+2,744  
+3,033 
+Gold produced - oz (000)
+ 
+175  
+271  
+80  
+—  
+526  
+—  
+309  
+2,352  
+2,661 
+ 
+2,312  
+2,621 
+Total cash costs per ounce - $/oz (1)
+ 
+1,073  
+876  
+1,411  
+—  
+1,027  
+—  
+935  
+1,187  
+1,157 
+ 
+1,187  
+1,157 
+(1) In addition to the operational performances of the mines, “all-in sustaining costs per ounce” and “total cash costs per ounce” are affected by fluctuations in the foreign currency exchange rate. AngloGold Ashanti reports “all-in sustaining 
+costs per ounce” calculated to the nearest US dollar amount and gold sold in ounces. AngloGold Ashanti reports “total cash costs per ounce” calculated to the nearest US dollar amount and gold produced in ounces. “All-in sustaining 
+costs per ounce” and “total cash costs per ounce” may not be calculated based on amounts presented in this table due to rounding.
+(2) Refer to Segmental reporting.
+(3) Corporate includes non-gold producing managed operations.
+(4) Total including equity-accounted non-managed joint ventures.
+(5) “Total cash costs” and “all-in sustaining costs” may not be calculated based on amounts presented in this table due to rounding.
+(6) Adjusted to exclude Sukari operation which was acquired on 22 November 2024 as part of the Centamin acquisition.
+Rounding of figures may result in computational discrepancies.
+NON-GAAP DISCLOSURE   I   NOTE A 
+  
+Q4 2025 EARNINGS RELEASE
+55
+
+--- PAGE 55 (matched: context) ---
+AVERAGE GOLD PRICE 
+RECEIVED PER OUNCE
+Quarter
+Quarter
+Year
+Year
+ended
+ended
+ended
+ended
+Dec
+Dec
+Dec
+Dec
+2025
+2024
+2025
+2024
+Unaudited
+Unaudited
+Unaudited
+Unaudited
+US Dollar millions, except as otherwise noted
+Managed 
+operations
+Non-
+managed 
+joint 
+ventures
+Group
+(Equity) 
+Managed 
+operations
+Non-
+managed 
+joint 
+ventures
+Group
+(Equity) 
+Managed 
+operations
+Non-
+managed 
+joint 
+ventures
+Group
+(Equity) 
+Managed 
+operations
+Non-
+managed 
+joint ventures
+Group
+(Equity) 
+Gold income per income statement
+ 
+3,023  
+327  
+3,023  
+1,716  
+208  
+1,716  
+9,730  
+1,038  
+9,730  
+5,673  
+741  
+5,673 
+Associates and joint ventures’ share of gold income
+ 
+327 
+ 
+208 
+ 
+1,038 
+ 
+741 
+Gold income
+ 
+3,023  
+327  
+3,350  
+1,716  
+208  
+1,924  
+9,730  
+1,038  
+10,768  
+5,673  
+741  
+6,414 
+Gold sold - oz (000)
+ 
+725  
+78  
+803  
+647  
+78  
+725  
+2,807  
+298  
+3,105  
+2,370  
+309  
+2,679 
+Average gold price received per ounce - $/oz 
+ 
+4,172  
+4,162  
+4,171  
+2,652  
+2,662  
+2,653  
+3,466  
+3,483  
+3,468  
+2,393  
+2,401  
+2,394 
+Rounding of figures may result in computational discrepancies.
+NON-GAAP DISCLOSURE   I   NOTE B 
+ QUARTER 4 AND YEAR  I  2025 AND 2024
+Q4 2025 EARNINGS RELEASE
+56
+
+--- PAGE 59 (matched: context) ---
+ADJUSTED NET DEBT (CASH)(1)
+As at
+As at
+Dec
+Dec
+2025
+2024
+US Dollar millions, except as otherwise noted
+Unaudited
+Unaudited
+Borrowings - non-current portion
+ 
+2,025 
+ 
+1,901 
+Borrowings - current portion
+ 
+19 
+ 
+83 
+Lease liabilities - non-current portion 
+ 
+155 
+ 
+65 
+Lease liabilities - current portion
+ 
+59 
+ 
+76 
+Total borrowings
+ 
+2,258 
+ 
+2,125 
+Less cash and cash equivalents, net of bank overdraft
+ 
+(2,882) 
+ 
+(1,397) 
+Net debt (cash)
+ 
+(624) 
+ 
+728 
+Adjustments:
+IFRS16 lease adjustments
+ 
+(204) 
+ 
+(126) 
+Unamortised portion of borrowing costs
+ 
+16 
+ 
+26 
+Cash restricted for use
+ 
+(67) 
+ 
+(61) 
+Adjusted net debt (cash)
+ 
+(879) 
+ 
+567 
+Adjusted net debt (cash) to Adjusted EBITDA ratio
+ 
+(0.14) :1 
+0.21 :1
+Total borrowings to profit before taxation
+ 
+0.53 :1 
+1.27 :1
+(1) Net debt (cash) (as adjusted) and prepared in terms of the formula set out in the Revolving Credit Agreements.
+Rounding of figures may result in computational discrepancies.
+NON-GAAP DISCLOSURE   I   NOTE E 
+ 
+Q4 2025 EARNINGS RELEASE
+60
+
+--- PAGE 60 (matched: inventory_working_capital, receivables_payables) ---
+FREE CASH FLOW
+Quarter
+Quarter
+Year
+Year
+ended
+ended
+ended
+ended
+Dec
+Dec
+Dec
+Dec
+2025
+2024
+2025
+2024
+US Dollar millions, except as otherwise noted
+Unaudited
+Unaudited
+Unaudited
+Unaudited
+Net cash flow from operating activities (1)
+ 
+1,622  
+690  
+4,784  
+1,968 
+Repayment of loans advanced to joint ventures
+ 
+84  
+10  
+161  
+149 
+Dividends paid to non-controlling interests
+ 
+(202)  
+(65)  
+(588)  
+(71) 
+Operating cash flow
+ 
+1,504  
+635  
+4,357  
+2,046 
+Capital expenditure on tangible and intangible assets
+ 
+(454)  
+(333)  
+(1,449)  
+(1,090) 
+Free cash flow
+ 
+1,050  
+302  
+2,908  
+956 
+(1) Includes working capital movements as per table below.
+(Increase) decrease in inventories
+ 
+(22)  
+(55)  
+(57)  
+(78) 
+(Increase) decrease in trade receivables
+ 
+(38)  
+(61)  
+(219)  
+(182) 
+(Decrease) increase in trade payables
+ 
+88  
+(7)  
+102  
+6 
+Movement in working capital
+ 
+28  
+(123)  
+(174)  
+(254) 
+Rounding of figures may result in computational discrepancies.
+NON-GAAP DISCLOSURE   I   NOTE F 
+ 
+Q4 2025 EARNINGS RELEASE
+61
+
+--- PAGE 61 (matched: context) ---
+EXCHANGE RATES
+Dec
+Dec
+2025
+2024
+Unaudited
+Unaudited
+ZAR/USD
+Average for the year
+ 
+17.86  
+18.32 
+Average for the quarter
+ 
+17.10  
+17.89 
+Closing
+ 
+16.56  
+18.85 
+AUD/USD
+Average for the year
+ 
+1.55  
+1.52 
+Average for the quarter
+ 
+1.52  
+1.53 
+Closing
+ 
+1.50  
+1.62 
+BRL/USD
+Average for the year
+ 
+5.59  
+5.39 
+Average for the quarter
+ 
+5.39  
+5.83 
+Closing
+ 
+5.50  
+6.19 
+ARS/USD
+Average for the year
+ 
+1,246.73  
+916.78 
+Average for the quarter
+ 
+1,436.37  
+1,000.92 
+Closing
+ 
+1,459.42  
+1,032.50 
+EGP/USD
+Average for the year
+ 
+49.19  
+45.36 
+Average for the quarter
+ 
+47.45  
+49.54 
+Closing
+ 
+47.65  
+50.89 
+OTHER INFORMATION    I   EXCHANGE RATES
+Q4 2025 EARNINGS RELEASE
+62
+
+--- PAGE 64 (matched: context) ---
+OPERATIONS AT A GLANCE
+FOR THE YEAR ENDED 31 DECEMBER 2025 AND 31 DECEMBER 2024
+Gold production
+oz (000)
+Open-pit treated
+000 tonnes
+Underground 
+milled / treated 000 
+tonnes
+Other milled / 
+treated 
+000 tonnes
+Open-pit recovered 
+grade g/tonne
+Underground 
+recovered grade 
+g/tonne
+Other recovered 
+grade g/tonne
+Total recovered 
+grade g/tonne
+Dec-25
+Dec-24
+Dec-25
+Dec-24
+Dec-25
+Dec-24
+Dec-25
+Dec-24
+Dec-25
+Dec-24
+Dec-25
+Dec-24
+Dec-25
+Dec-24
+Dec-25
+Dec-24
+AFRICA Non-managed joint ventures
+ 
+303  
+309  
+2,437  
+2,229  
+1,308  
+1,598  
+—  
+—  
+1.37  
+0.99  
+4.65  
+4.63  
+—  
+—  
+2.52  
+2.51 
+Kibali - Attributable 45% (1)
+ 
+303  
+309  
+2,437  
+2,229  
+1,308  
+1,598  
+—  
+—  
+1.37  
+0.99  
+4.65  
+4.63  
+—  
+—  
+2.52  
+2.51 
+AFRICA Managed operations
+ 
+1,746  
+1,254  
+29,543  
+20,083  
+5,108  
+3,879  
+190  
+564  
+1.08  
+1.06  
+4.25  
+4.54  
+0.34  
+0.29  
+1.56  
+1.59 
+Iduapriem
+ 
+199  
+237  
+5,116  
+5,410  
+—  
+—  
+—  
+—  
+1.21  
+1.36  
+—  
+—  
+—  
+—  
+1.21  
+1.36 
+Obuasi
+ 
+266  
+221  
+—  
+—  
+1,336  
+1,144  
+—  
+141  
+—  
+—  
+6.19  
+5.89  
+—  
+0.99  
+6.19  
+5.35 
+Siguiri (3)
+ 
+289  
+273  
+10,813  
+11,103  
+—  
+—  
+—  
+—  
+0.83  
+0.76  
+—  
+—  
+—  
+—  
+0.83  
+0.76 
+Geita
+ 
+492  
+483  
+2,594  
+2,807  
+2,611  
+2,642  
+—  
+—  
+2.23  
+1.64  
+3.64  
+3.95  
+—  
+—  
+2.94  
+2.76 
+Sukari (3)
+ 
+500  
+40  
+11,020  
+763  
+1,161  
+93  
+190  
+423  
+0.98  
+1.04  
+3.41  
+4.52  
+0.34  
+0.05  
+1.26  
+0.97 
+AUSTRALIA
+ 
+537  
+572  
+6,556  
+6,427  
+3,776  
+3,709  
+—  
+—  
+1.16  
+1.19  
+2.41  
+2.73  
+—  
+—  
+1.62  
+1.75 
+Sunrise Dam
+ 
+232  
+259  
+1,496  
+1,494  
+2,377  
+2,399  
+—  
+—  
+1.37  
+1.18  
+2.17  
+2.62  
+—  
+—  
+1.86  
+2.07 
+Tropicana - Attributable 70%
+ 
+305  
+313  
+5,060  
+4,933  
+1,399  
+1,310  
+—  
+—  
+1.10  
+1.20  
+2.81  
+2.93  
+—  
+—  
+1.47  
+1.56 
+AMERICAS 
+ 
+505  
+526  
+722  
+897  
+2,831  
+2,057  
+2,193  
+2,785  
+2.91  
+2.42  
+4.07  
+4.28  
+0.95  
+1.94  
+2.73  
+2.85 
+Cerro Vanguardia (3)(5)
+ 
+179  
+175  
+720  
+755  
+532  
+497  
+1,997  
+2,020  
+2.92  
+2.62  
+4.55  
+5.05  
+0.53  
+0.48  
+1.72  
+1.67 
+AngloGold Ashanti Mineração (2)
+ 
+273  
+271  
+—  
+—  
+1,427  
+663  
+196  
+765  
+—  
+—  
+5.22  
+6.02  
+5.31  
+5.80  
+5.23  
+5.90 
+Serra Grande
+ 
+53  
+80  
+2  
+142  
+872  
+897  
+—  
+—  
+1.17  
+1.30  
+1.89  
+2.56  
+—  
+—  
+1.89  
+2.39 
+Managed operations 
+ 
+2,788  
+2,352  
+36,821  
+27,407  
+11,715  
+9,645  
+2,383  
+3,349  
+1.13  
+1.13  
+3.61  
+3.79  
+0.91  
+1.66  
+1.70  
+1.81 
+Non-managed joint ventures
+ 
+303  
+309  
+2,437  
+2,229  
+1,308  
+1,598  
+—  
+—  
+1.37  
+0.99  
+4.65  
+4.63  
+—  
+—  
+2.52  
+2.51 
+Group total including equity-accounted non-
+managed joint ventures 
+ 
+3,091  
+2,661  
+39,258  
+29,636  
+13,023  
+11,243  
+2,383  
+3,349  
+1.14  
+1.12  
+3.72  
+3.91  
+0.91  
+1.66  
+1.76  
+1.87 
+Managed operations (excluding Sukari)(4)
+ 
+2,288  
+2,312  
+25,801  
+26,644  
+10,554  
+9,552  
+2,193  
+2,926  
+1.19  
+1.14  
+3.64  
+3.78  
+0.95  
+1.90  
+1.85  
+1.84 
+Non-managed joint ventures
+ 
+303  
+309  
+2,437  
+2,229  
+1,308  
+1,598  
+—  
+—  
+1.37  
+0.99  
+4.65  
+4.63  
+—  
+—  
+2.52  
+2.51 
+Group total including equity-accounted non-
+managed joint ventures (excluding Sukari)(4)
+ 
+2,591  
+2,621  
+28,238  
+28,873  
+11,862  
+11,150  
+2,193  
+2,926  
+1.21  
+1.13  
+3.75  
+3.90  
+0.95  
+1.90  
+1.91  
+1.90 
+(1) Equity-accounted joint venture.
+(2) Includes gold concentrate from the Cuiabá mine sold to third parties.
+(3) On a consolidated basis. Siguiri, Sukari and Cerro Vanguardia are owned 85%, 50% and 92.50% by AngloGold Ashanti, respectively.
+(4) Adjusted to exclude Sukari operation which was acquired on 22 November 2024 as part of the Centamin acquisition.
+(5) Cerro Vanguardia has adjusted the basis of allocation between open-pit, underground and other treated tonnes resulting in an adjustment of treated tonnes and related grades for 2024.
+Rounding of figures may result in computational discrepancies.
+OPERATING RESULTS   I   OPERATIONS AT A GLANCE
+ YEAR 2025 AND 2024
+Q4 2025 EARNINGS RELEASE
+65
+
+--- PAGE 65 (matched: revenue_cos_opex) ---
+OPERATIONS AT A GLANCE
+FOR THE YEAR ENDED 31 DECEMBER 2025 AND 31 DECEMBER 2024
+Cost of sales
+Gross profit
+Total cash costs per 
+ounce*
+All-in sustaining costs 
+per ounce*
+Sustaining MRD / 
+Stripping capital
+Other sustaining 
+capital
+Non-sustaining capital*
+$m
+$m
+$/oz
+$/oz
+$m
+$m
+$m
+Dec-25
+Dec-24
+Dec-25
+Dec-24
+Dec-25
+Dec-24
+Dec-25
+Dec-24
+Dec-25
+Dec-24
+Dec-25
+Dec-24
+Dec-25
+Dec-24
+AFRICA Non-managed joint ventures
+ 
+432  
+380  
+608  
+363  
+1,148  
+935  
+1,317  
+1,146  
+20  
+32  
+51  
+36  
+80  
+57 
+Kibali - Attributable 45% (1)
+ 
+432  
+380  
+608  
+363  
+1,148  
+935  
+1,317  
+1,146  
+20  
+32  
+51  
+36  
+80  
+57 
+AFRICA Managed operations
+ 
+3,034  
+1,924  
+3,088  
+1,096  
+1,182  
+1,212  
+1,647  
+1,709  
+390  
+333  
+333  
+214  
+261  
+142 
+Iduapriem
+ 
+424  
+351  
+280  
+213  
+1,482  
+1,118  
+2,096  
+1,614  
+85  
+85  
+16  
+23  
+72  
+61 
+Obuasi
+ 
+458  
+360  
+485  
+171  
+1,325  
+1,214  
+2,026  
+1,942  
+121  
+98  
+53  
+47  
+35  
+57 
+Siguiri (3)
+ 
+591  
+518  
+400  
+136  
+1,783  
+1,703  
+2,165  
+2,093  
+18  
+28  
+67  
+65  
+17  
+9 
+Geita
+ 
+773  
+612  
+960  
+540  
+1,038  
+984  
+1,525  
+1,418  
+120  
+110  
+98  
+71  
+20  
+15 
+Sukari (3)
+ 
+789  
+83  
+962  
+36  
+783  
+1,165  
+1,094  
+1,858  
+46  
+12  
+99  
+8  
+117  
+— 
+Administration and other
+ 
+(1)  
+—  
+1  
+—  
+—  
+—  
+— 
+—
+ 
+—  
+—  
+—  
+—  
+—  
+— 
+AUSTRALIA
+ 
+1,009  
+945  
+874  
+453  
+1,530  
+1,287  
+1,825  
+1,526  
+50  
+53  
+72  
+49  
+63  
+51 
+Sunrise Dam
+ 
+442  
+430  
+350  
+197  
+1,634  
+1,343  
+2,078  
+1,665  
+36  
+36  
+51  
+29  
+—  
+— 
+Tropicana - Attributable 70%
+ 
+527  
+479  
+564  
+292  
+1,330  
+1,132  
+1,508  
+1,297  
+14  
+17  
+21  
+20  
+63  
+51 
+Administration and other
+ 
+40  
+36  
+(40)  
+(36)  
+—  
+—  
+—  
+—  
+—  
+—  
+—  
+—  
+—  
+— 
+AMERICAS
+ 
+973  
+858  
+915  
+517  
+1,195  
+1,027  
+1,741  
+1,514  
+141  
+143  
+79  
+66  
+16  
+— 
+Cerro Vanguardia (3)
+ 
+441  
+368  
+301  
+180  
+1,227  
+1,073  
+1,726  
+1,544  
+34  
+38  
+30  
+33  
+—  
+— 
+AngloGold Ashanti Mineração (2)
+ 
+391  
+352  
+573  
+283  
+976  
+876  
+1,506  
+1,334  
+79  
+78  
+40  
+20  
+16  
+— 
+Serra Grande
+ 
+139  
+136  
+43  
+56  
+2,165  
+1,411  
+2,951  
+2,039  
+28  
+27  
+9  
+13  
+—  
+— 
+Administration and other
+ 
+2  
+2  
+(2)  
+(2)  
+—  
+—  
+—  
+—  
+—  
+—  
+—  
+—  
+—  
+— 
+PROJECTS
+ 
+—  
+—  
+—  
+—  
+—  
+—  
+—  
+—  
+—  
+—  
+3  
+5  
+39  
+33 
+Colombian projects
+ 
+—  
+—  
+—  
+—  
+—  
+—  
+—  
+—  
+—  
+—  
+—  
+—  
+13  
+13 
+North American projects
+ 
+—  
+—  
+—  
+—  
+—  
+—  
+—  
+—  
+—  
+—  
+3  
+5  
+26  
+20 
+CORPORATE AND OTHER
+ 
+6  
+(1)  
+(6)  
+1  
+—  
+—  
+—  
+—  
+—  
+—  
+2  
+1  
+—  
+— 
+Managed operations
+ 
+5,022  
+3,726  
+4,871  
+2,067  
+1,252  
+1,187  
+1,751  
+1,672  
+581  
+529  
+489  
+335  
+379  
+226 
+Non-managed joint ventures
+ 
+432  
+380  
+608  
+363  
+1,148  
+935  
+1,317  
+1,146  
+20  
+32  
+51  
+36  
+80  
+57 
+Group total including equity-accounted non-
+managed joint ventures
+ 
+5,454  
+4,106  
+5,479  
+2,430  
+1,242  
+1,157  
+1,709  
+1,611  
+601  
+561  
+540  
+371  
+459  
+283 
+Managed operations (excluding Sukari)(4)
+ 
+4,233  
+3,643  
+3,909  
+2,031  
+1,355  
+1,187  
+1,895  
+1,668  
+535  
+517  
+390  
+327  
+262  
+226 
+Non-managed joint ventures
+ 
+432  
+380  
+608  
+363  
+1,148  
+935  
+1,317  
+1,146  
+20  
+32  
+51  
+36  
+80  
+57 
+Group total including equity-accounted non-
+managed joint ventures (excluding Sukari)(4)
+ 
+4,665  
+4,023  
+4,517  
+2,394  
+1,330  
+1,157  
+1,829  
+1,607  
+555  
+549  
+441  
+363  
+342  
+283 
+(1) Equity-accounted joint venture.
+(2) Includes gold concentrate from the Cuiabá mine sold to third parties.
+(3) On a consolidated basis. Siguiri, Sukari and Cerro Vanguardia are owned 85%, 50% and 92.50% by AngloGold Ashanti, respectively.
+(4) Adjusted to exclude Sukari operation which was acquired on 22 November 2024 as part of the Centamin acquisition.
+*  Refer to “Non-GAAP disclosure” for definitions and reconciliations.
+Rounding of figures may result in computational discrepancies.
+ 
+FINANCIAL RESULTS   I   OPERATIONS AT A GLANCE
+ YEAR 2025 AND 2024
+Q4 2025 EARNINGS RELEASE
+66
+
+--- PAGE 66 (matched: context) ---
+AngloGold Ashanti plc
+Incorporated in England & Wales
+Registration No. 14654651
+LEI No. 2138005YDSA7A82RNU96
+Share codes:
+ISIN: GB00BRXH2664 
+CUSIP: G0378L100
+NYSE: AU 
+JSE: ANG
+A2X: ANG
+GhSE (Shares): AGA
+GhSE (GhDS): AAD
+JSE Sponsor: 
+The Standard Bank of South Africa Limited
+Auditors: 
+PricewaterhouseCoopers Inc.
+PricewaterhouseCoopers LLP
+Offices
+Registered and Corporate
+Third Floor, Hobhouse Court
+Suffolk Street
+London SW1Y 4HH
+United Kingdom
+Global headquarters
+6363 S. Fiddlers Green Circle, Suite 1000
+Greenwood Village, CO 80111
+United States of America
+Telephone: +1 303 889 0700
+Australia
+Level 10, AMP Building,
+140 St George’s Terrace 
+Perth, WA 6000
+(PO Box Z5046, Perth WA 6831)
+Australia
+Telephone: +61 8 9425 4600
+South Africa
+112 Oxford Road 
+Houghton Estate, 
+Johannesburg, 2198 
+(Private Bag X 20, Rosebank, 2196) 
+South Africa 
+Telephone: +27 11 637 6000 
+Fax: +27 11 637 6624
+Ghana
+Gold House
+Patrice Lumumba Road
+(PO Box 2665)
+Accra
+Ghana
+Telephone: +233 303 773400
+Fax: +233 303 778155
+Directors
+Executive
+Alberto Calderon (Chief Executive Officer)
+Gillian Doran  (Chief Financial Officer)
+Non-Executive
+Jochen Tilk  (Chair)
+Kojo Busia
+Bruce Cleaver
+Alan Ferguson
+Albert Garner 
+Jinhee Magie
+Nicky Newton-King
+Marcus Randolph
+Diana Sands
+Company Secretary
+Catherine Stead
+Company secretarial e-mail
+companysecretary@anglogoldashanti.com
+Investor Relations contacts
+Yatish Chowthee
+Telephone: +27 11 637 6273
+Mobile: +27 78 364 2080
+E-mail: yrchowthee@aga.gold
+Andrea Maxey
+Telephone: +61 08 9425 4603
+Mobile: +61 400 072 199
+E-mail: amaxey@aga.gold
+AngloGold Ashanti website
+www.anglogoldashanti.com
+Share Registrars
+United States
+Computershare Trust Company, N.A.
+150 Royall Street
+Suite 101
+Canton, MA 02021
+United States of America
+Telephone US: 866-644-4127
+Telephone non-US: +1-781-575-2906 
+Shareholder Online inquiries:
+https://www-us.computershare.com/Investor/
+#Contact 
+Website: www.computershare.com/
+AngloGoldAshanti 
+South Africa
+Computershare Investor Services (Pty) Limited 
+Rosebank Towers, 15 Biermann Avenue
+Rosebank, 2196
+(PO Box 61051, Marshalltown 2107) 
+South Africa
+Telephone: 0861 100 950 (in SA)
+Fax: +27 11 688 5218
+E-mail: queries@computershare.co.za 
+Website: www.computershare.com
+Ghana
+Central Securities Depository (GH) LTD
+4th Floor, Cedi House
+PMB CT 465, Cantonments
+Accra, Ghana
+Telephone: +233 302 689313
+Fax: +233 302 689315
+Ghana depositary
+NTHC Limited
+18 Gamel Abdul Nasser Avenue 
+Ringway Estate 
+Accra, Ghana
+Telephone: +233 302 235814/6
+Fax: +233 302 229975
+FORWARD-LOOKING   I   STATEMENTS
+Certain statements contained in this document, other than statements of historical fact, including, without limitation, those concerning the economic outlook for the gold mining industry, expectations 
+regarding gold prices, production, total cash costs, all-in sustaining costs, cost savings and other operating results, return on equity, productivity improvements, growth prospects and outlook of 
+AngloGold Ashanti’s operations, individually or in the aggregate, including the achievement of project milestones, commencement and completion of commercial operations of certain of AngloGold 
+Ashanti’s exploration and production projects and the completion of acquisitions, dispositions or joint venture transactions, AngloGold Ashanti’s liquidity and capital resources and capital 
+expenditures and the outcome and consequences of any potential or pending litigation or regulatory proceedings or environmental, health and safety issues, are forward-looking statements 
+regarding AngloGold Ashanti’s financial reports, operations, economic performance and financial condition. These forward-looking statements or forecasts are not based on historical facts, but 
+rather reflect our current beliefs and expectations concerning future events and generally may be identified by the use of forward-looking words, phrases and expressions such as “believe”, 
+“expect”, “aim”, “anticipate”, “intend”, “foresee”, “forecast”, “predict”, “project”, “estimate”, “likely”, “may”, “might”, “could”, “should”, “would”, “seek”, “plan”, “scheduled”, “possible”, “continue”, 
+“potential”, “outlook”, “target” or other similar words, phrases, and expressions; provided that the absence thereof does not mean that a statement is not forward-looking. Similarly, statements that 
+describe our objectives, plans or goals are or may be forward-looking statements. These forward-looking statements or forecasts involve known and unknown risks, uncertainties and other factors 
+that may cause AngloGold Ashanti’s actual results, performance, actions or achievements to differ materially from the anticipated results, performance, actions or achievements expressed or implied 
+in these forward-looking statements. Although AngloGold Ashanti believes that the expectations reflected in such forward-looking statements and forecasts are reasonable, no assurance can be 
+given that such expectations will prove to have been correct. Accordingly, results, performance, actions or achievements could differ materially from those set out in the forward-looking statements 
+as a result of, among other factors, changes in economic, social, political and market conditions, including related to inflation or international conflicts, the success of business and operating 
+initiatives, changes in the regulatory environment and other government actions, including environmental approvals, fluctuations in gold prices and exchange rates, the outcome of pending or future 
+litigation proceedings, any supply chain disruptions, any public health crises, pandemics or epidemics, the failure to maintain effective internal control over financial reporting or effective disclosure 
+controls and procedures, the inability to remediate one or more material weaknesses, or the discovery of additional material weaknesses, in the Company’s internal control over financial reporting, 
+and other business and operational risks and challenges and other factors, including mining accidents. For a discussion of such risk factors, refer to AngloGold Ashanti’s annual report on Form 20-F 
+for the financial year ended 31 December 2024 filed with the United States Securities and Exchange Commission (SEC). These factors are not necessarily all of the important factors that could 
+cause AngloGold Ashanti’s actual results, performance, actions or achievements to differ materially from those expressed in any forward-looking statements. Other unknown or unpredictable factors 
+could also have material adverse effects on AngloGold Ashanti’s future results, performance, actions or achievements. Consequently, readers are cautioned not to place undue reliance on forward-
+looking statements. AngloGold Ashanti undertakes no obligation to update publicly or release any revisions to these forward-looking statements to reflect events or circumstances after the date 
+hereof or to reflect the occurrence of unanticipated events, except to the extent required by applicable law. All subsequent written or oral forward-looking statements attributable to AngloGold 
+Ashanti or any person acting on its behalf are qualified by the cautionary statements herein.
+Non-GAAP financial measures
+This communication may contain certain “Non-GAAP” financial measures. AngloGold Ashanti utilises certain Non-GAAP performance measures and ratios in managing its business. Non-GAAP 
+financial measures should be viewed in addition to, and not as an alternative for, the reported operating results or cash flow from operations or any other measures of performance prepared in 
+accordance with IFRS. In addition, the presentation of these measures may not be comparable to similarly titled measures other companies may use.
+ADMINISTRATION AND CORPORATE   I   INFORMATION
+ 
+Q4 2025 EARNINGS RELEASE
+67
+AngloGold Ashanti posts information that may be important to investors on the main page of its website at 
+www.anglogoldashanti.com and under the “Investors” tab on the main page. This information is updated 
+periodically. AngloGold Ashanti intends to use its website as a means of disclosing material non-public 
+information to the public in a broad, non-exclusionary manner and for complying with its disclosure obligations. 
+Accordingly, investors should visit this website regularly to obtain important information about AngloGold 
+Ashanti, in addition to following its press releases, documents it files with, or furnishes to, the United States 
+Securities and Exchange Commission (SEC) and public conference calls and webcasts. No material on the 
+AngloGold Ashanti website forms any part of, or is incorporated by reference into, this document. References 
+herein to the AngloGold Ashanti website shall not be deemed to cause such incorporation.
+PUBLISHED BY ANGLOGOLD ASHANTI
+

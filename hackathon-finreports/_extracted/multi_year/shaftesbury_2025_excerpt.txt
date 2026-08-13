@@ -1,0 +1,4052 @@
+Source: Shaftesbury Capital Annual Report 2025.pdf
+Target fiscal year: 2025
+Total relevant pages extracted: 29
+================================================================================
+
+--- PAGE 165 (matched: context) ---
+Notes to the financial statements 
+For the year ended 31 December 2025
+1 Principal accounting policies 
+General information 
+Shaftesbury Capital PLC (the “Company”) was incorporated and registered in 
+England and Wales and domiciled in the United Kingdom on 3 February 2010 under 
+the Companies Act 2006 as a public company limited by shares, registration number 
+7145051. The registered office of the Company is Regal House, 14 James Street, 
+London, WC2E 8BU, United Kingdom. The principal activity of the Company is to act 
+as the ultimate parent company of Shaftesbury Capital PLC Group (the “Group”), 
+whose principal activity is the investment and management of property.  
+The Group’s assets principally comprise investment property within the West End of 
+London, including Covent Garden, Carnaby, Soho and Chinatown.  
+Basis of preparation 
+The Group’s consolidated financial statements are prepared in accordance with 
+United Kingdom-adopted international accounting standards (“UK-adopted IFRS” or 
+“IFRS”), and the applicable legal requirements of the Companies Act 2006.  
+The consolidated financial statements have been prepared on a going concern basis 
+under the historical cost convention as modified for the revaluation of property and 
+derivative financial instruments.  
+All income, expenses and cash flows are generated from continuing operations and 
+there is no material seasonal impact on the Group’s financial performance.  
+Going concern 
+The Directors have considered the appropriateness of adopting the going concern 
+basis in preparing the consolidated financial statements. The Group’s going concern 
+assessment covers the period to 30 June 2027 (the “going concern period”), being at 
+least 12 months from the date of authorisation of these consolidated financial 
+statements.   
+Our West End portfolio continues to demonstrate its enduring appeal with positive 
+trends in footfall and sales, high occupancy and overall leasing activity levels well 
+ahead of ERV. Occupational demand across all uses is delivering rental income 
+valuation growth. While there continue to be macroeconomic uncertainties and 
+geopolitical risks, our customers continue to recognise the exceptional features of 
+London’s West End.  
+There is significant headroom against debt covenants and access to significant 
+liquidity.  
+In preparing the assessment of going concern, the Directors have considered 
+projections of the Group’s liquidity, committed capital expenditure, income, costs, 
+cash flows and debt covenants. 
+The Directors have assessed a base case and a downside scenario (being a “severe 
+but plausible” scenario). 
+As at year end, the Group had net debt of £0.8 billion, an EPRA LTV ratio of 17 per 
+cent and Group interest cover of 4.0 times. The Group is projected to have sufficient 
+cash reserves and undrawn facilities to meet debt maturities during the going 
+concern period. Drawn debt is at fixed rates or currently has interest rate protection 
+in place. 
+The Group’s debt matures between March 2026 and 2037. Debt maturities during 
+the going concern assessment period relate to the £275 million exchangeable bond, 
+and £162.5 million of private placement loan notes, both of which can be repaid 
+through existing cash resources or undrawn facilities of approximately £1.0 billion in 
+both the base case and the downside scenario. 
+The Group’s financial resources are expected to be sufficient to cover its 
+commitments over the going concern period. 
+Relative to the Group’s base case forecast, the downside scenario includes the 
+following key assumptions:  
+• Substantial reduction in forecast rental income due to a combination of extended 
+voids and tenant failures;  
+• Elevated interest rates in excess of current market expectations; and 
+• Declines in rental values, along with a widening of valuation yields, resulting in 
+reduced asset values.   
+The near-term impact of climate change risks within the going concern period has 
+been considered in the downside scenario and is expected to be immaterial.  
+Under the downside scenario, the Group is expected to remain in compliance with all 
+financial covenants of its debt arrangements. 
+In addition to considering a downside scenario, the Board has undertaken reverse 
+stress testing, which indicates that the Group could withstand a decrease of 
+approximately 52 per cent in valuations and 49 per cent in income before breaching 
+its debt financial covenants.  
+ 
+ 
+Strategic report
+Corporate governance
+Financial statements
+Additional information
+Shaftesbury Capital PLC | 2025 Annual Report
+163
+
+--- PAGE 166 (matched: receivables_payables) ---
+Notes to the financial statements continued 
+  
+1 Principal accounting policies continued 
+Going concern continued 
+Based on their analysis, the Directors are satisfied that there is a reasonable 
+expectation that the Group will be able to meet its ongoing and future commitments 
+for at least 12 months from the date of approval of the consolidated financial 
+statements and have therefore resolved that the Group’s consolidated financial 
+statements be prepared on a going concern basis. 
+Critical accounting judgements and key sources of estimation and uncertainty 
+The preparation of consolidated financial statements in accordance with IFRS 
+requires the Directors to make judgements, estimates and assumptions that affect 
+the reported amounts of assets, liabilities, equity, income and expenses from 
+sources not readily apparent. Although these estimates and assumptions are based 
+on management’s best knowledge of the amount, historical experiences and other 
+factors, actual results ultimately may differ from those estimates. The estimates and 
+underlying assumptions are reviewed on an ongoing basis. Revisions to accounting 
+estimates are recognised in the period in which the estimate is revised if the revision 
+affects only that period. 
+The most significant area of estimation uncertainty is in respect of the valuation of 
+the property portfolio where external valuations are obtained.  
+The fair value of the Group’s investment and trading property (trading property 
+included within the Lillie Square joint venture) at 31 December 2025 was determined 
+by independent, appropriately qualified external valuers CBRE and Cushman & 
+Wakefield for the property portfolio under management, and JLL for the Lillie 
+Square joint venture. The valuations conform to the Royal Institution of Chartered 
+Surveyors (“RICS”) Valuation Professional Standards. 
+As various inputs used in the valuation calculations are based on assumptions, 
+property valuations are inherently subjective and subject to a degree of estimation 
+uncertainty. The Group’s external valuers have made a number of assumptions 
+including, but not limited to, market yields, ERVs and void periods. These 
+assumptions are in accordance with the RICS Valuation Professional Standards, 
+however, if any prove to be incorrect, it may mean that the value of the Group’s 
+properties differs from their valuation reported in the financial statements, which 
+could have a material effect on the Group’s financial position. The key unobservable 
+inputs used in the valuation models are those in respect of equivalent yields and 
+ERV, which are summarised within note 12 ‘Property portfolio’ and additional 
+information is provided on page 206. Further information on the approach taken by 
+the valuers in valuing the property portfolio and a sensitivity analysis on equivalent 
+yields and ERV, which are the most significant assumptions impacting the fair values, 
+is set out in note 12 ‘Property portfolio’. 
+Other areas of judgement and estimation in the financial statements (which are not 
+considered critical) include accounting for non-controlling interest, REIT compliance, 
+the impairment of and expected credit loss allowance on trade receivables, and 
+share-based payments.  
+New accounting policies 
+In the current year, the Group has applied the below amendment to IFRS Standards 
+and Interpretations issued by the International Accounting Standards Board that is 
+effective for annual periods that begin on or after 1 January 2025. 
+• IAS 21 ‘The Effects of Changes in Foreign Exchange Rates’ (amendment) (Lack of 
+Exchangeability). 
+The adoption of the above amendment has not had a material impact on the 
+amounts reported in the consolidated financial statements or on the disclosures. 
+At the date of approval of the consolidated financial statements the following new 
+accounting standards and amendments to accounting standards were in issue but 
+are not yet effective. These new standards and amendments have not been applied 
+in these consolidated financial statements.  
+• IFRS 9 ‘Financial Instruments’ and IFRS 7 ‘Financial Instruments: Disclosures’ 
+(amendment) (Classification and Measurement of Financial Instruments); 
+• IFRS 9 ‘Financial Instruments’ and IFRS 7 ‘Financial Instruments: Disclosures’ 
+(amendment) (Contracts Referencing Nature-dependent Electricity); 
+• IFRS 18 ‘Presentation and Disclosure in Financial Statements’ (new standard).  
+The amendments to IFRS 9 and IFRS 7 are effective for annual periods beginning on 
+or after 1 January 2026. The Group has assessed the impact of these amendments 
+and does not anticipate any material impact on the consolidated financial 
+statements. 
+IFRS 18 is effective for annual periods beginning on or after 1 January 2027. 
+The Group is assessing the impact of this new standard and the Group’s financial 
+reporting will be presented in accordance with this standard from 1 January 2027, 
+in line with requirements.  
+ 
+ 
+Strategic report
+Corporate governance
+Financial statements
+Additional information
+Shaftesbury Capital PLC | 2025 Annual Report
+164
+
+--- PAGE 167 (matched: context) ---
+Notes to the financial statements continued 
+  
+1 Principal accounting policies continued 
+Basis of consolidation  
+These consolidated financial statements include the consolidation of Capital & 
+Counties CGP Limited Partnership. The members of this qualifying partnership have 
+taken advantage of exemptions available in Statutory Instrument 2008/569 and 
+therefore will not produce consolidated financial statements at the partnership level 
+or submit such annual reports to Companies House. 
+The consolidated financial statements are prepared in British pounds sterling, which 
+is also determined to be the functional currency of the Company. 
+Subsidiaries  
+Subsidiaries are fully consolidated from the date on which the Group has control, is 
+exposed or has rights to variable returns from its involvement with an entity and has 
+the ability to affect those returns through its power over an entity. Subsidiaries 
+cease to be consolidated from the date this control is lost. 
+Non-controlling interests are recognised on the basis of their proportionate share in 
+the recognised amounts of a subsidiary’s identifiable net assets. On the balance 
+sheet, non-controlling interests are presented separately from the equity of the 
+owners of the Parent. Profit or loss and total comprehensive income for the period 
+attributable to non-controlling interests are presented separately in income and the 
+statement of comprehensive income. 
+Joint ventures and associates  
+Joint ventures are those entities over whose activities the Group has joint control, 
+established by contractual agreement.  
+Associates are all entities over which the Group has significant influence but not 
+control or joint control. This is generally the case where the Group holds between 20 
+per cent and 50 per cent of the voting rights. 
+When joint control is no longer demonstrated, but significant influence is, a 
+previously accounted for joint venture is accounted for as an associate.  
+Investments in joint ventures and associates are accounted for using the equity 
+method. On initial recognition the investment is recognised at cost, and the carrying 
+amount is subsequently increased or decreased to recognise the Group’s share of 
+the profit or loss of the joint venture or associate after the date of acquisition. The 
+Group’s investments in joint ventures or associates are presented separately on the 
+consolidated balance sheet and the Group’s share of the joint ventures or 
+associates’ post-tax profit or loss for the period is also presented separately in the 
+consolidated income statement. 
+Where there is an indication that the Group’s investment in a joint venture or 
+associate may be impaired, the Group evaluates the recoverable amount of its 
+investment, being the higher of the joint venture or associate’s fair value less costs to 
+sell and value in use. If the recoverable amount is lower than the carrying value an 
+impairment loss is recognised in the consolidated income statement.  
+If the Group’s share of losses in a joint venture or associate equals or exceeds its 
+investment in the joint venture or associate, the Group does not recognise further 
+losses, unless it has legal or constructive obligations to make payments on behalf of 
+the joint venture or associate. 
+Dividends received or receivable from joint ventures or associates are recognised as 
+a reduction in the carrying amount of the investment. 
+Where the Group disposes of its entire interest in a joint venture or associate, a gain 
+or loss is recognised in the consolidated income statement on the difference 
+between the amount received on the sale of the joint venture or associate and the 
+carrying value of the investment in joint venture or associate less costs of disposal. 
+Revenue recognition 
+Rental receivable arises from operating leases granted to customers and is 
+recognised as revenue on a straight-line basis over the lease term.  
+Tenant lease incentives, and in certain instances surrender premium payments which 
+are directly linked to new leases, are amortised on a straight-line basis over the non-
+cancellable period of the lease, being the earlier of its expiry date or the date of the 
+first break option as a reduction in net rental income. Surrender premiums received 
+for early termination of leases are reflected in gross profit. 
+Lease modifications are accounted for as a new lease from the effective date of the 
+modification, considering any prepaid or accrued lease payments relating to the 
+original lease as part of the lease payments for the new lease. On entering into a 
+lease modification any initial direct costs associated with the lease, including 
+surrender premia previously paid, are derecognised through costs in the year. 
+When a concession is provided for rent receivables past due the concession is 
+accounted for as an impairment through the expected credit loss model in 
+accordance with IFRS 9. 
+Contingent rents, being those lease payments that are not fixed at the inception of a 
+lease, for example increases arising on rent reviews and turnover rent, are recorded 
+as income in the periods in which they are earned. 
+Service charge income in the ordinary course of business is recorded as income 
+over time in the year in which the services are provided. As the Group acts as a 
+principal, service charge income and costs are shown gross in the financial 
+statements. 
+Income taxes 
+Current tax is the amount payable on the taxable income for the year and any 
+adjustment in respect of prior years. It is calculated using rates that have been 
+enacted or substantially enacted by the balance sheet date. 
+ 
+ 
+Strategic report
+Corporate governance
+Financial statements
+Additional information
+Shaftesbury Capital PLC | 2025 Annual Report
+165
+
+--- PAGE 169 (matched: context) ---
+Notes to the financial statements continued 
+  
+1 Principal accounting policies continued 
+Investment property continued 
+Investment properties cease to be recognised as investment property when they 
+have been disposed of or when they cease to be held for the purpose of generating 
+rental income or for capital appreciation. 
+Disposals are recognised on completion. Gains or losses arising are recognised in 
+the consolidated income statement. The gain or loss on disposal is determined as 
+the difference between the net sales proceeds and the carrying amount of the asset 
+at the commencement of the accounting period, plus capital expenditure in the 
+period.  
+When the use of a property changes from trading property to investment property, 
+the property is transferred at fair value with any resulting gain or loss recognised in 
+the consolidated income statement. 
+Investment property is classified as held for sale when the property has exchanged, 
+though not yet completed. Transfers from investment property to investment 
+property held for sale will occur at market value. The Group will subsequently 
+determine the fair value of the property less costs to sell, and to the extent that the 
+market value of the property exceeds the fair value of the property less costs to 
+sell, an impairment loss will be recognised. Should an uplift occur in valuation in a 
+subsequent period, a gain shall be recognised, however the gain recognised may not 
+exceed the cumulative impairment loss recognised. 
+Trading property 
+Trading property comprises those properties that in the Directors’ view are not held 
+for long-term rental income or capital appreciation and are expected to be disposed 
+of within one year of the balance sheet date or to be developed with the intention 
+to sell.  
+Such property is constructed, acquired, or if transferred from investment and 
+development property, transferred at fair value which is deemed to represent cost. 
+Subsequently trading property is carried at the lower of cost and net realisable 
+value.  
+Net realisable value is the estimated selling price in the ordinary course of business, 
+less the estimated costs of completion and selling costs. This approximates market 
+value as determined by professionally qualified external valuers at the balance 
+sheet date. Details of the valuation methodology are set out in note 12 ‘Property 
+portfolio’. 
+The amount of any write down of trading property to market value is recognised as 
+an expense in the period the write down occurs. Should a valuation uplift occur in a 
+subsequent period, the amount of any reversal shall be recognised as a reduction in 
+the previous write down in the period in which the uplift occurs. This may not exceed 
+the property’s cost. The sale of trading property is recognised as revenue when the 
+buyer obtains control of the property. Total costs incurred in respect of trading 
+property are recognised simultaneously as an expense. 
+Owner-occupied property 
+Owner-occupied property comprises property held for use in the production or 
+supply of goods or services or for administrative purposes. Transfers are made 
+from investment property to owner-occupied property when there is a change in use 
+of the property. The property is transferred and subsequently carried at market 
+value, which is determined in the same manner as investment property. Revaluation 
+gains are recognised in equity. A revaluation loss will reverse any previous 
+revaluation gain recorded in equity with the residual recognised in profit or loss. 
+Leases 
+The Group assesses whether a contract is or contains a lease at inception of the 
+contract. 
+Group as a lessee 
+The Group’s leases predominantly relate to head leases in relation to leasehold 
+properties. At the commencement date of the lease, the Group recognises a right-of-
+use asset equal to the value of the lease liability and direct costs incurred, less any 
+lease incentives received by the Group. The right-of-use asset is recognised within 
+investment property. The lease liability is measured at the present value of lease 
+payments over the lease term. The lease payments include fixed payments and 
+variable lease payments that depend on an index or rate.  
+In calculating the present value of lease payments, the Group uses its incremental 
+borrowing rate at the lease commencement date when the interest rate implicit in 
+the lease is not readily determinable. After the commencement date, the amount of 
+lease liabilities is increased to reflect the accretion of interest and reduced for the 
+lease payments made. In addition, the carrying amount of lease liabilities is 
+remeasured if there is a modification, a change in the lease term or a change in the 
+lease payments (e.g. changes to future payments resulting from a change in an index 
+or rate used to determine such lease payments). 
+The Group’s lease liabilities are detailed in note 21 ‘Lease liabilities’. 
+Short-term leases and leases of a low value 
+As a lessee the Group has elected not to recognise right-of-use assets and lease 
+liabilities for leases of low-value assets and short-term leases, including IT 
+equipment. The Group recognises the lease payments associated with these leases 
+as an expense on a straight-line basis over the lease term. 
+Group as a lessor 
+As a lessor the Group classifies its leases as either operating or finance leases.  
+A lease is classified as a finance lease if it transfers substantially all the risks and 
+rewards incidental to ownership of the underlying asset, and classified as an 
+operating lease if it does not. 
+ 
+Strategic report
+Corporate governance
+Financial statements
+Additional information
+Shaftesbury Capital PLC | 2025 Annual Report
+167
+
+--- PAGE 170 (matched: receivables_payables) ---
+Notes to the financial statements continued 
+  
+1 Principal accounting policies continued 
+Other financial assets 
+Other financial assets comprise amounts receivable from joint ventures and 
+associates which are classified as financial assets at amortised cost. At initial 
+recognition, the Group measures the financial asset at fair value plus transaction 
+costs that are directly attributable to the acquisition of the financial asset.  
+Financial assets at amortised cost are subsequently measured using the effective 
+interest rate (“EIR”) method and are subject to impairment review. The financial 
+assets are derecognised when the rights to receive cash flows from the financial 
+assets have expired or have been transferred and the Group has transferred 
+substantially all the risks and rewards of ownership. 
+Derivative financial instruments  
+The Group uses non-traded derivative financial instruments to manage exposure to 
+interest rate risk. They are initially recognised on the trade date at fair value and 
+subsequently remeasured at fair value based on market price. The method of 
+recognising the resulting gain or loss depends on whether the derivative is 
+designated as a hedging instrument, and if so, the nature of the item being hedged. 
+Instruments that have not been designated as qualifying for hedge accounting are 
+classified as fair value through profit and loss. Changes in the fair value of these 
+instruments are split into interest (calculated as the accrued and realised cash flows) 
+and other changes in fair value. Interest is recognised in finance income or costs and 
+changes in fair value are recognised in change in fair value of derivative financial 
+instruments in the consolidated income statement. 
+Trade and other receivables 
+Trade and other receivables are initially recognised at fair value and subsequently 
+measured at amortised cost. The methodology for assessment of impairment is 
+defined in the following paragraph. 
+Impairment of financial assets 
+The Group applies the IFRS 9 expected credit loss model in order to calculate a 
+lifetime expected loss allowance for all financial assets. To measure the expected 
+credit loss, receivables are reviewed on an individual contract basis. The expected 
+loss rates are based on forward-looking information as well as historical evidence of 
+collection.  
+For rent receivables, all customers are allocated a risk rating, as determined by 
+management, and provided a rating of maximum, high, medium and low risk. The 
+classification is developed by taking into consideration information on the 
+customer’s credit rating, current financial position, historical trading performance, 
+historical default rate and the operational performance of the business. In assessing 
+the provision the Group identifies risk factors associated by sector (retail, food & 
+beverage, office and residential) and the type of rent receivable outstanding (rent 
+arrears, service charge, other). In determining the provision on a customer by 
+customer basis, the Group considers both recent payment history and future 
+expectations of the customer’s ability to pay or possible default in order to 
+recognise an expected credit loss allowance. Based on sector and rent receivable 
+type, a provision is made in addition to a full provision for maximum risk customers 
+or customers with significant financial issues. 
+If, in a subsequent period, the amount of the impairment loss decreases and the 
+decrease can be related objectively to an event occurring after the original 
+impairment was recognised, the impairment reversal is recognised in the 
+consolidated income statement on a basis consistent with the original charge. 
+Tenant lease incentives are impaired based on an assessment of affordability.  
+For amounts receivable from joint ventures and associates, impairment is assessed 
+by comparing the carrying amount of the loans and receivables to the discounted 
+present value of the estimated future cash flows from the joint ventures and 
+associates. 
+Cash and cash equivalents 
+Cash and cash equivalents are recognised at fair value. Cash and cash equivalents 
+comprise cash on hand, deposits held at call with financial institutions, certain tenant 
+deposits and other short-term highly liquid investments with original maturities of 
+three months or less.  
+Tenant deposits held against tenants’ rent payment obligations in bank accounts 
+administered by the Group are classified as cash and cash equivalents. Tenant 
+deposits held against tenants’ rent payment obligations in bank accounts 
+administered by the Group’s managing agent are not included within the 
+consolidated balance sheet. 
+The Group holds cash on deposit as security for certain secured term loans and 
+secured bank facilities, and where there are certain conditions restricting their use. 
+Cash held on deposit which has conditions restricting its use and is not available on 
+demand, liquid or readily convertible, is classified within other receivables. 
+Borrowings 
+Borrowings comprise bank loans, secured loan facilities, loan notes and compound 
+financial instruments.  
+Bank loans, secured loan facilities and loan notes are ordinarily recognised initially 
+at their net proceeds as an approximation of fair value. If the transaction price is not 
+an approximation of fair value at initial recognition, the Group determines the fair 
+value as evidenced by a quoted price in an active market for an identical instrument 
+or based on a valuation technique that uses data from observable markets. Bank 
+loans and loan notes are subsequently carried at amortised cost. Any transaction 
+costs, premiums or discounts are capitalised and recognised over the contractual 
+life of the loan using the effective interest rate method, or on a straight-line basis 
+where it is impractical to do so. 
+ 
+ 
+Strategic report
+Corporate governance
+Financial statements
+Additional information
+Shaftesbury Capital PLC | 2025 Annual Report
+168
+
+--- PAGE 171 (matched: receivables_payables) ---
+Notes to the financial statements continued 
+  
+1 Principal accounting policies continued 
+Borrowings continued 
+In the event of early repayment, transaction costs, premia or discounts paid and 
+unamortised costs are recognised immediately in the consolidated income 
+statement.  
+Compound financial instruments issued by the Group comprise exchangeable bonds 
+that are convertible into shares. The exchangeable bonds were bifurcated into a 
+liability and embedded derivative option component on initial recognition. The 
+carrying value of the liability at initial recognition is the difference between the fair 
+value of the entire instrument as a whole and the embedded derivative’s fair value. 
+Any directly attributable transaction costs are allocated to each component in 
+proportion to their initial carrying amounts. The issue costs apportioned to the 
+embedded derivative are recognised immediately in the consolidated 
+income statement.  
+Subsequent to initial recognition, the liability component of a compound financial 
+instrument is measured at amortised cost using the effective interest method. Any 
+transaction costs apportioned to the liability are included in the carrying amount and 
+recognised over the contractual life of the liability using the effective interest rate 
+method. 
+When a facility has been modified an assessment of modification and extinguishment 
+is performed reviewing both quantitative and qualitative factors. 
+Interest related to the financial liability is recognised in the consolidated income 
+statement. The embedded derivative is measured at fair value with the fair value 
+adjustment accounted for in the consolidated income statement.  
+Trade and other payables 
+Trade payables are obligations for goods or services acquired in the ordinary 
+course of business. Trade and other payables are recognised at fair value and 
+subsequently measured at amortised cost until settled. 
+Pensions 
+The costs of the defined contribution scheme and the Group’s personal pension 
+plans are charged against profits or losses in the year in which they are incurred.  
+Contingent liabilities and capital commitments 
+Contingent liabilities are disclosed where there are present or possible obligations 
+arising from past events, but the economic impact is uncertain in timing, occurrence 
+or amount. A description of the nature and, where possible, an estimate of the 
+financial effect of contingent liabilities are disclosed. 
+Capital commitments are disclosed when the Group has a contractual future 
+obligation which has not been provided for at the balance sheet date. Amounts are 
+only provided for where such obligations are onerous. 
+Share capital 
+Ordinary shares are classified as equity. Incremental costs directly attributable to 
+the issue of ordinary shares are recognised as a deduction from equity, net of any 
+tax effects.  
+Own shares 
+Own equity instruments that are reacquired (treasury shares) are recognised at cost 
+and deducted from equity. No gain or loss is recognised in profit or loss on the 
+purchase, sale, issue or cancellation of the Group’s own equity instruments. Any 
+difference between the carrying amount and the consideration, if reissued, is 
+recognised in the share premium. 
+Strategic report
+Corporate governance
+Financial statements
+Additional information
+Shaftesbury Capital PLC | 2025 Annual Report
+169
+
+--- PAGE 172 (matched: context) ---
+Notes to the financial statements continued 
+2 Segmental reporting 
+The Group’s operating segments are established on the basis of information evaluated and regularly reviewed in decisions on how to allocate resources and assess 
+performance by the chief operating decision maker (“CODM”). IFRS 8 requires operating segments to be reported in a manner consistent with the internal financial reporting 
+reviewed by the CODM. The Group has determined the CODM to be the Executive Committee.  
+The principal activity of the Group is the investment in property to earn income and generate long-term capital returns. The Group operates primarily within the West End of 
+London. 
+The performance of the Group is assessed based on the key performance indicators, which are the IFRS, EPRA and underlying performance measures.  
+Following completion of the long-term partnership with NBIM on 1 April 2025, the Group has reassessed the way it evaluates performance. Effective from 1 April 2025, 
+reporting on the performance of the Covent Garden segment is presented separately to the CODM. As such the Covent Garden segment has become a separate reporting 
+segment from 1 April 2025 with prior year comparatives presented by segment.  
+For the remainder of the portfolio there has been no change in the way information is reported to the CODM. The allocation of funding and management of overheads and 
+financing continues to be determined at an overall Group level as the Group continues to look to maximise the potential from investment opportunities across the whole of 
+the portfolio and investment opportunities continue to be assessed on a building-by-building basis.  
+The CODM reviews information on a segmental basis for gross profit and market value of property portfolio only. No other assets or liabilities are monitored by segment. 
+Gross profit 
+ 
+2025 
+2024 
+ 
+Covent 
+Garden 
+£m 
+Other 
+£m 
+Total 
+£m 
+Covent 
+Garden 
+£m 
+Other 
+£m 
+Total 
+£m 
+Revenue1  
+108.9 
+107.4 
+216.3 
+102.4 
+102.6 
+205.0 
+Costs1 
+(20.3) 
+(18.3) 
+(38.6) 
+(20.4) 
+(17.5) 
+(37.9) 
+Gross profit per consolidated income statement 
+88.6 
+89.1 
+177.7 
+82.0 
+85.1 
+167.1 
+Attributable to non-controlling interest 
+(16.6) 
+– 
+(16.6) 
+– 
+– 
+– 
+Gross profit – Group share 
+72.0 
+89.1 
+161.1 
+82.0 
+85.1 
+167.1 
+1. Revenue and costs exclude service charge income and expenses of £22.6 million (31 December 2024: £22.1 million). 
+Market value of property portfolio 
+ 
+2025 
+2024 
+ 
+Covent 
+Garden 
+£m 
+Other 
+£m 
+Total 
+£m 
+Covent 
+Garden 
+£m 
+Other 
+£m 
+Total 
+£m 
+Market value of property portfolio under management1 
+2,825.5 
+2,581.6 
+5,407.1 
+2,652.7 
+2,320.8 
+4,973.5 
+Attributable to non-controlling interest 
+(706.4) 
+– 
+(706.4) 
+– 
+– 
+– 
+Market value of property portfolio - Group share 
+2,119.1 
+2,581.6 
+4,700.7 
+2,652.7 
+2,320.8 
+4,973.5 
+1. Refer to note 12 ‘Property portfolio’ for a reconciliation to the carrying value of the property portfolio as per the consolidated balance sheet. 
+ 
+Strategic report
+Corporate governance
+Financial statements
+Additional information
+Shaftesbury Capital PLC | 2025 Annual Report
+170
+
+--- PAGE 180 (matched: context) ---
+Notes to the financial statements continued 
+  
+12 Property portfolio continued 
+Sensitivity to changes in key assumptions continued 
+The sensitivity analysis below illustrates the impact on the fair value of the Group’s 
+properties, from changes in the key assumptions: 
+ 
+Change in ERV 
+ 
+–10% 
+–5% 
++5% 
++10% 
+(Decrease)/increase in fair value (£m) 
+(436.3) 
+(219.9) 
+224.4 
+449.3 
+ 
+Change in Yield 
+ 
+–50bps 
+–25bps 
++25bps 
++50bps 
+Increase/(decrease) in fair value (£m) 
+588.4 
+273.2 
+(256.8) 
+(481.6) 
+The table above shows movements in key assumptions in isolation. These key 
+unobservable inputs are interdependent. All other factors being equal, a higher 
+equivalent yield would lead to a decrease in the valuation, and an increase in 
+estimated rental value would increase the capital value, and vice versa. However, 
+there are interrelationships between the key unobservable inputs which are partially 
+determined by market conditions, which would impact these changes. 
+At 31 December 2025, the Group was contractually committed to £10.8 million  
+(31 December 2024: £24.1 million) of future expenditure for the purchase, 
+refurbishment and enhancement of investment property. Refer to note 26 ‘Capital 
+commitments’ for further information on capital commitments. 
+Net Zero Carbon and EPC compliance 
+We are committed to meeting our 2030 carbon reduction targets and have reset our 
+Net Zero Carbon target to 2040 to align with Science Based Targets initiative (“SBTi”) 
+long-term carbon reduction targets. A key element in achieving this will come from 
+carbon efficiencies created through refurbishments of the Group’s property 
+portfolio.  
+During 2025, the Group’s additions from subsequent expenditure were £33.1 million 
+(31 December 2024: £43.1 million). Included within the £33.1 million total subsequent 
+expenditure is work which related to enhancing the environmental performance of 
+assets, and design stage work aimed at delivering environmental enhancements.  
+We aim for commercial units to have a “B” or above and residential units a “C” or 
+above rating by 2030.  We have already exceeded our interim target of 75 per cent 
+of commercial units having a “B” or above EPC.   
+13 Property, plant and equipment 
+ 
+Owner  
+occupied 
+property 
+£m 
+Other 
+£m 
+Total 
+£m 
+Net carrying value at 1 January 2024 
+20.2 
+3.8 
+24.0 
+Additions 
+– 
+2.3 
+2.3 
+Depreciation1 
+– 
+(0.7) 
+(0.7) 
+Revaluation 
+(0.1) 
+– 
+(0.1) 
+Net carrying value at 31 December 2024 
+20.1 
+5.4 
+25.5 
+Depreciation1 
+– 
+(0.9) 
+(0.9) 
+Revaluation 
+0.6 
+– 
+0.6 
+Net carrying value at 31 December 2025 
+20.7 
+4.5 
+25.2 
+1. £0.2 million (31 December 2024: £0.3 million) of depreciation is recognised within note 5 ‘Administration expenses’ and 
+£0.7 million (31 December 2024: £0.4 million) is recognised within note 4 ‘Gross profit’. 
+Strategic report
+Corporate governance
+Financial statements
+Additional information
+Shaftesbury Capital PLC | 2025 Annual Report
+178
+
+--- PAGE 181 (matched: receivables_payables) ---
+Notes to the financial statements continued 
+  
+14 Investments in joint ventures and associates 
+Investments in joint ventures and associates are measured using the equity method. 
+At 31 December 2025, investments comprised of Lillie Square joint venture (“LSJV”), 
+which is held with other investors on a 50:50 basis. The net profit from joint ventures 
+and associates of £0.5 million included in the prior year consolidated income 
+statement consists of £4.5 million share of profit from Longmartin, offset by a loss on 
+sale on its disposal in October 2024 of £4.0 million. 
+The table below reconciles the opening to closing carrying value of investments as 
+presented in the consolidated balance sheet. 
+Investments in joint ventures and associates 
+Longmartin  
+£m 
+LSJV  
+£m 
+Total  
+£m 
+At 1 January 2024 
+83.4 
+– 
+83.4 
+Share of profit/(loss) for the period1 
+4.5 
+(1.8) 
+2.7 
+Losses restricted for the year1 
+– 
+1.8 
+1.8 
+Dividend received 
+(1.2) 
+– 
+(1.2) 
+Disposal of associate 
+(86.7) 
+– 
+(86.7) 
+At 31 December 2024 
+– 
+– 
+– 
+Share of loss for the year1 
+– 
+(6.5) 
+(6.5) 
+Losses restricted for the year1 
+– 
+6.5 
+6.5 
+At 31 December 2025 
+– 
+– 
+– 
+1. The loss from the Lillie Square joint venture for the year of £6.5 million (31 December 2024: £1.8 million) has been 
+restricted in accordance with the requirements of IAS 28. Cumulative losses of £46.7 million (31 December 2024: £40.2 
+million), which exceed the Group’s investment in the joint venture, have been restricted to date, and as a result the carrying 
+value of the investment in LSJV is nil (31 December 2024: nil). The Group holds £68.2 million (31 December 2024: £70.7 
+million) of recoverable loans from LSJV within note 17 ‘Trade and other receivables’.  
+LSJV 
+LSJV was established as a joint venture arrangement with KFI in August 2012. The 
+joint venture was established to own, manage and develop land interests at Lillie 
+Square. LSJV comprises Lillie Square LP, Lillie Square GP Limited, acting as general 
+partner to the partnership, and its subsidiaries.  
+All major decisions regarding LSJV are taken by the Board of Lillie Square GP 
+Limited, through which the Group shares strategic control.
+The summarised income statement and balance sheet of LSJV are presented below. 
+Summarised income statement 
+2025 
+£m 
+2024 
+£m 
+Revenue 
+4.3 
+3.6 
+Gross profit 
+1.5 
+1.3 
+(Loss)/gain on revaluation, sale and transfer of investment 
+and trading property 
+(5.8) 
+3.0 
+Administration expenses 
+(1.4) 
+(0.7) 
+Net finance costs1 
+(7.3) 
+(7.1) 
+Loss for the year after taxation 
+(13.0) 
+(3.5) 
+1. Net finance costs include £7.6 million (31 December 2024: £7.6 million) interest payable on the interest-bearing loans 
+issued to the joint venture by the Group and KFI. Finance income receivable by the Group from LSJV of £3.8 million 
+(31 December 2024: £3.8 million) is recognised in the consolidated income statement within other finance income. 
+Summarised balance sheet 
+2025 
+£m 
+2024 
+£m  
+Investment property 
+84.9 
+87.4 
+Other non-current assets 
+5.4 
+5.6 
+Non-current assets 
+90.3 
+93.0 
+Trading property 
+39.5 
+42.8 
+Other current assets 
+2.9 
+1.3 
+Cash and cash equivalents 
+11.4 
+9.7 
+Current assets 
+53.8 
+53.8 
+Amounts payable to joint venture partners1 
+(232.6) 
+(224.8) 
+Other current liabilities 
+(4.5) 
+(2.1) 
+Current liabilities 
+(237.1) 
+(226.9) 
+Net liabilities 
+(93.0) 
+(80.1) 
+ 
+ 
+ 
+Carrying value of investment and trading property 
+124.4 
+130.2 
+Unrecognised surplus on trading property2 
+0.3 
+0.3 
+Market value of investment and trading property2 
+124.7 
+130.5 
+1. Amounts payable to joint venture partners include working capital facilities of £29.3 million (31 December 2024: £29.2 
+million) advanced by the Group and an interest-bearing loan of £163.0 million (nominal value) advanced by the Group 
+and KFI. The carrying value of the loan before impairment, including accrued interest, was £187.4 million (31 
+December 2024: £179.8 million). Recoverable amounts receivable by the Group, net of impairments, are recognised 
+on the consolidated balance sheet within non-current trade and other receivables. 
+2. The unrecognised surplus on trading property and the market value of LSJV’s property portfolio are shown for 
+informational purposes only and are not a requirement of IFRS. Trading property continues to be measured at the 
+lower of cost and net realisable value. 
+ 
+ 
+Strategic report
+Corporate governance
+Financial statements
+Additional information
+Shaftesbury Capital PLC | 2025 Annual Report
+179
+
+--- PAGE 182 (matched: context) ---
+Notes to the financial statements continued 
+  
+15 Non-controlling interest 
+On 1 April 2025, NBIM Mary Limited, a subsidiary of Norges Bank Investment 
+Management, acquired a 25 per cent non-controlling interest in Covent Garden Real 
+Estate Holdings Limited (“Covent Garden estate”), a subsidiary of the Group, for a 
+cash consideration of £574.0 million. A loss on sale of £6.7 million, including 
+transaction costs of £6.1 million, has been recorded within the loss on sale of 
+investments and subsidiaries in the consolidated income statement. 
+The principal place of business of Covent Garden Real Estate Holdings Limited is 
+within the United Kingdom. 
+The accumulated non-controlling interest is presented below. 
+ 
+2025 
+£m 
+At 1 January 
+– 
+Non-controlling interest’s share of net assets acquired 
+574.6 
+Profit for the period attributable to non-controlling interest 
+47.2 
+Dividends paid to non-controlling interest  
+(7.9) 
+At 31 December 
+613.9 
+The summarised income statement, balance sheet and cash flow statement of the 
+Covent Garden estate are presented below. 
+Summarised income statement 
+1 April 2025 to 
+31 December 
+2025 
+£m 
+Revenue1 
+83.0 
+Costs1 
+(16.5) 
+Gross profit 
+66.5 
+Gain on revaluation of investment property 
+142.6 
+Administration expenses 
+(13.1) 
+Net finance costs 
+(7.4) 
+Income tax 
+0.3 
+Profit for the period 
+188.9 
+1. Revenue and costs exclude service charge income and expenses of £8.2 million. 
+Summarised cash flow statement 
+1 April 2025 to 
+31 December 
+2025 
+£m 
+Operating cash inflow after interest and tax 
+44.4 
+Purchase and development of investment property 
+(15.5) 
+Cash dividend paid 
+(31.6) 
+Net cash outflow 
+(2.7) 
+ 
+Summarised balance sheet 
+2025 
+£m 
+Investment property1 
+2,788.6 
+Other non-current assets 
+34.2 
+Non-current assets 
+2,822.8 
+Cash and cash equivalents2 
+42.7 
+Other current assets 
+26.1 
+Current assets 
+68.8 
+Borrowings, including lease liabilities3 
+(217.0) 
+Non-current liabilities 
+(217.0) 
+Borrowings, including lease liabilities3 
+(162.7) 
+Other current liabilities 
+(56.4) 
+Current liabilities 
+(219.1) 
+Net assets 
+2,455.5 
+1. The market value of investment property as at 31 December 2025 is £2,825.5 million. 
+2. Cash and cash equivalents includes £15.5 million of tenant deposits which relate to cash held on deposit as security 
+against tenant rent payments which are subject to certain restrictions and therefore not available for general use by 
+the Group. In addition, cash deposits against tenants’ rent payment obligations totalling £7.0 million are held in bank 
+accounts administered by the Group’s managing agents which are not included within the consolidated balance sheet. 
+3. The nominal value of debt included within borrowings is £380.0 million. 
+16 Derivative financial instruments  
+ 
+1. On 30 November 2020 the Group issued £275 million of secured exchangeable bonds maturing in March 2026. The 
+net proceeds received from the issue of the exchangeable bonds have been split between the financial liability 
+element and an option component, representing the fair value of the embedded option to convert the financial liability 
+into equity of Shaftesbury Capital. The debt component is accounted for at amortised cost at the effective interest 
+rate method and the derivative liability is accounted for at fair value through profit or loss. 
+Derivative financial assets 
+2025 
+£m 
+2024 
+£m 
+Current 
+ 
+ 
+Interest rate derivatives 
+1.6 
+3.4 
+Derivative financial assets 
+1.6 
+3.4 
+Derivative financial liabilities 
+2025 
+£m 
+2024 
+£m 
+Non-current 
+ 
+ 
+Derivative liability – exchangeable bonds1 
+– 
+1.8 
+Current 
+ 
+ 
+Derivative liability – exchangeable bonds1 
+1.3 
+– 
+Derivative financial liabilities 
+1.3 
+1.8 
+Strategic report
+Corporate governance
+Financial statements
+Additional information
+Shaftesbury Capital PLC | 2025 Annual Report
+180
+
+--- PAGE 183 (matched: receivables_payables) ---
+Notes to the financial statements continued 
+  
+16 Derivative financial instruments continued  
+During the year, the following movements on derivative financial instruments were 
+recognised in profit or loss: 
+Profit or loss 
+2025 
+£m 
+2024 
+£m 
+Fair value loss on interest rate derivatives1 
+(3.5) 
+(6.3) 
+Fair value gain on derivative liability – exchangeable bonds 
+0.5 
+5.4 
+Change in fair value of derivative financial instruments 
+(3.0) 
+(0.9) 
+1. Fair value loss on interest rate derivatives consists of £3.4 million loss on derivatives which matured on 31 December 
+2025 and £0.1 million loss on derivatives entered into on 30 December 2025. The derivatives entered into on 30 
+December 2025 had an upfront cost of £1.7 million. 
+17 Trade and other receivables 
+ 
+2025 
+£m 
+2024 
+£m  
+Non-current 
+ 
+ 
+Prepayments and accrued income1 
+39.8 
+39.9 
+Amounts receivable from joint ventures2 
+68.2 
+70.7 
+Other receivables3 
+5.8 
+29.1 
+Trade and other receivables 
+113.8 
+139.7 
+Current 
+ 
+ 
+Rent receivable4 
+13.3 
+9.9 
+Prepayments and accrued income1 
+19.9 
+15.2 
+Other receivables 
+8.1 
+5.3 
+Trade and other receivables 
+41.3 
+30.4 
+1. Includes tenant lease incentives and deferred letting fees of £51.7 million (31 December 2024: £47.5 million). 
+2. Amounts receivable from joint ventures represents an interest-bearing loan of £93.7 million (31 December 2024: £89.9 
+million) provided to LSJV. The loan bears interest at 4.25 per cent per annum and is repayable on demand. As it is not 
+the intention of the Group to call on the loan in the next 12 months it has been presented as non-current. The loan has 
+been impaired by £25.5 million (31 December 2024: £19.2 million) to date. Included within current trade and other 
+receivables is working capital of £29.3 million (31 December 2024: £29.2 million) due from LSJV that has been fully 
+impaired. Refer to note 7 ‘Change in value of investments and other receivables’ for further detail.  
+3. Non-current other receivables include £5.7 million (31 December 2024: £29.1 million) of restricted cash held on 
+deposit as security for the secured debt with certain conditions restricting the use. 
+4. Rent receivable is shown net of an expected credit loss provision of £4.9 million (31 December 2024: £8.0 million).  
+18 Cash and cash equivalents 
+ 
+2025 
+£m 
+2024 
+£m  
+Cash at hand 
+1.9 
+11.7 
+Cash on short-term deposits  
+344.0 
+98.1 
+Cash  
+345.9 
+109.8 
+Tenant deposits1 
+15.5 
+14.2 
+Cash and cash equivalents 
+361.4 
+124.0 
+1. Tenant deposits included above relate to cash held on deposit as security against tenant rent payments which 
+are subject to certain restrictions and therefore not available for general use by the Group. The deposits are 
+held in bank accounts administered by the Group and are therefore included within cash and cash equivalents 
+in the consolidated balance sheet. In addition, cash deposits against tenants’ rent payment obligations totalling 
+£26.5 million (31 December 2024: £22.2 million) are held in bank accounts administered by the Group’s 
+managing agents which are not included within the consolidated balance sheet.  
+19 Trade and other payables 
+ 
+2025 
+£m 
+2024 
+£m  
+Rent in advance 
+27.6 
+22.1 
+Accruals 
+37.2 
+42.7 
+Other payables 
+24.0 
+14.9 
+Other taxes and social security 
+9.3 
+5.1 
+Trade and other payables 
+98.1 
+84.8 
+Strategic report
+Corporate governance
+Financial statements
+Additional information
+Shaftesbury Capital PLC | 2025 Annual Report
+181
+
+--- PAGE 184 (matched: context) ---
+Notes to the financial statements continued 
+20 Borrowings 
+ 
+2025 
+ 
+Carrying 
+value  
+£m 
+Secured  
+£m 
+Unsecured  
+£m 
+Fixed 
+rate  
+£m 
+Floating 
+rate  
+£m 
+Fair 
+value 
+£m 
+Nominal 
+value 
+£m 
+Current 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Loan notes  
+162.5 
+– 
+162.5 
+162.5 
+– 
+160.9 
+162.5 
+Exchangeable bonds1 
+275.9 
+275.9 
+– 
+275.9 
+– 
+274.2 
+275.0 
+ 
+438.4 
+275.9 
+162.5 
+438.4 
+– 
+435.1 
+437.5 
+Non-current 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Bank loans 
+68.7 
+– 
+68.7 
+– 
+68.7 
+75.0 
+75.0 
+Loan notes 
+217.1 
+– 
+217.1 
+217.1 
+– 
+199.7 
+217.5 
+Secured loans 
+486.6 
+486.6 
+– 
+486.6 
+– 
+497.2 
+517.4 
+ 
+772.4 
+486.6 
+285.8 
+703.7 
+68.7 
+771.9 
+809.9 
+Total borrowings 
+1,210.8 
+ 
+ 
+ 
+ 
+ 
+1,247.4 
+Cash, excluding tenant deposits 
+ 
+ 
+ 
+ 
+ 
+ 
+(345.9) 
+Net debt 
+ 
+ 
+ 
+ 
+ 
+ 
+901.5 
+ 
+ 
+2024 
+ 
+Carrying 
+value  
+£m 
+Secured  
+£m 
+Unsecured  
+£m 
+Fixed 
+rate  
+£m 
+Floating 
+rate  
+£m 
+Fair 
+value 
+£m 
+Nominal 
+value 
+£m 
+Non-current 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Bank loans 
+269.9 
+– 
+269.9 
+– 
+269.9 
+269.9 
+275.0 
+Loan notes  
+379.3 
+– 
+379.3 
+379.3 
+– 
+341.0 
+380.0 
+Secured loans 
+545.8 
+545.8 
+– 
+545.8 
+– 
+544.8 
+584.8 
+Exchangeable bonds1 
+272.8 
+272.8 
+– 
+272.8 
+– 
+263.1 
+275.0 
+ 
+1,467.8 
+818.6 
+649.2 
+1,197.9 
+269.9 
+1,418.8 
+1,514.8 
+Total borrowings 
+1,467.8 
+1,514.8 
+Cash, excluding tenant deposits 
+ 
+ 
+ 
+ 
+ 
+ 
+(109.8) 
+Net debt 
+ 
+ 
+ 
+ 
+ 
+ 
+1,405.0 
+1. Fair value of exchangeable bonds includes the fair value of the option component of £1.3 million (31 December 2024: £1.8 million) as disclosed in note 16 ‘Derivative financial instruments’.  
+ 
+ 
+Strategic report
+Corporate governance
+Financial statements
+Additional information
+Shaftesbury Capital PLC | 2025 Annual Report
+182
+
+--- PAGE 185 (matched: context) ---
+Notes to the financial statements continued 
+20 Borrowings continued 
+£517.4 million (31 December 2024: £584.8 million) (nominal value) of the Group’s 
+borrowings are secured by fixed charges over certain investment properties held by 
+subsidiaries, with a market value of £1,686.4 million (31 December 2024: £1,681.1 
+million), and by floating charges over the assets of certain subsidiaries.  
+There are currently no restrictions on the remittance of income from investment 
+properties. 
+Certain borrowing agreements contain financial and other covenants that, if 
+contravened, could alter the repayment profile. Details of financial covenants are 
+included in note 23 ‘Financial risk management’. The Group has complied with the 
+financial covenants of all its borrowings during both years presented.  
+The Group has three revolving credit facilities totalling £750 million, which are 
+undrawn at 31 December 2025.  
+Undrawn facilities and cash attributable to the Group, excluding tenant deposits, at 
+31 December 2025 were £1,095.9 million (31 December 2024: £559.8 million).  
+The fair value of the Group’s floating rate borrowings has been estimated using the 
+market rates, which approximates nominal value, and are classified as Level 2 fair 
+values as defined by IFRS 13. The fair values of fixed rate borrowings have been 
+determined by using a discounted cash flow approach, using a current borrowing 
+rate. The loans are classified as Level 3 fair value measurements as defined by IFRS 
+13 due to the use of unobservable inputs, including own credit risk. The different 
+valuation levels are defined in note 12 ‘Property portfolio’. 
+ 
+2025 
+Analysis of movement in borrowings 
+Current  
+borrowings 
+£m 
+Non-current 
+borrowings 
+£m 
+Balance at 1 January 
+– 
+1,467.8 
+Borrowings drawn 
+– 
+25.0 
+Borrowings repaid 
+– 
+(292.4) 
+Other net cash movements 
+– 
+(9.8) 
+Other non-cash movements 
+– 
+20.2 
+Reclassification from non-current to current 
+438.4 
+(438.4) 
+Balance at 31 December  
+438.4 
+772.4 
+ 
+ 
+2024 
+Analysis of movement in borrowings 
+Current  
+borrowings 
+£m 
+Non-current 
+borrowings 
+£m 
+Balance at 1 January 
+94.9 
+1,534.8 
+Borrowings drawn 
+– 
+135.0 
+Borrowings repaid 
+(95.0) 
+(210.0) 
+Other net cash movements 
+– 
+(3.5) 
+Other non-cash movements 
+0.1 
+11.5 
+Balance at 31 December  
+– 
+1,467.8 
+The maturity profile of gross debt is as follows: 
+ 
+2025 
+£m 
+2024 
+£m  
+Wholly repayable in one year  
+437.5 
+– 
+Wholly repayable in more than one year but not more than five years 
+407.4 
+982.3 
+Wholly repayable in more than five years 
+402.5 
+532.5 
+ 
+1,247.4 
+1,514.8 
+21 Lease liabilities 
+Lease liabilities included within investment property 
+(a) Minimum lease payments under lease obligations 
+ 
+2025 
+£m 
+2024 
+£m  
+Not later than one year 
+0.3 
+0.3 
+Later than one year and not later than five years 
+1.1 
+1.2 
+Later than five years 
+6.7 
+7.6 
+ 
+8.1 
+9.1 
+Future finance charges on lease liabilities 
+(5.5) 
+(6.1) 
+Total undiscounted lease liabilities 
+2.6 
+3.0 
+(b) Present value of minimum lease obligations 
+ 
+2025 
+£m 
+2024 
+£m  
+Not later than one year 
+0.3 
+0.3 
+Later than one year and not later than five years 
+0.7 
+1.0 
+Later than five years 
+1.6 
+1.7 
+Present value of lease liabilities 
+2.6 
+3.0 
+ 
+ 
+Strategic report
+Corporate governance
+Financial statements
+Additional information
+Shaftesbury Capital PLC | 2025 Annual Report
+183
+
+--- PAGE 186 (matched: receivables_payables) ---
+Notes to the financial statements continued 
+  
+21 Lease liabilities continued 
+Lease liabilities included within investment property continued 
+Lease liabilities included under investment property are in respect of leasehold 
+interests in investment property. Certain leases provide for payment of contingent 
+rent, usually a proportion of rental income in addition to the minimum lease 
+payments above. £0.3 million contingent rent has been paid during the year (31 
+December 2024: £0.3 million).  
+These lease liabilities are effectively secured obligations, as the rights to the leased 
+asset revert to the lessor in the event of default. 
+22 Operating leases 
+The Group earns rental income by leasing its investment property to tenants under 
+operating leases. 
+In the United Kingdom standard commercial leases vary considerably between 
+markets and locations but typically are for a term of five to fifteen years at market 
+rent with provisions to review every five years. 
+The Group is exposed to changes in the residual value of properties at the end of the 
+current leases. This residual value risk is mitigated through the implementation of 
+active asset management initiatives which aim to ensure the Group enters into new 
+leasing deals prior to the expiry of current leases. The Group also offers lease 
+incentives to encourage high-quality tenants to remain in properties for longer lease 
+terms. Expectations about the future residual values are reflected in the fair value of 
+the properties. 
+The future undiscounted minimum lease amounts receivable under non-cancellable 
+operating leases are as follows: 
+ 
+2025 
+£m 
+2024 
+£m  
+Within one year 
+170.6 
+165.8 
+Between one and two years 
+145.5 
+141.8 
+Between two and three years 
+119.7 
+120.8 
+Between three and four years 
+94.1 
+99.7 
+Between four and five years 
+70.9 
+75.3 
+Later than five years 
+327.0 
+353.7 
+Total undiscounted minimum lease receivables 
+927.8 
+957.1 
+The consolidated income statement includes nil (31 December 2024: £0.4 million) 
+recognised in respect of expected increased rent resulting from outstanding reviews 
+where the actual rent will only be determined on settlement of the rent review. 
+Certain leases provide for the payment of variable rent, usually a portion of the 
+customer’s turnover, in addition to the minimum lease payments above. £5.0 million 
+variable rent has been included in the consolidated income statement during the year 
+(31 December 2024: £4.9 million). 
+23 Financial risk management 
+The Group’s financial risk management strategy seeks to set financial limits for 
+treasury activity to ensure they are in line with the risk appetite of the Group. The 
+Group is exposed to a variety of risks arising from the Group’s operations: market 
+risk, liquidity risk and credit risk. The following table sets out each class of financial 
+asset and financial liability as at 31 December: 
+Categories of financial instruments  
+ 
+ 
+2025 
+2024  
+ 
+Note 
+Carrying 
+value 
+£m 
+(Loss)/gain 
+to income 
+statement 
+£m  
+Carrying  
+value 
+£m 
+(Loss)/gain 
+to income 
+statement 
+£m 
+Derivative financial assets 
+16 
+1.6 
+(3.5) 
+3.4 
+(6.3) 
+Fair value through profit and loss  
+ 
+1.6 
+(3.5) 
+3.4 
+(6.3) 
+Cash and cash equivalents 
+18 
+361.4 
+– 
+124.0 
+– 
+Other financial assets1 
+17 
+95.4 
+– 
+115.0 
+– 
+Total cash and other financial 
+assets 
+ 
+456.8 
+– 
+239.0 
+– 
+Derivative financial liabilities 
+16 
+(1.3) 
+0.5 
+(1.8) 
+5.4 
+Fair value through profit and loss 
+ 
+(1.3) 
+0.5 
+(1.8) 
+5.4 
+Borrowings 
+20 
+(1,210.8) 
+– 
+(1,467.8) 
+– 
+Lease liabilities 
+21 
+(2.6) 
+– 
+(3.0) 
+– 
+Other financial liabilities2 
+19 
+(70.5) 
+– 
+(62.7) 
+– 
+Total borrowings and other 
+financial liabilities 
+ 
+(1,283.9) 
+– 
+(1,533.5) 
+– 
+1. Includes rent receivable, amounts due from joint ventures and associates and other receivables.  
+2. Includes trade and other payables (excluding rents in advance). 
+The majority of the Group’s financial risk management is carried out by the Group’s 
+treasury function under policies approved by the Board of Directors. The policies for 
+managing each of these risks and the principal effects of these policies on the results 
+for the year are summarised on the following pages. 
+ 
+Strategic report
+Corporate governance
+Financial statements
+Additional information
+Shaftesbury Capital PLC | 2025 Annual Report
+184
+
+--- PAGE 187 (matched: context) ---
+Notes to the financial statements continued 
+  
+23 Financial risk management continued 
+Market risk 
+Interest rate risk 
+Interest rate risk comprises both cash flow and fair value risks. Cash flow interest 
+rate risk is the risk that the future cash flows of a financial instrument will fluctuate 
+due to changes in market interest rates. Fair value risk is the risk that the fair value of 
+financial instruments will fluctuate as a result of changes in market interest rates. 
+The Group’s interest rate risk arises from borrowings issued at variable rates that 
+expose the Group to cash flow interest rate risk, whereas borrowings issued at fixed 
+interest rates expose the Group to fair value interest rate risk. 
+It is Group policy, and often a requirement of our lenders, to eliminate substantially 
+all short and medium-term exposure to interest rate fluctuations in order to establish 
+certainty over medium-term cash flows by using fixed interest rate derivatives. 
+Interest rate derivatives have the economic effect of converting borrowings from 
+floating to fixed rates. Interest rate caps protect the Group by capping the maximum 
+interest rate payable. Interest rate collars protect the Group by capping the 
+maximum interest rate payable at the collar’s ceiling but forego the profitability of 
+interest rate falls below a certain floor. 
+The Group’s policy is to ensure that interest rate protection on Group external debt 
+is greater than 25 per cent. 
+The Group has entered into various non-traded derivative instruments to manage its 
+exposure to interest rate risk. These derivatives have not been designated as 
+hedging instruments and therefore they are classified as financial derivatives at fair 
+value through profit or loss.  
+All of the Group’s drawn debt is at fixed rates or currently has interest rate 
+protection in place, taking into account £300 million of hedging which provides for a 
+cap of 3.0 per cent on SONIA exposure until the end of 2026, and interest on cash 
+deposits.  
+The derivative contracts require settlement of net interest receivable or payable 
+every 90 days. The settlement dates coincide with the dates on which interest is 
+payable on the underlying debt. 
+The sensitivity analysis below illustrates the impact of a 100 basis point (“bps”) shift, 
+upwards and downwards, in the level of interest rates on the movement in fair value 
+of interest rate derivatives entered into by the Group. 
+ 
+Increase in  
+interest rates  
+by 100 bps  
+2025  
+£m 
+Decrease in 
+interest rates  
+by 100 bps  
+2025 
+£m 
+Increase in  
+interest rates  
+by 100 bps 
+2024 
+£m 
+Decrease in  
+interest rates  
+by 100 bps  
+2024  
+£m 
+Effect on profit before tax (change in fair 
+value of derivative financial instruments): 
+ 
+ 
+ 
+ 
+Increase/(decrease) 
+2.7 
+(1.5) 
+2.3 
+(2.1) 
+The sensitivity analysis above is a reasonable illustration of the possible effect from 
+the changes in slope and shifts in the yield curve that may actually occur and 
+represents management’s assessment of possible changes in interest rates. 100 bps 
+has been used in 2025 (31 December 2024: 100 bps) to reflect current 
+macroeconomic conditions. The fixed rate derivative financial instruments are 
+matched by floating rate debt, therefore such a movement would have a very limited 
+effect on Group cash flow overall.  
+Liquidity risk 
+Liquidity risk is managed to ensure that the Group is able to meet future payment 
+obligations when financial liabilities fall due.  
+The Group’s policy is to seek to minimise its exposure to liquidity risk by managing its 
+exposure to interest rates and its ability to refinance. The Group seeks to achieve an 
+appropriate balance between a number of factors, including tenor and costs. 
+Liquidity analysis is intended to provide sufficient headroom to meet the Group’s 
+operational requirements and investment commitments. 
+The Group’s policy also includes maintaining adequate cash, as well as maintaining 
+adequate committed and undrawn facilities. 
+A key factor in ensuring existing facilities remain available to the Group is the 
+borrowing entity’s ability to meet the relevant facility’s financial covenants. The 
+Group has a process to regularly monitor both current and projected compliance 
+with the financial covenants.  
+The Group regularly reviews the maturity profile of its financial liabilities and will 
+seek to avoid concentrations of maturities through the regular replacement of 
+facilities and by staggering maturity dates. Refinancing risk may be reduced by 
+reborrowing prior to the contracted maturity date, effectively switching liquidity risk 
+for market risk. This is subject to credit facilities being available at the time of the 
+desired refinancing. 
+ 
+Strategic report
+Corporate governance
+Financial statements
+Additional information
+Shaftesbury Capital PLC | 2025 Annual Report
+185
+
+--- PAGE 188 (matched: context) ---
+Notes to the financial statements continued 
+23 Financial risk management continued 
+Liquidity risk continued 
+The tables below set out the maturity analysis of the Group’s financial liabilities based on the undiscounted contractual obligations to make payments of interest and to repay 
+principal. The unsecured revolving credit facilities totalling £750 million are not included for 2025 as these facilities were undrawn as at 31 December 2025. Where interest 
+payment obligations are based on a floating rate, the rates used are those implied by the par yield curve. 
+Group 
+2025 
+Carrying 
+value 
+Within 1 yr 
+(2026) 
+Between 1-2 yrs 
+(2027-2028) 
+Between 3-5 yrs 
+(2029-2030) 
+Over 5 yrs 
+(2031 onwards) 
+Total 
+£m 
+Interest  
+£m 
+Principal  
+£m 
+Interest  
+£m 
+Principal  
+£m 
+Interest  
+£m 
+Principal  
+£m 
+Interest  
+£m 
+Principal  
+£m 
+Interest  
+£m 
+Principal  
+£m 
+Non-derivatives 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Loan notes 
+379.6 
+10.2 
+162.5 
+10.6 
+100.0 
+5.9 
+35.0 
+7.6 
+82.5 
+34.3 
+380.0 
+Unsecured bank loans 
+68.7 
+7.0 
+– 
+14.3 
+– 
+6.8 
+75.0 
+– 
+– 
+28.1 
+75.0 
+Secured loans 
+486.6 
+24.0 
+– 
+48.0 
+– 
+40.8 
+197.4 
+56.7 
+320.0 
+169.5 
+517.4 
+Exchangeable bonds 
+275.9 
+2.7 
+275.0 
+– 
+– 
+– 
+– 
+– 
+– 
+2.7 
+275.0 
+Other payables 
+70.5 
+– 
+70.5 
+– 
+– 
+– 
+– 
+– 
+– 
+– 
+70.5 
+Total non-derivatives 
+1,281.3 
+43.9 
+508.0 
+72.9 
+100.0 
+53.5 
+307.4 
+64.3 
+402.5 
+234.6 
+1,317.9 
+Derivatives 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Interest rate derivatives 
+(1.6) 
+(1.6) 
+– 
+– 
+– 
+– 
+– 
+– 
+– 
+(1.6) 
+– 
+Total derivatives 
+(1.6) 
+(1.6) 
+– 
+– 
+– 
+– 
+– 
+– 
+– 
+(1.6) 
+– 
+ 
+Group 
+2024 
+Carrying 
+value 
+Within 1 yr 
+(2025) 
+Between 1-2 yrs 
+(2026-2027) 
+Between 3-5 yrs 
+(2028-2029) 
+Over 5 yrs 
+(2030 onwards) 
+Total 
+£m 
+Interest  
+£m 
+Principal  
+£m 
+Interest  
+£m 
+Principal  
+£m 
+Interest  
+£m 
+Principal  
+£m 
+Interest  
+£m 
+Principal  
+£m 
+Interest  
+£m 
+Principal  
+£m 
+Non-derivatives 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Loan notes 
+379.3 
+10.2 
+– 
+16.2 
+212.5 
+10.6 
+85.0 
+7.6 
+82.5 
+44.6 
+380.0 
+Unsecured bank loans 
+269.9 
+20.2 
+– 
+23.2 
+200.0 
+6.5 
+75.0 
+– 
+– 
+49.9 
+275.0 
+Secured loans 
+545.8 
+27.0 
+– 
+54.0 
+– 
+69.2 
+264.8 
+56.8 
+320.0 
+207.0 
+584.8 
+Exchangeable bonds 
+272.8 
+5.5 
+– 
+2.7 
+275.0 
+– 
+– 
+– 
+– 
+8.2 
+275.0 
+Other payables  
+62.7 
+– 
+62.7 
+– 
+– 
+– 
+– 
+– 
+– 
+– 
+62.7 
+Total non-derivatives 
+1,530.5 
+62.9 
+62.7 
+96.1 
+687.5 
+86.3 
+424.8 
+64.4 
+402.5 
+309.7 
+1,577.5 
+Derivatives 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Interest rate derivatives 
+(3.4) 
+(3.4) 
+– 
+- 
+– 
+– 
+– 
+– 
+– 
+(3.4) 
+– 
+Total derivatives 
+(3.4) 
+(3.4) 
+– 
+- 
+– 
+– 
+– 
+– 
+– 
+(3.4) 
+– 
+ 
+ 
+Strategic report
+Corporate governance
+Financial statements
+Additional information
+Shaftesbury Capital PLC | 2025 Annual Report
+186
+
+--- PAGE 189 (matched: receivables_payables) ---
+Notes to the financial statements continued 
+  
+23 Financial risk management continued 
+Liquidity risk continued 
+Contractual maturities reflect the expected maturities of financial instruments.  
+The interest payments on variable interest rate loans and bonds issued in the table above reflect market forward interest rates at the reporting date and these amounts may 
+change as market interest rates change. The future cash flows on derivative instruments may be different from the amount in the above table as interest rates change. Except 
+for these financial liabilities, it is not expected that the cash flows included in the maturity analysis could occur significantly earlier, or at significantly different amounts based 
+on the current drawn facility balances. 
+Financial covenants 
+The Group has three unsecured revolving credit facilities, loan notes, secured loans, exchangeable bonds and an unsecured term loan that contain loan covenants. Details of 
+these loans are disclosed in note 20 ‘Borrowings’. A future breach of covenant may require the Group to repay the facilities earlier than indicated in the above table. Details 
+of the loan covenants are set out below:  
+ 
+ 
+31 December 2025 
+ 
+Maturity 
+Nominal value  
+£m 
+Carrying value  
+£m 
+LTV  
+covenant2 
+Interest cover  
+covenant2 
+Loan notes  
+2026–2037 
+380.0 
+379.6 
+60% 
+1.20x 
+Exchangeable bonds 
+2026 
+275.0 
+275.9 
+N/A 
+N/A 
+Unsecured term loan1  
+2029 
+75.0 
+68.7 
+60% 
+1.20x 
+Secured term loan (Canada Life) 
+2029 
+67.4 
+65.0 
+60% 
+1.40x 
+Secured term loans (Aviva) 
+2030–2035 
+450.0 
+421.6 
+65% 
+1.35x 
+Unsecured revolving credit facilities (undrawn)1 
+2029-2030 
+750.0 
+– 
+60% 
+1.20x 
+1. Additional covenants include that Group unencumbered assets are equal to or exceed 1.5x of Group unsecured debt, and subsidiary unencumbered assets are equal to or exceed 1.25x of the Company unsecured debt. 
+2. The covenants of the drawn loan balances are defined within the Glossary. 
+Financial covenants 
+Under the terms of the debt agreements, the secured term loan covenants are 
+calculated quarterly, and the covenants for the remaining debt agreements are 
+calculated at the end of each annual and interim reporting period. There are no 
+indications that the Group would have difficulties complying with the covenants when 
+they will next be tested. 
+Credit risk 
+The Group’s principal financial assets are trade and other receivables, amounts 
+receivable from joint ventures and cash and cash equivalents. Credit risk is the risk 
+of financial loss if a customer or counterparty fails to meet an obligation under a 
+contract. Credit risk arises primarily from trade receivables relating to customers 
+but also from the Group’s undrawn commitments and holdings of assets such 
+as cash deposits and loans with counterparties. The carrying value of financial assets 
+recorded in the consolidated financial statements represents the Group’s maximum 
+exposure to credit risk without taking into account the value of any deposits or 
+guarantees obtained. 
+Trade and other receivables:  
+Credit risk associated with trade receivables is actively managed; customers are 
+managed individually by asset managers, who continuously monitor and work with 
+customers, anticipating and wherever possible identifying and addressing risks prior 
+to default. Customers are managed through a large and diverse customer base to 
+reduce the credit risk to the Group. Trade receivables are less than one per cent of 
+total assets at 31 December 2025 (31 December 2024: less than one per cent) and 
+are £18.2 million as at 31 December 2025 (31 December 2024: £17.9 million). 
+Prospective customers are assessed through an internally conducted review 
+process, by obtaining credit ratings and reviewing financial information. As a result, 
+deposits or guarantees may be obtained. The amount of deposits held as collateral 
+at 31 December 2025 was £42.0 million (31 December 2024: £36.4 million). £26.5 
+million (31 December 2024: £22.2 million) of the cash deposits held against 
+customers’ rent payment obligations are in bank accounts administered by the 
+Group’s managing agents which are not included within the consolidated balance 
+sheet. 
+Strategic report
+Corporate governance
+Financial statements
+Additional information
+Shaftesbury Capital PLC | 2025 Annual Report
+187
+
+--- PAGE 190 (matched: receivables_payables) ---
+Notes to the financial statements continued 
+  
+23 Financial risk management continued 
+Credit risk continued 
+Rent receivable balances are provided against by applying the IFRS 9 expected 
+credit loss model which uses a lifetime expected loss allowance. In assessing 
+the provision the Group identifies risk factors associated by sector and the type of 
+rent receivable outstanding (rent arrears, service charge, other). In determining the 
+provision on a customer by customer basis, the Group considers both recent 
+payment history and future expectations of the customer’s ability to pay or possible 
+default in order to recognise an expected credit loss allowance. 
+Trade receivable balances are written off when there is no reasonable expectation 
+of recovery or when a rent concession is provided for past due rent. Indicators that 
+there is no reasonable recovery include the failure of the debtor to engage in a 
+repayment plan with the Group and a failure to make contractual payments. 
+The amounts of trade receivables presented in the consolidated balance sheet are 
+net of expected credit losses.  
+Ageing of gross trade receivables and loss allowances were as follows: 
+ 
+2025 
+£m 
+2024  
+£m 
+ 
+Gross  
+carrying 
+amount 
+Loss  
+allowance 
+Gross  
+carrying 
+amount 
+Loss  
+allowance 
+Not yet due 
+1.2 
+(0.1) 
+– 
+– 
+0-90 days 
+10.4 
+(1.7) 
+7.4 
+(1.1) 
+91-180 days 
+2.2 
+(0.9) 
+4.0 
+(1.3) 
+Over 180 days 
+4.4 
+(2.2) 
+6.5 
+(5.6) 
+Trade receivables 
+18.2 
+(4.9) 
+17.9 
+(8.0) 
+Set out below is the movement in the loss allowance of trade receivables: 
+ 
+2025  
+£m 
+2024 
+£m 
+As at 1 January 
+(8.0) 
+(4.8) 
+Write-off 
+6.4 
+0.7 
+Provision for expected credit loss allowance 
+(3.3) 
+(3.9) 
+Loss allowance at 31 December  
+(4.9) 
+(8.0) 
+Aged customer balances over 90 days have declined following the write-off of trade 
+receivable balances resulting in a reduced loss allowance. £6.4 million of the trade 
+receivable balances were written off due to the finalisation of customer 
+administrations during the year.  
+As the Group operates predominantly in central London, it is subject to some 
+geographical concentration risk. However, this is mitigated by the extensive range of 
+customers from varying business sectors and the credit review process as noted 
+above. 
+Customer concentration risk is limited due to the large and diverse customer base, 
+with no one customer providing more than 10 per cent of the Group’s rental income. 
+Amounts receivable from joint ventures: 
+Included within receivables, net of impairment is nil (31 December 2024: nil) working 
+capital facility advanced to the Lillie Square joint venture and an interest-bearing loan of 
+£68.2 million (31 December 2024: £70.7 million). The carrying value of the investment 
+in the joint venture is nil (31 December 2024: nil) as the Group’s share of losses exceeds 
+the cost of its investment. Total funding advanced to the joint venture, including the 
+working capital facility and an interest-bearing loan, has been impaired by £54.8 
+million cumulatively. Details of the impairment are set out in note 7 ‘Change in value 
+of investments and other receivables’.  
+Cash, deposits and derivative financial instruments:  
+The credit risk relating to cash, deposits and derivative financial instruments is 
+actively managed by the Group’s treasury function. Relationships are maintained with 
+a number of institutional counterparties, ensuring compliance with Group cash 
+investment policy relating to limits on the credit ratings of counterparties. The 
+maximum exposure to cash and deposits, excluding tenant deposits, as at 31 
+December 2025 amounted to £351.6 million (31 December 2024: £114.7 million), 
+including the Group’s share of joint venture cash. The maximum fair value exposure 
+to derivative financial instruments is £0.3 million (31 December 2024: £1.6 million). 
+Gross carrying value and loss allowance of other receivables (excluding trade 
+receivables) are set out in the table below:  
+ 
+2025 
+£m 
+2024 
+£m 
+ 
+Gross  
+carrying 
+amount 
+Loss  
+allowance 
+Gross  
+carrying 
+amount 
+Loss  
+allowance 
+Amounts receivable from joint ventures 
+and associates 
+123.0 
+(54.8) 
+119.0 
+(48.3) 
+Other receivables 
+75.2 
+(1.6) 
+90.4 
+(0.9) 
+Fair value estimation  
+Financial instruments carried at fair value are required to be analysed by level 
+depending on the valuation method adopted under IFRS 13. The different valuation 
+levels are defined in note 12 ‘Property portfolio’. 
+The Group’s financial assets and liabilities carried at fair value are derivative 
+financial instruments. The fair values of derivative financial instruments are 
+determined from observable market prices or estimated using appropriate yield 
+curves at 31 December each year by discounting the future contractual cash flows to 
+the net present values. 
+ 
+Strategic report
+Corporate governance
+Financial statements
+Additional information
+Shaftesbury Capital PLC | 2025 Annual Report
+188
+
+--- PAGE 191 (matched: context) ---
+Notes to the financial statements continued 
+  
+23 Financial risk management continued 
+Fair value estimation continued 
+The fair values of the Group’s derivative financial instruments are reflected within 
+note 16 ‘Derivative financial instruments’ and are classified as Level 2 fair values as 
+defined by IFRS 13. There were no transfers between levels during the current and 
+prior year. 
+The fair values of the Group’s cash and cash equivalents, other financial assets 
+carried at amortised cost, and other financial liabilities are not materially different 
+from those at which they are carried in the consolidated financial statements. 
+Capital structure 
+The Group seeks to enhance shareholder value both by investing in the business so 
+as to improve the return on investment and by managing the capital structure 
+appropriately. The Group uses a mix of equity, debt and other financial instruments, 
+and aims to access both debt and equity capital markets efficiently. 
+The key ratios used to monitor the capital structure of the Group, reflecting debt 
+financial covenants, are loan-to-value and the interest cover ratios. The Group aims 
+not to exceed a loan-to-value ratio of more than 40 per cent and to maintain interest 
+cover above 125 per cent. These ratios are disclosed on a Group share basis on the 
+nominal value of debt and market value of investment properties. In addition, net 
+debt to EBITDA is a useful indicator of balance sheet strength. This rate has 
+enhanced significantly during the year, reducing from 10.9 to 6.6 times. These 
+metrics are discussed in the Financial review on page 42. 
+Loan-to-value (Group share) 
+Note 
+2025  
+£m 
+2024  
+£m 
+Debt at nominal value  
+20 
+1,247.4 
+1,514.8 
+Adjusted for non-controlling interest1 
+ 
+(95.0) 
+– 
+Debt at nominal value – Group share (A) 
+ 
+1,152.4 
+1,514.8 
+ 
+ 
+ 
+ 
+Cash 
+18 
+(345.9) 
+(109.8) 
+Adjusted for non-controlling interest 
+ 
+6.8 
+– 
+Cash – Group share (B) 
+ 
+(339.1) 
+(109.8) 
+ 
+ 
+ 
+ 
+Net debt (C = A+B) 
+ 
+813.3 
+1,405.0 
+ 
+ 
+ 
+ 
+Total market value of property portfolio (Group share) (B) 
+12 
+4,700.7 
+4,973.5 
+Loan-to-value (C/B)2 
+ 
+17.3% 
+28.2% 
+1. Represents 25 per cent of £380 million, which is the nominal value of debt as per note 15 ‘Non-controlling interest’. 
+2. Loan-to-value excludes amounts allocated to non-controlling interest and the Lillie Square joint venture. 
+ 
+ 
+Interest cover (Group share) 
+APM table 
+2025 
+£m 
+2024  
+£m 
+Finance costs  
+Table 1
+(61.6) 
+(72.0) 
+Finance income 
+Table 1
+20.2 
+14.8 
+Net underlying finance costs (A) 
+(41.4) 
+(57.2) 
+ 
+ 
+ 
+Underlying operating income: 
+ 
+ 
+Gross profit 
+Table 1
+161.1 
+167.1 
+Other income 
+Table 1
+3.0 
+– 
+Underlying operating income (B) 
+ 
+164.1 
+167.1 
+Interest cover (B/A)1 
+ 
+396.4% 
+292.1% 
+1. Interest cover excludes amounts allocated to non-controlling interest and the Lillie Square joint venture. 
+24 Deferred tax  
+The corporation tax rate referred to in note 10 ‘Taxation’ has been enacted for the 
+purposes of IAS 12 ‘Income Taxes’ (“IAS 12”) and therefore has been reflected in 
+these consolidated financial statements based on the expected timing of the 
+realisation of deferred tax.  
+Deferred tax on investment property is calculated under IAS 12 provisions on a 
+disposals basis by reference to the property’s original tax base cost. Properties that 
+fall within the Group’s qualifying REIT activities will be outside the charge to UK 
+corporation tax subject to certain conditions being met. The Group’s recognised 
+deferred tax position on investment property as calculated under IAS 12 is nil at 
+31 December 2025 (31 December 2024: nil).  
+ 
+Accelerated 
+capital 
+allowances  
+£m 
+Fair value of 
+derivative 
+financial 
+instruments  
+£m 
+Other  
+temporary 
+differences  
+£m 
+Non-REIT 
+Group  
+losses  
+£m 
+Total  
+£m 
+Provided deferred tax provision: 
+ 
+ 
+ 
+ 
+ 
+At 1 January 2024 
+0.5 
+0.9 
+– 
+(1.4) 
+– 
+Consolidated income statement items 
+– 
+(0.9) 
+– 
+0.9 
+– 
+At 31 December 2024 
+0.5 
+– 
+– 
+(0.5) 
+– 
+Consolidated income statement items 
+(0.5) 
+– 
+2.1 
+(1.6) 
+– 
+At 31 December 2025 
+– 
+– 
+2.1 
+(2.1) 
+– 
+ 
+ 
+ 
+ 
+ 
+ 
+Unrecognised deferred tax assets: 
+ 
+ 
+ 
+ 
+ 
+At 1 January 2024 
+– 
+– 
+(0.9) 
+(21.4) 
+(22.3) 
+Consolidated income statement items 
+– 
+(0.7) 
+(1.5) 
+(1.0) 
+(3.2) 
+At 31 December 2024 
+– 
+(0.7) 
+(2.4) 
+(22.4) 
+(25.5) 
+Consolidated income statement items 
+– 
+0.7 
+(3.0) 
+(0.1) 
+(2.4) 
+At 31 December 2025 
+– 
+– 
+(5.4) 
+(22.5) 
+(27.9) 
+Strategic report
+Corporate governance
+Financial statements
+Additional information
+Shaftesbury Capital PLC | 2025 Annual Report
+189
+
+--- PAGE 192 (matched: receivables_payables) ---
+Notes to the financial statements continued 
+  
+24 Deferred tax continued 
+In accordance with the requirements of IAS 12, deferred tax assets are only recognised 
+to the extent that the Group believes it is probable that future taxable profits will be 
+available against which the deferred tax assets can be recovered. As at 31 December 
+2025, the Group has unrecognised deferred tax assets of £27.9 million (31 December 
+2024: £25.5 million) in relation to £89.7 million (31 December 2024: £89.8 million) of gross 
+losses carried forward within its residual business and £21.7 million (31 December 2024: 
+£12.4 million) of other deductible temporary differences. 
+25 Share capital and share premium issued and fully paid 
+Group and Company  
+Issue type 
+Issue 
+price 
+(pence) 
+Number  
+of shares 
+Share 
+capital 
+£m1 
+Share 
+premium 
+£m 
+At 1 January 2024 
+ 1,953,170,495 
+488.2 
+232.5 
+Issued to satisfy employee share scheme awards2 
+25 
+7,643 
+– 
+– 
+At 31 December 2024 
+ 1,953,178,138 
+488.2 
+232.5 
+At 31 December 2025 
+ 1,953,178,138 
+488.2 
+232.5 
+1. Nominal value of share capital of 25 pence per share. 
+2. On 10 June 2024, 7,643 new shares were issued to satisfy employee share scheme awards. 
+26 Capital commitments 
+At 31 December 2025, the Group was contractually committed to £10.8 million 
+(31 December 2024: £24.1 million) of future expenditure for the purchase, 
+refurbishment and enhancement of investment property.  
+The Group’s share of joint venture capital commitments arising from LSJV amounts 
+to nil (31 December 2024: nil).  
+27 Contingent liabilities 
+The Group has contingent liabilities in respect of legislation, sustainability targets, 
+legal claims, guarantees and warranties arising from the ordinary course of business. 
+There are no contingent liabilities that require disclosure or recognition in the 
+consolidated financial statements in the current and prior year.  
+28 Cash flow information 
+(a) Cash generated from operations 
+ 
+Note 
+2025  
+£m 
+2024 
+£m 
+Profit before tax 
+ 
+387.1 
+252.4 
+Adjustments: 
+ 
+ 
+ 
+Gain on revaluation and sale of investment property1 
+ 
+(322.5) 
+(197.6) 
+Change in value of investments and other receivables 
+7 
+6.5 
+7.0 
+Depreciation2 
+13 
+0.9 
+0.7 
+Amortisation of tenant lease incentives and other direct 
+costs 
+ 
+0.5 
+(5.6) 
+Provision for expected credit loss 
+4 
+3.3 
+3.9 
+Profit from joint ventures and associates 
+14 
+– 
+(4.5) 
+Share-based payments expense 
+30 
+8.3 
+3.1 
+Finance income 
+8 
+(20.5) 
+(14.8) 
+Other finance income 
+8 
+(4.0) 
+(4.5) 
+Finance costs 
+9 
+63.8 
+72.0 
+Other finance costs 
+9 
+9.7 
+6.5 
+Change in fair value of derivative financial instruments 
+16 
+3.0 
+0.9 
+Loss on sale of associate 
+14 
+– 
+4.0 
+Loss on sale of investments and subsidiaries3 
+ 
+1.0 
+– 
+Change in working capital: 
+ 
+ 
+ 
+Change in trade and other receivables 
+ 
+15.6 
+(4.6) 
+Change in trade and other payables 
+ 
+8.5 
+(10.2) 
+Cash generated from operations 
+ 
+161.2 
+108.7 
+1. Included within the gain on revaluation and sale of investment property in the consolidated income statement is cash 
+transaction costs of £0.7 million (31 December 2024: £3.0 million) incurred on the disposal of property. 
+2. £0.2 million (31 December 2024: £0.3 million) of depreciation is recognised within note 5 ‘Administration expenses’ and 
+£0.7 million (31 December 2024: £0.4 million) is recognised within note 4 ‘Gross profit’. 
+3. Included within loss on sale of investments and subsidiaries in the consolidated income statement are cash 
+transaction costs of £5.7 million. 
+Strategic report
+Corporate governance
+Financial statements
+Additional information
+Shaftesbury Capital PLC | 2025 Annual Report
+190
+
+--- PAGE 193 (matched: receivables_payables) ---
+Notes to the financial statements continued 
+  
+28 Cash flow information continued 
+(b) Reconciliation of cash flows from financing activities 
+The table below sets out the reconciliation of the movements in borrowings to cash 
+flows arising from financing activities: 
+ 
+Note 
+Long-term 
+borrowings 
+£m 
+Short-term 
+borrowings 
+£m 
+Derivative 
+liability – 
+exchangeable 
+bonds 
+£m  
+Total liabilities 
+from financing 
+activities 
+£m 
+Balance at 1 January 2024 
+ 
+1,534.8 
+94.9 
+7.2 
+1,636.9 
+Cash flows from financing activities 
+ 
+ 
+ 
+ 
+ 
+Repayment of bank loans 
+20 
+(210.0) 
+(95.0) 
+– 
+(305.0) 
+Drawdown of revolving credit 
+facility and secured loan 
+20 
+135.0 
+– 
+– 
+135.0 
+Total cash flows used in financing 
+activities 
+ 
+(75.0) 
+(95.0) 
+– 
+(170.0) 
+Other movements  
+ 
+ 
+ 
+ 
+ 
+Transaction costs associated with 
+financing activities 
+ 
+(3.5) 
+– 
+– 
+(3.5) 
+Amortisation and unwind of fair 
+value adjustment on debt 
+ 
+11.5 
+0.1 
+(5.4) 
+6.2 
+Total other movements  
+ 
+8.0 
+0.1 
+(5.4) 
+2.7 
+Balance at 31 December 2024 
+ 
+1,467.8 
+– 
+1.8 
+1,469.6 
+Cash flows from financing 
+activities 
+ 
+ 
+ 
+ 
+ 
+Repayment of bank loans 
+20 
+(292.4) 
+– 
+– 
+(292.4) 
+Drawdown of revolving credit 
+facility and secured loan 
+20 
+25.0 
+– 
+– 
+25.0 
+Total cash flows used in financing 
+activities 
+ 
+(267.4) 
+– 
+– 
+(267.4) 
+Other movements  
+ 
+ 
+ 
+ 
+ 
+Transaction costs associated with 
+financing activities 
+ 
+(4.3) 
+– 
+– 
+(4.3) 
+Interest on exchangeable bonds 
+ 
+(5.5) 
+– 
+– 
+(5.5) 
+Amortisation and unwind of fair 
+value adjustment on debt 
+ 
+20.2 
+– 
+(0.5) 
+19.7 
+Reclassification from non-current 
+to current 
+20 
+(438.4) 
+438.4 
+– 
+– 
+Total other movements 
+ 
+(428.0) 
+438.4 
+(0.5) 
+9.9 
+Balance as at 31 December 2025 
+ 
+772.4 
+438.4 
+1.3 
+1,212.1 
+29 Related party transactions 
+(a) Transactions with Directors 
+Key management compensation1 
+2025 
+£m 
+2024 
+£m 
+Short-term employee benefits 
+3.3 
+3.4 
+Termination benefits 
+– 
+0.7 
+Share-based payments 
+1.6 
+1.7 
+ 
+4.9 
+5.8 
+1. Key management comprises the Directors of the Company, who have been determined to be the only individuals with 
+authority and responsibility for planning, directing and controlling the activities of the Group.  
+Share dealings 
+No Director had any dealings in the shares of any Group company between 
+31 December 2025 and 24 February 2026, being a date not more than one month 
+prior to the date of the notice convening the Annual General Meeting. 
+Other than as disclosed in these consolidated financial statements, no Director of the 
+Company had a material interest in any contract (other than service contracts), 
+transaction or arrangement with any Group company during the year ended 
+31 December 2025.  
+(b) Transactions between the Group and its subsidiaries and joint ventures  
+On 1 April 2025, NBIM Mary Limited, a subsidiary of Norges Bank Investment 
+Management, acquired a 25 per cent non-controlling interest in Covent Garden Real 
+Estate Holdings Limited (“Covent Garden estate”), a subsidiary of the Group. Prior to 
+the transaction, NBIM already had a 23.5 per cent shareholding in the Group. Details 
+of the transaction are set out in note 15 ‘Non-controlling interest’. 
+Transactions during the year between the Group and its subsidiaries and joint 
+ventures, which are related parties, are disclosed in notes 14 ‘Investments in joint 
+ventures and associates’, 17 ‘Trade and other receivables’ and 26 ‘Capital 
+commitments’. During the year the Group received management fee income of 
+£2.9 million (31 December 2024: nil) that was charged on an arm’s length basis. 
+ 
+ 
+Strategic report
+Corporate governance
+Financial statements
+Additional information
+Shaftesbury Capital PLC | 2025 Annual Report
+191
+
+--- PAGE 194 (matched: context) ---
+Notes to the financial statements continued 
+  
+29 Related party transactions continued 
+Property purchased by Directors of the Company 
+A related party of the Group, Lillie Square GP Limited, entered into the following 
+related party transaction as defined by IAS 24 ‘Related Party Disclosures’: 
+• Situl Jobanputra, Chief Financial Officer of Shaftesbury Capital, and a family 
+member own an apartment in the Lillie Square development. The disclosures in 
+respect of this purchase were included in previous financial statements. 
+• Owners of apartments in the Lillie Square development are required to pay annual 
+ground rent, insurance premium fees, maintenance work fees and bi-annual service 
+charge fees, which for Directors are related party transactions. During 2025, 
+£8,725 had been paid to a related party of the Shaftesbury Capital Group, Lillie 
+Square GP Limited, in relation to these charges.  
+Transactions with Directors are conducted at fair and reasonable market prices 
+based upon similar comparable transactions at that time. Where applicable, 
+appropriate approval has been provided. Lillie Square GP Limited acts in the 
+capacity of general partner to Lillie Square LP, a joint venture between the Group 
+and KFI. 
+30 Share-based payments 
+The Group operates a number of share-based payment schemes relating to 
+employee benefits and incentives. All schemes are equity settled with the increase in 
+equity measured by reference to the fair value of the Group’s equity instruments at 
+the grant date of the share awards. The corresponding expense is recognised on a 
+straight-line basis over the vesting period based on Group estimates of the number 
+of shares that are expected to vest. The total expense recognised in the 
+consolidated income statement in respect of share-based payments for 2025 was 
+£8.3 million (31 December 2024: £3.1 million). £6.5 million (31 December 2024: £3.1 
+million) of the charge relates to share-based payments expense and £1.8 million (31 
+December 2024: nil) relates to National Insurance accrual. £0.6 million (31 December 
+2024: nil) of the £8.3 million has been recognised within non-underlying 
+administration expenses.    
+All options have a vesting period of three years and a maximum contractual life of 10 
+years. The fair value of share awards is determined by the market price of the shares 
+at the grant date. 
+Full details of the performance criteria, vesting outcomes and any additional holding 
+periods for the Performance Share Plan are set out within the Directors’ 
+remuneration report on pages 123 to 147. 
+1. Performance Share Plan 
+Nil-cost options, deferred bonuses and conditional awards may be awarded under 
+the Performance Share Plan (“PSP”). The Company may make a proportion of awards 
+as HMRC approved market value options. 
+Share options outstanding at 31 December 2025 have an exercise price of nil and a 
+weighted average remaining contractual life of five years and are exercisable 
+between 2026 and 2030. 
+(a) Nil cost options and deferred bonus awards 
+ 
+Number of nil cost and 
+deferred bonus options 
+2025 
+2024 
+Outstanding at 1 January 
+11,906,773 
+6,476,714 
+Awarded during the year 
+5,729,674 
+5,430,059 
+Forfeited/lapsed during the year 
+(1,852,474) 
+– 
+Outstanding at 31 December 
+15,783,973 11,906,773 
+Exercisable at 31 December 
+615,090 
+– 
+(b) PSP conditional awards 
+ 
+Number of PSP conditional 
+awards 
+2025 
+2024 
+Outstanding at 1 January 
+5,534,484 
+3,230,147 
+Awarded during the year 
+2,850,906 
+2,899,064 
+Forfeited/lapsed during the year 
+(439,121) 
+(594,727) 
+Outstanding at 31 December 
+7,946,269 
+5,534,484 
+Exercisable at 31 December 
+44,119 
+– 
+2. Fair value of share-based payments 
+The fair value of share awards is calculated using the Black-Scholes option pricing 
+model for the half that is subject to the total return performance condition and using 
+the stochastic pricing model for the half that is subject to the total shareholder 
+return performance condition. Inputs to the models for share awards granted during 
+the years ended 31 December 2025 and 2024 are as follows: 
+ 
+2025 
+2024 
+Closing share price at grant date  
+126p 
+135p 
+Exercise price 
+0p-126p 
+0p–135p 
+Expected option life  
+3-5 years 
+3-5 years 
+Risk-free rate 
+4.37% 
+3.24% 
+Expected volatility1 
+28.6-26.1% 30.3–31.5% 
+Expected dividend yield 
+0% 
+0% 
+Fair value per option  
+54p-126p 
+79p–135p 
+1. Expected volatility is a measure of an amount by which the share price is expected to fluctuate during the period. 
+Volatility is calculated by determining the movement in share price over the period commensurate with the holding 
+period immediately prior to the grant date. 
+ 
+Strategic report
+Corporate governance
+Financial statements
+Additional information
+Shaftesbury Capital PLC | 2025 Annual Report
+192
+
+--- PAGE 195 (matched: context) ---
+Notes to the financial statements continued 
+  
+31 Related undertakings 
+The Company’s subsidiaries and other related undertakings at 31 December 2025 
+are listed below. All Group entities are included in the consolidated financial 
+statements.  
+Unless otherwise stated, the Company holds 100 per cent of the voting rights and 
+beneficial interests in the shares of the subsidiaries listed below. The share capital of 
+each of the companies, where applicable, comprises ordinary shares unless 
+otherwise stated. 
+Registered address: C/O Shepherd and Wedderburn LLP, 9 Haymarket Square, 
+Edinburgh, Scotland, EH3 8FY 
+Related undertakings  
+ 
+Capco Investment London (No.6) 
+Limited1,2 
+Capco Investment London (No.7) Scottish Limited 
+Partnership2 
+ 
+1. Dormant entity. 
+2. Direct undertakings of the Company. 
+Registered address: 27 Esplanade, St Helier, Jersey, JE1 1SG 
+Related undertakings 
+ 
+Capital & Counties Properties (Jersey) 3 
+Limited1,2 
+Capvestco Limited1,2 
+Innova Investment Holdings Limited 
+Capvestco Earls Court Limited  
+Lillie Square LP Limited  
+1. Dormant entity. 
+2. Direct undertakings of the Company. 
+Registered address: Regal House, 14 James Street, London, WC2E 8BU 
+Related undertakings  
+ 
+20 The Piazza Limited 
+Covent Garden Management Services Limited1,2 
+20 The Piazza Management Limited1  
+Covent Garden Real Estate Holdings Limited (75%) 
+22 Southampton Street Limited 
+Floral Court Collection Management Limited1 
+22 Southampton Street Management Limited1 Floral Court Limited  
+34 Henrietta Street Limited  
+Innova Investment Management Limited1 
+34 Henrietta Street Management Company 
+Limited1 
+Lillie Square Clubhouse Limited (50%)1,4 
+Lillie Square Developments Limited (50%)4 
+C & C Management Services Limited2 
+Lillie Square GP Limited (50%)4 
+C&C Properties UK Limited2 
+Lillie Square LP (50%)4 
+Capco Covent Garden Limited2 
+Lillie Square Management Limited (50%)4 
+Capco Covent Garden Residential Limited 
+Lillie Square Nominee Limited (50%)1,4 
+Capco Group Treasury Limited2 
+Shaftesbury AV Investment Limited  
+Capco London Limited1 
+Shaftesbury AV Limited  
+Capital & Counties CG Limited 
+Shaftesbury Carnaby Limited  
+Capital & Counties CGP 
+Shaftesbury Charlotte Street Limited1 
+Capital & Counties CG Nominee Limited1 
+Shaftesbury Chinatown PLC 
+Capital & Counties Limited2,3 
+Shaftesbury CL Investment Limited 
+ 
+Carnaby Estate Holdings Limited1 
+Shaftesbury CL Limited 
+Carnaby Investments Limited1 
+Shaftesbury Covent Garden Limited 
+Carnaby Property Investments Limited1 
+Charlotte Street Estate Holdings Limited1 
+Shaftesbury Covent Garden Property 
+Investments Limited1 
+Chinatown Estate Holdings Limited1 
+Shaftesbury Investments 2 Limited1 
+Chinatown London Ltd1 
+Shaftesbury Investments 4 Limited1 
+Chinatown Property Investments Limited1 
+Shaftesbury Investments 6 Limited1 
+Covent Garden Estate Holdings Limited1 
+Shaftesbury Investments 7 Limited1 
+Covent Garden (43 Management) Limited1 
+Shaftesbury Investments 8 Limited1 
+Covent Garden (49 Wellington Street) Limited Shaftesbury Investments 9 Limited1 
+Covent Garden Group Holdings Limited 
+Shaftesbury Investments 10 Limited1 
+Covent Garden Holdings (No.1) Limited 
+Shaftesbury Limited2 
+Covent Garden Holdings (No.2) Limited 
+Shaftesbury Soho Limited 
+Covent Garden Holdings (No.3) Limited 
+Shaftesbury West End Limited1 
+1. Dormant entity.  
+2. Direct undertakings of the Company. 
+3. Ordinary and non-voting deferred shares. 
+4. Equity accounted joint ventures and associates. 
+ 
+Strategic report
+Corporate governance
+Financial statements
+Additional information
+Shaftesbury Capital PLC | 2025 Annual Report
+193
+
+--- PAGE 196 (matched: receivables_payables) ---
+Shaftesbury Capital PLC Company balance sheet 
+As at 31 December 2025 
+ 
+Note 
+2025 
+£m 
+2024 
+£m 
+Non-current assets 
+ 
+ 
+ 
+Investments in Group companies 
+II 
+3,654.3 
+2,129.4 
+Trade and other receivables 
+III 
+2.2 
+1,523.4 
+ 
+ 
+3,656.5 
+3,652.8 
+Current assets 
+ 
+ 
+ 
+Trade and other receivables 
+III 
+0.6 
+0.5 
+Derivative financial instruments 
+IV 
+0.8 
+3.4 
+Cash and cash equivalents 
+V 
+310.4 
+– 
+ 
+ 
+311.8 
+3.9 
+ 
+ 
+ 
+ 
+Total assets 
+ 
+3,968.3 
+3,656.7 
+ 
+ 
+ 
+ 
+Non-current liabilities 
+ 
+ 
+ 
+Borrowings 
+VI 
+(71.1) 
+(542.7) 
+Derivative financial instruments 
+IV 
+– 
+(1.8) 
+ 
+ 
+(71.1) 
+(544.5) 
+Current liabilities 
+ 
+ 
+ 
+Borrowings 
+VI 
+(275.9) 
+– 
+Derivatives financial instruments 
+IV 
+(1.3) 
+– 
+Trade and other payables 
+VII 
+(950.0) 
+(16.1) 
+ 
+ 
+(1,227.2) 
+(16.1) 
+ 
+ 
+ 
+ 
+Total liabilities 
+ 
+(1,298.3) 
+(560.6) 
+ 
+ 
+ 
+ 
+Net assets 
+ 
+2,670.0 
+3,096.1 
+ 
+ 
+ 
+ 
+Equity 
+ 
+ 
+ 
+Share capital 
+25 
+488.2 
+488.2 
+Other components of equity 
+ 
+2,181.8 
+2,607.9 
+Total equity  
+ 
+2,670.0 
+3,096.1 
+The loss for the year attributable to shareholders of the Company is £360.4 million 
+(31 December 2024: £39.7 million profit). References in Roman numerals refer to the 
+notes to the Company financial statements, references in numbers refer to the notes 
+to the Group financial statements. 
+These financial statements of Shaftesbury Capital PLC (registered number: 
+07145051) have been approved for issue by the Board of Directors on 24 February 
+2026 and signed on its behalf by: 
+ 
+ 
+ 
+Ian Hawksworth  
+Situl Jobanputra 
+Chief Executive 
+ 
+Chief Financial Officer 
+Strategic report
+Corporate governance
+Financial statements
+Additional information
+Shaftesbury Capital PLC | 2025 Annual Report
+194
+
+--- PAGE 197 (matched: context) ---
+Shaftesbury Capital PLC Company statement of changes in equity  
+For the year ended 31 December 2025 
+ 
+Note 
+Share 
+capital 
+£m 
+Share 
+premium 
+£m 
+Own  
+shares1  
+£m 
+Capital 
+redemption 
+reserve  
+£m 
+Merger  
+reserve2 
+£m  
+Share-based 
+payments 
+reserve 
+ £m 
+Retained 
+earnings 
+£m 
+Total 
+equity 
+£m 
+At 1 January 2024 
+ 
+488.2 
+232.5 
+(0.8) 
+1.5 
+1,223.9 
+1.3 
+1,172.1 
+3,118.7 
+Profit and total comprehensive income for the year  
+ 
+– 
+– 
+– 
+– 
+– 
+– 
+39.7 
+39.7 
+Dividends 
+11 
+– 
+– 
+– 
+– 
+– 
+– 
+(65.4) 
+(65.4) 
+Fair value of share-based payments 
+30 
+– 
+– 
+– 
+– 
+– 
+3.1 
+– 
+3.1 
+Balance at 31 December 2024 
+ 
+488.2 
+232.5 
+(0.8) 
+1.5 
+1,223.9 
+4.4 
+1,146.4 
+3,096.1 
+Loss and total comprehensive expense for the year  
+ 
+– 
+– 
+– 
+– 
+– 
+– 
+(360.4) 
+(360.4) 
+Dividends 
+11 
+– 
+– 
+– 
+– 
+– 
+– 
+(72.2) 
+(72.2) 
+Fair value of share-based payments 
+30 
+– 
+– 
+– 
+– 
+– 
+6.5 
+– 
+6.5 
+Balance at 31 December 2025 
+ 
+488.2 
+232.5 
+(0.8) 
+1.5 
+1,223.9 
+10.9 
+713.8 
+2,670.0 
+1. Represents 3,146,886 shares held by the Group’s Employee Benefit Trust in respect of employee share awards. 
+2. Represents non-qualifying consideration received by the Group following previous share placings and the all-share merger with Shaftesbury PLC in 2023. The amounts taken to the merger reserve do not currently meet the criteria for qualifying 
+consideration and therefore will not form part of distributable reserves as they form part of linked transactions.  
+Strategic report
+Corporate governance
+Financial statements
+Additional information
+Shaftesbury Capital PLC | 2025 Annual Report
+195
+
+--- PAGE 198 (matched: context) ---
+Shaftesbury Capital PLC Notes to the Company financial statements 
+ 
+I Principal accounting policies 
+General information 
+Shaftesbury Capital PLC (the “Company”) was incorporated and registered in England 
+and Wales and domiciled in the United Kingdom on 3 February 2010 under the 
+Companies Act as a public company limited by shares, registration number 7145051. 
+The registered office of the Company is Regal House, 14 James Street, London, WC2E 
+8BU, United Kingdom. The principal activity of the Company is to act as the ultimate 
+parent company of Shaftesbury Capital PLC Group (the “Group”), whose principal 
+activity is the investment in and management of property.  
+Basis of preparation 
+The Company’s financial statements are prepared in accordance with Financial 
+Reporting Standard 101 ‘Reduced Disclosure Framework’ (“FRS 101”), and in 
+conformity with the requirements of the Companies Act 2006.  
+The Employee Benefit Trust (“EBT”) is consolidated on the basis that the Company 
+has control. The assets and liabilities of the EBT are therefore included in the 
+Company balance sheet and shares in the Company held by the EBT are presented 
+as a deduction from equity. 
+The financial statements have been prepared on a going concern basis under the 
+historical cost convention as modified for the revaluation of derivative financial 
+instruments.  
+The Directors have taken advantage of the exemption offered by section 408 of the 
+Companies Act 2006 and do not present a separate income statement or statement 
+of comprehensive income for the Company. 
+In these financial statements, the Company has taken advantage of the exemptions 
+available under FRS 101 in respect of the following disclosures: 
+• IFRS 7, ‘Financial instruments: Disclosures’; 
+• Paragraphs 91 to 99 of IFRS 13, ‘Fair value measurements’ (disclosure of valuation 
+techniques and inputs used for fair value measurement of assets and liabilities); 
+• Paragraph 38 of IAS 1, ‘Presentation of financial statements’, comparative 
+information in respect of paragraph 79(a)(iv) of IAS 1 (reconciliation of number of 
+shares at the beginning and end of the period); 
+• IAS 7, ‘Statement of cash flows’; 
+• Paragraphs 30 and 31 of IAS 8, ‘Accounting policies, changes in accounting 
+estimates and errors’ (requirement for the disclosure of information when an entity 
+has not applied a new IFRS that has been issued but not yet effective); 
+• Paragraph 17 of IAS 24, ‘Related party disclosures’ (key management 
+compensation); and 
+• The requirements in IAS 24, ‘Related party disclosures’ (to disclose related party 
+transactions entered into between two or more members of the group). 
+In the current year, the Company has applied the below amendment to IFRS 
+Standards and Interpretations issued by the International Accounting Standards 
+Board that is effective for annual periods that begin on or after 1 January 2025: 
+• IAS 21 ‘The Effects of Changes in Foreign Exchange Rates’ (amendment) (Lack of 
+Exchangeability). 
+The adoption of the above amendment has not had a material impact on the 
+amounts reported in the financial statements or on the disclosures.  
+Going concern 
+The Company balance sheet is in a net current liability position of £915.4 million, 
+primarily as a result of amounts owed to subsidiaries totalling £945.1 million which 
+are classified as current liabilities. The subsidiaries are all under common control in 
+the Group, and the balances are not due to external counterparties. The amounts 
+owed to subsidiaries are repayable on demand however there is no intention or 
+expectation for them to be called or repaid within the next 12 months.  
+In addition, the £275 million exchangeable bond matures in March 2026 and is 
+classified as a current liability. As at 31 December 2025, the Company had access to 
+£760.4 million of available undrawn facilities and cash resources to meet its current 
+liabilities as they fall due. 
+Based on the analysis, the Directors are satisfied that there is a reasonable 
+expectation that the Company will be able to meet its ongoing and future 
+commitments for at least 12 months from the date of approval of the financial 
+statements and have therefore resolved that the Company’s financial statements be 
+prepared on a going concern basis. 
+ 
+ 
+ 
+Strategic report
+Corporate governance
+Financial statements
+Additional information
+Shaftesbury Capital PLC | 2025 Annual Report
+196
+
+--- PAGE 199 (matched: receivables_payables) ---
+Notes to the Company financial statements continued  
+  
+I Principal accounting policies continued 
+Critical accounting judgements and key sources of estimation uncertainty  
+The preparation of financial statements in conformity with FRS 101 requires the use 
+of certain critical accounting estimates. It also requires management to exercise its 
+judgement in the process of applying the Company’s accounting policies. 
+The review of the recoverability of the carrying value of the Company’s investment in 
+Group companies is a key source of estimation uncertainty. 
+The Company reviews the carrying value of its investments in Group companies at 
+each reporting date to determine whether any indication of impairment exists. Where 
+such an indication exists, the recoverable amount of the investment is estimated. The 
+recoverable amount is determined with reference to the underlying fair value of the 
+subsidiaries.   
+Other areas of judgement and estimation in the financial statements (which are not 
+considered critical) include share-based payments. 
+Investments in Group companies  
+Investments in Group companies, which eliminate on consolidation, are stated in the 
+Company’s separate financial statements at cost less impairment losses, if any.  
+Impairment losses are determined with reference to the investments recoverability 
+which is discussed above. 
+Trade and other receivables 
+Trade and other receivables are initially recognised at fair value and subsequently 
+measured at amortised cost. Trade and other receivables are subject to impairment 
+review. 
+Derivative financial instruments 
+The Company uses non-traded derivative financial instruments to manage its 
+exposure to interest rate risk. They are initially recognised on the trade date at fair 
+value and subsequently remeasured at fair value based on market price. The method 
+of recognising the resulting gain or loss depends on whether the derivative is 
+designated as a hedging instrument, and if so, the nature of the item being hedged. 
+Instruments that have not been designated as qualifying for hedge accounting are 
+classified as fair value through profit and loss. Changes in the fair value of these 
+instruments are split into interest (calculated as the accrued and realised cash flows) 
+and other changes in fair value.  
+Cash and cash equivalents 
+Cash and cash equivalents are recognised at fair value. Cash and cash equivalents 
+comprise cash on hand and deposits held at call with financial institutions.  
+Trade and other payables 
+Trade payables are obligations for goods or services acquired in the ordinary course 
+of business. Trade and other payables are recognised at fair value and subsequently 
+measured at amortised cost until settled. 
+Amounts owed to and by subsidiaries 
+Amounts owed to and by subsidiaries are recognised as fair value and subsequently 
+measured at amortised cost until settled. Amounts receivable from subsidiaries are 
+assessed for impairment by comparing the carrying value of the loans and 
+receivables to the net asset value of the subsidiary or to the discounted present 
+value of estimated cash flows if applicable.  
+Other 
+The accounting policies for share-based payments and borrowings are disclosed 
+within note 1 ‘Principal accounting policies’ to the Group financial statements. 
+The auditors’ remuneration for audit and other services is disclosed in note 5 
+‘Administration expenses’ to the Group financial statements.  
+II Investments in Group companies 
+ 
+2025 
+£m 
+2024 
+£m 
+At 1 January  
+2,129.4 
+2,129.4 
+Additions 
+1,878.4 
+– 
+Impairment 
+(353.5) 
+– 
+At 31 December 
+3,654.3 
+2,129.4 
+In the year ended 31 December 2025 there have been additions to investment in 
+Group companies of £1,878.4 million (2024: nil) following a share subscription in 
+Capco Covent Garden Limited which was settled via intercompany balances.   
+The carrying value of the Company investments was impaired by £353.5 million 
+(2024: nil). The impairment loss was due to corporate restructuring activities in the 
+year leading to a change in the overall net asset values of certain Group companies 
+being assessed for impairment. The recoverable amount of the investments has been 
+determined using their net asset values, comprising fair valued investment property, 
+cash and debt at 31 December 2025. 
+III Trade and other receivables 
+ 
+2025 
+£m 
+2024 
+£m 
+Non-current 
+ 
+ 
+Amounts owed by subsidiaries 
+2.2 
+1,523.4 
+Trade and other receivables 
+2.2 
+1,523.4 
+ 
+ 
+ 
+Current 
+ 
+ 
+Prepayments and accrued income 
+0.6 
+0.5 
+Trade and other receivables 
+0.6 
+0.5 
+Strategic report
+Corporate governance
+Financial statements
+Additional information
+Shaftesbury Capital PLC | 2025 Annual Report
+197
+
+--- PAGE 200 (matched: receivables_payables) ---
+Notes to the Company financial statements continued  
+  
+IV Derivative financial instruments  
+ 
+Derivative financial assets 
+2025 
+£m 
+2024 
+£m 
+Current 
+ 
+ 
+Interest rate derivatives 
+0.8 
+3.4 
+Derivative financial assets 
+0.8 
+3.4 
+ 
+ 
+Derivative financial liabilities 
+2025 
+£m 
+ 2024  
+£m 
+Non-current 
+ 
+ 
+Derivative liability – exchangeable bonds1 
+– 
+1.8 
+Current 
+ 
+ 
+Derivative liability – exchangeable bonds1 
+1.3 
+– 
+Derivative financial liabilities 
+1.3 
+1.8 
+1. On 30 November 2020 the Company issued £275 million of secured exchangeable bonds maturing in March 2026. 
+The net proceeds received from the issue of the exchangeable bonds have been split between the financial liability 
+element and an option component, representing the fair value of the embedded option to convert the financial liability 
+into equity of Shaftesbury. The debt component is accounted for at amortised cost at the effective interest rate 
+method and the derivative liability is accounted for at fair value through profit or loss. 
+V Cash and cash equivalents 
+ 
+2025 
+£m 
+2024 
+£m  
+Cash at hand 
+0.7 
+– 
+Cash on short-term deposits  
+309.7 
+– 
+Cash and cash equivalents 
+310.4 
+– 
+ 
+VI Borrowings 
+ 
+2025 
+ 
+Carrying 
+value  
+£m 
+Secured  
+£m 
+Unsecured  
+£m 
+Fixed 
+rate  
+£m 
+Floating 
+rate  
+£m 
+Fair 
+value 
+£m 
+Nominal 
+value 
+£m 
+Current 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Exchangeable bonds1 
+275.9 
+275.9 
+– 
+275.9 
+– 
+274.2 
+275.0 
+ 
+275.9 
+275.9 
+– 
+275.9 
+– 
+274.2 
+275.0 
+Non-current 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Bank loans 
+71.1 
+– 
+71.1 
+– 
+71.1 
+75.0 
+75.0 
+ 
+71.1 
+– 
+71.1 
+– 
+71.1 
+75.0 
+75.0 
+Total borrowings 
+347.0 
+ 
+ 
+ 
+ 
+ 
+ 
+1. Fair value of exchangeable bonds includes the fair value of the option component of £1.3 million as disclosed in note 
+IV ‘Derivative financial instruments’. 
+ 
+2024 
+ 
+Carrying 
+value  
+£m 
+Secured  
+£m 
+Unsecured  
+£m 
+Fixed 
+rate  
+£m 
+Floating 
+rate  
+£m 
+Fair 
+value 
+£m 
+Nominal 
+value 
+£m 
+Non-current 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Bank loans  
+269.9 
+– 
+269.9 
+– 
+269.9 
+269.9 
+275.0 
+Exchangeable bonds1 
+272.8 
+272.8 
+– 
+272.8 
+– 
+263.1 
+275.0 
+Borrowings 
+542.7 
+272.8 
+269.9 
+272.8 
+269.9 
+533.0 
+550.0 
+1. Fair value of exchangeable bonds includes the fair value of the option component of £1.8 million as disclosed in note 
+IV ‘Derivative financial instruments’. 
+The Company has two revolving credit facilities totalling £450 million, which are 
+undrawn at 31 December 2025. 
+The maturity profile of gross debt is as follows: 
+ 
+2025 
+£m 
+2024 
+£m  
+Wholly repayable in one year 
+275.0 
+– 
+Wholly repayable in more than one year but not more than five years 
+75.0 
+550.0 
+ 
+350.0 
+550.0 
+VII Trade and other payables 
+ 
+2025 
+£m 
+2024 
+£m 
+Amounts owed to subsidiaries 
+945.1 
+10.5 
+Other payables 
+2.9 
+5.6 
+Accruals 
+2.0 
+– 
+Trade and other payables 
+950.0 
+16.1 
+Strategic report
+Corporate governance
+Financial statements
+Additional information
+Shaftesbury Capital PLC | 2025 Annual Report
+198
+
+--- PAGE 201 (matched: context) ---
+Alternative performance and EPRA measures (unaudited) 
+For the year ended 31 December 2025 
+The Group has applied the European Securities and Markets Authority guidelines on alternative performance measures (“APMs”) in these results. An APM is a financial 
+measure of historical or future financial performance, position or cash flow of the Group which is not a measure defined or specified in IFRS.  
+Many of the APMs included are based on the EPRA Best Practice Recommendations reporting framework, a set of standard disclosures for the property industry, which aims 
+to improve the transparency, comparability and relevance of published results of public real estate companies in Europe.  
+The Group also uses underlying earnings, property portfolio and financial debt ratio APMs. Financial debt ratios are supplementary ratios which we believe are useful 
+in monitoring the capital structure of the Group. Additionally, loan-to-value and interest cover are covenants within many of the Group’s borrowing facilities. 
+EPRA Net Reinstatement Value (“EPRA NRV”), EPRA Net Tangible Assets (“EPRA NTA”) and EPRA Net Disposal Value (“EPRA NDV”) are alternative performance measures that 
+are calculated in accordance with the Best Practices Recommendations of the European Public Real Estate Association (“EPRA”) to provide a transparent and consistent basis 
+to enable comparison between European property companies. EPRA NTA is considered to be the most relevant measure for the Group’s operating activity and is the primary 
+measure of net asset value. 
+Set out below and overleaf is a summary of the key Group APMs and EPRA performance measures included within this Annual Report.  
+APM measure – Group share basis 
+Definition of measure 
+ Nearest IFRS measure 
+Explanation and  
+reconciliation 
+2025 
+2024 
+Underlying earnings 
+EPRA earnings adjusted for items not considered part of the core underlying activities 
+of the Group 
+ Profit for the year 
+attributable to owners of 
+Parent 
+Note 3 
+£81.9m 
+£73.0m 
+Underlying earnings per share 
+Underlying earnings per weighted average number of ordinary shares 
+ Basic earnings per share 
+attributable to owners of 
+the Parent 
+Note 3 
+4.5p 
+4.0p 
+Market value of property 
+portfolio (Group share) 
+Market value of property portfolio on a Group share basis 
+ Investment property 
+Note 12 
+£4,700.7m 
+£4,973.5m 
+Interest cover 
+Underlying gross profit and other income divided by net underlying finance costs 
+ N/A 
+Note 23 
+396.4% 
+292.1% 
+Loan-to-value 
+Net debt, at nominal value and excluding tenant deposits, divided by market value of 
+property portfolio 
+ N/A 
+Note 23 
+17.3% 
+28.2% 
+Gross debt with interest rate 
+protection 
+Proportion of drawn debt with interest rate protection, including interest on cash 
+deposits  
+ N/A 
+Note 23 
+100% 
+100% 
+Weighted average cost of debt – 
+gross 
+Cost of debt weighted by the drawn balance of external borrowings 
+ N/A 
+Financial review, 
+page 42 
+3.6% 
+4.0% 
+Weighted average cost of debt – 
+net 
+Cost of debt weighted by the drawn balance of external borrowings, taking account of 
+interest income on cash deposits and interest rate derivatives 
+ N/A 
+Financial review, 
+page 42 
+3.4% 
+3.7% 
+Cash and undrawn committed 
+facilities 
+Group share cash and cash equivalents, excluding tenant deposits, plus undrawn 
+committed facilities  
+ N/A 
+Financial review, 
+page 42 
+£1,014.1m 
+£559.8m 
+Net debt to EBITDA 
+Net debt, at nominal value, excluding tenant deposits, divided by EBITDA 
+ N/A 
+Table 4 
+6.6x 
+10.9x 
+Total accounting return (“TAR”) 
+The movement in EPRA NTA per share plus dividends per share paid during the year 
+ N/A 
+Table 5 
+9.1% 
+7.0% 
+Total property return (“TPR”) 
+Capital growth including gains and losses on disposals plus rent received (less 
+associated costs) including ground rent 
+ N/A 
+Table 6 
+10.1% 
+7.6% 
+Strategic report
+Corporate governance
+Financial statements
+Additional information
+Shaftesbury Capital PLC | 2025 Annual Report
+199
+

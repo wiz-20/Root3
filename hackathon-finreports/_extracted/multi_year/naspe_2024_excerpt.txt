@@ -1,0 +1,3864 @@
+Source: annual-financial-statements.pdf
+Target fiscal year: 2024
+Narrowing found only 5 pages - dumping FULL document (34 pages) instead, likely a results presentation/press release rather than a full AFS.
+================================================================================
+
+--- PAGE 1 (full dump) ---
+Improving everyday life for billions 
+of people through technology
+2024 
+SUMMARY FROM 
+THE INTEGRATED 
+ANNUAL REPORT
+
+--- PAGE 2 (full dump) ---
+Extract from the integrated annual report
+1
+Commentary
+2
+Financial review
+3
+Segmental review
+Financial
+10
+Extract of consolidated statement of financial position
+11
+Extract of consolidated income statement
+12
+Extract of consolidated statement of comprehensive income
+13
+Extract of consolidated statement of cash flows
+14
+Segmental analysis – reconciliation to the consolidated 
+income statement
+Financial alternative performance measures
+16
+Growth in local currency, excluding acquisitions and 
+disposals
+22
+Earnings disclosure on a per share basis
+23
+Reconciliation of earnings to core headline earnings
+24
+Reconciliation of cash generated from operations to free 
+cash flow
+25
+Financial and non-financial alternative performance 
+measures glossary
+29
+Administration and corporate information
+30
+Forward-looking statements
+Naspers 
+is a global 
+technology 
+group with 
+businesses and 
+investments in 
+growth markets 
+around the
+world.
+The financial information included in this document is an extract 
+of the Naspers integrated annual report. The financial information 
+and the alternative performance measures are the responsibility 
+of the board of directors of the group. The annual financial 
+statements and integrated annual report are available at 
+www.naspers.com.
+Contents
+
+--- PAGE 3 (full dump) ---
+Commentary
+We are pleased to report that the group has achieved 
+consolidated Ecommerce profitability in the second half of the 
+financial year and is also profitable for the full year ended 
+31 March 2024 (FY24). This is significantly ahead of our 
+commitment to achieve consolidated Ecommerce profitability 
+in the first half of the financial year ending 2025. Our work 
+continues to focus on delivering sustained, profitable growth, 
+which we believe will highlight the value of our businesses 
+over time. 
+Unless otherwise stated, the growth rates discussed further 
+in this report compare FY24 to FY23. The percentages in 
+brackets represent local currency growth, excluding the impact 
+of acquisitions and disposals (M&A), and provide a clearer view 
+of our businesses’ underlying operating performance. Financial 
+results are presented on a continuing operations basis. 
+For the 12 months to 31 March 2024, the group intensified 
+its focus on profitable growth in its core growth businesses, 
+and driving improvements in underperforming investments. 
+Consolidated revenue grew 8% (17%) to US$6.4bn, driven 
+by strong performances at OLX and iFood. Ecommerce 
+consolidated trading profit improved by a sizeable US$460m 
+(US$437m) to US$24m in FY24 as growth, scale and cost 
+reductions positively impacted results. Consolidated trading 
+losses for the group have reduced by US$486m (US$461m) from 
+US$640m in FY23, underlining our accelerating profitability path. 
+Core headline earnings, our measure of after-tax operating 
+performance, were US$2.1bn – an increase of 88% (113%). 
+While we continue to seek long-term growth opportunities, 
+external investment (M&A and minority investment) was limited 
+to US$571m, meaningfully off the US$6.4bn peak in 2022 as we 
+maintained discipline in a challenging investment landscape. 
+Historically the group had achieved some investing success over 
+a sustained period of time. But in the last two years, our internal 
+rate of return (IRR) has been far below target. Steps have been 
+taken to learn from our errors and address this underperformance, 
+including by more actively engaging with our major operating 
+companies and investments, flattening our overall organisation 
+to get closer to our businesses and redesigning the investment 
+team, investment process and incentives. Enhancing our 
+knowledge, expertise and capability is the group’s DNA, 
+and when we have conviction in our ideas, we will increase 
+our deployment of capital. 
+We have created additional value for our shareholders 
+by continuing the open-ended share-repurchase programme. 
+Since its inception in June 2022, this programme has reduced 
+the free-float share count by 21% and generated US$30bn 
+of value for shareholders. From the programme’s launch 
+to 31 March 2024, the combined holding company discount 
+of Naspers and Prosus has reduced by some 21 percentage 
+points. Over the same period, Prosus has repurchased 
+318 170 126 Prosus ordinary shares, with a total value 
+of US$17.1bn, leading to 9.4% accretion in net asset value (NAV) 
+per share. Naspers funds its open-ended share-repurchase 
+programme with regular sales of Prosus shares. By 31 March 2024, 
+Naspers had sold 113 092 796 Prosus ordinary shares N and 
+bought back 34 793 336 Naspers N ordinary shares back to the 
+value of US$5.7bn. 
+In September 2023, we simplified our structure by removing the 
+cross-holding structure, with overwhelming shareholder support. 
+Stronger performance of our operating businesses, better 
+investments, and our open-ended share-repurchase programme 
+are important contributors to long-term value creation and 
+shareholder returns. The group remains committed to these 
+goals.
+iFood continues to deliver strong performance which underlines 
+its position as one of the best food delivery businesses globally. 
+iFood’s core restaurant food delivery businesses generated 
+a strong increase in trading profit of US$166m (US$137m) year 
+on year (YoY). Progress has been made in developing growth 
+extensions further and the management team at iFood see 
+significant potential in their lending, grocery and meal vouchers 
+business. This strong ecosystem is central to iFood’s long-term 
+potential. 
+Our Classifieds businesses accelerated profitability markedly, 
+driven by strong revenue growth and effective cost-control 
+measures, particularly in OLX Europe. During the year, 
+we concluded deals or closed most of OLX Autos, the 
+automobile transaction business.
+PayU continued to grow well in its core payment service provider 
+(PSP) business. Strong revenue growth and improved profitability 
+were driven by improved operating leverage and effective cost 
+control, despite regulatory hurdles in India. The sale of GPO, 
+announced in August 2023, is progressing and expected to close 
+in the second half of calendar 2024.
+In the Edtech segment the broad adoption of generative artificial 
+intelligence (GenAI) tools and challenging macroeconomic 
+conditions have affected our businesses, particularly Stack 
+Overflow. Revenue growth has been more modest than 
+anticipated, and we have taken significant action to improve 
+trading profit and free cash flow performance given this revenue 
+base. Stack Overflow has leveraged the group’s inhouse 
+AI capabilities to improve its AI value proposition with positive 
+early results. GoodHabitz is benefiting from its investments 
+in product enhancements and a more measured international 
+rollout programme. 
+NASPERS
+Summary from the integrated annual report 2024
+1
+Extract from the integrated annual report
+
+--- PAGE 4 (full dump) ---
+The group’s balance sheet is strong, with US$16.1bn cash 
+on hand (including short-term investments). We remain 
+committed to managing our balance sheet within its investment-
+grade rating; therefore, not all of the cash on the balance sheet 
+is available to the group. At 31 March 2024, our estimate is that 
+approximately US$8.0bn is available for new investment. 
+In September 2023, Bob van Dijk stepped down as chief 
+executive after nearly 10 years at the helm. Ervin Tu, the group’s 
+chief investment officer (CIO), was appointed as interim chief 
+executive. On 17 May 2024, we announced the appointment 
+of iFood CEO, Fabricio Bloisi as group chief executive. Fabricio 
+acquired iFood in 2013 when it was a 20-person start-up. He has 
+since grown it rapidly and profitably to become Brazil’s leading 
+food delivery company and one of the best food delivery 
+businesses globally. Fabricio is a proven entrepreneur and 
+innovator with deep roots in operating, building and scaling 
+world-class technology companies in growth markets. Ervin 
+will continue to play an important role in shaping the group’s 
+future in a new position, president and CIO.
+A reconciliation and relevance of alternative performance 
+measures to the equivalent International Financial Reporting 
+Standards (IFRS) metrics is provided in ‘Other information – 
+financial alternative performance measures’ of this annual 
+consolidated financial commentary. Economic interest represents 
+results reported on an economic-interest basis, ie, equity-
+accounted investments are proportionally consolidated within 
+reportable segments.
+Financial review
+Consolidated revenue from continuing operations increased 
+by US$471m (US$962m), or 8% (17%), from US$6.0bn in the 
+prior year to US$6.4bn. This was primarily due to strong revenue 
+growth in Classifieds and Food Delivery. 
+Operating losses
+Operating losses decreased by US$511m to US$562m due 
+to greater profitability from the group’s consolidated businesses 
+and lower impairment losses recognised in the current year. This 
+is offset by an increase in expenses from the remeasurement 
+of the share-based payment liability. Given challenging 
+macroeconomic conditions and the decline in growth 
+expectations and valuations, we recognised impairment losses 
+on goodwill and other assets of US$374m (FY23: US$613m), 
+primarily related to Stack Overflow in the Edtech segment. 
+Ecommerce consolidated trading profit from continuing 
+operations improved by US$460m (US$436m) to US$24m in 
+FY24 as growth, scale and cost reduction boosted profitability. 
+Aggregate trading losses for the group have reduced 
+by US$486m (US$461m) from a peak of US$640m in FY23. 
+Net finance income/expense
+The group generated net interest income of US$409m in FY24 
+(FY23: net interest expense of US$143m). Interest income 
+increased by US$438m, or 91%, from US$482m in the prior year 
+to US$920m in FY24 due to higher interest rates and cash 
+balances on hand. Interest expense increased 3% to US$585m 
+in FY24. 
+Other finance income rose from a loss of US$56m in the prior 
+year to income of US$74m in FY24. This relates primarily 
+to a gain on foreign exchange differences related to the 
+translation of assets and liabilities, offset by fair value losses 
+of derivative instruments, which include forward exchange 
+contracts and other derivative financial instruments. 
+Share of equity-accounted results
+Profit from equity-accounted results decreased by US$2.4bn, 
+or 46%, from US$5.2bn in the prior year to US$2.8bn. This 
+is driven primarily by Tencent’s decreased gains on acquisitions 
+and disposals of US$5.8bn offset by a decrease in impairment 
+losses of US$1.3bn and increased contribution from its 
+associates of US$638m. A further positive offset to the lower 
+gains on assets disposals is Tencent’s strong increase 
+in profitability by US$1.1bn to US$6.2bn.
+Trimming the group’s Tencent position by 2% resulted in a gain 
+of US$5.1bn during the year (FY23: US$7.6bn).
+In addition, we recognised impairment losses on equity-
+accounted investments of US$483m related to Delivery Hero 
+(US$255m), Skillsoft (US$42m) and unlisted equity-accounted 
+investments of (US$186m). 
+Income tax expense
+Income tax expense rose to US$151m from US$51m in the prior 
+year, primarily due to increased profitability from our continuing 
+operations.
+Earnings, headline and core headline 
+earnings
+Earnings from continuing operations decreased to US$3.0bn 
+from US$4.2bn in the prior year. This was primarily due 
+to a decline in equity-accounted results, partial disposal of 
+the investment in Tencent offset by lesser impairment losses 
+recognised in the current year. 
+Core headline earnings from continuing operations were 
+US$2.1bn – an increase of 88% (113%) or US$1.0bn. This was 
+mainly driven by the improved profitability of our Ecommerce 
+consolidated businesses and equity-accounted investments, 
+particularly Tencent, as well as higher net interest income 
+during the year. 
+2
+NASPERS
+Summary from the integrated annual report 2024
+Extract from the integrated annual report continued
+
+--- PAGE 5 (full dump) ---
+Headline earnings from continuing operations rose US$1.2bn 
+to US$1.4bn, given the same factors noted for core headline 
+earnings.
+Loss from discontinued operations
+In March 2023, the group announced its exit from the OLX Autos 
+business unit. All the operations of this business are presented 
+as discontinued operations as they have been disposed of, 
+classified as held for sale or closed by 30 September 2023. 
+OLX Autos operations previously presented in continuing 
+operations for 31 March 2023 have been presented 
+in discontinued operations as of 31 March 2024. 
+Losses from discontinued operations during the year were 
+US$270m related to the Autos business unit. This includes 
+impairment losses of US$137m for the operation classified 
+as held for sale as at 31 March 2024.
+Revenue and trading profit on an 
+economic-interest basis
+Group revenue, measured on an economic-interest basis, grew 
+1% (12%). Ecommerce continued a strong growth trajectory, with 
+revenue growing 12% (16%) in a challenging environment. Our 
+economic-interest share in Tencent’s revenue grew by -4% (10%). 
+Trading profit on an economic-interest basis grew 62% (84%) 
+to US$5.8bn, reflecting improved profitability of our Ecommerce 
+consolidated businesses and equity-accounted investments, 
+particularly Tencent.
+Cash balances and free cash flow
+The group remains well positioned to navigate a difficult 
+macroeconomic environment due to its strong balance sheet. 
+At corporate level, Naspers has a net debt position of US$737m, 
+comprising US$14.6bn in central cash and cash equivalents 
+(including short-term cash investments), net of US$15.4bn 
+in central interest-bearing debt (excluding capitalised lease 
+liabilities). In addition, we have an undrawn US$2.6bn revolving 
+credit facility. 
+The group’s free cash inflow was US$375m, a sizeable 
+improvement from the prior year free cash outflow of US$491m. 
+This was due to increased profitability in Food Delivery and 
+Classifieds as well as better working capital management in the 
+Etail segment and Payments and Fintech. Excluding OLX Autos, 
+free cash inflow was US$477m. Tencent remains a meaningful 
+contributor to our cash flow via an increasing dividend which 
+was US$759m for the financial year ended 2024. The group 
+has also received its dividend for the financial year ending 
+2025 amounting to US$1.0bn.
+There were no new or amended accounting pronouncements 
+effective 1 April 2023 with a significant impact on the group’s 
+annual consolidated financial statements.
+The company’s external auditor has not reviewed or reported 
+on forecasts included in this annual consolidated financial 
+commentary.
+Segmental review
+Ecommerce 
+Ecommerce consolidated revenue from continuing operations 
+increased by US$504m (US$976m), or 9% (18%), from US$5.8bn 
+in FY23 to US$6.3bn in FY24. This was primarily due to strong 
+revenue growth in Food Delivery and Classifieds. For the first 
+time, Ecommerce recorded a trading profit of US$24m, from 
+a trading loss of US$435m in FY23, with Food Delivery and 
+Classifieds delivering ahead of expectations. On an economic-
+interest basis, ecommerce revenue grew 12% (16%) to US$11.1bn 
+and trading losses reduced by US$1.0bn (US$887m) to US$289m.
+Food Delivery 
+iFood is Prosus’ only consolidated food delivery business. 
+In addition, Prosus has several investments in associates, 
+most notably Delivery Hero and Swiggy. 
+iFood 
+iFood delivered strong performance in FY24. The business 
+accelerated sales at its core food delivery business into the 
+second half of the year (2H24). 
+iFood grew gross merchandise value or GMV by 20% (in line 
+with FY23), with 2H24 growth 10 percentage points higher than 
+1H24. Order growth remained strong (18%), 4 percentage points 
+ahead of 1H24 growth of 14%. iFood recorded nearly 56 million 
+active users annually (over 22 million monthly unique buyers) who 
+connect to over 350 000 merchants and over 313 000 drivers 
+operating in 1 530 cities in Brazil.
+Revenue grew 22% in local currency, excluding M&A, 
+to US$1.2bn, driven by strong performance from its core 
+business. iFood grew trading profit by 248% (249%) to US$96m, 
+led by the core food delivery business which grew by US$137m 
+in local currency, excluding M&A. Improved trading profit was 
+largely due to gross profit margin expansion on the back 
+of more efficient marketing investment and increased cost 
+control. iFood Pago1 grew its credit portfolio by 62% year 
+on year, with over US$110m in assets under management 
+by March 2024. This conservatively managed credit portfolio 
+is funded largely by debt secured from external participants 
+and offered to restaurants based on a credit-scoring model.
+1	 iFood Pago refers to meal voucher (B2C) and credit (B2B) businesses.
+NASPERS
+Summary from the integrated annual report 2024
+3
+Extract from the integrated annual report continued
+
+--- PAGE 6 (full dump) ---
+The core food delivery business grew revenue 24% to US$1.1bn 
+in local currency, excluding M&A. GMV grew by 23%, an 
+acceleration of 5 percentage points from 1H24, driven 
+by increased order volume (21%) and higher average order 
+value (3%). This growth was supported by several initiatives, 
+including Clube and AnotaAI. In March 2024, 41% of core 
+business orders originated from these initiatives. Clube is a loyalty 
+membership programme which had over 5 million subscribers 
+by the end of March 2024, and increases user frequency and 
+retention by offering personalised deals. AnotaAI is a chatbot 
+designed to facilitate restaurants sales through WhatsApp. 
+Revenue from extensions grew2 by 25% without incorporating the 
+effect of converting dark stores to a marketplace model grocery 
+business. Inclusive of that effect, on an as-reported basis, 
+extensions only grew 3% or US$4m in local currency, excluding 
+M&A. Overall grocery marketplace GMV grew 18% during the year; 
+in 2H24, growth accelerated to 35%, 33 percentage points ahead 
+of 1H24 growth. Extensions’ trading losses reduced by -US$5m 
+(US$15m) to US$164m.
+Delivery Hero 
+Delivery Hero grew GMV 6% for the year ended 31 December 2023 
+and revenue grew 16% to €9.9bn, both in constant currency. Delivery 
+Hero reported adjusted EBITDA of €254m for FY23 (from -€467m 
+in FY22) and provided the following guidance for FY24: a positive 
+adjusted EBITDA between €725m and €775m, and positive free 
+cash flow. Prosus held 29.3% of Delivery Hero at the end of the 
+reporting period. 
+More information on Delivery Hero is available at
+ir.deliveryhero.com. 
+Swiggy 
+Swiggy’s revenue on a local reporting basis grew 24% in local 
+currency, excluding M&A. In its tenth year of operations, 
+Swiggy’s GOV3 grew 26% year on year, and its ever-transacted 
+user base reached the milestone of 104 million at the end 
+of December 2023, supported by a fleet of around 387 000 active 
+delivery partners. Prosus held 32.6%4 of Swiggy at the end of the 
+reporting period. 
+Swiggy’s core food delivery business GOV3 grew by double 
+digits on healthy order growth and higher average order value. 
+Operating leverage improved as the business added revenue 
+streams like restaurant advertising and introduced nominal 
+platform fees which supported improved operational profitability.
+The quick-commerce business GOV grew much ahead of the 
+ecommerce industry, led by geographical penetration 
+(now 487 active dark stores across 26 cities) and SKU (stock-
+keeping unit) expansion (over 9 500 unique items now listed 
+on the platform). Unit economics continued to improve 
+as a result of larger basket sizes, expanded user base and 
+improved operational efficiency. 
+Swiggy has confidentially filed a pre-DRHP with India’s market 
+regulator SEBI and the stock exchanges on 26 April 2024, 
+in relation to the proposed initial public offering of its equity 
+shares.
+Economic-interest revenue for the entire Food Delivery segment 
+grew by 16% (19%) to US$4.9bn, with trading losses reducing 
+by US$491m (US$466m) to US$158m.
+Classifieds 
+The OLX classifieds businesses continued to accelerate growth, 
+margin expansion and cash-flow generation. 
+Classifieds consolidated revenue grew 36% (27%) to US$707m. 
+This strong performance was mainly driven by OLX Europe, 
+where the motors category grew 45% across both horizontal and 
+vertical platforms, and OLX Ukraine where marketplace activities 
+recovered to pre-conflict levels. Additionally, pay-and-ship 
+revenue grew 73% (69%) to US$45m, driven by improved 
+monetisation and product optimisation. Despite the impact 
+of high interest rates on property transactions across our 
+markets, the real estate category experienced growth, with 
+a solid 25% increase in revenue, reaching US$96m. South Africa 
+continued to grow both its vertical platforms and sustained its 
+profitability, delivering revenue of US$46m for the year. 
+Trading profit more than tripled to US$172m, from US$56m, 
+with margins expanding sharply to 24% from the previous year’s 
+11%. This improvement was driven by strong revenue growth, 
+balanced investment and optimisations across technology hubs 
+to leverage costs through scale. Additionally, the business 
+restructured headcount to streamline operations and optimise 
+resource allocation.
+As noted, we exited OLX Autos, our automobile transaction 
+business, by selling businesses during the year in India, 
+Indonesia, Chile and Turkey, and closing operations in Mexico, 
+Colombia and Argentina. We continue to explore options for 
+our WeBuyAnyCar business in the US. 
+After a successful year, we are optimistic about future business 
+opportunities and plans for OLX. We expect the strong value 
+proposition of its platform to continue to drive further profitable 
+growth and cash generation. 
+2	 Extensions refer to grocery, meal voucher and credit businesses and iFood’s corporate costs.
+3	 GOV – gross order value, equivalent to GMV in previous reporting. Changed terminology to align with Swiggy’s reporting.
+4	 Outstanding shareholding, excluding ESOPs.
+4
+NASPERS
+Summary from the integrated annual report 2024
+Extract from the integrated annual report continued
+
+--- PAGE 7 (full dump) ---
+OLX Brasil 
+OLX Brasil, our 50% joint venture with Adevinta, is navigating 
+a weak macroeconomic environment and is focusing on cost 
+optimisation, mainly through headcount restructuring. Revenue 
+and trading profit increased 1% and 79%, to BRL887m and 
+BRL243m respectively. Our local management team is committed 
+to reinvigorating growth in this very important ecommerce 
+market with balanced investments.
+On an economic-interest basis, Classifieds grew revenue by 
+26% (19%) to US$951m and more than tripled trading profits 
+to US$187m, from US$47m.
+Payments and Fintech 
+PayU’s core PSP and credit businesses delivered strong revenue 
+and increased scale. Notably, this was achieved despite 
+pending regulatory approvals in the Indian PSP business and 
+new regulation impacting our Indian credit business. After 
+an embargo of 15 months, we received in-principle authorisation 
+by the Reserve Bank of India on 23 April 2024 to operate as a 
+payment aggregator and this allows PayU India to onboard new 
+merchants.
+PayU grew consolidated revenue 22% (38%) to US$1.1bn in 
+FY24, driven by the PSP businesses in Turkey (Iyzico) and India, 
+as well as India credit. Consolidated trading losses improved 
+by US$52m (US$67m) to US$31m. Profitability improvements 
+were driven by GPO, partly relating to the once-off loss provision 
+in FY23, closure of the loss-making digital bank offering in India 
+and cost optimisation.
+Core PSP, which accounts for 88% of the segment’s revenue, 
+primarily comprises payments operations in PayU India and 
+PayU GPO. Core PSP grew revenue by 23% (41%) to US$975m 
+as total payments volume (TPV) grew 22% (25%). Core PSP 
+trading profit improved to US$19m, a margin of 2% (a 
+percentage point decrease when excluding the once-off loss 
+provision in FY23), as GPO and Iyzico’s performance was partly 
+offset by losses in India.
+India, the largest market in PayU’s PSP business, accounted for 
+46% of core PSP revenues and 60% of TPV. India grew revenue 
+11% (14%) to US$444m, despite being unable to onboard new 
+merchants due to the noted embargo during the year. Revenue 
+growth was driven by increasing volumes from existing 
+merchants and growing value-added services such 
+as affordability. India grew TPV 22% (25%), ahead of revenue 
+growth on the back of strong growth in ecommerce, financial 
+services and government segments. While our payments 
+business in India achieved a 3% trading profit margin in FY23, 
+this worsened to -3% in FY24 due to the change in merchant and 
+payment method mix (predominantly driven by the embargo). 
+India credit offers buy-now/pay-later (BNPL) and personal loans 
+to consumers in India. India credit has also started a pilot 
+to diversify its portfolio by providing loans to small and medium 
+businesses this year. Our credit business grew revenue 29% (31%) 
+to US$107m, despite a slowdown in loan issuances as part 
+of a response to evaluate new regulations shared by the 
+Reserve Bank of India. India credit widened trading losses 
+from US$10m to US$20m, driven by continuous investment 
+in building the merchant lending portfolio and relatively stable 
+loss ratio5 from 2.5% in FY23 to 3.1%. India credit issued US$873m 
+in loans and grew its loan book to US$468m in FY24.
+In August 2023, PayU announced the sale of GPO, excluding 
+Iyzico (Turkey) and Red Dot Payments (south-east Asia), to Rapyd. 
+The process is ongoing and expected to close in the second 
+quarter of calendar 2024. GPO, including Iyzico and Red Dot 
+Payments, grew revenue 36% (69%), an acceleration from 
+FY23 to US$533m. GPO’s 6% trading profit margin improved 
+from -4% in FY23, driven by the once-off loss provision in FY23 
+(2% excluding once-off provision), operating leverage from 
+enhanced scale and cost optimisation.
+Iyzico remained PayU’s fastest-growing PSP business, with 
+revenues growing 119% (238%) to US$186m, driven by new and 
+existing merchants. The trading profit margin was 9%, on par 
+with FY23, as marketing in 2H24 offset a better customer and 
+model mix. Iyzico grew TPV 23% (85%) on an improved and 
+expanded service offering.
+Remitly 
+Remitly, PayU’s largest associate, maintained strong revenue 
+growth of 44% to US$944m for the year ended 31 December 2023. 
+This was driven by 38% growth in send volume as the active 
+customer base increased from 4.2 million at the end of 2022 to 
+5.9 million. Increased scale and focus on improving platform 
+economics supported Remitly’s improvement to a positive adjusted 
+EBITDA margin of 5% from -2% in 2022. Prosus held 19.8% of Remitly 
+at the end of the reporting period.
+More information on Remitly is available at ir.remitly.com. 
+On an economic-interest basis, the Payment and Fintech segment 
+grew revenue by 24% (39%) to US$1.3bn and trading losses 
+improved from US$116m to US$59m.
+5	 Loss ratio – implies expected credit loss provision for loans outstanding in current bucket.
+NASPERS
+Summary from the integrated annual report 2024
+5
+Extract from the integrated annual report continued
+
+--- PAGE 8 (full dump) ---
+Edtech 
+In the Edtech segment, the broad adoption of GenAI tools 
+and challenging macroeconomic conditions have affected our 
+businesses, particularly Stack Overflow. Revenue growth has 
+been more modest than anticipated, and we have taken 
+significant action to improve trading profit and free cash flow 
+performance given this revenue base. 
+The consolidated Edtech businesses – Stack Overflow and 
+GoodHabitz – grew revenue 10% (9%) to US$148m while trading 
+losses decreased by US$33m (US$33m) to US$98m.
+Stack Overflow
+Stack Overflow grew revenue 4% (4%) to US$98m, driven 
+by growth in its Teams product. The growing adoption of GenAI, 
+which impacts user behaviour, along with continued lower 
+marketing spend, negatively impacted the business. Total 
+bookings grew 7%, driven by new offerings such as OverflowAPI. 
+OverflowAPI enables AI/LLM (large language model) providers 
+to leverage Stack Overflow’s public data asset into their 
+AI capabilities. In March, Stack Overflow announced its first API 
+partnership with Google Cloud, which will deliver new GenAI-
+powered capabilities to developers through Stack Overflow’s 
+platform and Google products. Recently, the company signed 
+a similar partnership with OpenAI. It also launched OverflowAI 
+in May 2024, which consists of an ‘add-on’ bundle of AI-assisted 
+features that target longstanding pain points for Teams 
+customers. The company has focused on reducing costs across 
+all areas of the business and progressing towards profitability, 
+leading to a reduction of US$28m in trading losses to US$57m.
+GoodHabitz
+GoodHabitz grew revenue by 25% (20%) to US$50m. This was 
+driven by growth in new business and upselling across its core 
+markets, particularly the Netherlands, with annual recurring 
+revenue growing 15% to US$55m. Trading losses improved 
+to US$8m driven by cost-saving initiatives.
+Skillsoft
+Skillsoft’s revenue remained largely flat while its adjusted EBITDA 
+margin improved by 1 percentage point to 19%. The company 
+recorded a 2% decline in bookings, primarily from instructor-led 
+training, and partially offset by content and platform segment 
+growth of 2% year on year. Prosus holds 37.9% of Skillsoft at 
+the end of the reporting period. More information on Skillsoft 
+is available at investor.skillsoft.com. 
+On an economic-interest basis, Edtech segment revenues grew 
+7% in local currency, excluding M&A, to US$444m and trading 
+losses reduced by US$178m (US$67m) to US$80m. 
+In the current financial year, the group wrote off the fair value 
+of its 9.6% effective interest in BYJU’S, due to the significant 
+decrease in value for equity investors. A fair value loss 
+of US$493m was recognised in other comprehensive income 
+in the current year.
+Etail 
+Etail grew consolidated revenue 10% (8%) to US$3.0bn, driven 
+by growth in the eMAG Romanian etail business. Trading losses 
+improved by US$37m (US$35m) to US$49m, as the segment 
+continued its path to profitability.
+eMAG 
+eMAG grew consolidated revenue 14% (8%) to US$2.2bn, driven 
+by growth in the Romanian etail business, which accelerated 
+in the second half, as well as in emerging businesses such 
+as logistics (courier and lockers) and grocery. Trading losses 
+improved by US$27m to US$26m, as the business continued its 
+path to profitability. The group’s GMV grew 9% (in local currency) 
+in FY24, led by Romania (11% in 4p6 which also generated 
+trading profit for the first time, delivering US$40m of trading 
+profit) and partially offset by Bulgaria and Hungary. Both 
+Bulgaria and Hungary are now managed by the Romanian 
+team, acting as a single organisation across all three territories. 
+eMAG is monitoring the competitive landscape and consistently 
+taking steps to future-proof the business using its inhouse AI and 
+tech capabilities, as well as competitive value drivers.
+eMAG’s Sameday courier business increased revenue 32% (32%) 
+and halved trading losses while expanding in Hungary and 
+Bulgaria. 
+This group’s growth extensions recorded strong growth. Revenue 
+grew 57% (19%) driven by its food extensions: Freshful and Tazz. 
+Freshful increased revenue 86%, reflecting order growth and 
+an expanded customer base (79%). Tazz’s revenue grew 
+18%, on an increase in average order value and extended 
+geographical footprint. Tazz has made satisfactory progress 
+in improving its order economics, contributing to a US$7m 
+reduction in trading losses while Freshful maintained the 
+same trading loss level for a business almost double the size. 
+Overall, the trading losses for its food extensions improved from 
+US$62m to US$50m. 
+On an economic-interest basis, the Etail segment grew revenue 
+by 14% (8%) to US$2 229m and trading losses improved from 
+US$63m to US$36m.
+6	 4p – total of 1p, 2p and 3p.
+6
+NASPERS
+Summary from the integrated annual report 2024
+Extract from the integrated annual report continued
+
+--- PAGE 9 (full dump) ---
+Takealot 
+Takealot Group houses leading ecommerce businesses 
+in South Africa: Takealot.com, Superbalist.com and 
+Mr D. Takealot.com is a general online retail and marketplace 
+platform. Superbalist.com is an online apparel and footwear 
+retailer and Mr D is a convenience delivery platform for 
+restaurants and groceries.
+Normalised consumer behaviour post-pandemic and 
+a challenging consumer environment, driven by the rise 
+of interest rates and high inflation, featured throughout the 
+financial year. There was also increased fragmentation 
+as competitors continue to invest heavily in ecommerce 
+capability. Temu and Shein have made inroads in the South 
+African market and the recent arrival of Amazon will intensify 
+competition further.
+In this challenging backdrop, Takealot Group delivered 13% 
+growth in GMV and 8% growth in revenue in local currency.
+Takealot.com grew GMV by 13% and reduced trading losses 
+by US$4m in local currency, excluding M&A, from the previous 
+financial year. Its marketplace seller base exceeds 10 000 active 
+sellers in March 2024 and is a key channel to market for many 
+small businesses. 
+Mr D grew GMV by 16% in local currency, despite tough trading 
+conditions in its traditional middle-income market. The business 
+reached profitability for the first time, with a trading profit 
+of US$3m for the financial year.
+On an economic-interest basis, the Etail segment grew revenue 
+by 9% (8%) to US$3.0bn and trading losses improved from 
+US$85m to US$49m.
+Tencent 
+For the year ended 31 December 2023, Tencent reported 
+revenues of RMB609bn, up 10% from last year. Non-IFRS profit 
+attributable to shareholders (Tencent’s measure of core earnings 
+by excluding certain non-cash items and certain impact of 
+investment-related transactions) increased 36% to RMB158bn.
+Revenues from value-added services rose 4% to RMB298bn, 
+driven by the strong growth in international games revenue. 
+Revenues from fintech and business services were RMB204bn, 
+up 15%, driven by increased payment activities, higher revenue 
+from wealth-management services, and the introduction 
+of ecommerce technology service fees in Video Accounts. 
+Revenues from online advertising increased 23% to RMB102bn, 
+driven by greater advertising demand for Video Accounts and 
+Weixin Search, as well as the ongoing upgrade of Tencent’s 
+advertising platform.
+In 2023, Tencent further enhanced its business efficiency and 
+focused on core activities while developing new services and 
+revenue lines to support sustainable and high-quality growth. 
+During the year, it launched its proprietary AI foundation model, 
+Tencent Hunyuan, which is now in the top tier of large language 
+models in China, with notable strength in advanced logical 
+reasoning.
+Monthly active users of Weixin and WeChat reached 1.34 billion, 
+up 2% year on year. User time spent on Weixin continued 
+to grow as it expanded its content, service offerings and 
+short-form video capability. Time spent on Video Accounts more 
+than doubled in 2023, reflecting the benefits of enhanced 
+recommendation algorithms. Video Accounts is now entrenched 
+as a major short-form video and live-streaming platform 
+in China, while Mini Games is regarded as the leading casual 
+game platform in China. 
+The number of Tencent mobile and PC major hit games in 
+China (defined as games with average quarterly daily active 
+users exceeding 5 million for mobile or 2 million for PC and 
+generating over RMB4bn annual gross receipts) increased 
+from six in 2022 to eight in 2023. The international contribution 
+to games revenue reached a record 30%. 
+Tencent Video and Tencent Music Entertainment extended their 
+important presence in the long-form video and music-streaming 
+industries, with 117 million video subscriptions and 107 million 
+music subscriptions. Tencent upgraded its AI-powered advertising 
+technology platform, significantly enhancing targeting accuracy 
+and, therefore, revenue growth. It strengthened its payment-
+compliance capabilities, enhanced mini program-based 
+transaction tools and upgraded the cross-border payment 
+experience. 
+Tencent continues to mobilise its technology and platform 
+to create value for society through initiatives such as its digital 
+philanthropy platform, one of the largest of its kind in the world. 
+In 2023, the 99 Giving Day event raised a record RMB3.8bn 
+in public donations. The company made progress in its 
+decarbonisation journey by applying its fourth-generation 
+data-centre technology to reduce emissions and increase the 
+adoption of renewable energy. In August 2023, Tencent joined 
+the United Nations Global Compact (UNGC), demonstrating its 
+commitment to integrating UNGC’s principles into its strategy, 
+culture and day-to-day operations, while supporting the UN’s 
+Sustainable Development Goals. 
+In 2023, Tencent returned substantial capital to shareholders 
+through payment of cash dividend, share repurchases and 
+settlement of distribution in specie.
+More information on Tencent is available at 
+www.tencent.com/en-us/investors.html.
+NASPERS
+Summary from the integrated annual report 2024
+7
+Extract from the integrated annual report continued
+
+--- PAGE 10 (full dump) ---
+Prospects
+Our FY24 results reflect the group’s ambitions for profitable 
+growth. We are pleased with achieving group profitability for 
+Prosus for the first time, and consolidated Ecommerce portfolio 
+profitability for FY24, ahead of our commitment to shareholders. 
+We will continue to explore new investment horizons while 
+ensuring our existing ecosystems are future-proof and deliver 
+compelling value propositions to our customers. We focus 
+on improving our return profile and the cornerstone metric 
+– NAV per share.
+We simplified the group structure during the period and 
+ensured the continuation of the open-ended share-repurchase 
+programme. This programme is a key part of our drive 
+to enhance returns to shareholders as we focus on increasing 
+our NAV per share. The open-ended share repurchase will 
+continue as long as the discount remains elevated. We remain 
+committed to maximising shareholder value with a transparent, 
+predictable and repeatable process of identifying, scaling and 
+highlighting the value of the businesses in delivering strong 
+financial performances. 
+We regard Tencent as one of the best technology companies 
+in the world, run by an exceptional leadership team. Recent 
+capital-allocation actions (increasing both its distribution and 
+buyback programme) reaffirm Tencent’s commitment to creating 
+value for its shareholders despite challenging trading conditions. 
+Prosus is proud to be a founding shareholder in Tencent and 
+plans to remain a significant shareholder for a long time. 
+Our in-house expertise in AI at the group and the businesses are 
+key assets we continue to build to realise the potential of AI and 
+improve and build new products and services for our customers. 
+This is essential to long-term growth and further value creation.
+Risks
+We understand the importance of effective risk management 
+and continually strengthen governance and processes. We are 
+proactive in managing risks. To create value, there must be 
+risk-taking, and we may be unable to mitigate all potential risks 
+sufficiently. 
+Our risk management philosophy distinguishes between three 
+categories of risks managed:
+	› Strategic risks and opportunities arise from our strategic 
+choices, which are continuously assessed and monitored 
+based on risk versus reward. 
+	› Internal operational risks: We manage these by upholding 
+our code of business ethics and conduct, clearly defining 
+roles, responsibilities and policies, implementing effective 
+internal controls, and continuously monitoring risk. 
+	› External risks: We reduce and mitigate, inter alia, 
+by implementing protective measures or risk-transfer 
+arrangements. 
+The board oversees risks and opportunities and sets the 
+boundaries. Businesses keep the board updated through 
+regular reports. Current topical risks are unchanged:
+	› Geopolitical tension and depressed market conditions: 
+The Ukraine and Israel wars, as well as broader geopolitical 
+tensions, continue to strain the global economy. We expect 
+inflation and interest rates to remain elevated. In response, 
+we maintain a patient, disciplined approach to deploying 
+capital. We closely monitor and manage our counterparty 
+and credit risk exposures to safeguard our balance sheet. 
+	› Technology developments: We invest to understand advances 
+in technology. GenAI brings both new opportunities and risks for 
+our products, services and business models. We focus on the 
+responsible use of data and related technologies to keep our 
+customers safe, enhancing our cyber-resilience, detection and 
+response capabilities, and building our AI knowledge and skills 
+while exploring opportunities to pioneer or invest in new 
+business models.
+The FY24 integrated annual report outlines further details on 
+our risk management approach and specific risks. This report, 
+as well as our risk management and cybersecurity policies, 
+is available on our website at www.naspers.com.
+Sustainability
+As a global consumer internet group and a leading long-term 
+technology investor, we recognise the power of technology 
+to create solutions for some of the world’s most pressing needs. 
+A major milestone was receiving the Science Based Targets 
+initiative’s (SBTi) validation of the group’s science-based climate 
+targets. As a critical element of our target, we are committed 
+to ensuring that 50% of our portfolio companies, measured 
+by invested capital, will have set their own science-based 
+reduction targets by FY30. To reach this target, we continue 
+to work closely with our subsidiaries to support their greenhouse 
+gas data collection, footprint measurement, emissions 
+management and reduction-target development. Measuring 
+and disclosing scope 1, 2 and material scope 3 categories 
+was a shared group goal across all our operating subsidiaries 
+8
+NASPERS
+Summary from the integrated annual report 2024
+Extract from the integrated annual report continued
+
+--- PAGE 11 (full dump) ---
+as the foundation for setting near-term and longer science-based 
+targets. This objective was also codified in annual key 
+performance indicators or KPIs for our senior management, 
+starting with the group chief executive and chief financial officer, 
+then cascading through the organisation. Considering the diversity 
+of business models and operating geographies, this is a major 
+undertaking for our subsidiaries, which are private companies. 
+We have also partnered with the India-based Green Startup 
+Pledge – the world’s first climate pledge designed exclusively for 
+new companies – to encourage our portfolio of associates and 
+investments to begin their climate journeys.
+As of last year, portfolio companies, Tencent and Delivery Hero, 
+have set and received SBTi verification for their climate targets.
+Curbing the environmental impact of delivery services 
+is a priority across our businesses in these segments and 
+focuses on two categories: packaging and last-mile deliveries. 
+Our report – Electrifying progress: scaling zero-carbon deliveries 
+of food, groceries and parcels – examines the barriers and 
+enablers to scaling electric-vehicle adoption in last-mile 
+deliveries. We actively support our portfolio companies 
+to measure their packaging footprint and develop sustainable-
+packaging strategies to prevent waste and harness the 
+opportunity to scale solutions.
+We have achieved an A score on our CDP submission for Prosus, 
+which falls in the leadership category, and B for Naspers within 
+three years of our reporting journey. Our Standard and Poor’s 
+scores also improved. These ratings are a valuable external view 
+of our sustainability performance and help us to improve and 
+accelerate our work to embed sustainability at the heart of all 
+our businesses across the world.
+Over 2023 and 2024, we performed a double-materiality 
+assessment using the impact and financial materiality definitions 
+and requirements as per the July 2023 guidance of the European 
+Sustainability Reporting Standards. The objective of the double-
+materiality assessment for our group was to identify the impacts, 
+risks and opportunities linked to our ecosystem of business 
+operations and activities that are deemed material based 
+on the assessment by stakeholders and sustainability experts 
+who are deeply familiar with our group. These areas of impacts 
+on the planet and its people and the potential financial risks 
+and opportunities for our group will inform our strategic 
+sustainability priorities in the short to medium term and 
+consequently in the longer term. This assessment will also guide 
+our reporting to meet the requirements of the new Corporate 
+Sustainability Reporting Directive for our FY25 report. 
+Directorate
+On 18 September 2023, the group announced that Bob van Dijk 
+stepped down as chief executive and executive director of the 
+boards after 10 successful years of leadership. Ervin Tu was 
+appointed interim chief executive and has not been appointed 
+to the board. Bob remains as a consultant to the boards, ending 
+his consulting arrangement on 30 September 2024.
+Remuneration for directors and key management will 
+be disclosed in the remuneration report for the year ended 
+31 March 2024, including Bob’s remuneration. Ervin’s 
+remuneration remains unchanged as a result of his interim 
+appointment.
+The board concluded a very extensive process in choosing the 
+newly appointed chief executive, Fabricio Bloisi. Fabricio Bloisi will 
+join the Naspers board as an executive director on 10 July 2024 
+and the Prosus board following the annual general meeting 
+in August 2024, subject to shareholder approval. 
+Following his appointment to the board, he will also 
+be appointed to the risk committee, the social, ethics and 
+sustainability committee.
+Dividends
+The Prosus board has recommended that its shareholders 
+receive a distribution of a gross amount of 10 euro cents per 
+ordinary share N which represents an increase of approximately 
+43% for free-float shareholders. Subject to the requisite approval 
+by Prosus shareholders being obtained, a dividend will be paid 
+by Naspers in relation to the Naspers N ordinary shares and 
+A ordinary shares from the amount that Naspers receives from 
+Prosus, in accordance with the rights attaching to the shares 
+as set out in the Naspers memorandum of incorporation.
+More information on the distribution will be published following 
+approval at the annual general meeting.
+Koos Bekker	
+ Ervin Tu
+Chair	
+Interim chief executive 
+Cape Town
+22 June 2024
+NASPERS
+Summary from the integrated annual report 2024
+9
+Extract from the integrated annual report continued
+
+--- PAGE 12 (full dump) ---
+31 March
+2024
+US$’m
+2023
+US$’m
+ASSETS
+Non-current assets
+39 993
+41 667
+Property, plant and equipment
+764
+786
+Goodwill
+1 094
+1 483
+Other intangible assets
+335
+391
+Investments in associates
+34 789
+35 930
+Investments in joint ventures
+43
+70
+Investments and loans
+2 538
+2 664
+Financing receivables
+197
+133
+Other receivables
+44
+46
+Related party receivables
+167
+143
+Deferred taxation
+22
+21
+Current assets
+22 282
+23 831
+Inventory
+355
+415
+Trade receivables
+310
+281
+Financing receivables
+360
+278
+Other receivables
+1 047
+887
+Related party receivables
+27
+33
+Derivative financial instruments
+—
+5
+Other investments
+3 185
+4 707
+Short-term investments
+13 834
+6 727
+Cash and cash equivalents
+2 243
+9 849
+21 361
+23 182
+Assets classified as held for sale
+921
+649
+TOTAL ASSETS
+62 275
+65 498
+EQUITY AND LIABILITIES
+Capital and reserves attributable to the group's equity holders
+17 872
+18 960
+Share capital and premium
+4 611
+4 611
+Treasury shares
+(564)
+(46 825)
+Other reserves
+(27 477)
+12 211
+Retained earnings
+41 302
+48 963
+Non-controlling interests
+23 410
+25 645
+TOTAL EQUITY
+41 282
+44 605
+Non-current liabilities
+16 188
+16 281
+Post-employment medical liability
+14
+16
+Long-term liabilities
+15 990
+15 939
+Other non-current liabilities
+62
+135
+Cash-settled share-based payment liability
+38
+73
+Provisions
+5
+5
+Deferred taxation
+79
+113
+Current liabilities
+4 805
+4 612
+Current portion of long-term liabilities
+496
+487
+Provisions
+64
+47
+Trade payables
+427
+406
+Accrued expenses
+1 875
+1 854
+Other current liabilities
+688
+773
+Cash-settled share-based payment liability
+474
+655
+Related party payables
+4
+6
+Taxation payable
+31
+76
+Dividends payable
+2
+2
+Derivative financial instruments
+1
+2
+Bank overdrafts 
+15
+28
+4 077
+4 336
+Liabilities classified as held for sale
+728
+276
+TOTAL EQUITY AND LIABILITIES
+62 275
+65 498
+10
+10
+NASPERS
+Summary from the integrated annual report 2024
+Extract of consolidated statement of financial position
+as at 31 March 2024
+
+--- PAGE 13 (full dump) ---
+31 March
+2024
+US$’m
+2023
+US$’m
+Continuing operations
+Revenue
+6 431
+5 960
+Cost of providing services and sale of goods
+(3 966)
+(4 085)
+Selling, general and administration expenses
+(2 647)
+(2 307)
+Other (losses)/gains – net
+(380)
+(641)
+Operating loss
+(562)
+(1 073)
+Interest income
+920
+482
+Interest expense
+(585)
+(569)
+Other finance income/(cost) – net
+74
+(56)
+Dividend income
+—
+62
+Share of equity-accounted results
+2 810
+5 176
+Impairment of equity-accounted investments
+(483)
+(1 745)
+Dilution (losses)/gains on equity-accounted investments
+(238)
+(252)
+Gains on partial disposal of equity-accounted investments
+5 053
+7 622
+Net gains/(losses) on acquisitions and disposals
+(3)
+51
+Profit before taxation
+6 986
+9 698
+Taxation
+(151)
+(51)
+Profit from continuing operations
+6 835
+9 647
+(Loss)/profit from discontinued operations1
+(270)
+307
+Profit for the year
+6 565
+9 954
+Attributable to:
+Equity holders of the group
+2 855
+4 331
+Non-controlling interests
+3 710
+5 623
+6 565
+9 954
+Per share information related to total operations (US cents)2
+Earnings per ordinary share
+1 532
+2 078
+Diluted earnings per ordinary share
+1 476
+1 998
+Per share information related to continuing operations (US cents)2
+Earnings per ordinary share
+1 595
+2 014
+Diluted earnings per ordinary share
+1 539
+1 934
+1	 The prior year amount has been restated due to the discontinued operation of OLX Autos. 
+2	 Earnings per share is based on the weighted average number of shares taking into account the impact of the removal of the group’s cross-holding structure in the current and 
+prior year. 
+NASPERS
+Summary from the integrated annual report 2024
+11
+Extract of consolidated income statement
+for the year ended 31 March 2024
+
+--- PAGE 14 (full dump) ---
+31 March
+2024
+US$’m
+Restated1 
+2023
+US$’m
+Profit for the year
+6 565
+9 954
+Total other comprehensive loss, net of tax, for the year
+Items that may be subsequently reclassified to profit or loss
+Foreign exchange (losses)/gains arising on translation of foreign operations2, 3
+(1 644)
+(2 421)
+Share of equity-accounted investments’ movement in foreign currency translation reserve
+624
+797
+Items that may not be subsequently reclassified to profit or loss
+Fair value gains/(losses) on financial assets through other comprehensive income 
+(1 775)
+21
+Share of equity-accounted investments’ movement in other comprehensive income1
+(511)
+(3 005)
+Total other comprehensive loss for the year – net of tax
+(3 306)
+(4 608)
+Total comprehensive income for the year
+3 259
+5 346
+Attributable to:
+Equity holders of the group
+1 370
+2 524
+Non-controlling interests
+1 889
+2 822
+3 259
+5 346
+1	 Relates to the voluntary change in accounting policy for the group’s share in the changes in NAV and share-based compensation reserve of equity-accounted investments. 
+2	 The prior year includes the reclassification to the consolidated income statement of US$202m relating to the disposal of Avito.
+3	 The significant movement relates to the translation effects from equity-accounted investments. The current year also includes a net monetary gain of US$37m (FY23: US$102m) 
+relating to hyperinflation accounting for the group’s subsidiaries in Turkey.
+12
+12
+NASPERS
+Summary from the integrated annual report 2024
+Extract of consolidated statement of comprehensive income
+for the year ended 31 March 2024
+
+--- PAGE 15 (full dump) ---
+31 March
+2024
+US$’m
+2023
+US$’m
+Cash flows from operating activities
+Cash generated from/(utilised in) operations
+144
+(376)
+Dividends received from equity-accounted investments 
+760
+575
+Cash generated from operating activities
+904
+199
+Interest income received
+859
+324
+Interest costs paid
+(585)
+(567)
+Taxation paid
+(144)
+(133)
+Net cash generated from/(utilised in) operating activities 
+1 034
+(177)
+Cash flows from investing activities
+Property, plant and equipment acquired
+(73)
+(268)
+Proceeds from sale of property, plant and equipment
+11
+12
+Intangible assets acquired
+(25)
+(34)
+Proceeds from sale of intangible assets
+1
+—
+Acquisitions of subsidiaries and businesses, net of cash
+(2)
+(18)
+Disposals of subsidiaries and businesses, net of cash
+193
+2 055
+Acquisition of associates
+—
+(12)
+Disposal of associates
+—
+—
+Partial disposals of associates
+7 256
+10 613
+Additional investment in existing associates
+(49)
+(293)
+Additional investments in existing joint ventures
+—
+(1)
+Acquisition of short-term investments1
+(13 738)
+(6 606)
+Maturity of short-term investments1
+6 709
+3 924
+Cash paid for other investments2
+(136)
+(559)
+Cash received from other investments3
+14
+3 764
+Cash movement in other investing activities
+(19)
+(22)
+Net cash generated from investing activities
+142
+12 555
+Cash flows from financing activities
+Payments for the repurchase of own shares
+(3 069)
+(3 150)
+Proceeds from long and short-term loans raised
+134
+196
+Repayments of long and short-term loans
+(122)
+(56)
+Additional investments in existing subsidiaries4
+(7 766)
+(11 509)
+Proceeds from sale of subsidiary shares
+3 003
+2 745
+Repayments of capitalised lease liabilities
+(76)
+(63)
+Acquisition of group shares for equity-settled share-based compensation plans
+(137)
+(125)
+Additional investment from non-controlling shareholders
+3
+67
+Dividends paid by the holding company
+(199)
+(191)
+Cash movements in other financing activities
+(10)
+(10)
+Net cash utilised in financing activities
+(8 239)
+(12 096)
+Net movement in cash and cash equivalents
+(7 063)
+282
+Foreign exchange translation adjustments on cash and cash equivalents
+(181)
+(82)
+Cash and cash equivalents at the beginning of the year
+9 821
+9 715
+Cash and cash equivalents classified as held for sale
+(349)
+(94)
+Cash and cash equivalents at the end of the year
+2 228
+9 821
+1	 Relates to short-term cash investments with maturities of more than three months from the date of acquisition.
+2	 Relates to payments for the group’s fair value through other comprehensive income investments.
+3	 Relates mainly to the group’s investments at fair value.
+4	 Relates to transactions with non-controlling interest resulting in changes in effective interest of existing subsidiaries. Includes the repurchase of Prosus shares on the market 
+of US$7.3bn (FY23: US$9.9bn). 
+NASPERS
+Summary from the integrated annual report 2024
+13
+Extract of consolidated statement of cash flows
+for the year ended 31 March 2024
+
+--- PAGE 16 (full dump) ---
+Trading profit/(loss) as presented in the segment disclosure is the chief operating decision-maker (CODM) and management’s key 
+measure of each segment’s operational performance. A reconciliation of the consolidated cash utilised in operating activities, segmental 
+trading profit/(loss) to operating profit/(loss) and profit before tax as reported in the income statement is provided below:
+Segmental analysis
+Year ended 31 March 2024
+Classifieds
+US$’m
+Food 
+Delivery
+US$’m
+Payments 
+and 
+Fintech
+US$’m
+Edtech
+US$’m
+Etail
+US$’m
+Other
+US$’m
+Total
+Ecommerce
+US$’m
+Media
+US$’m
+Corporate 
+segment
+US$’m
+Total
+US$’m
+Consolidated adjusted 
+EBITDA from continuing 
+operations1
+187
+77
+(23)
+(91)
+46
+(35)
+161
+7
+(171)
+(3)
+Depreciation
+(12)
+(8)
+(5)
+(6)
+(77)
+(2)
+(110)
+(5)
+(7)
+(122)
+Amortisation of software
+(1)
+(1)
+(1)
+(1)
+(7)
+—
+(11)
+—
+—
+(11)
+Interest on capitalised lease 
+liabilities
+(2)
+(1)
+(2)
+—
+(11)
+—
+(16)
+(1)
+(1)
+(18)
+Consolidated trading loss 
+from continuing 
+operations1
+172
+67
+(31)
+(98)
+(49)
+(37)
+24
+1
+(179)
+(154)
+Interest on capitalised lease 
+liabilities
+2
+1
+2
+—
+11
+—
+16
+1
+1
+18
+Amortisation of other 
+intangible assets
+(6)
+(2)
+(12)
+(43)
+(5)
+(10)
+(78)
+—
+—
+(78)
+Other (losses)/gains – net
+—
+(3)
+1
+(372)
+(3)
+(3)
+(380)
+—
+—
+(380)
+Retention option expense
+(2)
+—
+38
+—
+3
+—
+39
+—
+—
+39
+Remeasurement of 
+cash-settled share-based 
+incentive expenses
+1
+(66)
+11
+12
+3
+7
+(32)
+—
+29
+(3)
+Share-based incentives for 
+share options settled 
+in Naspers Limited shares 
+—
+—
+—
+—
+—
+—
+—
+(1)
+(3)
+(4)
+Consolidated operating 
+loss from continuing 
+operations
+167
+(3)
+9
+(501)
+(40)
+(43)
+(411)
+1
+(152)
+(562)
+1	 Refer to the glossary for an explanation of the group’s alternative performance measures.
+14
+14
+NASPERS
+Summary from the integrated annual report 2024
+Segmental analysis – reconciliation to the consolidated 
+income statement 
+for the year ended 31 March 2024
+
+--- PAGE 17 (full dump) ---
+Segmental analysis continued
+Year ended 31 March 2023
+Classifieds
+US$’m
+Food
+Delivery 
+US$’m
+Payments 
+and 
+Fintech
+US$’m
+Edtech
+US$’m
+Etail
+US$’m
+Other
+US$’m
+Total
+Ecommerce
+US$’m
+Media
+US$’m
+Corporate 
+segment
+US$’m
+Total
+US$’m
+Consolidated adjusted 
+EBITDA from continuing 
+operations1
+73
+(94)
+(77)
+(122)
+(1)
+(87)
+(308)
+11
+(201)
+(498)
+Depreciation
+(11)
+(9)
+(6)
+(6)
+(69)
+(3)
+(104)
+(5)
+(7)
+(116)
+Amortisation of software
+(4)
+(1)
+—
+(3)
+(5)
+1
+(12)
+—
+(1)
+(13)
+Interest on capitalised lease 
+liabilities
+(2)
+(2)
+—
+—
+(8)
+—
+(12)
+(1)
+—
+(13)
+Consolidated trading loss 
+from continuing 
+operations1
+56
+(106)
+(83)
+(131)
+(83)
+(89)
+(436)
+5
+(209)
+(640)
+Interest on capitalised lease 
+liabilities
+2
+2
+—
+—
+8
+—
+12
+1
+—
+13
+Amortisation of other 
+intangible assets
+(4)
+(1)
+(17)
+(43)
+(6)
+(5)
+(76)
+—
+—
+(76)
+Other (losses)/gains – net
+(40)
+(3)
+(3)
+(553)
+(2)
+(40)
+(641)
+—
+—
+(641)
+Other 
+—
+—
+3
+—
+—
+—
+3
+—
+—
+3
+Retention option expense
+(2)
+—
+(26)
+—
+8
+—
+(20)
+—
+—
+(20)
+Remeasurement of cash-
+settled share-based 
+incentive expenses
+34
+55
+(5)
+29
+9
+34
+156
+—
+146
+302
+Share-based incentives for 
+share options settled 
+in Naspers Limited shares 
+(3)
+—
+—
+—
+—
+(2)
+(5)
+(3)
+(6)
+(14)
+Consolidated operating 
+loss from continuing 
+operations
+43
+(53)
+(131)
+(698)
+(66)
+(102)
+(1 007)
+3
+(69)
+(1 073)
+1	 Refer to the glossary for an explanation of the group’s alternative performance measures.
+NASPERS
+Summary from the integrated annual report 2024
+15
+Segmental analysis – reconciliation to the consolidated 
+income statement continued
+for the year ended 31 March 2024
+
+--- PAGE 18 (full dump) ---
+Growth in local currency, excluding acquisitions and disposals 
+The adjustments to the amounts, reported in terms of IFRS, that have been made in arriving at the pro forma financial information 
+are presented in the table below:
+Consolidated revenue
+Year ended 31 March
+2023
+2024
+2024
+2024
+2024
+2024
+2024
+2024
+A
+B
+C
+D
+E
+F1
+G2
+H3
+IFRS
+US$’m
+Group
+composition
+disposal
+adjustment
+US$’m
+Group
+composition
+acquisition
+adjustment
+US$’m
+Foreign
+currency
+adjustment
+US$’m
+Local 
+currency 
+growth
+US$’m
+IFRS
+US$’m
+Local 
+currency 
+growth
+% change
+IFRS
+% change
+Ecommerce
+5 756
+(235)
+(194)
+(43)
+976
+6 260
+18
+9
+– Classifieds
+519
+—
+17
+33
+138
+707
+27
+36
+OLX Europe
+441
+—
+—
+36
+133
+610
+30
+38
+OLX South Africa
+45
+—
+—
+(5)
+6
+46
+13
+2
+Other
+33
+—
+17
+2
+(1)
+51
+– Payments and Fintech
+903
+(8)
+1
+(134)
+344
+1 106
+38
+22
+Core PSP
+790
+(6)
+1
+(135)
+325
+975
+41
+23
+PayU India
+399
+—
+—
+(12)
+57
+444
+14
+11
+Total GPO4
+393
+(7)
+1
+(122)
+268
+533
+69
+36
+GPO
+293
+(7)
+1
+(21)
+59
+325
+21
+11
+Iyzico
+85
+—
+—
+(101)
+202
+186
+>100
+>100
+Other
+15
+—
+—
+—
+7
+22
+Other
+(2)
+1
+—
+(1)
+—
+(2)
+—
+—
+India credit
+83
+—
+—
+(2)
+26
+107
+31
+29
+Other
+30
+(2)
+—
+3
+(7)
+24
+– Food Delivery
+1 371
+(218)
+(234)
+55
+248
+1 222
+22
+(11)
+iFood
+1 371
+(218)
+(234)
+55
+248
+1 222
+22
+(11)
+Core Food
+1 231
+(220)
+(216)
+50
+244
+1 089
+24
+(12)
+Extensions
+140
+2
+(18)
+5
+4
+133
+3
+(5)
+– Edtech
+134
+—
+—
+2
+12
+148
+9
+10
+GoodHabitz 
+40
+—
+—
+2
+8
+50
+20
+25
+Stack Overflow
+94
+—
+—
+—
+4
+98
+4
+4
+– Etail
+2 737
+17
+22
+(1)
+224
+2 999
+8
+10
+eMAG
+1 928
+17
+22
+76
+163
+2 206
+8
+14
+Sameday
+174
+—
+—
+—
+56
+230
+32
+32
+Extensions
+142
+15
+22
+14
+30
+223
+19
+57
+Other
+1 612
+2
+—
+62
+77
+1 753
+Takealot Group
+808
+—
+—
+(77)
+61
+792
+8
+(2)
+Other
+1
+—
+—
+—
+—
+1
+– Other
+92
+(26)
+—
+2
+10
+78
+15
+(15)
+Media
+207
+(3)
+—
+(15)
+(14)
+175
+(7)
+(16)
+Corporate segment
+—
+—
+—
+—
+—
+—
+—
+—
+Intersegmental
+(3)
+—
+—
+(1)
+—
+(4)
+—
+33
+Group consolidated
+5 960
+(238)
+(194)
+(59)
+962
+6 431
+17
+8
+1	 A + B + C + D + E.
+2	 [E/(A + B)] x 100.
+3	 [(F/A) – 1] x 100.
+4	 GPO including Iyzico and RDP.
+Reconciliation of financial alternative performance measures
+16
+16
+NASPERS
+Summary from the integrated annual report 2024
+Financial alternative performance measures
+for the year ended 31 March 2024
+
+--- PAGE 19 (full dump) ---
+Growth in local currency, excluding acquisitions and disposals continued
+The adjustments to the amounts, reported in terms of IFRS, that have been made in arriving at the pro forma financial information 
+are presented in the table below:
+Economic-interest revenue
+Year ended 31 March
+2023
+2024
+2024
+2024
+2024
+2024
+2024
+2024
+A
+B
+C
+D
+E
+F2
+G3
+H4
+IFRS1
+US$’m
+Group
+composition
+disposal
+adjustment
+US$’m
+Group
+composition
+acquisition
+adjustment
+US$’m
+Foreign
+currency
+adjustment
+US$’m
+Local
+currency
+growth
+US$’m
+IFRS1
+US$’m
+Local
+currency
+growth
+% change
+IFRS
+% change
+Ecommerce
+9 934
+(454)
+109
+55
+1 501
+11 145
+16
+12
+– Classifieds
+755
+(4)
+17
+37
+146
+951
+19
+26
+– Payments and Fintech
+1 052
+(21)
+2
+(133)
+405
+1 305
+39
+24
+– Food Delivery
+4 203
+(271)
+47
+157
+728
+4 864
+19
+16
+– Edtech
+545
+(141)
+10
+2
+28
+444
+7
+(19)
+– Etail
+2 761
+12
+23
+—
+225
+3 021
+8
+9
+– Other
+618
+(29)
+10
+(8)
+(31)
+560
+(5)
+(9)
+Social and internet 
+platforms
+22 269
+(1 945)
+—
+(927)
+1 998
+21 395
+10
+(4)
+– Tencent
+22 269
+(1 945)
+—
+(927)
+1 998
+21 395
+10
+(4)
+Media
+217
+(3)
+—
+(18)
+(14)
+182
+(7)
+(16)
+Corporate segment
+—
+—
+—
+—
+—
+—
+—
+—
+Intersegmental
+(3)
+—
+—
+(1)
+—
+(4)
+—
+33
+Group economic interest
+32 417
+(2 402)
+109
+(891)
+3 485
+32 718
+12
+1
+1	 Figures presented on an economic-interest basis as per the segmental review.
+2	 A + B + C + D + E.
+3	 [E/(A + B)] x 100.
+4	 [(F/A) – 1] x 100.
+Reconciliation of financial alternative performance measures
+NASPERS
+Summary from the integrated annual report 2024
+17
+Financial alternative performance measures continued
+for the year ended 31 March 2024
+
+--- PAGE 20 (full dump) ---
+Growth in local currency, excluding acquisitions and disposals continued
+The adjustments to the amounts, reported in terms of IFRS, that have been made in arriving at the pro forma financial information 
+are presented in the table below:
+Consolidated trading profit
+Year ended 31 March
+2023
+2024
+2024
+2024
+2024
+2024
+2024
+2024
+A
+B
+C
+D
+E
+F1
+G2
+H3
+IFRS
+US$’m
+Group
+composition
+disposal
+adjustment
+US$’m
+Group
+composition
+acquisition
+adjustment
+US$’m
+Foreign
+currency
+adjustment
+US$’m
+Local 
+currency 
+growth
+US$’m
+IFRS
+US$’m
+Local 
+currency 
+growth
+% change
+IFRS
+% change
+Ecommerce
+(436)
+21
+(2)
+4
+437
+24
+>100
+>100
+– Classifieds
+56
+—
+1
+13
+102
+172
+>100
+>100
+OLX Europe
+68
+—
+—
+18
+90
+176
+>100
+>100
+OLX South Africa
+26
+—
+—
+(3)
+4
+27
+15
+4
+Other
+(38)
+—
+1
+(2)
+8
+(31)
+– Payments and Fintech
+(83)
+—
+(1)
+(14)
+67
+(31)
+(81)
+(63)
+Core PSP
+(2)
+—
+(1)
+(16)
+38
+19
+>100
+>100
+PayU India
+11
+—
+—
+1
+(24)
+(12)
+(>100)
+(>100)
+Total GPO4
+ (14)
+ — 
+ (1)
+ (16)
+ 62 
+ 31 
+>100
+>100
+GPO
+ (21)
+ — 
+ (1)
+ (9)
+ 46 
+ 15 
+>100
+>100
+Iyzico
+ 8 
+ — 
+ — 
+ (7)
+ 16 
+ 17 
+>100
+>100
+Other
+ (1)
+ — 
+ — 
+ — 
+ — 
+ (1)
+Other
+ 1 
+ — 
+ — 
+ (1)
+ — 
+ — 
+India credit
+(10)
+ — 
+—
+1
+(11)
+(20)
+(>100)
+(>100)
+Other
+(71)
+—
+—
+1
+40
+(30)
+– Food Delivery
+(106)
+4
+—
+5
+164
+67
+>100
+>100
+iFood
+(65)
+4
+—
+5
+152
+96
+>100
+>100
+Core Food
+94
+20
+—
+9
+137
+260
+>100
+>100
+Extensions
+(159)
+(16)
+—
+(4)
+15
+(164)
+9
+(3)
+Other
+(41)
+—
+—
+—
+12
+(29)
+– Etail
+(83)
+(1)
+(1)
+1
+35
+(49)
+42
+41
+eMAG
+(52)
+(1)
+(1)
+1
+27
+(26)
+51
+50
+Sameday
+(16)
+—
+—
+1
+9
+(6)
+56
+63
+Extensions
+(46)
+(1)
+(1)
+(3)
+7
+(44)
+15
+4
+Other
+10
+—
+—
+3
+11
+24
+Takealot Group
+(22)
+—
+—
+—
+8
+(14)
+36
+36
+Other
+(9)
+—
+—
+—
+—
+(9)
+– Edtech
+(131)
+—
+—
+—
+33
+(98)
+25
+25
+GoodHabitz 
+(16)
+—
+—
+—
+8
+(8)
+50
+50
+Stack Overflow
+(84)
+—
+—
+(1)
+28
+(57)
+33
+32
+Other
+(31)
+—
+—
+1
+(3)
+(33)
+– Other
+(89)
+18
+(1)
+(1)
+36
+(37)
+51
+58
+Media
+5
+—
+—
+—
+(4)
+1
+(80)
+(80)
+Corporate segment
+(209)
+—
+—
+2
+28
+(179)
+13
+14
+Group consolidated
+(640)
+21
+(2)
+6
+461
+(154)
+74
+76
+1	 A + B + C + D + E.
+2	 [E/(A + B)] x 100.
+3	 [(F/A) – 1] x 100.
+4	 Includes GPO including Iyzico and RDP.
+Reconciliation of financial alternative performance measures
+18
+18
+NASPERS
+Summary from the integrated annual report 2024
+Financial alternative performance measures continued
+for the year ended 31 March 2024
+
+--- PAGE 21 (full dump) ---
+Growth in local currency, excluding acquisitions and disposals continued
+The adjustments to the amounts, reported in terms of IFRS, that have been made in arriving at the pro forma financial information 
+are presented in the table below:
+Economic-interest trading profit
+Year ended 31 March
+2023
+2024
+2024
+2024
+2024
+2024
+2024
+2024
+A
+B
+C
+D
+E
+F2
+G3
+H4
+IFRS1
+US$’m
+Group
+composition
+disposal
+adjustment
+US$’m
+Group
+composition
+acquisition
+adjustment
+US$’m
+Foreign
+currency
+adjustment
+US$’m
+Local
+currency
+growth
+US$’m
+IFRS1
+US$’m
+Local
+currency
+growth
+% change
+IFRS
+% change
+Ecommerce
+(1 331)
+165
+(13)
+3
+887
+(289)
+(76)
+(78)
+– Classifieds
+47
+1
+1
+14
+124
+187
+>100
+>100
+– Payments and Fintech
+(116)
+3
+(2)
+(13)
+69
+(59)
+(61)
+(49)
+– Food Delivery
+(649)
+35
+(14)
+4
+466
+(158)
+(76)
+(76)
+– Edtech
+(258)
+106
+5
+—
+67
+(80)
+(44)
+(69)
+– Etail
+(85)
+(1)
+(1)
+1
+37
+(49)
+(43)
+(42)
+– Other
+(270)
+21
+(2)
+(3)
+124
+(130)
+(50)
+(52)
+Social and internet 
+platforms
+5 085
+(441)
+—
+(260)
+1 845
+6 229
+40
+22
+– Tencent
+5 085
+(441)
+— 
+(260)
+1 845
+6 229
+40
+22
+Media
+7
+—
+—
+—
+(5)
+2
+(71)
+(71)
+Corporate segment
+(210)
+—
+—
+—
+31
+(179)
+(15)
+(15)
+Group economic interest
+3 551
+(276)
+(13)
+(257)
+2 758
+5 763
+84
+62
+1	 Figures presented on an economic-interest basis as per the segmental review.
+2	 A + B + C + D + E.
+3	 [E/(A + B)] x 100.
+4	 [(F/A) – 1] x 100.
+Reconciliation of financial alternative performance measures
+NASPERS
+Summary from the integrated annual report 2024
+19
+Financial alternative performance measures continued
+for the year ended 31 March 2024
+
+--- PAGE 22 (full dump) ---
+Growth in local currency, excluding acquisitions and disposals continued
+The group applies certain adjustments to segmental revenue and trading profit reported to present the growth in such metrics in local 
+currency and excluding the effects of changes in the composition of the group. Such underlying adjustments provide a view of the 
+company’s underlying financial performance that management believes is more comparable between periods by removing the impact 
+of changes in foreign exchange rates and changes in the composition of the group on its results. Such adjustments are referred to herein 
+as ‘growth in local currency, excluding acquisitions and disposals’. The group applies the following methodology in calculating growth 
+in local currency, excluding acquisitions and disposals: 
+	› Foreign exchange/constant currency adjustments have been calculated by adjusting the current period’s results to the prior period’s 
+average foreign exchange rates, determined as the average of the monthly exchange rates for that period. The local currency financial 
+information quoted is calculated as the constant currency results, arrived at using the methodology outlined above, compared to the 
+prior period’s actual IFRS results. The relevant average exchange rates (relative to the US dollar) used for the group’s most significant 
+functional currencies, were:
+31 March 2024
+31 March 2023
+Average
+rate
+Closing
+rate
+Average
+rate
+Closing
+rate
+Currency (1FC = US$)
+South African rand (ZAR)
+0.0533
+0.0528
+0.0583
+0.0562
+Euro (EUR)
+1.0827
+1.0794
+1.0415
+1.0841
+Chinese yuan renminbi (RMB)
+0.1393
+0.1385
+0.1453
+0.1456
+Brazilian real (BRL)
+0.2024
+0.1994
+0.1943
+0.1975
+Indian rupee (INR)
+0.0121
+0.0120
+0.0124
+0.0122
+Polish zloty (PLN)
+0.2445
+0.2514
+0.2213
+0.2317
+Romanian lei (RON)
+0.2183
+0.2172
+0.2114
+0.2191
+Turkish Lira (YTL)
+0.0366
+0.0308
+0.0557
+0.0521
+British pound sterling (GBP)
+1.2568
+1.2623
+1.2036
+1.2335
+	› Adjustments made for changes in the composition of the group relate to acquisitions, mergers and disposals of subsidiaries and 
+equity-accounted investments, as well as to changes in the group’s shareholding in its equity-accounted investments. For acquisitions, 
+adjustments are made to remove the revenue and trading profit/(loss) of the acquired entity from the current reporting period and, 
+in subsequent reporting periods, to ensure that the current reporting period and the comparative reporting period contain revenue and 
+trading profit/(loss) information relating to the same number of months. For mergers, adjustments are made to include a portion of the 
+prior period’s revenue and trading profit/(loss) of the entity acquired as a result of a merger. For disposals, adjustments are made 
+to remove the revenue and trading profit/(loss) of the disposed entity from the previous reporting period to the extent that there is no 
+comparable revenue or trading profit/(loss) information in the current period and, in subsequent reporting periods, to ensure that the 
+previous reporting period does not contain revenue and trading profit/(loss) information relating to the disposed business.
+Reconciliation of financial alternative performance measures
+20
+20
+NASPERS
+Summary from the integrated annual report 2024
+Financial alternative performance measures continued
+for the year ended 31 March 2024
+
+--- PAGE 23 (full dump) ---
+Growth in local currency, excluding acquisitions and disposals continued
+The following significant changes in the composition of the group during the year ended 31 March 2024 have been adjusted for in 
+arriving at the pro forma financial information:
+Transaction
+Basis of accounting
+Reportable segment
+Acquisition/Disposal
+Dilution of the group’s interest in Tencent
+Associate
+Social and internet platforms
+Disposal
+Dilution of the group’s interest in EMPG
+Associate
+Ecommerce
+Disposal
+Dilution of the group’s interest in OfferUp
+Associate
+Ecommerce
+Disposal
+Disposal of the group’s interest in Oda
+Associate
+Ecommerce
+Disposal
+Dilution of the group’s interest in Flink
+Associate
+Ecommerce
+Disposal
+Disposal of the group’s interest in iFood Colombia
+Associate
+Ecommerce
+Disposal
+Disposal of the group’s interest in PayU Russia
+Subsidiary
+Ecommerce
+Disposal
+Acquisition of the group’s interest in Ding
+Subsidiary
+Ecommerce
+Acquisition
+Step-up in the group’s interest in Flip together with 
+the impact of the lag period catch-up adjustment
+Subsidiary
+Ecommerce
+Acquisition/Disposal
+Change in the group’s interest in Delivery Hero
+Associate
+Ecommerce
+Acquisition/Disposal
+Change in the group’s interest in Swiggy
+Associate
+Ecommerce
+Acquisition/Disposal
+Change in the group’s interest in Emicro
+Associate
+Ecommerce
+Acquisition/Disposal
+Change in the group’s interest in ElasticRun
+Associate
+Ecommerce
+Acquisition/Disposal
+Acquisition of the group’s interest in Azos
+Associate
+Ecommerce
+Acquisition
+Increase in the group’s interest in PharmEasy 
+Associate
+Ecommerce
+Acquisition
+Acquisition of the group’s interest in Planet24
+Associate
+Ecommerce
+Acquisition
+Acquisition of the group’s interest in Alwans
+Associate
+Ecommerce
+Acquisition
+Acquisition of the group’s interest in Vegrow
+Associate
+Ecommerce
+Acquisition
+Change in the group’s interest in Captain Fresh
+Associate
+Ecommerce
+Acquisition/Disposal
+Change in the group’s interest in Sangvhi Beauty
+Associate
+Ecommerce
+Acquisition/Disposal
+Increase in the group’s interest in Bux
+Associate
+Ecommerce
+Acquisition
+Decrease in the group’s interest in Shipper
+Associate
+Ecommerce
+Disposal
+Change in the group’s interest in Klar
+Associate
+Ecommerce
+Acquisition/Disposal
+Dilution of the group’s interest in Remitly
+Associate
+Ecommerce
+Disposal
+Increase in the group’s interest in FinWizard 
+Associate
+Ecommerce
+Acquisition
+Acquisition of the group’s interest in LifeCheq
+Associate
+Ecommerce
+Acquisition
+Loss of control of the group’s interest in Udemy
+Associate
+Ecommerce
+Disposal
+Loss of control of the group’s interest in BYJU’S
+Associate
+Ecommerce
+Disposal
+Change of the group’s interest in Skillsoft
+Associate
+Ecommerce
+Acquisition/Disposal
+The net adjustment made for all acquisitions and disposals on continuing operations that took place during the year ended 31 March 2024 
+amounted to a negative adjustment of US$2.3bn on revenue and a negative adjustment of US$289m on trading profit. These adjustments 
+include the impact of a change in revenue recognition related to iFood and in Eruditus.
+Reconciliation of financial alternative performance measures
+NASPERS
+Summary from the integrated annual report 2024
+21
+Financial alternative performance measures continued
+for the year ended 31 March 2024
+
+--- PAGE 24 (full dump) ---
+Earnings disclosure on a per share basis
+For the year ended 31 March
+2024
+US$’m
+2023
+ US$’m
+Change
+%
+Continuing operations
+Earnings attributable to equity holders for the year (US$’m)
+2 972
+4 198
+(29)
+Earnings per N ordinary share (US cents)1
+1 595
+2 014
+(21)
+Diluted earnings per N ordinary share (US cents)
+1 539
+1 934
+(20)
+Headline earnings for the period (US$’m)1
+1 476
+299
+394
+Headline earnings per N ordinary share (US cents)1
+792
+143
+452
+Diluted headline earnings per N ordinary share (US cents)
+737
+64
+1 052
+Core headline earnings for the period (US$’m)1
+2 139
+1 138
+88
+Core headline earnings per N ordinary share (US cents)1
+1 148
+546
+110
+Diluted core headline earnings per N ordinary share (US cents)
+1 092
+466
+134
+– Weighted average for the period
+186 345
+208 404
+– Diluted weighted average
+186 568
+208 492
+Discontinued operations
+Earnings attributable to equity holders for the year (US$’m)
+(117)
+133
+(188)
+Earnings per N ordinary share (US cents)
+(63)
+64
+(198)
+Diluted earnings per N ordinary share (US cents)
+(63)
+64
+(198)
+Headline earnings for the period (US$’m)
+(62)
+(50)
+24
+Headline earnings per N ordinary share (US cents)
+(33)
+(24)
+39
+Diluted headline earnings per N ordinary share (US cents)
+(33)
+(24)
+39
+Core headline earnings for the period (US$’m)
+(51)
+(89)
+(43)
+Core headline earnings per N ordinary share (US cents)
+(27)
+(43)
+(36)
+Diluted core headline earnings per N ordinary share (US cents)
+(27)
+(43)
+(36)
+Total operations
+Earnings attributable to equity holders for the year (US$’m)
+2 855
+4 331
+(34)
+Earnings per N ordinary share (US cents)
+1 532
+2 078
+(26)
+Diluted earnings per N ordinary share (US cents)
+1 476
+1 998
+(26)
+Headline earnings for the period (US$’m)
+1 414
+249
+468
+Headline earnings per N ordinary share (US cents)
+759
+119
+538
+Diluted headline earnings per N ordinary share (US cents)
+704
+40
+1 660
+Core headline earnings for the period (US$’m)
+2 088
+1 049
+99
+Core headline earnings per N ordinary share (US cents)
+1 121
+503
+123
+Diluted core headline earnings per N ordinary share (US cents)
+1 065
+423
+152
+1	 Refer to the glossary for an explanation of the group’s alternative performance measures.
+Reconciliation of financial alternative performance measures
+22
+22
+NASPERS
+Summary from the integrated annual report 2024
+Financial alternative performance measures continued
+for the year ended 31 March 2024
+
+--- PAGE 25 (full dump) ---
+Reconciliation of earnings to core headline earnings
+31 March 
+2024
+US$’m
+2023
+US$’m
+CONTINUING OPERATIONS
+Earnings from continuing operations
+2 972
+4 198
+Basic earnings attributable to shareholders
+—
+—
+Impact of dilutive instruments of subsidiaries, associates and joint ventures
+(101)
+(166)
+Diluted earnings attributable to shareholders
+2 871
+4 032
+Headline adjustments for continuing operations
+Adjusted for:
+(3 437)
+(8 942)
+– Impairment of other assets
+—
+33
+– Impairment of goodwill, PPE and other intangible assets
+374
+614
+– Loss on sale of assets
+5
+1
+– Gain recognised on loss of control
+—
+(23)
+– Gain recognised on loss of significant influence
+—
+(30)
+– Gain on remeasurement of previously held interest
+(10)
+—
+– Net loss/(gains) on acquisitions and disposals of investments
+2
+(27)
+– Gains on partial disposal of equity-accounted investments
+(5 053)
+(7 622)
+– Dilution losses/(gains) on equity-accounted investments
+238
+252
+– Remeasurements included in equity-accounted earnings1
+524
+(3 885)
+– Impairment of equity-accounted investments
+483
+1 745
+(465)
+(4 744)
+Total tax effects of adjustments
+2
+—
+Total adjustment for non-controlling interests
+1 939
+5 043
+Headline earnings2
+1 476
+299
+Adjusted for:
+– Equity-settled share-based payment expenses
+458
+629
+– Remeasurement of cash-settled share-based incentive expenses
+(9)
+(129)
+– Tax adjustment
+(10)
+6
+– Amortisation of other intangible assets
+219
+290
+– Fair value adjustments and currency translation differences
+(9)
+(6)
+– Retention option remeasurement
+(17)
+10
+– Transaction-related costs
+31
+39
+Core headline earnings2
+2 139
+1 138
+1	 Remeasurements included in equity-accounted earnings include US$108m (FY23: US$5.9bn) relating to gains arising on acquisitions and disposals by associates and 
+US$627m (FY23: US$1.9bn) relating to net impairments of assets recognised by associates.
+2	 Refer to the glossary for an explanation of the group’s alternative performance measures.
+The diluted earnings, headline earnings and core headline earnings per share figures presented on the face of the income statement 
+include a decrease of US$101m (FY23: US$116m) relating to the future dilutive impact of potential ordinary shares issued by equity-
+accounted investees.
+Reconciliation of financial alternative performance measures
+NASPERS
+Summary from the integrated annual report 2024
+23
+Financial alternative performance measures continued
+for the year ended 31 March 2024
+
+--- PAGE 26 (full dump) ---
+Reconciliation of earnings to core headline earnings continued
+31 March 
+2024
+US$’m
+2023
+US$’m
+DISCONTINUED OPERATIONS
+Earnings from discontinuing operations
+(117)
+133
+Basic earnings attributable to shareholders
+—
+—
+Impact of dilutive instruments of subsidiaries, associates and joint ventures
+—
+—
+Diluted earnings attributable to shareholders
+(117)
+133
+Headline adjustments from discontinuing operations
+Adjusted for:
+129
+(437)
+– Impairment of goodwill, PPE and other intangible assets
+137
+125
+– Loss on sale of assets
+—
+6
+– Net (gains)/loss on disposals of investments
+(8)
+(568)
+12
+(304)
+Total tax effects of adjustments
+—
+—
+Total adjustment for non-controlling interests
+(74)
+254
+Headline earnings from discontinuing operations1
+(62)
+(50)
+Adjusted for:
+– Remeasurement of cash-settled share-based incentive expenses
+(2)
+(18)
+– Amortisation of other intangible assets
+—
+4
+– Fair value adjustments and currency translation differences
+9
+(25)
+– Transaction-related costs
+4
+—
+Core headline earnings from discontinuing operations1
+(51)
+(89)
+1	 Refer to the glossary for an explanation of the group’s alternative performance measures.
+Reconciliation of cash generated from operations to free cash flow
+31 March 
+2024
+US$’m
+2023
+US$’m
+Cash generated from operations
+144
+(376)
+Transaction-related costs
+16
+26
+Capital expenditure
+(86)
+(290)
+Capital finance leases repaid, gross
+(95)
+(82)
+Investment income received
+760
+575
+Taxation paid
+(112)
+(133)
+Taxation credits
+(54)
+—
+Merchant cash (receivable)/payable
+(198)
+(218)
+Credit included in financing activities
+—
+7
+Free cash flow1
+375
+(491)
+1	 Refer to the glossary for an explanation of the group’s alternative performance measures.
+Reconciliation of financial alternative performance measures
+24
+24
+NASPERS
+Summary from the integrated annual report 2024
+Financial alternative performance measures continued
+for the year ended 31 March 2024
+
+--- PAGE 27 (full dump) ---
+The Naspers and Prosus groups (collectively referred to as the group) discloses various alternative performance measures (APMs) in 
+their year-end financial statements on which an independent auditor’s assurance report on the compilation of the pro forma financial 
+information has been obtained.
+In the analysis of the group’s financial performance, certain information disclosed in the financial statements may be prepared on a 
+non-IFRS basis or has been derived from amounts calculated in accordance with IFRS but are not themselves an expressly permitted IFRS 
+measure. These measures are reported in line with the way in which financial Information is analysed by management and designed 
+to increase comparability of the group’s year-on-year financial position, based on its operational activity. They are not uniformly defined 
+or used by other entities outside of the group and may not be comparable with similar measures provided by other entities.
+The alternative performance measures are the responsibility of the board of directors of the group.
+The key alternative performance measures presented by the group are listed below:
+Term/Acronym
+Description
+Relevance
+Annual recurring 
+revenue (ARR)
+Annual recurring revenue is the sum of all revenue derived from customer 
+contracts over the course of the next 12 months. It refers to ongoing revenue 
+from a product line in the Edtech segment. 
+It provides a high level 
+view of ongoing 
+revenue and enables 
+the group to estimate 
+future revenue growth 
+potential.
+Adjusted EBITDA
+Adjusted EBITDA represents operating profit/loss, as adjusted to exclude: 
+(i) depreciation; (ii) amortisation; (iii) retention option expenses linked to business 
+combinations; (iv) other losses/gains – net, which includes dividends received 
+from investments, profits and losses on sale of assets, fair value adjustments 
+of financial instruments, impairment losses, compensation received from third 
+parties for property, plant and equipment impaired, lost or stolen, and gains 
+or losses on settlement of liabilities; (v) transactions that IFRS treats as cash-
+settled share-based compensation expense which are with fellow shareholders 
+and are related to put and call options granted and linked to the ongoing 
+employment of those shareholders as part of the group’s investments 
+in companies; and (vi) subsequent fair value remeasurement of cash-settled 
+share-based compensation expenses, equity-settled share-based compensation 
+expenses for group share option schemes as well as those deemed to arise 
+on shareholder transactions (but not excluding share-based payment expenses 
+for which the group has a cash cost on settlement with participants).
+The group utilises 
+this as an additional 
+measure to analyse 
+operational activity 
+and profitability of the 
+group’s businesses.
+Central cash 
+Cash held by group corporate companies at a head office level.
+It is considered 
+a measure 
+to understand how 
+much cash is available 
+at a central level to be 
+utilised for investment, 
+operational, distribution 
+or debt repayments 
+purposes.
+NASPERS
+Summary from the integrated annual report 2024
+25
+Financial and non-financial alternative performance 
+measures glossary
+for the year ended 31 March 2024
+
+--- PAGE 28 (full dump) ---
+Term/Acronym
+Description
+Relevance
+Core headline 
+earnings
+Core headline earnings represent headline earnings, excluding certain non-
+operating items. Specifically, headline earnings are adjusted for the following 
+items to derive core headline earnings: (i) equity-settled share-based payment 
+expenses on transactions where there is no cash cost to the group. These include 
+those relating to share-based incentive awards settled by issuing treasury shares 
+as well as certain share-based payment expenses that are deemed to arise 
+on shareholder transactions; (ii) subsequent fair value remeasurement of 
+cash-settled share-based incentive expenses; (iii) cash-settled share-based 
+compensation expenses deemed to arise from shareholder transactions by virtue 
+of employment; (iv) deferred taxation income recognised on the first-time 
+recognition of deferred tax assets as this generally relates to multiple prior 
+periods and distorts current-period performance; (v) fair value adjustments 
+on financial instruments and unrealised currency translation differences, as these 
+items obscure the group’s underlying operating performance; (vi) once-off gains 
+and losses (including acquisition-related costs) resulting from acquisitions and 
+disposals of businesses as these items relate to changes in the group’s 
+composition and are not reflective of the group’s underlying operating 
+performance; and (vii) the amortisation of intangible assets recognised 
+in business combinations and acquisitions, as these expenses are not considered 
+operational in nature. These adjustments are made to the earnings of businesses 
+controlled by the group as well as the group’s share of earnings of associates 
+and joint ventures, to the extent that the information is available.
+We reflect core 
+headline earnings 
+as the group’s indicator 
+of its post-tax operating 
+performance, which 
+adjusts for non-
+operating items.
+Economic interest
+Investments in associated companies and joint ventures have been accounted 
+for under the equity method for all periods, unless otherwise indicated. 
+Economic interest is the proportionate consolidation of associate companies 
+and joint ventures. Proportionate consolidation is a method of accounting 
+whereby our share of each of the income and expenses of associate 
+companies and joint ventures is combined line by line with similar items in our 
+operating segments. Under the economic-interest view, references to ‘revenue 
+from the group’ or ‘trading profit from the group’, as applicable, therefore 
+include our share of revenue or trading profit from investments in associate 
+companies and joint ventures. 
+It is considered a useful 
+measure to analyse 
+operational profitability 
+and performance of 
+the group’s portfolio 
+of assets as a whole, 
+including both 
+consolidated earnings 
+plus the group’s 
+proportionate share 
+of the associates and 
+joint ventures revenue 
+and trading profit.
+Free cash flow
+Free cash flow represents cash generated from operations adjusted for 
+transaction-related costs, specific working capital adjustments that are not 
+directly related to our operational activities, plus dividends received, minus: 
+(i) capital leases repaid (gross); and (ii) cash taxation paid, excluding tax paid 
+of a capital nature. Free cash flow reflects an additional way of viewing our 
+liquidity that the board believes is useful to investors because it represents 
+cash flows that could be used for distribution of dividends, repayment of debt 
+(including interest thereon) or to fund our strategic initiatives, including 
+acquisitions, if any.
+Free cash flow reflects 
+an important way 
+of viewing our cash 
+generation that the 
+board believes is useful 
+to investors because 
+it represents cash flows 
+that could be used for 
+distribution of dividends, 
+repayment of debt 
+(including interest 
+thereon) or to fund our 
+strategic initiatives, 
+including acquisitions, 
+if any.
+26
+26
+NASPERS
+Summary from the integrated annual report 2024
+Financial and non-financial alternative performance 
+measures glossary continued
+for the year ended 31 March 2024
+
+--- PAGE 29 (full dump) ---
+Term/Acronym
+Description
+Relevance
+Gross merchandise 
+value (GMV)
+A measure of the growth of a business determined by the total value 
+of merchandise sold over a given period through a consumer-to-consumer 
+(C2C) or business-to-consumer (B2C) platform.
+It is considered 
+a measure to analyse 
+operational size and 
+performance 
+of a business in our 
+food delivery, etail and 
+other businesses.
+Growth in local 
+currency, excluding 
+acquisitions and 
+disposals. Also 
+referred to as 
+organic growth
+We apply certain adjustments to the segmental revenue and trading profit 
+reported in the financial statements to present the growth in such metrics 
+in local currency and excluding the effects of changes in our composition. Such 
+underlying adjustments provide a view of our underlying financial performance 
+that management believes is more comparable between periods by removing 
+the impact of changes in foreign exchange rates and changes in our 
+composition on our results. Such adjustments are referred to herein as ‘growth 
+in local currency, excluding acquisitions and disposals’. We apply the following 
+methodology in calculating growth in local currency, excluding acquisitions and 
+disposals: 
+	› Foreign exchange/constant currency adjustments have been calculated 
+by adjusting the current period’s results to the prior period’s average foreign 
+exchange rates, determined as the average of the monthly exchange rates 
+for that period. The local currency financial information quoted is calculated 
+as the constant currency results, arrived at using the methodology outlined 
+above, compared to the prior period’s actual IFRS-EU results. 
+Adjustments made for changes in our composition relate to acquisitions, 
+mergers and disposals of subsidiaries and equity-accounted investments, 
+as well as to changes in our shareholding in our equity-accounted investments. 
+For acquisitions, adjustments are made to remove the revenue and trading 
+profit/(loss) of the acquired entity from the current reporting period and, 
+in subsequent reporting periods, to ensure that the current reporting period 
+and the comparative reporting period contain revenue and trading profit/(loss) 
+information relating to the same number of months. For mergers, adjustments 
+are made to include a portion of the prior period’s revenue and trading profit/
+(loss) of the entity acquired as a result of a merger. For disposals, adjustments 
+are made to remove the revenue and trading profit/(loss) of the disposed entity 
+from the previous reporting period to the extent that there is no comparable 
+revenue or trading profit/(loss) information in the current period and, 
+in subsequent reporting periods, to ensure that the previous reporting period 
+does not contain revenue and trading profit/(loss) information relating to the 
+disposed business.
+The growth in local 
+currency, excluding 
+acquisitions and 
+disposals, provides 
+a view of our underlying 
+financial performance 
+that management 
+believes is more 
+comparable between 
+periods by removing 
+the impact of changes 
+in foreign exchange 
+rates and changes 
+in our group’s 
+composition, 
+on our results.
+NASPERS
+Summary from the integrated annual report 2024
+27
+Financial and non-financial alternative performance 
+measures glossary continued
+for the year ended 31 March 2024
+
+--- PAGE 30 (full dump) ---
+Term/Acronym
+Description
+Relevance
+Headline earnings
+Headline earnings represent net profit for the year attributable to the 
+group’s equity holders, excluding certain defined separately identifiable 
+remeasurements relating to, among others, impairments of tangible assets, 
+intangible assets (including goodwill) and equity-accounted investments, gains 
+and losses on acquisitions and disposals of investments as well as assets, 
+dilution gains and losses on equity-accounted investments, remeasurement 
+gains and losses on disposal groups classified as held for sale and 
+remeasurements included in equity-accounted earnings, net of related taxes 
+(both current and deferred) and the related non-controlling interests. These 
+remeasurements are determined in accordance with Circular 1/2023, headline 
+earnings, as issued by the South African Institute of Chartered Accountants, 
+at the request of the JSE Limited in relation to the calculation of headline 
+earnings and disclosure of a detailed reconciliation of headline earnings to 
+the earnings numbers used in the calculation of basic earnings per share 
+in accordance with the requirements of IAS 33 Earnings per Share, under the 
+JSE Listings Requirements.
+This is a JSE listing 
+requirement for Naspers 
+and is included for 
+consistency between 
+Naspers and Prosus.
+HEPS
+Headline earnings, as per above, on a per share basis.
+This is a JSE listing 
+requirement for Naspers 
+and is included for 
+consistency between 
+Naspers and Prosus.
+Take rate
+A take rate refers to the fees online marketplaces or third-party service 
+providers collect for enabling third-party transactions. Put simply, a take rate 
+is how much money a business makes from a transaction.
+It is considered a key 
+revenue driver 
+to analyse the 
+performance of revenue 
+collection within the 
+group’s online platforms.
+Total payments 
+in value (TPV)
+A measure of payments, net of payment reversals, successfully completed 
+through a payments platform (PayU), excluding transactions processed through 
+gateway products (ie those that link a merchant’s website to its processing 
+network and enable merchants to accept credit or debit card online payments).
+It is considered a useful 
+measure to analyse 
+operational activity 
+in our payments service 
+providers.
+Trading profit/loss
+Trading profit/loss represents operating profit/loss, as adjusted to exclude: 
+(i) amortisation of intangible assets recognised in business combinations and 
+acquisitions, as these expenses are not considered operational in nature; 
+(ii) retention option expenses linked to business combinations; (iii) other losses/
+gains – net, which includes dividends received from investments, profits and 
+losses on sale of assets, fair value adjustments of financial instruments, 
+impairment losses, compensation received from third parties for property, 
+plant and equipment impaired, lost or stolen, and gains or losses on settlement 
+of liabilities; (iv) transactions that IFRS treats as cash-settled share-based 
+compensation expense which are with fellow shareholders and are related 
+to put and call options granted and linked to the ongoing employment of those 
+shareholders as part of the group’s investments in companies; and 
+(v) subsequent fair value remeasurement of cash-settled share-based 
+compensation expenses, equity-settled share-based compensation expenses for 
+group share option schemes as well as those deemed to arise on shareholder 
+transactions (but not excluding share-based payment expenses for which the 
+group has a cash cost on settlement with participants).
+Trading profit/(loss) 
+is a non-IFRS measure 
+that refers to adjusted 
+EBITDA adjusted 
+for depreciation, 
+amortisation of software 
+and interest on 
+capitalised lease 
+liabilities. It is 
+considered a useful 
+measure to analyse 
+operational profitability 
+within the group by the 
+group’s CODM.
+Trading profit/loss 
+margin
+Trading profit/loss divided by revenue.
+It is considered a useful 
+measure to analyse 
+operational profitability.
+28
+28
+NASPERS
+Summary from the integrated annual report 2024
+Financial and non-financial alternative performance 
+measures glossary continued
+for the year ended 31 March 2024
+
+--- PAGE 31 (full dump) ---
+Naspers Limited
+Incorporated in the Republic of South Africa
+(Registration number: 1925/001431/06)
+(Naspers or the group)
+JSE share code: NPN
+ISIN: ZAE000015889 
+Directors and management
+JP Bekker (chair), S Dubey, HJ du Toit, CL Enenstein, M Girotra, 
+RCC Jafta, AGZ Kemna, FLN Letele, D Meyer, R Oliveira de Lima, 
+SJZ Pacak, V Sgourdos, MR Sorour, JDT Stofberg, Y Xu
+Company secretary
+L Bagwandeen
+Suite 15, Third Floor
+Oxford & Glenhove
+116 Oxford Road
+Houghton Estate
+Johannesburg 
+2196
+South Africa
+cosec@naspers.com
+Registered office
+40 Heerengracht
+Cape Town 
+8001
+South Africa
+PO Box 2271
+Cape Town 
+8000
+South Africa
+Tel: +27 (0)21 406 2121
+Fax: +27 (0)21 406 3753
+www.naspers.com
+Independent auditor
+Deloitte & Touche
+5 Magwa Crescent
+Waterfall City
+2090
+Transfer secretaries
+JSE Investor Services Proprietary Limited
+(Registration number: 2000/007239/07)
+One Exchange Square
+2 Gwen Lane
+Sandown
+Sandton 
+2196
+PO Box 4844
+Johannesburg 
+2000
+South Africa
+Tel: +27 (0)86 140 0110/+27 (0)11 713 0800
+ADR programme
+Bank of New York Mellon maintains a
+GlobalBuyDIRECTSM plan for Naspers Limited
+For additional information, visit 
+Bank of New York Mellon’s website at
+www.globalbuydirect.com or call 
+Shareholder Relations at 1-888-BNY-ADRS or
+1-800-345-1612 or write to:
+Bank of New York Mellon
+Shareholder Relations Department – GlobalBuyDIRECTSM
+Church Street Station
+PO Box 11258
+New York
+NY 10286-1258
+USA
+Sponsor
+Investec Bank Limited
+(Registration number: 1969/004763/06)
+PO Box 785700
+Sandton 
+2146
+South Africa
+Tel: +27 (0)11 291 3086
+Attorneys
+Webber Wentzel (in alliance with Linklaters)
+PO Box 61771
+Marshalltown 
+2107
+South Africa
+Werksmans Inc.
+PO Box 1474
+Cape Town 
+8000
+South Africa
+Investor relations
+Eoin Ryan
+InvestorRelations@naspers.com
+Tel: +1 347 210 4305
+NASPERS
+Summary from the integrated annual report 2024
+29
+Administration and corporate information
+
+--- PAGE 32 (full dump) ---
+This report contains forward-looking statements as defined in the United States Private Securities Litigation Reform Act of 1995 concerning 
+our financial condition, results of operations and businesses. These forward-looking statements are subject to a number of risks and 
+uncertainties, many of which are beyond our control and all of which are based on our current beliefs and expectations about future 
+events. Forward-looking statements are typically identified by the use of forward-looking terminology such as ‘believes’, ‘expects’, ‘may’, 
+‘will’, ‘could’, ‘should’, ‘intends’, ‘estimates’, ‘plans’, ‘assumes’ or ‘anticipates’, or associated negative, or other variations or comparable 
+terminology, or by discussions of strategy that involve risks and uncertainties. These forward-looking statements and other statements 
+contained in this report on matters that are not historical facts involve predictions. 
+No assurance can be given that such future results will be achieved. Actual events or results may differ materially as a result of risks and 
+uncertainties implied in such forward-looking statements. 
+A number of factors could affect our future operations and could cause those results to differ materially from those expressed in the 
+forward-looking statements, including (without limitation): (a) changes to IFRS and associated interpretations, applications and practices 
+as they apply to past, present and future periods; (b) ongoing and future acquisitions, changes to domestic and international business 
+and market conditions such as exchange rate and interest rate movements; (c) changes in domestic and international regulatory and 
+legislative environments; (d) changes to domestic and international operational, social, economic and political conditions; (e) labour 
+disruptions and industrial action; and (f) the effects of both current and future litigation. The forward-looking statements contained in this 
+report apply only as of the date of the report. We are not under any obligation to (and expressly disclaim any such obligation to) revise 
+or update any forward-looking statements to reflect events or circumstances after the date of the report or to reflect the occurrence 
+of unanticipated events. We cannot give any assurance that forward-looking statements will prove correct and investors are cautioned not 
+to place undue reliance on any forward-looking statements.
+30
+30
+NASPERS
+Summary from the integrated annual report 2024
+Forward-looking statements
+
+--- PAGE 33 (full dump) ---
+
+
+--- PAGE 34 (full dump) ---
+NASPERS HEAD OFFICE
++27 (0)21 406 2121
+40 Heerengracht
+Cape Town
+8001
+South Africa
+www.naspers.com
+
