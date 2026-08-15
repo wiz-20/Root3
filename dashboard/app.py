@@ -553,3 +553,65 @@ with st.container(border=True):
         st.dataframe(pd.DataFrame(ml_rows), width="stretch", hide_index=True)
     else:
         st.info("No internal-activity data available for this client in the ML training set.")
+
+st.write("")
+with st.container(border=True):
+    section("Predict for a new client", "Feed in internal activity directly - no pipeline rerun needed")
+    st.markdown(
+        f'<p style="font-size:0.8rem;color:{MUTED};margin-top:-6px;">For a client not yet in the medallion '
+        "gold tables (or a quick what-if): enter Syn Bank's own internal activity below and the "
+        f'already-trained ElasticNet model predicts share, total wallet, and gap immediately - no need to '
+        "rerun the medallion pipeline or retrain anything. Fill in both fields of a pillar to get a "
+        "prediction for it; leave a pillar blank (0) to skip it.</p>",
+        unsafe_allow_html=True,
+    )
+
+    with st.form("new_client_predict_form"):
+        new_client_name = st.text_input("Client name (for display only)", value="New client")
+        fc1, fc2, fc3 = st.columns(3)
+        with fc1:
+            st.markdown("**Trade & Working Capital**")
+            in_trade_receivables = st.number_input("Trade receivables (ZAR)", min_value=0.0, value=0.0, step=1_000_000.0, format="%.0f")
+            in_trade_payables = st.number_input("Trade payables (ZAR)", min_value=0.0, value=0.0, step=1_000_000.0, format="%.0f")
+        with fc2:
+            st.markdown("**Transactional Banking**")
+            in_collections = st.number_input("Collections (ZAR)", min_value=0.0, value=0.0, step=1_000_000.0, format="%.0f")
+            in_supplier_payments = st.number_input("Supplier payments (ZAR)", min_value=0.0, value=0.0, step=1_000_000.0, format="%.0f")
+        with fc3:
+            st.markdown("**Foreign/Cross-Border**")
+            in_cross_border = st.number_input("Cross-border inflows (ZAR)", min_value=0.0, value=0.0, step=1_000_000.0, format="%.0f")
+        predict_clicked = st.form_submit_button("Predict")
+
+    if predict_clicked:
+        inputs = dict(
+            trade_receivables=in_trade_receivables or None,
+            trade_payables=in_trade_payables or None,
+            collections=in_collections or None,
+            supplier_payments=in_supplier_payments or None,
+            cross_border_inflows=in_cross_border or None,
+        )
+        if not any(inputs.values()):
+            st.warning("Enter at least one pillar's figures (both fields for Trade or Transactional, or Cross-border inflows alone) to get a prediction.")
+        else:
+            st.session_state.new_client_prediction = (new_client_name, ml_predictor.predict_from_inputs(**inputs))
+
+    if "new_client_prediction" in st.session_state:
+        pred_name, pred_by_pillar = st.session_state.new_client_prediction
+        pred_rows = [
+            {
+                "Pillar": pillar,
+                "Target": t["target"],
+                "Predicted share": f"{t['predicted_share_pct']:.1f}%",
+                "Predicted total wallet": f"R{t['predicted_total_wallet_zar_m']:,.0f}m" if pd.notna(t["predicted_total_wallet_zar_m"]) else "not computable",
+                "Predicted gap": f"R{t['predicted_gap_zar_m']:,.0f}m" if pd.notna(t["predicted_gap_zar_m"]) else "not computable",
+            }
+            for pillar, targets in pred_by_pillar.items() for t in targets
+        ]
+        if pred_rows:
+            st.markdown(
+                f'<p style="font-size:0.85rem;color:{TEXT};background:rgba(51,184,222,0.08);'
+                f'border-left:3px solid {TEAL};padding:10px 14px;border-radius:6px;margin-bottom:12px;">'
+                f"{ml_predictor.describe_predictions(pred_by_pillar, pred_name)}</p>",
+                unsafe_allow_html=True,
+            )
+            st.dataframe(pd.DataFrame(pred_rows), width="stretch", hide_index=True)
