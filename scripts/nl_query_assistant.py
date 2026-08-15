@@ -120,9 +120,10 @@ class QueryAssistant:
             df = df[df["top_down_reliability"].str.startswith("moderate")]
         df = df.dropna(subset=["total_gap_zar_m"]).sort_values("total_gap_zar_m", ascending=False).head(n)
         lines = [f"Top {len(df)} opportunities by total Rand gap" + (" (actionable/moderate-reliability tier only):" if actionable_only else " (all reliability tiers):")]
-        for _, r in df.iterrows():
+        for i, (_, r) in enumerate(df.iterrows(), start=1):
             tier = "moderate" if r["top_down_reliability"].startswith("moderate") else ("low" if r["top_down_reliability"].startswith("low") else "insufficient")
-            lines.append(f"  {int(r['rank'])}. {r['entity_name']} ({r['sector']}) - {_fmt_rand(r['total_gap_zar_m'])} gap, {r['blended_share_pct']}% share [{tier} reliability]")
+            rank_note = f" (portfolio rank #{int(r['rank'])})" if actionable_only else ""
+            lines.append(f"  {i}. {r['entity_name']} ({r['sector']}) - {_fmt_rand(r['total_gap_zar_m'])} gap, {r['blended_share_pct']}% share [{tier} reliability]{rank_note}")
         if not actionable_only:
             lines.append("\nNote: several of the largest gaps above (foreign-currency reporters) are directional only, not literal Rand figures - ask for 'top actionable opportunities' to filter to ZAR reporters only.")
         return "\n".join(lines)
