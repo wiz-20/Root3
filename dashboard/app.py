@@ -19,8 +19,13 @@ import streamlit as st
 ROOT = Path(__file__).resolve().parent.parent
 EXTRACTED_DIR = ROOT / "hackathon-finreports" / "_extracted"
 sys.path.insert(0, str(ROOT / "scripts"))
+sys.path.insert(0, str(ROOT / "machine_learning"))
 
 from nl_query_assistant import QueryAssistant  # noqa: E402
+from predict_wallet import MLWalletPredictor  # noqa: E402
+import nl_query_llm  # noqa: E402
+
+TIER1_DECLINE_PREFIX = "I couldn't confidently match this question"
 
 # Brand palette - dark theme. Main content is deliberately darker than the sidebar.
 SIDEBAR_BG = "#0B2545"
@@ -233,8 +238,14 @@ def load_assistant():
     return QueryAssistant()
 
 
+@st.cache_resource
+def load_ml_predictor():
+    return MLWalletPredictor()
+
+
 wallet_model, ranking, anomalies = load_data()
 qa = load_assistant()
+ml_predictor = load_ml_predictor()
 
 EXAMPLE_QUESTIONS = [
     "What is Pepkor's share of the transactional wallet?",
@@ -251,11 +262,20 @@ if "chat_history" not in st.session_state:
 @st.dialog("Ask a Question", width="large")
 def ask_a_question_dialog():
     st.markdown('<p class="section-eyebrow">Tier 1 &middot; Live, zero-cost, deterministic</p>', unsafe_allow_html=True)
+    if nl_query_llm.is_available():
+        tier2_note = (
+            "Genuinely open-ended questions automatically escalate to <b>Tier 2</b> - a live Claude Opus 5 "
+            "call grounded in the same CSVs (see <code>docs/genai/nl_query_prompt.md</code>)."
+        )
+    else:
+        tier2_note = (
+            "Genuinely open-ended questions are explicitly declined (no <code>ANTHROPIC_API_KEY</code> "
+            "configured for live Tier 2 - see <code>hackathon-finreports/_extracted/nl_query_examples.md</code> "
+            "for static worked examples instead)."
+        )
     st.markdown(
         f'<p style="font-size:0.82rem;color:{MUTED};margin-top:-6px;">Handles lookups, comparisons, rankings, '
-        "reliability checks, and anomaly questions - no API key, safe to demo live. Genuinely open-ended "
-        "questions are explicitly declined (see <code>docs/genai/nl_query_prompt.md</code> for how those "
-        "are handled via LLM reasoning instead).</p>",
+        f"reliability checks, and anomaly questions - no API key, safe to demo live. {tier2_note}</p>",
         unsafe_allow_html=True,
     )
     st.write("")
@@ -269,7 +289,20 @@ def ask_a_question_dialog():
     user_input = st.chat_input("Ask about any client, opportunity, or anomaly...")
     if user_input:
         st.session_state.chat_history.append(("user", user_input))
-        st.session_state.chat_history.append(("assistant", qa.answer(user_input)))
+        tier1_answer = qa.answer(user_input)
+        if tier1_answer.startswith(TIER1_DECLINE_PREFIX) and nl_query_llm.is_available():
+            with st.spinner("Escalating to Tier 2 (live Claude call)..."):
+                try:
+                    llm_answer = nl_query_llm.answer_open_ended(user_input)
+                    answer = f"**Tier 2 &middot; live Claude Opus 5 call:**\n\n{llm_answer}"
+                except Exception as e:
+                    answer = (
+                        f"{tier1_answer}\n\n(Tier 2 escalation attempted but failed - "
+                        f"{type(e).__name__}: {e}. Showing the Tier 1 fallback above instead.)"
+                    )
+        else:
+            answer = tier1_answer
+        st.session_state.chat_history.append(("assistant", answer))
 
     st.write("")
     for role, msg in st.session_state.chat_history:
@@ -442,3 +475,31 @@ with st.container(border=True):
             st.plotly_chart(fig4, width="stretch")
         else:
             st.info("No pillar-level external wallet estimate available for this client.")
+
+st.write("")
+with st.container(border=True):
+    section("ML cross-check (ElasticNet)", "Share, total wallet & gap from internal activity alone")
+    st.markdown(
+        f'<p style="font-size:0.8rem;color:{MUTED};margin-top:-6px;">Predicts share from Syn Bank\'s own '
+        "internal activity only - no client external total required - then derives total wallet and gap "
+        "the same way the top-down model does (total wallet = internal / share). Useful precisely where "
+        f'the top-down benchmark above is missing or low-reliability. <span style="color:{TEXT};">Not computable</span> '
+        "means the model predicted a non-positive share for that row (no positivity constraint on ElasticNet) "
+        "rather than showing an inverted or fabricated number.</p>",
+        unsafe_allow_html=True,
+    )
+    ml_rows = []
+    for pillar, targets in ml_predictor.predict_for_client(client).items():
+        for t in targets:
+            wallet_ok = pd.notna(t["predicted_total_wallet_zar_m"])
+            ml_rows.append({
+                "Pillar": pillar,
+                "Target": t["target"],
+                "Predicted share": f"{t['predicted_share_pct']:.1f}%",
+                "Predicted total wallet": f"R{t['predicted_total_wallet_zar_m']:,.0f}m" if wallet_ok else "not computable",
+                "Predicted gap": f"R{t['predicted_gap_zar_m']:,.0f}m" if wallet_ok else "not computable",
+            })
+    if ml_rows:
+        st.dataframe(pd.DataFrame(ml_rows), width="stretch", hide_index=True)
+    else:
+        st.info("No internal-activity data available for this client in the ML training set.")

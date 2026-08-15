@@ -7,6 +7,8 @@ from pathlib import Path
 import numpy as np
 import joblib
 
+from wallet_math import derive_wallet_and_gap  # noqa: F401 - re-exported for notebook cells
+
 
 # ============================================================
 # MODEL HYPERPARAMETERS

@@ -41,4 +41,28 @@
 
 ---
 
+### Q: Why does OUTsurance Group show a 491% Trade & Working Capital share - is Syn Bank really capturing five times more activity than the client's own external benchmark?
+
+**A:** No - that's a proxy_breakdown anomaly, not a real relationship. OUTsurance's Pillar 2 internal activity is R78.6m against an external benchmark of only R16.0m, producing the impossible 491.3% figure; Sanlam shows the identical pattern on Pillar 3 (133.5% share, R2664.9m internal vs R1996.3m external). Both are insurers, and this is structural, not coincidental: the revenue-based proxy used for Trade & Working Capital / Foreign wallet doesn't map onto how an insurer's treasury and reinsurance flows actually work, so the "external total" undershoots the client's real scale. Read both figures as "the proxy is broken for this pillar," not as a relationship-strength signal - the trustworthy numbers for these two clients are their Pillar 1 shares (OUTsurance 0.9%, Sanlam 18.7%), which come from a benchmark that actually works.
+
+---
+
+### Q: How does the insurance sector's wallet penetration compare with consumer retail?
+
+**A:** On paper insurance looks stronger - Sanlam's 13.8% blended share dwarfs Shoprite's 3.1%, Bid Corporation's 4.2%, and even Pepkor's 20.9% looks close - but that comparison is misleading, because both insurers' non-Pillar-1 figures are proxy_breakdown anomalies (Sanlam 133.5% on Pillar 3, OUTsurance 491.3% on Pillar 2), not real capture. Stripped to the one pillar where the proxy actually works for every client (Pillar 1, Transactional Banking), the picture flips: Sanlam's 18.7% and OUTsurance's 0.9% bracket the range, against Pepkor's 22.4%, Bid Corporation's 3.1%, and Shoprite's 2.4%. Insurance isn't uniformly stronger than retail - Sanlam is a strong transactional relationship, OUTsurance is a weak one - and the sector-level comparison only holds pillar-by-pillar, not as a blended-share average.
+
+---
+
+### Q: Pepkor Holdings has by far the strongest blended share in the portfolio - does that mean there's no more opportunity there?
+
+**A:** No - Pepkor is simultaneously the strongest relationship AND a top-15 gap by Rand size (portfolio rank #13, R160.5bn), because its 20.9% blended share is a Pillar 1-driven average masking a much weaker Pillar 2. Transactional Banking share is 22.4% - the highest in the portfolio by a wide margin - but Trade & Working Capital sits at just 3.1%, and Foreign/Cross-Border has no usable external benchmark at all (flagged `wallet_unavailable`: R6655.5m of internal cross-border activity with nothing to compare it to). The right read isn't "Pepkor is done," it's "a Pillar 1 success story that hasn't been cross-sold into Trade & Working Capital" - exactly the headroom a single blended percentage hides. One more caveat before pitching this: Pepkor's 20.9% blended share is itself a `statistical_outlier_high` versus the moderate-reliability peer-group mean of 5.8% (z=2.31) - worth a sanity-check on the underlying financials before building a deck around it.
+
+---
+
+### Q: If you had to give the exec team one portfolio-level number to remember, what would it be and what's the caveat?
+
+**A:** 5.8% - the average blended share across the actionable (moderate-reliability, ZAR-reporter) tier, the only subset where the figure is a literal, trustworthy Rand-denominated share rather than a directional foreign-currency proxy. The caveat is what it excludes: 9 of 20 clients are foreign-currency reporters whose consolidated Rand gaps (Glencore's R9.5 trillion the most extreme) can't be summed into any portfolio total, and 1 client (Bidvest) has no blended figure at all because Group financials aren't disclosed. So 5.8% is honestly "the actionable half of the book," not "the whole portfolio" - repeating it without that scope caveat would overstate confidence to the room.
+
+---
+
 *Tier 1 (instant, deterministic lookups): `scripts/nl_query_assistant.py`. Design rationale: `docs/genai/nl_query_prompt.md`.*
