@@ -39,6 +39,15 @@ def _latest_row(df: pd.DataFrame, entity_name: str):
     return rows.sort_values("year").iloc[-1]
 
 
+def _fmt_rand_m(zar_m: float) -> str:
+    if pd.isna(zar_m):
+        return "not available"
+    v = float(zar_m)
+    if abs(v) >= 1000:
+        return f"R{v / 1000:.1f}bn"
+    return f"R{v:.1f}m"
+
+
 def _target_result(label: str, internal_col: str, row: pd.Series, predicted_share: float) -> dict:
     internal = float(row[internal_col])
     wallet, gap = derive_wallet_and_gap(internal, predicted_share)
@@ -115,6 +124,53 @@ class MLWalletPredictor:
         result["Foreign/Cross-Border"] = fx_targets
 
         return result
+
+    def describe(self, entity_name: str) -> str:
+        """
+        Turns predict_for_client()'s numbers into a banker-readable narrative - this is the
+        GenAI-facing half of the ML model: the ElasticNet predictions are the *input*, this
+        sentence is the *synthesis* a relationship banker actually reads. No LLM call needed
+        (the numbers are already known; this is templated synthesis, same "Tier 1" philosophy
+        as scripts/nl_query_assistant.py), which keeps it free and always available.
+        """
+        by_pillar = self.predict_for_client(entity_name)
+        all_targets = [(pillar, t) for pillar, targets in by_pillar.items() for t in targets]
+        if not all_targets:
+            return f"No internal-activity data available for {entity_name} in the ML training set - the ElasticNet models have nothing to predict from."
+
+        computable = [(p, t) for p, t in all_targets if pd.notna(t["predicted_gap_zar_m"])]
+        not_computable = [(p, t) for p, t in all_targets if pd.isna(t["predicted_gap_zar_m"])]
+
+        if not computable:
+            return (
+                f"ElasticNet (internal-activity-only) has {len(all_targets)} target(s) for {entity_name}, but "
+                "predicted a non-positive share on all of them, so total wallet/gap aren't computable for any - "
+                "see the reliability caveat in machine_learning/wallet_math.py."
+            )
+
+        pillar, headline = max(computable, key=lambda pt: pt[1]["predicted_gap_zar_m"])
+        parts = [
+            f"ElasticNet (internal-activity-only) estimates {entity_name}'s {headline['target'].lower()} wallet "
+            f"at {_fmt_rand_m(headline['predicted_total_wallet_zar_m'])}, with Syn Bank capturing "
+            f"~{headline['predicted_share_pct']:.1f}% - a ~{_fmt_rand_m(headline['predicted_gap_zar_m'])} gap, "
+            f"the largest of its {len(computable)} computable target(s) ({pillar})."
+        ]
+
+        others = [t for p, t in computable if t is not headline]
+        if others:
+            other_bits = [
+                f"{t['target'].lower()} {_fmt_rand_m(t['predicted_gap_zar_m'])} gap ({t['predicted_share_pct']:.1f}% share)"
+                for t in others
+            ]
+            parts.append("Other targets: " + "; ".join(other_bits) + ".")
+
+        if not_computable:
+            skipped = ", ".join(t["target"].lower() for _, t in not_computable)
+            parts.append(
+                f"Not computable for {skipped} - predicted share came out non-positive, so no fabricated wallet/gap figure is shown."
+            )
+
+        return " ".join(parts)
 
 
 if __name__ == "__main__":

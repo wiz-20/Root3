@@ -252,19 +252,22 @@ def load_briefing_notes() -> dict:
 
 
 @st.cache_resource
-def load_assistant():
-    return QueryAssistant()
-
-
-@st.cache_resource
 def load_ml_predictor():
     return MLWalletPredictor()
 
 
+@st.cache_resource
+def load_assistant(_ml_predictor):
+    # Pass the already-cached ML predictor in rather than letting QueryAssistant lazily load
+    # its own - avoids loading the .pkl bundles twice, and ties the two GenAI-facing modules
+    # (Tier 1 lookups, ML cross-check) to the same underlying model instance.
+    return QueryAssistant(ml_predictor=_ml_predictor)
+
+
 wallet_model, ranking, anomalies = load_data()
 briefing_notes = load_briefing_notes()
-qa = load_assistant()
 ml_predictor = load_ml_predictor()
+qa = load_assistant(ml_predictor)
 
 EXAMPLE_QUESTIONS = [
     "What is Pepkor's share of the transactional wallet?",
@@ -315,9 +318,15 @@ def ask_a_question_dialog():
                     llm_answer = nl_query_llm.answer_open_ended(user_input)
                     answer = f"**Tier 2 &middot; live Claude Opus 5 call:**\n\n{llm_answer}"
                 except Exception as e:
+                    print(f"[Tier 2 escalation error] {type(e).__name__}: {e}")  # console only - keep the chat reply clean
+                    try:
+                        import anthropic
+                        reason = "the configured Claude API key isn't valid" if isinstance(e, anthropic.AuthenticationError) else "the live Claude call didn't go through"
+                    except Exception:
+                        reason = "the live Claude call didn't go through"
                     answer = (
-                        f"{tier1_answer}\n\n(Tier 2 escalation attempted but failed - "
-                        f"{type(e).__name__}: {e}. Showing the Tier 1 fallback above instead.)"
+                        f"{tier1_answer}\n\n"
+                        f"_Tier 2 live escalation is enabled, but {reason} right now - falling back to the Tier 1 answer above._"
                     )
         else:
             answer = tier1_answer
@@ -535,6 +544,12 @@ with st.container(border=True):
                 "Predicted gap": f"R{t['predicted_gap_zar_m']:,.0f}m" if wallet_ok else "not computable",
             })
     if ml_rows:
+        st.markdown(
+            f'<p style="font-size:0.85rem;color:{TEXT};background:rgba(51,184,222,0.08);'
+            f'border-left:3px solid {TEAL};padding:10px 14px;border-radius:6px;margin-bottom:12px;">'
+            f"{ml_predictor.describe(client)}</p>",
+            unsafe_allow_html=True,
+        )
         st.dataframe(pd.DataFrame(ml_rows), width="stretch", hide_index=True)
     else:
         st.info("No internal-activity data available for this client in the ML training set.")

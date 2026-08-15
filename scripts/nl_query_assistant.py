@@ -10,12 +10,19 @@ live to judges without worrying about hallucination or an API outage. It handles
 comparisons, rankings, reliability checks) by retrieving the exact row(s) needed from the
 already-computed, human-checked CSVs and filling them into a template.
 
+**Tied to the ML model, not parallel to it:** every per-client answer folds in
+`machine_learning/predict_wallet.py`'s ElasticNet prediction alongside the top-down number
+(see `_client_summary`), and "what does the ML model predict" questions route to a
+dedicated ML-only answer (`_ml_prediction`). The ML model's job is the numbers; this
+module's job (same GenAI layer) is turning those numbers into an answer a banker can read -
+that synthesis step is the actual "querying" deliverable, and it was pointless to build it
+against only one of the two models the project produces.
+
 For genuinely open-ended questions that need cross-row reasoning or judgment (e.g. "which 3
 clients should the sales team prioritize this quarter and why"), this module is
-deliberately NOT used - those are answered instead via the documented prompt in
-docs/genai/nl_query_prompt.md, using the Cursor agent as the LLM (same choice made for the
-briefing notes, for the same reason: hackathon speed, no API key/cost). See
-hackathon-finreports/_extracted/nl_query_examples.md for those worked examples.
+deliberately NOT used - those escalate to a live LLM call (nl_query_llm.py) when an API key
+is configured, or fall back to the documented worked examples in
+hackathon-finreports/_extracted/nl_query_examples.md otherwise.
 
 Usage (from a notebook cell or the CLI):
     from nl_query_assistant import QueryAssistant
@@ -26,6 +33,7 @@ Usage (from a notebook cell or the CLI):
 """
 
 import re
+import sys
 from pathlib import Path
 
 import pandas as pd
@@ -34,6 +42,20 @@ ROOT = Path(__file__).resolve().parent.parent
 EXTRACTED_DIR = ROOT / "hackathon-finreports" / "_extracted"
 
 PILLAR_NAMES = {1: "Transactional Banking", 2: "Trade & Working Capital", 3: "Foreign/Cross-Border"}
+
+
+def _load_ml_predictor():
+    """Lazy, best-effort load so this module still works standalone (CLI, notebook cell 29)
+    without machine_learning/ on sys.path - if it's unavailable for any reason, ML-aware
+    answers just fall back to top-down-only rather than crashing the whole assistant."""
+    try:
+        ml_dir = str(ROOT / "machine_learning")
+        if ml_dir not in sys.path:
+            sys.path.insert(0, ml_dir)
+        from predict_wallet import MLWalletPredictor
+        return MLWalletPredictor()
+    except Exception:
+        return None
 
 
 def _fmt_rand(zar_millions: float) -> str:
@@ -48,12 +70,15 @@ def _fmt_rand(zar_millions: float) -> str:
 
 
 class QueryAssistant:
-    def __init__(self, extracted_dir: Path = EXTRACTED_DIR):
+    def __init__(self, extracted_dir: Path = EXTRACTED_DIR, ml_predictor=None):
         self.wallet_model = pd.read_csv(extracted_dir / "wallet_model.csv")
         self.ranking = pd.read_csv(extracted_dir / "opportunity_ranking.csv")
         anomalies_path = extracted_dir / "anomalies_detected.csv"
         self.anomalies = pd.read_csv(anomalies_path) if anomalies_path.exists() else pd.DataFrame()
         self.entity_names = self.wallet_model["entity_name"].tolist()
+        # Callers that already have one cached (e.g. the dashboard) should pass it in to avoid
+        # loading the .pkl bundles twice; otherwise this lazily loads its own.
+        self.ml_predictor = ml_predictor if ml_predictor is not None else _load_ml_predictor()
 
     _GENERIC_WORDS = {"the", "group", "holdings", "plc", "capital", "corporation", "banking", "pharmacare"}
 
@@ -81,8 +106,22 @@ class QueryAssistant:
         q = question.lower().strip()
         entity = self._match_entity(question)
 
+        # No entity mentioned + a generic help-seeking phrase -> list capabilities instead of
+        # falling through to the decline message. Gated on "not entity" so a real question that
+        # happens to include the word "help" (e.g. "can you help me understand Pepkor's gap?")
+        # still routes to its actual intent below, not this generic response.
+        if not entity and re.search(
+            r"^help$|help me|what can (you|i)|what (should|could) i ask|"
+            r"how do(es)? (this|you) work|what (questions|things) can (you|i)|capabilit",
+            q,
+        ):
+            return self._help()
+
         if ("top" in q and re.search(r"opportunit|gap|priorit", q)) or "biggest gap" in q or "largest gap" in q:
             return self._top_opportunities(q)
+
+        if entity and re.search(r"\bml\b|machine learning|elastic ?net|model predict|predict.*wallet|predict.*share|predict.*gap", q):
+            return self._ml_prediction(entity)
 
         if entity and re.search(r"reliab|trust|confiden|literal", q):
             return self._reliability(entity)
@@ -105,11 +144,32 @@ class QueryAssistant:
         return (
             "I couldn't confidently match this question to a specific client or a supported "
             "query type (top opportunities / reliability / gap explanation / anomalies / pillar "
-            "recommendation / client summary) using the rule-based layer. This is an open-ended "
-            "question best answered with full reasoning - see "
+            "recommendation / client summary) using the rule-based layer. Ask \"what can you help "
+            "me with?\" for a list of supported questions. This particular question is open-ended "
+            "and best answered with full reasoning - see "
             "docs/genai/nl_query_prompt.md and hackathon-finreports/_extracted/nl_query_examples.md "
             "for how these are handled via the Cursor-agent LLM layer instead."
         )
+
+    def _help(self) -> str:
+        lines = [
+            "I can answer questions about any of the 20 clients in the portfolio, using both the "
+            "top-down model and the ML (ElasticNet) model together. Try things like:",
+            "",
+            "  - \"What is Pepkor's share of the transactional wallet?\" - full client summary (both models)",
+            "  - \"What are the top 5 opportunities?\" / \"top 3 actionable opportunities\" - ranked by gap",
+            "  - \"Can we trust Sanlam's numbers?\" - reliability tier for a client",
+            "  - \"Why is Glencore's gap so large?\" - explains a large or foreign-currency-driven gap",
+            "  - \"Which pillar should we lead with for MTN?\" - pillar recommendation",
+            "  - \"Are there any anomalies for Bidvest?\" - anomaly detection results",
+            "  - \"What does the ML model predict for Sanlam?\" - ML-only estimate",
+            "",
+            "Name a client and what you want to know, and the question routes automatically. "
+            "Open-ended questions that need judgment across multiple clients (e.g. \"which 3 "
+            "clients should sales prioritize this quarter?\") escalate to a live LLM call when "
+            "one is available, or point to worked examples otherwise.",
+        ]
+        return "\n".join(lines)
 
     def _top_opportunities(self, q: str) -> str:
         n_match = re.search(r"top\s*(\d+)", q)
@@ -200,7 +260,18 @@ class QueryAssistant:
             lines.append(f"  Blended: {row['blended_share_pct']}% share, {_fmt_rand(row['total_gap_zar_m'])} gap")
         else:
             lines.append("  Blended: not computed (insufficient data)")
+        if self.ml_predictor is not None:
+            lines.append(f"\nML cross-check (ElasticNet, internal-activity-only): {self.ml_predictor.describe(entity)}")
         return "\n".join(lines)
+
+    def _ml_prediction(self, entity: str) -> str:
+        if self.ml_predictor is None:
+            return (
+                f"The ML cross-check isn't available in this session (machine_learning/ models "
+                f"failed to load). Falling back to the top-down summary for {entity}:\n\n"
+                + self._client_summary(entity)
+            )
+        return self.ml_predictor.describe(entity)
 
 
 if __name__ == "__main__":
