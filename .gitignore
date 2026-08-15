@@ -26,10 +26,6 @@ __pycache__/
 !hackathon-finreports/_extracted/wallet_model_multiyear.csv
 !hackathon-finreports/_extracted/anomalies_detected.csv
 !hackathon-finreports/_extracted/briefing_notes_verification.csv
-!hackathon-finreports/_extracted/nl_query_examples_verification.csv
-
-# Submission deliverable PDFs - exceptions to the blanket *.pdf rule above.
-!docs/deliverables/*.pdf
 
 
 # Raw Syn Bank internal datasets - large (~430MB combined), hackathon-provided, not ours to
