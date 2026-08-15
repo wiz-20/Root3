@@ -1,0 +1,28 @@
+entity_name,pillar,rule,detail
+OUTsurance Group,2,proxy_breakdown,"share=491.3%, internal=R78.6m, wallet=R16.0m"
+The Bidvest Group,2,proxy_breakdown,"share=666.1%, internal=R1464.0m, wallet=R219.8m"
+Sanlam,3,proxy_breakdown,"share=133.5%, internal=R2664.9m, wallet=R1996.3m"
+The Bidvest Group,1,wallet_unavailable,internal activity=R4730.6m exists but no external wallet estimate available
+MTN Group,2,wallet_unavailable,internal activity=R1443.2m exists but no external wallet estimate available
+Glencore,3,wallet_unavailable,internal activity=R2323.9m exists but no external wallet estimate available
+BHP Group,3,wallet_unavailable,internal activity=R2082.9m exists but no external wallet estimate available
+Anglo American,3,wallet_unavailable,internal activity=R996.4m exists but no external wallet estimate available
+Shoprite Holdings,3,wallet_unavailable,internal activity=R3356.2m exists but no external wallet estimate available
+Bid Corporation,3,wallet_unavailable,internal activity=R6165.6m exists but no external wallet estimate available
+AngloGold Ashanti,3,wallet_unavailable,internal activity=R848.5m exists but no external wallet estimate available
+Valterra Platinum,3,wallet_unavailable,internal activity=R202.5m exists but no external wallet estimate available
+Gold Fields,3,wallet_unavailable,internal activity=R899.8m exists but no external wallet estimate available
+Prosus,3,wallet_unavailable,internal activity=R1973.3m exists but no external wallet estimate available
+Pepkor Holdings,3,wallet_unavailable,internal activity=R6655.5m exists but no external wallet estimate available
+Clicks Group,3,wallet_unavailable,internal activity=R1005.5m exists but no external wallet estimate available
+Aspen Pharmacare,3,wallet_unavailable,internal activity=R1413.0m exists but no external wallet estimate available
+OUTsurance Group,3,wallet_unavailable,internal activity=R1136.8m exists but no external wallet estimate available
+NEPI Rockcastle,3,wallet_unavailable,internal activity=R304.2m exists but no external wallet estimate available
+Shaftesbury Capital plc,3,wallet_unavailable,internal activity=R111.4m exists but no external wallet estimate available
+The Bidvest Group,3,wallet_unavailable,internal activity=R1614.3m exists but no external wallet estimate available
+The Bidvest Group,blended,reliability_insufficient,Group-level financials not disclosed in source AFS - blended total not computed
+Glencore,blended,scale_mismatch_low_reliability,"total_gap=R9501.0bn on a foreign-currency consolidated group report (top quartile of all 20 clients, threshold=R430.8bn)"
+BHP Group,blended,scale_mismatch_low_reliability,"total_gap=R1108.5bn on a foreign-currency consolidated group report (top quartile of all 20 clients, threshold=R430.8bn)"
+Anglo American,blended,scale_mismatch_low_reliability,"total_gap=R502.7bn on a foreign-currency consolidated group report (top quartile of all 20 clients, threshold=R430.8bn)"
+Pepkor Holdings,blended,statistical_outlier_high,"blended_share=20.9% vs peer-group (moderate-reliability, n=10) mean=5.8%, std=6.5%, z=2.31"
+Glencore,blended,statistical_outlier_low,"blended_share=0.1% vs peer-group (low-reliability, n=9) mean=1.5%, std=0.7%, z=-2.07"

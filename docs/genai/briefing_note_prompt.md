@@ -39,16 +39,21 @@ INPUT DATA:
 
 ## Output
 
-Generated notes for 7 clients (exceeds the 3-client minimum), chosen to cover three distinct narrative types the model needed to handle correctly:
-- **Actionable, high-conviction (ZAR reporters):** Shoprite Holdings, Bid Corporation, MTN Group, Vodacom Group
-- **Standout/anomalous finding:** Valterra Platinum (near-zero share despite being a domestic reporter, not a scale-mismatch artifact)
-- **Needs a caveat read, not a literal one:** Sanlam (a >100% pillar share from a proxy limitation, not a data error), Glencore (the naive-model trap - included deliberately as evidence the model correctly flags rather than reports face-value trillion-Rand figures)
+Generated notes for **all 20 clients** (full portfolio coverage, not a curated sample), covering every narrative type the model needs to handle correctly:
+- **Actionable, high-conviction (ZAR reporters):** Shoprite Holdings, Bid Corporation, MTN Group, Vodacom Group, Pepkor Holdings, Aspen Pharmacare, and 4 more
+- **Standout/anomalous finding:** Valterra Platinum and Clicks Group (near-zero share despite being domestic reporters, not scale-mismatch artifacts)
+- **Needs a caveat read, not a literal one:** Sanlam and OUTsurance (>100% pillar shares from a proxy limitation, not data errors), Glencore/BHP/Anglo American (the naive-model trap - included deliberately as evidence the model correctly flags rather than reports face-value trillion-Rand figures)
+- **Insufficient data:** The Bidvest Group (only company-level, not Group, AFS found - correctly left without a blended total rather than guessed)
 
-See `hackathon-finreports/_extracted/client_briefing_notes.md` for the generated notes.
+See `hackathon-finreports/_extracted/client_briefing_notes.md` for all 20 generated notes, ordered by total Rand gap.
+
+## Grounding verification
+
+Every numeric claim in every note is machine-checked against `wallet_model.csv` by `scripts/verify_briefing_notes.py` - it extracts every percentage and Rand figure stated in the prose and confirms each one matches a real source value (within a small rounding tolerance for figures like "R448bn" from a source value of 447,941). This caught one real error during development (MTN's note originally cited a stale FY2024 foreign-revenue % instead of the FY2025 figure actually used in the model) before it reached a reviewer. Current status: 142/143 claims auto-verified, 1 manually reviewed and confirmed correct (a descriptive, non-data phrase the regex flagged as a false positive). Full audit trail: `hackathon-finreports/_extracted/briefing_notes_verification.csv`.
 
 ## Scaling this up (if time allows)
 
-To generate all 20 (or 43, multi-year) automatically via an API instead of manually:
+To generate the 43-row multi-year panel (`wallet_model_multiyear.csv`) automatically via an API instead of manually:
 1. `pip install openai` (or `anthropic`)
-2. Loop over rows of `wallet_model.csv`, format each row into the same template above, call the API, write results to the same output format.
+2. Loop over rows, format each row into the same template above, call the API, write results to the same output format.
 3. No prompt changes needed - the template above is API-ready as-is.
