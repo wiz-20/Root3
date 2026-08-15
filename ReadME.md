@@ -18,10 +18,7 @@ layer:
    model is weakest, i.e. where external data is missing or of low reliability.
 
 The GenAI layer — client briefing notes, anomaly explanations, and natural-language
-querying — is grounded in both models, not one. Every generated answer concerning a
-client's wallet cites the top-down figure and the ML model's estimate side by side, each
-labelled by source.
-
+querying — is grounded in both models, not one. The live GenAI layer is grounded in both estimation approaches, with top-down and ML-derived figures explicitly labelled by source so that agreement or disagreement between the models can be surfaced rather than hidden.
 Full technical detail — every script, its inputs and outputs, and which components run
 live versus which were executed once during data preparation — is documented in
 [`PIPELINE.md`](PIPELINE.md).
@@ -63,14 +60,17 @@ unaffected by a missing or invalid key.
 ## Architecture
 
 ```text
-Internal Syn Bank data ─┬─→ top-down model ──────┐
-                         │   (financials-based)    ├─→ GenAI layer ─→ dashboard /
-External financials ────┘                          │   (briefing notes,      notebook
-                         │                          │    anomaly explanations,
-Internal Syn Bank data ─┴─→ ElasticNet ML model ────┘    NL querying - grounded
-                             (internal-activity-        in both models above)
-                              only, predicts share →
-                              wallet → gap)
+Internal Syn Bank data ─┬─→ Top-down model ───────────────┐
+                         │   (financials-based proxy)       │
+External financials ────┘                                  │
+                                                            ├─→ GenAI layer
+Internal Syn Bank data ───→ ElasticNet ML model             │       ↓
+                              ↓                              │    Dashboard /
+                         Predicted share                     │    Notebook
+                              ↓                              │
+                     Deterministic calculation              │
+                              ↓                              │
+                      Wallet + Gap ──────────────────────────┘
 ```
 
 The ML model and the GenAI layer are integrated by design: the ML model's predictions are
@@ -106,3 +106,42 @@ analysis. The full integration is documented in `PIPELINE.md` §6-9.
 | How does the GenAI layer work, and how is it grounded? | `docs/genai/README.md` |
 | What external data sources were evaluated, and why? | `DATA_SOURCES.md` |
 | What was the original project scope and evaluation rubric? | `PLAN.md` |
+
+## Updating the System with New Syn Bank Data
+
+The trained ElasticNet models are designed to score newly available Syn Bank internal activity without requiring model retraining. When new transactional, trade-finance, or cross-border data becomes available, the raw data is first processed through the medallion pipeline to regenerate the Gold-layer client features. The dashboard then automatically uses these updated features to generate new machine-learning predictions and provide the latest results to the live GenAI layer.
+
+The operational pipeline is:
+
+```text
+Update Syn Bank Internal Data
+        ↓
+cross_border_payments.csv
+trade_finance.csv
+transactional_banking.csv
+        ↓
+Bronze → Silver Transformation
+        ↓
+Silver → Gold Transformation
+        ↓
+Updated Gold-Layer Datasets
+        ↓
+dashboard/app.py
+        │
+        ├──→ predict_wallet.py
+        │       │
+        │       ├── reads the latest Gold-layer client data
+        │       ├── loads the existing trained ElasticNet models and scalers
+        │       └── predicts Share of Wallet
+        │
+        ├──→ wallet_math.py
+        │       │
+        │       ├── Estimated Wallet = Syn Bank Activity / Predicted Share
+        │       └── Estimated Gap = Estimated Wallet - Syn Bank Activity
+        │
+        └──→ GenAI Layer
+                │
+                ├── Tier 1: deterministic natural-language querying
+                │
+                └── Tier 2: live LLM synthesis grounded in the latest
+                    ML predictions and top-down model results
