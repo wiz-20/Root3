@@ -60,17 +60,15 @@ unaffected by a missing or invalid key.
 ## Architecture
 
 ```text
-Internal Syn Bank data ─┬─→ Top-down model ───────────────┐
-                         │   (financials-based proxy)       │
-External financials ────┘                                  │
-                                                            ├─→ GenAI layer
-Internal Syn Bank data ───→ ElasticNet ML model             │       ↓
-                              ↓                              │    Dashboard /
-                         Predicted share                     │    Notebook
-                              ↓                              │
-                     Deterministic calculation              │
-                              ↓                              │
-                      Wallet + Gap ──────────────────────────┘
+Internal Syn Bank Data ─────┬──→ Top-Down Wallet Model ──┐
+                            │                             │
+External Financial Data ────┤                             ├──→ GenAI Layer
+                            │                             │        ↓
+                            └──→ ElasticNet ML Model ─────┘   Dashboard /
+                                      ↓                       Insights
+                               Predicted Share
+                                      ↓
+                                 Wallet + Gap
 ```
 
 The ML model and the GenAI layer are integrated by design: the ML model's predictions are
