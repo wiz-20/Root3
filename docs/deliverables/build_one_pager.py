@@ -18,25 +18,110 @@ from reportlab.platypus import (
 OUT_DIR = Path(__file__).resolve().parent
 OUT_PATH = OUT_DIR / "ROOT3_one_pager.pdf"
 
-NAVY = colors.HexColor("#0B2545")
-TEAL = colors.HexColor("#2E86AB")
-GOLD = colors.HexColor("#C9A227")
-LIGHT_GREY = colors.HexColor("#F2F4F7")
-DARK_TEXT = colors.HexColor("#1A1A1A")
-MUTED = colors.HexColor("#555555")
+# ============================================================
+# COLOUR PALETTE
+# ============================================================
+
+# Core Root3 palette
+NAVY = colors.HexColor("#2A2223")        # dark charcoal/brown - main header
+TEAL = colors.HexColor("#E30A60")        # vivid pink - primary accent
+GOLD = colors.HexColor("#64CC0F")        # lime green - secondary accent
+
+# Neutral supporting colours
+LIGHT_GREY = colors.HexColor("#EFEDEE")  # very light warm grey/pink
+DARK_TEXT = colors.HexColor("#211C1D")   # softer black
+MUTED = colors.HexColor("#6F6467")       # readable muted grey
 
 styles = {
-    "title": ParagraphStyle("title", fontName="Helvetica-Bold", fontSize=17, textColor=colors.white, leading=20),
-    "subtitle": ParagraphStyle("subtitle", fontName="Helvetica", fontSize=9.5, textColor=colors.white, leading=12),
-    "h2": ParagraphStyle("h2", fontName="Helvetica-Bold", fontSize=10.5, textColor=NAVY, spaceBefore=0, spaceAfter=3, leading=13),
-    "body": ParagraphStyle("body", fontName="Helvetica", fontSize=8.3, textColor=DARK_TEXT, leading=10.8, spaceAfter=2),
-    "bullet": ParagraphStyle("bullet", fontName="Helvetica", fontSize=8.3, textColor=DARK_TEXT, leading=10.6, leftIndent=8, bulletIndent=0, spaceAfter=2.2),
-    "stat_num": ParagraphStyle("stat_num", fontName="Helvetica-Bold", fontSize=15, textColor=TEAL, leading=17, alignment=1),
-    "stat_label": ParagraphStyle("stat_label", fontName="Helvetica", fontSize=6.6, textColor=MUTED, leading=8, alignment=1),
-    "footer": ParagraphStyle("footer", fontName="Helvetica", fontSize=7, textColor=MUTED, leading=9),
-    "footer_b": ParagraphStyle("footer_b", fontName="Helvetica-Bold", fontSize=7, textColor=NAVY, leading=9),
-}
+    "title": ParagraphStyle(
+        "title",
+        fontName="Helvetica-Bold",
+        fontSize=17,
+        textColor=colors.white,
+        leading=20
+    ),
 
+    "subtitle": ParagraphStyle(
+        "subtitle",
+        fontName="Helvetica",
+        fontSize=9.5,
+        textColor=colors.HexColor("#F4ECEF"),
+        leading=12
+    ),
+
+    "h2": ParagraphStyle(
+        "h2",
+        fontName="Helvetica-Bold",
+        fontSize=10.5,
+        textColor=TEAL,
+        spaceBefore=0,
+        spaceAfter=3,
+        leading=13
+    ),
+
+    "body": ParagraphStyle(
+        "body",
+        fontName="Helvetica",
+        fontSize=8.3,
+        textColor=DARK_TEXT,
+        leading=10.8,
+        spaceAfter=2
+    ),
+
+    "bullet": ParagraphStyle(
+        "bullet",
+        fontName="Helvetica",
+        fontSize=8.3,
+        textColor=DARK_TEXT,
+        leading=10.6,
+        leftIndent=8,
+        bulletIndent=0,
+        spaceAfter=2.2
+    ),
+
+    "stat_num": ParagraphStyle(
+        "stat_num",
+        fontName="Helvetica-Bold",
+        fontSize=15,
+        textColor=TEAL,
+        leading=17,
+        alignment=1
+    ),
+
+    "stat_label": ParagraphStyle(
+        "stat_label",
+        fontName="Helvetica",
+        fontSize=6.6,
+        textColor=MUTED,
+        leading=8,
+        alignment=1
+    ),
+
+    "footer": ParagraphStyle(
+        "footer",
+        fontName="Helvetica",
+        fontSize=7,
+        textColor=MUTED,
+        leading=9
+    ),
+
+    "footer_b": ParagraphStyle(
+        "footer_b",
+        fontName="Helvetica-Bold",
+        fontSize=7,
+        textColor=TEAL,
+        leading=9
+    ),
+
+    "foot_info": ParagraphStyle(
+        "foot_info",
+        fontName="Helvetica",
+        fontSize=8.3,
+        textColor=DARK_TEXT,
+        leading=10.8,
+        spaceAfter=2
+    ),
+}
 
 def header_band():
     title = Paragraph(
@@ -118,7 +203,8 @@ def stat_strip():
 
 def section(title, flowables, width=None):
     head = Paragraph(title.upper(), styles["h2"])
-    rule = HRFlowable(width="100%", thickness=1, color=GOLD, spaceBefore=1, spaceAfter=4)
+    rule = HRFlowable(width="100%",thickness=1.3,color=GOLD,spaceBefore=1,spaceAfter=4
+)
     return [head, rule] + flowables
 
 
@@ -142,7 +228,7 @@ def build():
     problem = Paragraph(
         "Syn Bank is never a client's <b>sole</b> banking partner. Our team built an engine that estimates each client's "
         "<b>Total Wallet</b> across three product pillars, quantifies Syn Bank's <b>current Share</b> from internal "
-        "data, and ranks the <b>Rand Gap</b> to prioritize which clients SynBank should chase next \u2014 "
+        "data, and ranks the <b>Rand Gap</b> to prioritize which clients SynBank should chase next, "
         "for the 20 JSE-listed corporates in Syn Bank's synthetic transactional, trade finance, and cross-border datasets.",
         styles["body"],
     )
@@ -152,7 +238,7 @@ def build():
     left_col = section("Our Approach", [
         Paragraph(
             "<b>Numerator (Share):</b> Internal transactional, trade finance and cross-border data, split into "
-            "3 pillars \u2014 Transactional Banking, Trade &amp; Working Capital, Foreign/Cross-Border.",
+            "3 pillars: Transactional Banking, Trade &amp; Working Capital, Foreign/Cross-Border.",
             styles["body"],
         ),
         Paragraph(
@@ -163,7 +249,7 @@ def build():
         ),
         Paragraph(
             "<b>Learned angle:</b> ElasticNet regression (5 targets, Leave-One-Group-Out CV) predicts share % "
-            "directly from the internal activity volume \u2014 useful precisely where the top-down external "
+            "directly from the internal activity volume; useful precisely where the top-down external "
             "benchmark is thin or missing (when the company's public financial statements do not disclose"
             "enough reliable information to construct the external top-down wallet estimate).",
             styles["body"],
@@ -234,10 +320,10 @@ def build():
     story.append(Spacer(1, 6))
 
     tier_row = Table([[
-        Paragraph("<b>Reliability tiers, stated on every figure:</b>", styles["body"]),
-        Paragraph("<b>10</b> moderate (ZAR reporter, literal Rand gap)", styles["body"]),
-        Paragraph("<b>9</b> low (foreign currency, directional % only)", styles["body"]),
-        Paragraph("<b>1</b> insufficient (Group AFS not disclosed)", styles["body"]),
+        Paragraph("<b>Reliability tiers, stated on every figure:</b>", styles["foot_info"]),
+        Paragraph("<b>10</b> moderate (ZAR reporter, literal Rand gap)", styles["foot_info"]),
+        Paragraph("<b>9</b> low (foreign currency, directional % only)", styles["foot_info"]),
+        Paragraph("<b>1</b> insufficient (Group AFS not disclosed)", styles["foot_info"]),
     ]], colWidths=[52 * mm, 46 * mm, 48 * mm, 42 * mm])
     tier_row.setStyle(TableStyle([
         ("BACKGROUND", (0, 0), (-1, -1), LIGHT_GREY),
@@ -253,7 +339,7 @@ def build():
     story.append(HRFlowable(width="100%", thickness=0.75, color=colors.HexColor("#CCCCCC")))
     story.append(Spacer(1, 3))
     footer = Table([[
-        Paragraph("<b>Code &amp; full notebook:</b> github.com/wiz-20/Root3 (private \u2014 access on request)", styles["footer"]),
+        Paragraph("<b>Code &amp; full notebook:</b> github.com/wiz-20/Root3 (private \u2013 access on request)", styles["footer"]),
         Paragraph("Team ROOT3 &nbsp;|&nbsp; Submission: 16 Aug 2026", styles["footer_b"]),
     ]], colWidths=[130 * mm, 46 * mm])
     footer.setStyle(TableStyle([("ALIGN", (1, 0), (1, 0), "RIGHT"), ("VALIGN", (0, 0), (-1, -1), "MIDDLE")]))
