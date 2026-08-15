@@ -218,3 +218,32 @@ if __name__ == "__main__":
     for question in demo_questions:
         print(f"\nQ: {question}")
         print(qa.answer(question))
+
+    # Adversarial / edge-case questions - not "AI safety" in the LLM-jailbreak sense, but the
+    # inputs most likely to break a rule-based NLU layer: no entity, a fake entity, gibberish,
+    # empty input, and case/whitespace variation on a real entity. Each must return a graceful
+    # string (the decline message or a sensible answer) - never raise, and never fabricate a
+    # per-client answer for a company that isn't in the dataset.
+    print("\n\n--- Edge cases (must not crash; must not hallucinate a fake client) ---")
+    edge_case_questions = [
+        "",
+        "asdkjfh qwoeiu zxcv nothing here matches anything",
+        "What is Fake Company Inc's share of the transactional wallet?",
+        "what is pepkor's SHARE??",  # case/whitespace/punctuation variation on a real entity
+        "Why is Enron's gap so large?",  # real-sounding but not-in-portfolio entity
+    ]
+    for question in edge_case_questions:
+        print(f"\nQ: {question!r}")
+        try:
+            answer = qa.answer(question)
+        except Exception as e:  # noqa: BLE001 - this loop's whole point is "did anything raise"
+            print(f"  FAIL: raised {type(e).__name__}: {e}")
+            continue
+        assert isinstance(answer, str) and answer, "answer() must always return a non-empty string"
+        if "Fake Company" in question or "Enron" in question:
+            # No entity by this name exists in wallet_model.csv - the assistant must not
+            # invent a per-client summary for it; it should fall through to the decline message.
+            assert answer.startswith("I couldn't confidently match"), (
+                f"expected the decline message for a nonexistent entity, got: {answer[:80]!r}"
+            )
+        print(f"  OK: {answer[:120]}{'...' if len(answer) > 120 else ''}")

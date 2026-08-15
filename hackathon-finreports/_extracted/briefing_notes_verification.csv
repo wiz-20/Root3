@@ -1,6 +1,7 @@
 client,type,stated_value,verified,match_scope
 Glencore,percent,0.1,True,client
 Glencore,rand_zar_m,9500000.0,True,client
+Glencore,reliability_tier_claim,low,True,client
 BHP Group,percent,2.0,True,client
 BHP Group,percent,0.5,True,client
 BHP Group,percent,1.8,True,client
@@ -9,6 +10,7 @@ BHP Group,rand_zar_m,836700.0,True,client
 BHP Group,rand_zar_m,290700.0,True,client
 BHP Group,rand_zar_m,292200.0,True,client
 BHP Group,rand_zar_m,1110000.0,True,client
+BHP Group,reliability_tier_claim,low,True,client
 Anglo American,percent,2.5,True,client
 Anglo American,percent,0.3,True,client
 Anglo American,percent,1.8,True,client
@@ -17,22 +19,26 @@ Anglo American,rand_zar_m,302500.0,True,client
 Anglo American,rand_zar_m,208800.0,True,client
 Anglo American,rand_zar_m,209400.0,True,client
 Anglo American,rand_zar_m,502700.0,True,client
+Anglo American,reliability_tier_claim,low,True,client
 Shoprite Holdings,percent,2.4,True,client
 Shoprite Holdings,percent,2.7,True,client
 Shoprite Holdings,rand_zar_m,448000.0,True,client
 Shoprite Holdings,rand_zar_m,437000.0,True,client
 Shoprite Holdings,rand_zar_m,57700.0,True,client
+Shoprite Holdings,reliability_tier_claim,moderate,True,client
 Bid Corporation,percent,3.1,True,client
 Bid Corporation,percent,2.3,True,client
 Bid Corporation,rand_zar_m,413500.0,True,client
 Bid Corporation,rand_zar_m,400600.0,True,client
 Bid Corporation,rand_zar_m,80900.0,True,client
+Bid Corporation,reliability_tier_claim,moderate,True,client
 MTN Group,percent,4.6,True,client
 MTN Group,percent,79.2,True,client
 MTN Group,percent,3.5,True,client
 MTN Group,rand_zar_m,216300.0,True,client
 MTN Group,rand_zar_m,226700.0,True,client
 MTN Group,rand_zar_m,173300.0,True,client
+MTN Group,reliability_tier_claim,moderate,True,client
 Naspers,percent,0.8,True,client
 Naspers,percent,0.3,True,client
 Naspers,percent,85.1,True,client
@@ -45,6 +51,7 @@ Naspers,rand_zar_m,15100.0,True,client
 Naspers,rand_zar_m,99700.0,True,client
 Naspers,rand_zar_m,97600.0,True,client
 Naspers,rand_zar_m,298500.0,True,client
+Naspers,reliability_tier_claim,low,True,client
 AngloGold Ashanti,percent,0.8,True,client
 AngloGold Ashanti,percent,1.1,True,client
 AngloGold Ashanti,percent,1.1,True,client
@@ -54,15 +61,18 @@ AngloGold Ashanti,rand_zar_m,243400.0,True,client
 AngloGold Ashanti,rand_zar_m,47400.0,True,client
 AngloGold Ashanti,rand_zar_m,48000.0,True,client
 AngloGold Ashanti,rand_zar_m,288000.0,True,client
+AngloGold Ashanti,reliability_tier_claim,low,True,client
 Vodacom Group,percent,0.2,True,client
 Vodacom Group,percent,0.2,True,client
 Vodacom Group,percent,4.7,True,client
 Vodacom Group,percent,40.7,True,client
+Vodacom Group,reliability_tier_claim,moderate,True,client
 Valterra Platinum,percent,0.0,True,client
 Valterra Platinum,percent,0.2,True,client
 Valterra Platinum,percent,4.0,True,portfolio
 Valterra Platinum,rand_zar_m,204000.0,True,client
 Valterra Platinum,rand_zar_m,59000.0,True,client
+Valterra Platinum,reliability_tier_claim,moderate,True,client
 Gold Fields,percent,0.9,True,client
 Gold Fields,percent,1.7,True,client
 Gold Fields,percent,1.4,True,client
@@ -71,6 +81,7 @@ Gold Fields,rand_zar_m,202900.0,True,client
 Gold Fields,rand_zar_m,39200.0,True,client
 Gold Fields,rand_zar_m,39900.0,True,client
 Gold Fields,rand_zar_m,239500.0,True,client
+Gold Fields,reliability_tier_claim,low,True,client
 Prosus,percent,1.2,True,client
 Prosus,percent,0.3,True,client
 Prosus,percent,2.3,True,client
@@ -79,6 +90,7 @@ Prosus,rand_zar_m,158600.0,True,client
 Prosus,rand_zar_m,12600.0,True,client
 Prosus,rand_zar_m,12600.0,True,client
 Prosus,rand_zar_m,167300.0,True,client
+Prosus,reliability_tier_claim,low,True,client
 Pepkor Holdings,percent,22.4,True,client
 Pepkor Holdings,percent,3.1,True,client
 Pepkor Holdings,percent,20.9,True,client
@@ -87,6 +99,7 @@ Pepkor Holdings,rand_zar_m,152700.0,True,client
 Pepkor Holdings,rand_zar_m,48600.0,True,client
 Pepkor Holdings,rand_zar_m,50100.0,True,client
 Pepkor Holdings,rand_zar_m,160500.0,True,client
+Pepkor Holdings,reliability_tier_claim,moderate,True,client
 Sanlam,percent,18.7,True,client
 Sanlam,percent,5.0,True,portfolio
 Sanlam,percent,133.5,True,client
@@ -96,6 +109,7 @@ Sanlam,rand_zar_m,83700.0,True,client
 Sanlam,rand_zar_m,102900.0,True,client
 Sanlam,rand_zar_m,2660.0,True,client
 Sanlam,rand_zar_m,2000.0,True,client
+Sanlam,reliability_tier_claim,moderate,True,client
 Clicks Group,percent,0.2,True,client
 Clicks Group,percent,0.3,True,client
 Clicks Group,percent,1.2,True,client
@@ -105,6 +119,7 @@ Clicks Group,rand_zar_m,87900.0,True,client
 Clicks Group,rand_zar_m,21800.0,True,client
 Clicks Group,rand_zar_m,21900.0,True,client
 Clicks Group,rand_zar_m,108500.0,True,client
+Clicks Group,reliability_tier_claim,moderate,True,client
 Aspen Pharmacare,percent,5.3,True,client
 Aspen Pharmacare,percent,1.4,True,client
 Aspen Pharmacare,percent,5.1,True,client
@@ -113,6 +128,7 @@ Aspen Pharmacare,rand_zar_m,67600.0,True,client
 Aspen Pharmacare,rand_zar_m,38800.0,True,client
 Aspen Pharmacare,rand_zar_m,39300.0,True,client
 Aspen Pharmacare,rand_zar_m,101400.0,True,client
+Aspen Pharmacare,reliability_tier_claim,moderate,True,client
 OUTsurance Group,percent,0.9,True,client
 OUTsurance Group,percent,491.0,True,client
 OUTsurance Group,percent,4.2,True,client
@@ -120,6 +136,7 @@ OUTsurance Group,rand_zar_m,36800.0,True,client
 OUTsurance Group,rand_zar_m,37100.0,True,client
 OUTsurance Group,rand_zar_m,16.0,True,client
 OUTsurance Group,rand_zar_m,78.6,True,client
+OUTsurance Group,reliability_tier_claim,moderate,True,client
 NEPI Rockcastle,percent,0.4,True,client
 NEPI Rockcastle,percent,0.1,True,client
 NEPI Rockcastle,percent,2.1,True,client
@@ -128,6 +145,7 @@ NEPI Rockcastle,rand_zar_m,5500.0,True,client
 NEPI Rockcastle,rand_zar_m,48.0,True,client
 NEPI Rockcastle,rand_zar_m,4.0,True,client
 NEPI Rockcastle,rand_zar_m,16900.0,True,client
+NEPI Rockcastle,reliability_tier_claim,low,True,client
 Shaftesbury Capital plc,percent,0.0,True,client
 Shaftesbury Capital plc,percent,0.3,True,client
 Shaftesbury Capital plc,percent,0.2,True,client
@@ -138,7 +156,9 @@ Shaftesbury Capital plc,rand_zar_m,5500.0,True,client
 Shaftesbury Capital plc,rand_zar_m,12.0,True,client
 Shaftesbury Capital plc,rand_zar_m,8.0,True,client
 Shaftesbury Capital plc,rand_zar_m,10200.0,True,client
+Shaftesbury Capital plc,reliability_tier_claim,low,True,client
 The Bidvest Group,percent,666.0,True,client
 The Bidvest Group,percent,27.9,True,client
 The Bidvest Group,rand_zar_m,1460.0,True,client
 The Bidvest Group,rand_zar_m,219.8,True,client
+The Bidvest Group,reliability_tier_claim,insufficient,True,client

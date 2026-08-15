@@ -8,6 +8,7 @@ module's docstring for why this design was chosen for the demo).
 Run: streamlit run dashboard/app.py
 """
 
+import re
 import sys
 from pathlib import Path
 
@@ -233,6 +234,23 @@ def load_data():
     return wallet_model, ranking, anomalies
 
 
+@st.cache_data
+def load_briefing_notes() -> dict:
+    """{entity_name: markdown body} parsed from client_briefing_notes.md - same heading
+    parsing as scripts/verify_briefing_notes.py so the keys line up with wallet_model.csv."""
+    path = EXTRACTED_DIR / "client_briefing_notes.md"
+    if not path.exists():
+        return {}
+    text = path.read_text(encoding="utf-8")
+    parts = re.split(r"^## (.+)$", text, flags=re.MULTILINE)
+    notes = {}
+    for i in range(1, len(parts), 2):
+        heading = re.sub(r"^\d+\.\s*", "", parts[i].strip())
+        client_name = re.split(r"[-—]", heading)[0].strip()
+        notes[client_name] = parts[i + 1].strip()
+    return notes
+
+
 @st.cache_resource
 def load_assistant():
     return QueryAssistant()
@@ -244,6 +262,7 @@ def load_ml_predictor():
 
 
 wallet_model, ranking, anomalies = load_data()
+briefing_notes = load_briefing_notes()
 qa = load_assistant()
 ml_predictor = load_ml_predictor()
 
@@ -475,6 +494,22 @@ with st.container(border=True):
             st.plotly_chart(fig4, width="stretch")
         else:
             st.info("No pillar-level external wallet estimate available for this client.")
+
+st.write("")
+with st.container(border=True):
+    section("AI briefing note", "GenAI-generated, grounding-verified")
+    note = briefing_notes.get(client)
+    if note:
+        st.markdown(
+            f'<p style="font-size:0.72rem;color:{MUTED};margin:-8px 0 10px 0;">Generated via '
+            f'<code>docs/genai/briefing_note_prompt.md</code> - every numeric claim machine-checked '
+            f"against <code>wallet_model.csv</code> by <code>scripts/verify_briefing_notes.py</code> "
+            f'(see <code>hackathon-finreports/_extracted/briefing_notes_verification.csv</code>).</p>',
+            unsafe_allow_html=True,
+        )
+        st.markdown(note)
+    else:
+        st.info("No briefing note found for this client in client_briefing_notes.md.")
 
 st.write("")
 with st.container(border=True):

@@ -11,6 +11,14 @@ Any number that does NOT match anything in that client's source row is flagged a
 UNVERIFIED - a candidate hallucination or arithmetic slip - so it can be checked before the
 notes go anywhere near a judge or a real coverage banker.
 
+Also checks one non-numeric reasoning claim: every section's subtitle states a reliability
+tier ("*Sector: X | Reliability: LOW/moderate/insufficient*") - this is checked against
+wallet_model.csv's actual top_down_reliability tier for that client. A wrong tier word is a
+different failure mode than a wrong number (a mismatched caveat, not an arithmetic slip) and
+numeric-only checking would never catch it - e.g. a client mislabelled "moderate" when the
+source data says "low" would still pass every numeric check while giving a banker false
+confidence in a directional-only Rand figure.
+
 Output: prints a pass/fail summary per client, and a full audit trail to
 hackathon-finreports/_extracted/briefing_notes_verification.csv
 """
@@ -27,6 +35,7 @@ TOLERANCE = 0.015  # 1.5% relative tolerance for rounding in prose (e.g. "R448bn
 
 PCT_RE = re.compile(r"(-?\d+(?:\.\d+)?)\s*%")
 RAND_RE = re.compile(r"R\s?(-?\d+(?:[.,]\d+)?)\s*(trillion|bn|billion|million|m)\b", re.IGNORECASE)
+RELIABILITY_CLAIM_RE = re.compile(r"Reliability:\s*([A-Za-z]+)")
 
 UNIT_TO_ZAR_MILLIONS = {
     "trillion": 1_000_000.0,
@@ -72,6 +81,16 @@ def numbers_in_text(text: str) -> tuple[list[float], list[float]]:
         unit = m.group(2).lower()
         rands_zar_m.append(value * UNIT_TO_ZAR_MILLIONS[unit])
     return pcts, rands_zar_m
+
+
+def check_reliability_claim(body: str, actual_tier: str) -> bool | None:
+    """Compares the subtitle's stated reliability word against the source tier. Returns None
+    (not applicable) if no "Reliability: ..." claim is found - shouldn't happen given the
+    template, but fails safe rather than crashing on a malformed section."""
+    m = RELIABILITY_CLAIM_RE.search(body)
+    if not m:
+        return None
+    return m.group(1).strip().lower() == actual_tier.strip().lower()
 
 
 def source_values_for_client(row: pd.Series, foreign_pct: float | None) -> tuple[list[float], list[float]]:
@@ -138,16 +157,36 @@ def main():
                 "verified": matched, "match_scope": "client" if matched else "none",
             })
 
+        actual_tier = str(row["top_down_reliability"]).split(" - ")[0]
+        reliability_ok = check_reliability_claim(body, actual_tier)
+        if reliability_ok is not None:
+            audit_rows.append({
+                "client": client, "type": "reliability_tier_claim", "stated_value": actual_tier,
+                "verified": reliability_ok, "match_scope": "client" if reliability_ok else "none",
+            })
+
     audit = pd.DataFrame(audit_rows)
     audit_path = EXTRACTED_DIR / "briefing_notes_verification.csv"
     audit.to_csv(audit_path, index=False)
 
-    print(f"Checked {len(audit)} numeric claims across {audit['client'].nunique()} clients\n")
-    summary = audit.groupby("client")["verified"].agg(["sum", "count"])
+    numeric_audit = audit[audit["type"] != "reliability_tier_claim"]
+    reliability_audit = audit[audit["type"] == "reliability_tier_claim"]
+
+    print(f"Checked {len(numeric_audit)} numeric claims + {len(reliability_audit)} reliability-tier claims across {audit['client'].nunique()} clients\n")
+    summary = numeric_audit.groupby("client")["verified"].agg(["sum", "count"])
     summary["pass"] = summary["sum"] == summary["count"]
     for client, r in summary.iterrows():
         status = "PASS" if r["pass"] else "REVIEW"
         print(f"  [{status}] {client}: {int(r['sum'])}/{int(r['count'])} numeric claims verified against source data")
+
+    mismatched_tiers = reliability_audit[~reliability_audit["verified"]]
+    if len(mismatched_tiers):
+        print(f"\n{len(mismatched_tiers)} MISMATCHED reliability-tier claim(s) (subtitle wording vs. wallet_model.csv's actual tier):")
+        print(mismatched_tiers[["client", "stated_value"]].to_string(index=False))
+    else:
+        print(f"\nAll {len(reliability_audit)} reliability-tier claims match wallet_model.csv.")
+
+    audit = numeric_audit  # everything below (unverified listing, final summary) is the numeric check as before
 
     unverified = audit[~audit["verified"]]
     if len(unverified):

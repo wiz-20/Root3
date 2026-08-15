@@ -1,0 +1,54 @@
+question,type,stated_value,verified
+"If you had to pick 3 clients for the sales team to prioritize this quarter, which would you pick, and why?",percent,-3.0,False
+"If you had to pick 3 clients for the sales team to prioritize this quarter, which would you pick, and why?",percent,3.5,True
+"If you had to pick 3 clients for the sales team to prioritize this quarter, which would you pick, and why?",percent,79.2,True
+"If you had to pick 3 clients for the sales team to prioritize this quarter, which would you pick, and why?",percent,0.2,True
+"If you had to pick 3 clients for the sales team to prioritize this quarter, which would you pick, and why?",rand_zar_m,490200.0,True
+"If you had to pick 3 clients for the sales team to prioritize this quarter, which would you pick, and why?",rand_zar_m,473500.0,True
+"If you had to pick 3 clients for the sales team to prioritize this quarter, which would you pick, and why?",rand_zar_m,388200.0,True
+Should Syn Bank be worried about losing the Sanlam relationship to a competitor?,percent,18.7,True
+Should Syn Bank be worried about losing the Sanlam relationship to a competitor?,percent,5.0,True
+Should Syn Bank be worried about losing the Sanlam relationship to a competitor?,percent,0.3,True
+Should Syn Bank be worried about losing the Sanlam relationship to a competitor?,percent,133.5,True
+Should Syn Bank be worried about losing the Sanlam relationship to a competitor?,rand_zar_m,55400.0,True
+How confident should we be in the numbers for the foreign-currency reporting companies overall?,percent,0.1,True
+How confident should we be in the numbers for the foreign-currency reporting companies overall?,percent,2.3,True
+How confident should we be in the numbers for the foreign-currency reporting companies overall?,rand_zar_m,9500000.0,True
+How confident should we be in the numbers for the foreign-currency reporting companies overall?,rand_zar_m,1110000.0,True
+How confident should we be in the numbers for the foreign-currency reporting companies overall?,rand_zar_m,502700.0,True
+What's the single most surprising finding in this dataset?,percent,0.0,True
+What's the single most surprising finding in this dataset?,percent,0.2,True
+What's the single most surprising finding in this dataset?,percent,5.0,True
+"If we could only fix one data gap before next quarter, what should it be?",rand_zar_m,6700.0,True
+"Is there a sector-level pattern across the mining companies, or is each one different?",percent,0.8,True
+"Is there a sector-level pattern across the mining companies, or is each one different?",percent,2.5,True
+"Is there a sector-level pattern across the mining companies, or is each one different?",percent,0.2,True
+Why does OUTsurance Group show a 491% Trade & Working Capital share - is Syn Bank really capturing five times more activity than the client's own external benchmark?,percent,491.3,True
+Why does OUTsurance Group show a 491% Trade & Working Capital share - is Syn Bank really capturing five times more activity than the client's own external benchmark?,percent,133.5,True
+Why does OUTsurance Group show a 491% Trade & Working Capital share - is Syn Bank really capturing five times more activity than the client's own external benchmark?,percent,0.9,True
+Why does OUTsurance Group show a 491% Trade & Working Capital share - is Syn Bank really capturing five times more activity than the client's own external benchmark?,percent,18.7,True
+Why does OUTsurance Group show a 491% Trade & Working Capital share - is Syn Bank really capturing five times more activity than the client's own external benchmark?,rand_zar_m,78.6,True
+Why does OUTsurance Group show a 491% Trade & Working Capital share - is Syn Bank really capturing five times more activity than the client's own external benchmark?,rand_zar_m,16.0,True
+Why does OUTsurance Group show a 491% Trade & Working Capital share - is Syn Bank really capturing five times more activity than the client's own external benchmark?,rand_zar_m,2664.9,True
+Why does OUTsurance Group show a 491% Trade & Working Capital share - is Syn Bank really capturing five times more activity than the client's own external benchmark?,rand_zar_m,1996.3,True
+How does the insurance sector's wallet penetration compare with consumer retail?,percent,13.8,True
+How does the insurance sector's wallet penetration compare with consumer retail?,percent,3.1,True
+How does the insurance sector's wallet penetration compare with consumer retail?,percent,4.2,True
+How does the insurance sector's wallet penetration compare with consumer retail?,percent,20.9,True
+How does the insurance sector's wallet penetration compare with consumer retail?,percent,133.5,True
+How does the insurance sector's wallet penetration compare with consumer retail?,percent,491.3,True
+How does the insurance sector's wallet penetration compare with consumer retail?,percent,18.7,True
+How does the insurance sector's wallet penetration compare with consumer retail?,percent,0.9,True
+How does the insurance sector's wallet penetration compare with consumer retail?,percent,22.4,True
+How does the insurance sector's wallet penetration compare with consumer retail?,percent,3.1,True
+How does the insurance sector's wallet penetration compare with consumer retail?,percent,2.4,True
+Pepkor Holdings has by far the strongest blended share in the portfolio - does that mean there's no more opportunity there?,percent,20.9,True
+Pepkor Holdings has by far the strongest blended share in the portfolio - does that mean there's no more opportunity there?,percent,22.4,True
+Pepkor Holdings has by far the strongest blended share in the portfolio - does that mean there's no more opportunity there?,percent,3.1,True
+Pepkor Holdings has by far the strongest blended share in the portfolio - does that mean there's no more opportunity there?,percent,20.9,True
+Pepkor Holdings has by far the strongest blended share in the portfolio - does that mean there's no more opportunity there?,percent,5.8,True
+Pepkor Holdings has by far the strongest blended share in the portfolio - does that mean there's no more opportunity there?,rand_zar_m,160500.0,True
+Pepkor Holdings has by far the strongest blended share in the portfolio - does that mean there's no more opportunity there?,rand_zar_m,6655.5,True
+"If you had to give the exec team one portfolio-level number to remember, what would it be and what's the caveat?",percent,5.8,True
+"If you had to give the exec team one portfolio-level number to remember, what would it be and what's the caveat?",percent,5.8,True
+"If you had to give the exec team one portfolio-level number to remember, what would it be and what's the caveat?",rand_zar_m,9500000.0,True
