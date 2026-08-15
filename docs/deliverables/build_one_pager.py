@@ -39,22 +39,54 @@ styles = {
 
 
 def header_band():
-    title = Paragraph("Syn Bank Share of Wallet Intelligence Engine", styles["title"])
-    subtitle = Paragraph(
-        "Standard Bank Data School Hackathon 2026 &nbsp;&bull;&nbsp; Team ROOT3 &nbsp;&bull;&nbsp; "
-        "Luke Naidoo &middot; Wisdom Ejiro Peru &middot; Fatan Saud",
-        styles["subtitle"],
+    title = Paragraph(
+        "Syn Bank Share of Wallet Intelligence Engine",
+        styles["title"]
     )
-    band = Table([[title], [subtitle]], colWidths=[180 * mm])
+
+    team = Paragraph(
+        "<b>Team: Root3</b>",
+        styles["subtitle"]
+    )
+
+    members = Paragraph(
+        "Luke Naidoo &nbsp;&bull;&nbsp; Wisdom Ejiro Peru &nbsp;&bull;&nbsp; Faten Saud",
+        styles["subtitle"]
+    )
+
+    event = Paragraph(
+        "Standard Bank Data School Hackathon 2026",
+        styles["subtitle"]
+    )
+
+    band = Table(
+        [
+            [title],
+            [team],
+            [members],
+            [event]
+        ],
+        colWidths=[180 * mm]
+    )
+
     band.setStyle(TableStyle([
         ("BACKGROUND", (0, 0), (-1, -1), NAVY),
         ("LEFTPADDING", (0, 0), (-1, -1), 10),
         ("RIGHTPADDING", (0, 0), (-1, -1), 10),
+
         ("TOPPADDING", (0, 0), (-1, 0), 8),
-        ("BOTTOMPADDING", (0, 0), (-1, 0), 1),
+        ("BOTTOMPADDING", (0, 0), (-1, 0), 3),
+
         ("TOPPADDING", (0, 1), (-1, 1), 1),
-        ("BOTTOMPADDING", (0, 1), (-1, 1), 8),
+        ("BOTTOMPADDING", (0, 1), (-1, 1), 1),
+
+        ("TOPPADDING", (0, 2), (-1, 2), 1),
+        ("BOTTOMPADDING", (0, 2), (-1, 2), 1),
+
+        ("TOPPADDING", (0, 3), (-1, 3), 1),
+        ("BOTTOMPADDING", (0, 3), (-1, 3), 7),
     ]))
+
     return band
 
 
@@ -108,9 +140,9 @@ def build():
     story.append(Spacer(1, 7))
 
     problem = Paragraph(
-        "Syn Bank is never a client's <b>sole</b> banking partner. We built an engine that estimates each client's "
+        "Syn Bank is never a client's <b>sole</b> banking partner. Our team built an engine that estimates each client's "
         "<b>Total Wallet</b> across three product pillars, quantifies Syn Bank's <b>current Share</b> from internal "
-        "data, and ranks the <b>Rand Gap</b> to prioritize which clients a coverage banker should chase next \u2014 "
+        "data, and ranks the <b>Rand Gap</b> to prioritize which clients SynBank should chase next \u2014 "
         "for the 20 JSE-listed corporates in Syn Bank's synthetic transactional, trade finance, and cross-border datasets.",
         styles["body"],
     )
@@ -119,7 +151,7 @@ def build():
 
     left_col = section("Our Approach", [
         Paragraph(
-            "<b>Numerator (Share):</b> internal transactional, trade finance and cross-border data, split into "
+            "<b>Numerator (Share):</b> Internal transactional, trade finance and cross-border data, split into "
             "3 pillars \u2014 Transactional Banking, Trade &amp; Working Capital, Foreign/Cross-Border.",
             styles["body"],
         ),
@@ -130,27 +162,32 @@ def build():
             styles["body"],
         ),
         Paragraph(
-            "<b>Learned angle:</b> ElasticNet regression (5 targets, Leave-One-Group-Out CV) predicts Share % "
-            "directly from internal activity volume \u2014 useful precisely where the top-down external "
-            "benchmark is thin or missing.",
+            "<b>Learned angle:</b> ElasticNet regression (5 targets, Leave-One-Group-Out CV) predicts share % "
+            "directly from the internal activity volume \u2014 useful precisely where the top-down external "
+            "benchmark is thin or missing (when the company's public financial statements do not disclose"
+            "enough reliable information to construct the external top-down wallet estimate).",
             styles["body"],
         ),
     ])
 
     right_col = section("GenAI Layer (3/3 use cases)", [
         Paragraph(
-            "<b>Client briefing notes</b> \u2014 all 20/20 clients, machine-verified against source data "
-            "(142/143 numeric claims auto-confirmed; caught one real stale-data error before it shipped).",
+            "<b>Client briefing notes</b> \u2014 Converts each client’s Share of Wallet, estimated wallet"
+            "gaps, reliability indicators and model signals into a concise briefing, helping relationship managers"
+            "quickly understand where the biggest opportunities lie and what to discuss with the client.",
             styles["body"],
         ),
         Paragraph(
-            "<b>Anomaly explanations</b> \u2014 code detects (60 client\u00d7pillar cells, fixed rules), GenAI "
-            "explains only what code already found (27 anomalies, 6 patterns) \u2014 hallucination-resistant by design.",
+            "<b>Anomaly explanations</b> \u2014 Automatically identifies unusual or high-opportunity"
+            "wallet signals and uses GenAI to explain why they matter, while keeping the underlying"
+            "detection and calculations deterministic to reduce hallucination risk.",
             styles["body"],
         ),
         Paragraph(
-            "<b>NL query assistant</b> \u2014 live, zero-cost, deterministic layer for common lookups; LLM "
-            "reserved only for genuinely open-ended synthesis questions.",
+            "<b>NL query assistant</b> — Lets bankers interrogate the portfolio in plain English, "
+            "asking questions such as “Which three clients should we prioritise?” or "
+            "“Where do the ML and financial-statement estimates disagree?” The assistant grounds "
+            "its answers in both the top-down financial benchmark and the latest ElasticNet predictions.",
             styles["body"],
         ),
     ])
@@ -167,23 +204,30 @@ def build():
     story.append(Spacer(1, 6))
 
     findings = bullets([
-        "<b>Top opportunity:</b> Shoprite Holdings \u2014 2.4% transactional share, R437bn gap on a R448bn wallet (literal, ZAR-reporter).",
-        "<b>Sharpest anomaly:</b> Valterra Platinum \u2014 near-zero share (0.0\u20130.2%) despite being a <i>domestic</i> reporter, not a scale artifact \u2014 flagged for immediate relationship review.",
-        "<b>Model self-awareness as a finding:</b> reliability tiering catches the naive-model trap before it reaches a banker \u2014 a raw calculation would report Glencore's global consolidated revenue as a fictional R9.5 trillion \"gap\"; explicitly flagged low-reliability/directional-only instead.",
+    "<b>Top opportunity:</b> Shoprite Holdings — 2.4% transactional share, R437bn gap on a R448bn wallet (literal, ZAR-reporter).",
+
+    "<b>Sharpest anomaly:</b> Valterra Platinum — near-zero share (0.0–0.2%) despite being a <i>domestic</i> reporter, not a scale artifact — flagged for immediate relationship review.",
+
+    "<b>ML performance:</b> after target-specific ElasticNet hyperparameter tuning, out-of-sample R² reached 0.394 for transactional revenue, 0.340 for trade receivables, 0.269 for transactional cost, and 0.241 for trade payables. FX remained weak (R² = −0.264), reflecting the particularly sparse 17-observation FX training set.",
+
+    "<b>Model self-awareness:</b> reliability tiering catches the naive-model trap before it reaches a banker — a raw calculation would report Glencore's global consolidated revenue as a fictional R9.5 trillion \"gap\"; explicitly flagged low-reliability/directional-only instead.",
     ])
     story += section("Key Findings", findings)
     story.append(Spacer(1, 5))
 
     limitations = bullets([
-        "<b>Stated scope cut:</b> top-down financials-based Total Wallet only \u2014 bottom-up competitor evidence (SARB BA900, JSE SENS) was descoped for the solo/time-constrained build; documented as the top next step, not hidden.",
-        "Foreign/Cross-Border wallet is estimated for only 4/20 clients (numeric foreign-revenue disclosure required) \u2014 flagged \"external estimate unavailable\" for the rest, never silently zeroed.",
+    "<b>Limited ML training sample:</b> only 43 company-year observations were available across 20 corporates. The original FY2025-only scope (~20 observations) was therefore expanded to FY2024–2026 where available, more than doubling the training data.",
+
+    "<b>FX remains the weakest target:</b> only 17 usable FX observations remained after filtering, resulting in weak out-of-sample performance (R² = −0.264). FX estimates are therefore treated as directional rather than precise.",
+
+    "<b>Designed around the constraint:</b> ElasticNet regularisation, company-level Leave-One-Group-Out cross-validation and target-specific hyperparameter tuning were used to reduce overfitting and improve generalisation within the available sample."
     ])
     story += section("Limitations, Stated Plainly", limitations)
     story.append(Spacer(1, 5))
 
     next_steps = bullets([
         "Layer in bottom-up competitor evidence (SENS facility announcements, BA900) to tighten/validate the top-down proxy.",
-        "Extend Pillar 3 (cross-border) external benchmark coverage beyond the current 4/20 clients.",
+        "Expand the multi-year training dataset, particularly Foreign/Cross-Border observations, to improve model generalisation and strengthen the currently weak FX prediction.",
         "Automate the GenAI briefing-note pipeline via API to scale from 20 to the full 43-row multi-year panel.",
     ])
     story += section("Next Steps", next_steps)
