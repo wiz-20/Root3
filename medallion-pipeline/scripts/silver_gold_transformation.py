@@ -19,6 +19,7 @@ import numpy as np
 
 
 ROOT = Path(__file__).resolve().parents[1]
+REPO_ROOT = Path(__file__).resolve().parents[2]
 
 CROSS_BORDER_DIR = ROOT / "silver" / "cross_border_silver.csv"
 TRADE_DIR = ROOT / "silver" / "trade_finance_silver.csv"
@@ -31,54 +32,10 @@ cross_border = pd.read_csv(CROSS_BORDER_DIR)
 trade_finance = pd.read_csv(TRADE_DIR)
 transactional_banking = pd.read_csv(TRANSACTIONAL_DIR)
 
-
-dates_2024 = [
-    ["2024-01-01", "2024-12-31"],
-    ["2024-01-01", "2024-12-31"],
-    ["2023-07-01", "2024-06-30"],
-    ["2023-07-01", "2024-06-30"],
-    ["2023-07-01", "2024-06-30"],
-    ["2023-07-01", "2024-06-30"],
-    ["2023-09-01", "2024-08-31"],
-    ["2024-01-01", "2024-12-31"],
-    ["2024-01-01", "2024-12-31"],
-    ["2024-01-01", "2024-12-31"],
-    ["2023-04-01", "2024-03-31"],
-    ["2024-01-01", "2024-12-31"],
-    ["2023-07-01", "2024-06-30"],
-    ["2023-10-01", "2024-09-30"],
-    ["2023-04-01", "2024-03-31"],
-    ["2024-01-01", "2024-12-31"],
-    ["2024-01-01", "2024-12-31"],
-    ["2023-07-01", "2024-06-30"],
-    ["2024-01-01", "2024-12-31"],
-    ["2023-04-01", "2024-03-31"]
-]
-
-
-dates_2025 = [
-    ["2025-01-01", "2025-12-31"],
-    ["2025-01-01", "2025-12-31"],
-    ["2024-07-01", "2025-06-30"],
-    ["2024-07-01", "2025-06-30"],
-    ["2024-07-01", "2025-06-30"],
-    ["2024-07-01", "2025-06-30"],
-    ["2024-09-01", "2025-08-31"],
-    ["2025-01-01", "2025-12-31"],
-    ["2025-01-01", "2025-12-31"],
-    ["2025-01-01", "2025-12-31"],
-    ["2024-04-01", "2025-03-31"],
-    ["2025-01-01", "2025-12-31"],
-    ["2024-07-01", "2025-06-30"],
-    ["2024-10-01", "2025-09-30"],
-    ["2024-04-01", "2025-03-31"],
-    ["2025-01-01", "2025-12-31"],
-    ["2025-01-01", "2025-12-31"],
-    ["2024-07-01", "2025-06-30"],
-    ["2025-01-01", "2025-12-31"],
-    ["2024-04-01", "2025-03-31"]
-]
-
+# Silver-layer CSVs round-trip dates as strings - cross_border and trade_finance are each
+# converted back to datetime further down, but transactional_banking wasn't, which crashed
+# every date-range comparison below with "Invalid comparison between dtype=str and DatetimeArray".
+transactional_banking["date"] = pd.to_datetime(transactional_banking["date"])
 
 cross_border = (
     cross_border
@@ -88,43 +45,31 @@ cross_border = (
 
 cross_border["date"] = pd.to_datetime(cross_border["date"])
 
-entities = cross_border["entity_name"].drop_duplicates().tolist()
+# Per-entity fiscal-year windows are derived directly from each company's disclosed
+# fiscal_year_end (hackathon-finreports/_extracted/financials_multiyear.csv) rather than a
+# hand-typed, position-indexed list - a hardcoded list keyed by list position silently breaks
+# the moment its order doesn't exactly match the alphabetically-sorted entity list it's zipped
+# against (7/20 entities - Clicks, Glencore, OUTsurance, Pepkor, Prosus, Sanlam, Shoprite - were
+# getting another company's fiscal-year window under the old hardcoded lists, contaminating the
+# internal/external pairing used for ML training).
+_financials = pd.read_csv(
+    REPO_ROOT / "hackathon-finreports" / "_extracted" / "financials_multiyear.csv"
+)
+_financials["fye"] = pd.to_datetime(_financials["fiscal_year_end"], format="%d %B %Y")
+_financials["window_start"] = _financials["fye"] - pd.DateOffset(years=1) + pd.Timedelta(days=1)
 
 
-date_ranges_2024 = {
-    entity: (
-        pd.Timestamp(dates_2024[i][0]),
-        pd.Timestamp(dates_2024[i][1])
-    )
-    for i, entity in enumerate(entities)
-}
+def _date_ranges_for_year(fiscal_year: int) -> dict:
+    subset = _financials[_financials["fiscal_year"] == fiscal_year]
+    return {
+        row["entity_name"]: (row["window_start"], row["fye"])
+        for _, row in subset.iterrows()
+    }
 
 
-date_ranges_2025 = {
-    entity: (
-        pd.Timestamp(dates_2025[i][0]),
-        pd.Timestamp(dates_2025[i][1])
-    )
-    for i, entity in enumerate(entities)
-}
-
-
-date_ranges_2026 = {
-    "Naspers": (
-        pd.Timestamp("2025-04-01"),
-        pd.Timestamp("2026-03-31")
-    ),
-
-    "Prosus": (
-        pd.Timestamp("2025-04-01"),
-        pd.Timestamp("2026-03-31")
-    ),
-
-    "Vodacom Group": (
-        pd.Timestamp("2025-04-01"),
-        pd.Timestamp("2026-03-31")
-    )
-}
+date_ranges_2024 = _date_ranges_for_year(2024)
+date_ranges_2025 = _date_ranges_for_year(2025)
+date_ranges_2026 = _date_ranges_for_year(2026)
 
 
 ############################################

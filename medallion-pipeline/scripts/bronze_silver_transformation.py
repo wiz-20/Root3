@@ -3,9 +3,11 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[2]
 
-CROSS_BORDER_DIR = ROOT / "data" / "cross_border_payments.csv"
-TRADE_DIR = ROOT / "data" / "trade_finance.csv"
-TRANSACTIONAL_DIR = ROOT / "data" / "transactional_banking.csv"
+# Raw Syn Bank datasets live at the repo root (see .gitignore comment) - every teammate
+# keeps their own local copy there, not under a data/ subfolder.
+CROSS_BORDER_DIR = ROOT / "cross_border_payments.csv"
+TRADE_DIR = ROOT / "trade_finance.csv"
+TRANSACTIONAL_DIR = ROOT / "transactional_banking.csv"
 
 cross_border = pd.read_csv(CROSS_BORDER_DIR)
 trade_finance = pd.read_csv(TRADE_DIR)
