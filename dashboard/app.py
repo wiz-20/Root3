@@ -268,31 +268,126 @@ def load_briefing_notes() -> dict:
     return notes
 
 
-@st.cache_resource
 def load_ml_predictor():
+    # Do not cache the predictor: it loads the current Gold-layer CSVs in __init__.
+    # A fresh dashboard run should always reflect the latest Step 4 outputs.
     return MLWalletPredictor()
 
 
-@st.cache_resource
 def load_assistant(_ml_predictor):
-    # Pass the already-cached ML predictor in rather than letting QueryAssistant lazily load
-    # its own - avoids loading the .pkl bundles twice, and ties the two GenAI-facing modules
-    # (Tier 1 lookups, ML cross-check) to the same underlying model instance.
+    # Rebuild the assistant from the current ML portfolio each dashboard run.
     return QueryAssistant(ml_predictor=_ml_predictor)
 
 
+def build_live_ml_portfolio(predictions: pd.DataFrame) -> pd.DataFrame:
+    """Collapse target-level ML predictions into one row per current client."""
+    if predictions.empty:
+        return pd.DataFrame()
+
+    df = predictions.copy()
+    df["internal_zar_m"] = df["internal_zar"] / 1_000_000
+
+    clients = pd.DataFrame(
+        {"entity_name": sorted(df["entity_name"].dropna().unique())}
+    )
+
+    valid = df[
+        df["predicted_total_wallet_zar_m"].notna()
+        & (df["predicted_total_wallet_zar_m"] > 0)
+        & df["predicted_gap_zar_m"].notna()
+    ].copy()
+
+    if valid.empty:
+        return clients
+
+    overall = (
+        valid.groupby("entity_name", as_index=False)
+        .agg(
+            internal_zar_m=("internal_zar_m", "sum"),
+            predicted_total_wallet_zar_m=(
+                "predicted_total_wallet_zar_m",
+                "sum",
+            ),
+            total_gap_zar_m=("predicted_gap_zar_m", "sum"),
+        )
+    )
+    overall["blended_share_pct"] = (
+        overall["internal_zar_m"]
+        / overall["predicted_total_wallet_zar_m"]
+        * 100
+    )
+
+    portfolio = clients.merge(overall, on="entity_name", how="left")
+
+    pillar_map = {
+        "Transactional Banking": 1,
+        "Trade & Working Capital": 2,
+        "Foreign/Cross-Border": 3,
+    }
+
+    pillar_summary = (
+        valid.groupby(["entity_name", "pillar"], as_index=False)
+        .agg(
+            internal_zar_m=("internal_zar_m", "sum"),
+            wallet_zar_m=("predicted_total_wallet_zar_m", "sum"),
+            gap_zar_m=("predicted_gap_zar_m", "sum"),
+        )
+    )
+    pillar_summary["share_pct"] = (
+        pillar_summary["internal_zar_m"]
+        / pillar_summary["wallet_zar_m"]
+        * 100
+    )
+
+    for pillar_name, pillar_number in pillar_map.items():
+        subset = (
+            pillar_summary[
+                pillar_summary["pillar"] == pillar_name
+            ][["entity_name", "share_pct", "gap_zar_m"]]
+            .rename(
+                columns={
+                    "share_pct": f"share_pct_pillar{pillar_number}",
+                    "gap_zar_m": f"gap_zar_m_pillar{pillar_number}",
+                }
+            )
+        )
+        portfolio = portfolio.merge(
+            subset,
+            on="entity_name",
+            how="left",
+        )
+
+    return portfolio
+
+
+# Historical/external top-down benchmark data.
 wallet_model, ranking, anomalies = load_data()
 briefing_notes = load_briefing_notes()
+
+# Current operational portfolio from the latest Gold-layer internal data.
 ml_predictor = load_ml_predictor()
+ml_predictions = ml_predictor.predict_all_clients()
+live_portfolio = build_live_ml_portfolio(ml_predictions)
+
 qa = load_assistant(ml_predictor)
 
-EXAMPLE_QUESTIONS = [
-    "What is Pepkor's share of the transactional wallet?",
-    "What are the top 3 actionable opportunities?",
-    "Why is Glencore's gap so large?",
-    "Which pillar should we lead with for MTN?",
-    "Are there any anomalies for Bidvest?",
-]
+_example_clients = live_portfolio["entity_name"].dropna().tolist()
+
+if _example_clients:
+    _example_a = _example_clients[0]
+    _example_b = _example_clients[min(1, len(_example_clients) - 1)]
+    EXAMPLE_QUESTIONS = [
+        f"What is {_example_a}'s wallet?",
+        "What are the top 3 opportunities?",
+        f"Which pillar should we lead with for {_example_a}?",
+        f"What does the ML model predict for {_example_b}?",
+        f"Is there a top-down benchmark for {_example_a}?",
+    ]
+else:
+    EXAMPLE_QUESTIONS = [
+        "What are the top 3 opportunities?",
+        "What can you help me with?",
+    ]
 
 if "chat_history" not in st.session_state:
     st.session_state.chat_history = []
@@ -391,35 +486,55 @@ st.markdown(
     """
     <div class="hero-banner">
       <div class="hero-title">Syn Bank Share of Wallet Intelligence Engine</div>
-      <div class="hero-subtitle">Numerator (internal share) &times; Denominator (top-down wallet) &times; GenAI synthesis,
-      across 20 JSE-listed clients</div>
+      <div class="hero-subtitle">Live ElasticNet wallet inference &times; optional external benchmark &times; GenAI synthesis,
+      across the current Syn Bank client portfolio</div>
     </div>
     """,
     unsafe_allow_html=True,
 )
 
-actionable = wallet_model[wallet_model["reliability_tier"] == "moderate"]
-tier_counts = wallet_model["reliability_tier"].value_counts()
+computable = live_portfolio[
+    live_portfolio.get("blended_share_pct", pd.Series(dtype=float)).notna()
+].copy()
+
+benchmark_clients = set(wallet_model["entity_name"]) if not wallet_model.empty else set()
+benchmark_count = int(
+    live_portfolio["entity_name"].isin(benchmark_clients).sum()
+) if not live_portfolio.empty else 0
+
+avg_share = (
+    computable["blended_share_pct"].mean()
+    if not computable.empty
+    else float("nan")
+)
+total_gap = (
+    computable["total_gap_zar_m"].sum()
+    if not computable.empty
+    else 0.0
+)
 
 kpis = [
-    (str(len(wallet_model)), "Clients analyzed"),
-    (f"{actionable['blended_share_pct'].mean():.1f}%", "Avg. blended share (actionable tier)"),
-    (f"R{actionable['total_gap_zar_m'].sum() / 1000:.0f}bn", "Combined addressable gap"),
-    (str(len(anomalies) if not anomalies.empty else 0), "Anomalies flagged"),
-    (f"{tier_counts.get('moderate', 0)} / {tier_counts.get('low', 0)} / {tier_counts.get('insufficient', 0)}", "Moderate / Low / Insufficient reliability"),
+    (str(len(live_portfolio)), "Current clients analyzed"),
+    (
+        f"{avg_share:.1f}%" if pd.notna(avg_share) else "n/a",
+        "Avg. predicted Syn Bank share",
+    ),
+    (f"R{total_gap / 1000:.1f}bn", "Combined predicted wallet gap"),
+    (str(benchmark_count), "Top-down benchmarks available"),
+    (str(len(ml_predictions)), "ML wallet components predicted"),
 ]
 kpi_cols = st.columns(5)
 for col, (value, label), accent in zip(kpi_cols, kpis, KPI_ACCENTS):
     kpi_tile(col, value, label, accent)
 
 st.markdown(
-    f'<p style="font-size:0.82rem;color:{MUTED};margin:14px 0 4px 0;">Reliability tiers matter: '
-    f'<b style="color:{TEXT};">moderate</b> = ZAR reporter, literal Rand figures. '
-    f'<b style="color:{TEXT};">low</b> = foreign-currency reporter, read the % as directional only - Rand gaps are '
-    "consolidated GLOBAL figures, not SA-specific (e.g. Glencore's R9.5tn figure). "
-    f'<b style="color:{TEXT};">insufficient</b> = Group financials not disclosed at all.</p>',
+    f'<p style="font-size:0.82rem;color:{MUTED};margin:14px 0 4px 0;">'
+    f'The live dashboard is driven by the trained ElasticNet models using the latest Syn Bank internal activity. '
+    f'Where a client also exists in the external-financials top-down model, that benchmark is shown separately '
+    f'and is never treated as the source of the current client list.</p>',
     unsafe_allow_html=True,
 )
+
 
 st.write("")
 with st.container(border=True):
@@ -429,7 +544,7 @@ with st.container(border=True):
         ("share_pct_pillar1", "gap_zar_m_pillar1", "Transactional Banking"),
         ("share_pct_pillar3", "gap_zar_m_pillar3", "Foreign/Cross-Border"),
     ]
-    heat_df = wallet_model.sort_values("total_gap_zar_m", ascending=False, na_position="last")
+    heat_df = live_portfolio.sort_values("total_gap_zar_m", ascending=False, na_position="last")
     heat_clients = heat_df["entity_name"].tolist()
 
     # Median share captured across this portfolio is under 1% - on a flat 0-100 scale nearly every
@@ -451,8 +566,8 @@ with st.container(border=True):
                 z_row.append(COLOR_FLOOR)
                 label_row.append("full")
                 hover_row.append(
-                    f"<b>{r['entity_name']}</b><br>Share captured: {share:.0f}% (proxy estimate below "
-                    f"internal activity)<br>Treated as fully captured - no gap shown<br>Reliability: {r['reliability_tier']}"
+                    f"<b>{r['entity_name']}</b><br>Predicted share: {share:.0f}%"
+                    f"<br>Treated as fully captured - no gap shown<br>Source: ElasticNet ML model"
                 )
             else:
                 z_row.append(max(COLOR_FLOOR, 100 - share))
@@ -460,7 +575,7 @@ with st.container(border=True):
                 gap_str = f"R{gap / 1000:,.1f}bn" if abs(gap) >= 1000 else f"R{gap:,.1f}m"
                 hover_row.append(
                     f"<b>{r['entity_name']}</b><br>Share captured: {share:.1f}%"
-                    f"<br>Gap: {gap_str}<br>Reliability: {r['reliability_tier']}"
+                    f"<br>Predicted gap: {gap_str}<br>Source: ElasticNet ML model"
                 )
         z.append(z_row)
         labels.append(label_row)
@@ -484,17 +599,10 @@ with st.container(border=True):
     heat_fig.update_yaxes(tickfont=dict(size=12))
     st.plotly_chart(heat_fig, width="stretch")
     st.markdown(
-        f'<p style="font-size:0.78rem;color:{MUTED};margin-top:-8px;">Each cell shows Syn Bank\'s actual '
-        f"captured share for that client and pillar. Color is the same figure, inverted to unclaimed share "
-        f'and rescaled to the {COLOR_FLOOR}-100% band where this portfolio\'s real variation sits - captured '
-        f"share rarely exceeds a few percent even for Syn Bank's strongest relationships, so a flat 0-100% "
-        f"scale would show one solid color. Gold = the largest relative opportunity, teal = comparatively "
-        f'better penetrated. Colored by percentage rather than Rand gap so low-reliability, foreign-currency '
-        f"reporters (e.g. Glencore) don't visually dominate on global-consolidated figures. \"full\" cells "
-        f"(Sanlam, OUTsurance, The Bidvest Group on one pillar each) mean the external proxy estimate came in "
-        f"below Syn Bank's own internal activity for that pillar - treated as no gap rather than a fabricated "
-        "negative one. Blank cells were not estimated for that pillar. Hover any cell for the exact share, "
-        "Rand gap, and reliability tier.</p>",
+        f'<p style="font-size:0.78rem;color:{MUTED};margin-top:-8px;">'
+        f'Each cell shows the ElasticNet-predicted Syn Bank share for the current client portfolio. '
+        f'Gold indicates more unclaimed share; teal indicates comparatively better penetration. '
+        f'Blank cells mean that target was not computable from the model output.</p>',
         unsafe_allow_html=True,
     )
 
@@ -503,21 +611,19 @@ col_left, col_right = st.columns([3, 2])
 
 with col_left:
     with st.container(border=True):
-        section("Top opportunities", "Ranked by total Rand gap")
-        actionable_only = st.toggle("Actionable tier only (ZAR reporters)", value=False)
+        section("Top opportunities", "Ranked by ElasticNet-predicted wallet gap")
         top_n = st.slider("Show top N", min_value=5, max_value=20, value=10)
 
-        chart_df = ranking.copy()
-        if actionable_only:
-            chart_df = chart_df[chart_df["reliability_tier"] == "moderate"]
-        chart_df = chart_df.dropna(subset=["total_gap_zar_m"]).sort_values("total_gap_zar_m", ascending=False).head(top_n)
+        chart_df = live_portfolio.copy()
+        chart_df = chart_df.dropna(subset=["total_gap_zar_m"]).sort_values(
+            "total_gap_zar_m", ascending=False
+        ).head(top_n)
         chart_df["gap_rbn"] = chart_df["total_gap_zar_m"] / 1000
 
         fig = px.bar(
             chart_df.sort_values("gap_rbn"), x="gap_rbn", y="entity_name", orientation="h",
-            color="reliability_tier", color_discrete_map=TIER_COLORS,
-            labels={"gap_rbn": "Total gap (R billions)", "entity_name": "", "reliability_tier": "Reliability"},
-            hover_data={"blended_share_pct": True, "sector": True, "gap_rbn": ":.0f"},
+            labels={"gap_rbn": "Predicted gap (R billions)", "entity_name": ""},
+            hover_data={"blended_share_pct": ":.2f", "gap_rbn": ":.2f"},
         )
         plotly_dark_layout(fig, height=max(320, 32 * len(chart_df)), legend=dict(orientation="h", y=-0.15))
         fig.update_traces(marker_line_width=0)
@@ -525,13 +631,32 @@ with col_left:
 
 with col_right:
     with st.container(border=True):
-        section("Reliability tier mix", "Portfolio composition")
-        tier_df = tier_counts.rename_axis("tier").reset_index(name="count")
-        fig2 = px.pie(
-            tier_df, names="tier", values="count", color="tier", color_discrete_map=TIER_COLORS, hole=0.6,
+        section("External benchmark coverage", "Current portfolio")
+        coverage_df = pd.DataFrame(
+            {
+                "status": ["Top-down benchmark available", "ML-only"],
+                "count": [
+                    benchmark_count,
+                    max(0, len(live_portfolio) - benchmark_count),
+                ],
+            }
         )
-        plotly_dark_layout(fig2, height=260, showlegend=True, legend=dict(orientation="h", y=-0.1))
-        fig2.update_traces(marker=dict(line=dict(color=CARD_BOTTOM, width=3)), textfont=dict(color=TEXT))
+        fig2 = px.pie(
+            coverage_df,
+            names="status",
+            values="count",
+            hole=0.6,
+        )
+        plotly_dark_layout(
+            fig2,
+            height=260,
+            showlegend=True,
+            legend=dict(orientation="h", y=-0.1),
+        )
+        fig2.update_traces(
+            marker=dict(line=dict(color=CARD_BOTTOM, width=3)),
+            textfont=dict(color=TEXT),
+        )
         st.plotly_chart(fig2, width="stretch")
 
     if not anomalies.empty:
@@ -546,23 +671,23 @@ with col_right:
 st.write("")
 with st.container(border=True):
     section("Client drill-down", "Per-client view")
-    client = st.selectbox("Select a client", sorted(wallet_model["entity_name"].tolist()))
-    row = wallet_model[wallet_model["entity_name"] == client].iloc[0]
+    client = st.selectbox(
+        "Select a client",
+        sorted(live_portfolio["entity_name"].dropna().unique().tolist()),
+    )
+    row = live_portfolio[live_portfolio["entity_name"] == client].iloc[0]
+    top_down_match = wallet_model[
+        wallet_model["entity_name"] == client
+    ] if not wallet_model.empty else pd.DataFrame()
 
     c1, c2 = st.columns([2, 3])
     with c1:
         st.markdown(
             f'<span style="color:{TEXT};font-weight:600;">{client}</span>'
-            f'<span style="color:{MUTED};"> &mdash; {row["sector"]}, {row["currency"]} reporter, FY{int(row["fiscal_year"])}</span>',
+            f'<span style="color:{MUTED};"> &mdash; current ElasticNet portfolio</span>',
             unsafe_allow_html=True,
         )
-        tier = row["reliability_tier"]
-        badge_color = TIER_COLORS.get(tier, SLATE)
-        st.markdown(
-            f"<span class='tier-badge' style='background-color:{badge_color};'>"
-            f"{tier} reliability</span>",
-            unsafe_allow_html=True,
-        )
+
         st.write("")
         if pd.notna(row["blended_share_pct"]):
             m1, m2 = st.columns(2)
@@ -571,7 +696,7 @@ with st.container(border=True):
         else:
             st.info("Blended total not computed (insufficient data)")
 
-        client_anomalies = anomalies[anomalies["entity_name"] == client] if not anomalies.empty else pd.DataFrame()
+        client_anomalies = anomalies[anomalies["entity_name"] == client] if (not anomalies.empty and not top_down_match.empty) else pd.DataFrame()
         if not client_anomalies.empty:
             st.warning(f"{len(client_anomalies)} anomaly(ies) flagged for this client - open Ask a Question for details")
 
@@ -598,23 +723,33 @@ with st.container(border=True):
 
 st.write("")
 with st.container(border=True):
-    section("AI briefing note", "GenAI-generated, grounding-verified")
-    note = briefing_notes.get(client)
-    if note:
+    section("Client intelligence note", "Live ML estimate + optional external benchmark")
+
+    if not top_down_match.empty:
+        benchmark_row = top_down_match.iloc[0]
         st.markdown(
-            f'<p style="font-size:0.72rem;color:{MUTED};margin:-8px 0 10px 0;">Generated via '
-            f'<code>docs/genai/briefing_note_prompt.md</code> - every numeric claim machine-checked '
-            f"against <code>wallet_model.csv</code> by <code>scripts/verify_briefing_notes.py</code> "
-            f'(see <code>hackathon-finreports/_extracted/briefing_notes_verification.csv</code>).</p>',
-            unsafe_allow_html=True,
+            f"**External top-down benchmark available.** "
+            f"Blended share: {benchmark_row['blended_share_pct']:.1f}% "
+            f"| Reliability: {benchmark_row['top_down_reliability'].split(' - ')[0]}"
         )
-        st.markdown(note)
+
+        note = briefing_notes.get(client)
+        if note:
+            st.markdown(note)
+        else:
+            st.info(
+                "A top-down benchmark exists for this client, but no static briefing "
+                "note was found."
+            )
     else:
-        st.info("No briefing note found for this client in client_briefing_notes.md.")
+        st.info(
+            "No external top-down benchmark is available for this current client. "
+            "The live view below is driven by the ElasticNet model."
+        )
 
 st.write("")
 with st.container(border=True):
-    section("ML cross-check (ElasticNet)", "Share, total wallet & gap from internal activity alone")
+    section("Live wallet estimate (ElasticNet)", "Current share, total wallet & gap from internal activity")
     st.markdown(
         f'<p style="font-size:0.8rem;color:{MUTED};margin-top:-6px;">Predicts share from Syn Bank\'s own '
         "internal activity only - no client external total required - then derives total wallet and gap "
@@ -644,17 +779,16 @@ with st.container(border=True):
         )
         st.dataframe(pd.DataFrame(ml_rows), width="stretch", hide_index=True)
     else:
-        st.info("No internal-activity data available for this client in the ML training set.")
+        st.info("No current internal-activity data is available for this client.")
 
 st.write("")
 with st.container(border=True):
-    section("Predict for a new client", "Feed in internal activity directly - no pipeline rerun needed")
+    section("Ad-hoc what-if prediction", "Feed internal activity directly without changing the current portfolio")
     st.markdown(
-        f'<p style="font-size:0.8rem;color:{MUTED};margin-top:-6px;">For a client not yet in the medallion '
-        "gold tables (or a quick what-if): enter Syn Bank's own internal activity below and the "
-        f'already-trained ElasticNet model predicts share, total wallet, and gap immediately - no need to '
-        "rerun the medallion pipeline or retrain anything. Fill in both fields of a pillar to get a "
-        "prediction for it; leave a pillar blank (0) to skip it.</p>",
+        f'<p style="font-size:0.8rem;color:{MUTED};margin-top:-6px;">For a quick what-if, enter Syn Bank '
+        "internal activity directly below. This does not add the client to the current portfolio; "
+        "to onboard a client into the reusable pipeline, add the raw CSV data plus fiscal-year metadata "
+        "and rerun Steps 4, 6 and 7. No model retraining is required.</p>",
         unsafe_allow_html=True,
     )
 

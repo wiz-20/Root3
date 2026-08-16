@@ -7,20 +7,22 @@ Standard Bank Data School Hackathon 2026
 
 This project estimates Syn Bank's **share of wallet** — the proportion of a corporate
 client's total banking activity that Syn Bank currently captures, and the size of the
-addressable gap — across 20 JSE-listed corporate clients. The estimate is produced by two
+addressable gap, across 20 JSE-listed corporate clients. The estimate is produced by two
 independent models, cross-checked against each other, and made explorable through a GenAI
 layer:
 
 1. A **top-down model**, built from each client's own public financial disclosures
    (revenue, cost of sales, trade receivables/payables, disclosed foreign-revenue split).
-2. A **machine-learning model** (ElasticNet), trained on Syn Bank's own internal
-   transaction activity alone — providing a usable estimate precisely where the top-down
-   model is weakest, i.e. where external data is missing or of low reliability.
+2. A **machine-learning model** (ElasticNet), trained using relationships between
+   Syn Bank's internal activity and externally derived client wallet indicators.
+   Once trained, the model can perform inference using new Syn Bank internal activity
+   alone, allowing wallet estimates to be generated for clients without requiring
+   a new external financial-report extraction for every prediction.
 
-The GenAI layer — client briefing notes, anomaly explanations, and natural-language
-querying — is grounded in both models, not one. The live GenAI layer is grounded in both estimation approaches, with top-down and ML-derived figures explicitly labelled by source so that agreement or disagreement between the models can be surfaced rather than hidden.
-Full technical detail — every script, its inputs and outputs, and which components run
-live versus which were executed once during data preparation — is documented in
+The GenAI layer (client briefing notes, anomaly explanations, and natural-language
+querying) is grounded in both models, not one. The live GenAI layer is grounded in both estimation approaches, with top-down and ML-derived figures explicitly labelled by source so that agreement or disagreement between the models can be surfaced rather than hidden.
+Full technical detail, every script, its inputs and outputs, and which components run
+live versus which were executed once during data preparation, is documented in
 [`PIPELINE.md`](PIPELINE.md).
 
 ---
@@ -34,13 +36,13 @@ pip install -r requirements.txt
 streamlit run dashboard/app.py
 
 # Full reproducible notebook (open in Jupyter/VS Code, then Run All)
-jupyter lab wallet_engine.ipynb
+jupyter lab synbank_wallet_engine.ipynb
 ```
 
 These two artifacts are sufficient to evaluate the submission: the **dashboard**
-(`streamlit run dashboard/app.py`) and the **notebook** (`wallet_engine.ipynb`). All other
-components — the medallion data pipeline, the PDF-extraction pipeline, and the top-down
-model build — were executed once during data preparation, with their output committed to
+(`streamlit run dashboard/app.py`) and the **notebook** (`synbank_wallet_engine.ipynb`). All other
+components, the medallion data pipeline, the PDF-extraction pipeline, and the top-down
+model build, were executed once during data preparation, with their output committed to
 the repository; neither entry point above needs to re-run them. See `PIPELINE.md` §1-2 for
 the full breakdown of live versus offline components.
 
@@ -60,15 +62,17 @@ unaffected by a missing or invalid key.
 ## Architecture
 
 ```text
-Internal Syn Bank Data ─────┬──→ Top-Down Wallet Model ──┐
-                            │                             │
-External Financial Data ────┤                             ├──→ GenAI Layer
-                            │                             │        ↓
-                            └──→ ElasticNet ML Model ─────┘   Dashboard /
-                                      ↓                       Insights
-                               Predicted Share
-                                      ↓
-                                 Wallet + Gap
+External Financial Data ───→ Top-Down Model ───────────┐
+                                                        │
+Internal Syn Bank Data ────→ ElasticNet ML Model ──────┤
+                               ↓                        │
+                         Predicted Share                │
+                               ↓                        │
+                          Wallet + Gap ─────────────────┘
+                                                        ↓
+                                                   GenAI Layer
+                                                        ↓
+                                              Dashboard / Insights
 ```
 
 The ML model and the GenAI layer are integrated by design: the ML model's predictions are
@@ -80,30 +84,38 @@ analysis. The full integration is documented in `PIPELINE.md` §6-9.
 ## Feeding in new data
 
 New data enters the system through one of two independent tracks, depending on its source.
-Neither track requires any code changes — only re-running the relevant scripts in order.
+Neither track requires any code changes, only re-running the relevant scripts in order.
 
 ### Track A — new Syn Bank internal activity (updates the ML model's predictions)
 
 1. Replace or update the raw internal CSVs at the repository root (`transactional_banking.csv`,
    `trade_finance.csv`, `cross_border_payments.csv`).
+   If the incoming data contains a **new client** whose fiscal-year information is not
+   already available from the extracted financial-report metadata, also add the client's
+   reporting periods to `client_fiscal_years.csv` in the repository root:
+
+   ```csv
+   entity_name,fiscal_year,fiscal_year_end
+   New Client Ltd,2025,30 June 2025
+   New Client Ltd,2026,30 June 2026
+   ```
 2. Rebuild the internal gold-layer features:
    ```sh
    python medallion-pipeline/scripts/bronze_silver_transformation.py
    python medallion-pipeline/scripts/silver_gold_transformation.py
    ```
    This regenerates `medallion-pipeline/gold/*.csv`.
-3. No retraining is required. `machine_learning/predict_wallet.py` reads the gold CSVs
+3. Do NOT retrain the ML model. `machine_learning/predict_wallet.py` reads the gold CSVs
    directly each time it loads, and the already-trained ElasticNet model predicts on
-   whatever internal activity is present — including for a client outside the original 20,
+   whatever internal activity is present, including for a client outside the original 20,
    provided a row exists for them in the gold tables. This is the scenario the model's
    Leave-One-Group-Out validation was designed to demonstrate (see `PIPELINE.md` §7).
 4. If the dashboard is already running, restart it (`streamlit run dashboard/app.py`) to
-   load the updated gold files — the ML predictor is cached for the life of the running
-   session. In the notebook, re-running the relevant cells picks up the update immediately.
+   load the updated gold files. In the notebook, re-running the relevant cells picks up the update immediately.
 
 Retraining (`python machine_learning/elastic_net.py`) is only necessary when adding new
-**labelled** training examples — company-years where both the internal activity and the
-true external wallet figure are known — so the model's coefficients themselves improve.
+**labelled** training examples, company-years where both the internal activity and the
+true external wallet figure are known, so the model's coefficients themselves improve.
 Predicting on new activity for inference does not require this step.
 
 ### Track B — new external financial disclosures (updates the top-down model)
@@ -122,22 +134,18 @@ Predicting on new activity for inference does not require this step.
 3. As with Track A, restart the dashboard or re-run the relevant notebook cells to load
    the updated files.
 
-### The GenAI layer and dashboard require no separate update step
+### The GenAI layer automatically uses the current ML portfolio
 
-Both GenAI tiers query the live model output on every question — they do not need to be
-re-run to "pick up" new data:
+The dashboard and both GenAI tiers are now driven by the current ElasticNet portfolio
+generated from the latest Gold-layer data:
 
-- **Tier 1** (`scripts/nl_query_assistant.py`) calls `MLWalletPredictor` directly for every
-  client question, so it reflects whatever the model currently predicts.
-- **Tier 2** (`scripts/nl_query_llm.py`) rebuilds its full ML-predictions grounding table
-  from `MLWalletPredictor` on every single call — never from a cached snapshot.
-- The dashboard's client drill-down (top-down summary, AI briefing note, ML cross-check)
-  and the "Ask a Question" assistant all read from the same live objects.
-
-The one step that does need repeating after new data arrives is restarting whichever
-process (dashboard or notebook kernel) is already running, so it re-reads the updated
-files from disk — this is a data-refresh step, not a GenAI re-run.
-
+- **Tier 1** (`scripts/nl_query_assistant.py`) builds its client universe from the current
+  `MLWalletPredictor` predictions rather than from the original top-down portfolio.
+- **Tier 2** (`scripts/nl_query_llm.py`) builds a fresh ML-predictions grounding table for
+  each live LLM request.
+- External top-down results remain available as an **independent benchmark** where a
+  matching client exists, but they no longer determine which clients appear in the live
+  application.
 ---
 
 ## Repository structure
@@ -145,7 +153,7 @@ files from disk — this is a data-refresh step, not a GenAI re-run.
 | Path | Contents |
 |---|---|
 | `dashboard/` | The Streamlit executive dashboard |
-| `wallet_engine.ipynb` | The full reproducible notebook — the primary end-to-end technical narrative |
+| `synbank_wallet_engine.ipynb` | The full reproducible notebook; the primary end-to-end technical narrative |
 | `scripts/` | Data preparation, the top-down wallet model, anomaly detection, the NL query assistant (Tier 1 and Tier 2), and grounding-verification scripts |
 | `machine_learning/` | ElasticNet training (`elastic_net.py`), the wallet/gap derivation (`wallet_math.py`), and the inference API (`predict_wallet.py`) |
 | `medallion-pipeline/` | The PySpark bronze/silver/gold pipeline over the raw internal datasets |
@@ -167,42 +175,4 @@ files from disk — this is a data-refresh step, not a GenAI re-run.
 | How does the GenAI layer work, and how is it grounded? | `docs/genai/README.md` |
 | What external data sources were evaluated, and why? | `DATA_SOURCES.md` |
 | What was the original project scope and evaluation rubric? | `PLAN.md` |
-
-## Updating the System with New Syn Bank Data
-
-The trained ElasticNet models are designed to score newly available Syn Bank internal activity without requiring model retraining. When new transactional, trade-finance, or cross-border data becomes available, the raw data is first processed through the medallion pipeline to regenerate the Gold-layer client features. The dashboard then automatically uses these updated features to generate new machine-learning predictions and provide the latest results to the live GenAI layer.
-
-The operational pipeline is:
-
-```text
-Update Syn Bank Internal Data
-        ↓
-cross_border_payments.csv
-trade_finance.csv
-transactional_banking.csv
-        ↓
-Bronze → Silver Transformation
-        ↓
-Silver → Gold Transformation
-        ↓
-Updated Gold-Layer Datasets
-        ↓
-dashboard/app.py
-        │
-        ├──→ predict_wallet.py
-        │       │
-        │       ├── reads the latest Gold-layer client data
-        │       ├── loads the existing trained ElasticNet models and scalers
-        │       └── predicts Share of Wallet
-        │
-        ├──→ wallet_math.py
-        │       │
-        │       ├── Estimated Wallet = Syn Bank Activity / Predicted Share
-        │       └── Estimated Gap = Estimated Wallet - Syn Bank Activity
-        │
-        └──→ GenAI Layer
-                │
-                ├── Tier 1: deterministic natural-language querying
-                │
-                └── Tier 2: live LLM synthesis grounded in the latest
-                    ML predictions and top-down model results
+| Where can I test the entire solution? | `synbank_wallet_engine.ipynb` |

@@ -35,7 +35,12 @@ import joblib
 import numpy as np
 import pandas as pd
 
-from wallet_math import derive_wallet_and_gap
+# Allow synbank_wallet_engine to easily visualise output
+try:
+    from machine_learning.wallet_math import derive_wallet_and_gap
+except ModuleNotFoundError:
+    from wallet_math import derive_wallet_and_gap
+
 
 ROOT = Path(__file__).resolve().parent.parent
 MODELS_DIR = ROOT / "machine_learning" / "models"
@@ -178,6 +183,40 @@ class MLWalletPredictor:
 
         return result
 
+
+    def predict_all_clients(self) -> pd.DataFrame:
+        """
+        Run the trained models for every client present in the medallion gold layer
+        and return the predictions as one tidy DataFrame.
+
+        Each row represents one client/target prediction, making it easy to display,
+        filter, rank, or export the complete portfolio output in a notebook.
+        """
+        clients = sorted(
+            set(self.trade_internal["entity_name"].dropna())
+            | set(self.transactional_internal["entity_name"].dropna())
+            | set(self.fx_internal["entity_name"].dropna())
+        )
+
+        rows = []
+
+        for entity_name in clients:
+            predictions = self.predict_for_client(entity_name)
+
+            for pillar, targets in predictions.items():
+                for target in targets:
+                    rows.append({
+                        "entity_name": entity_name,
+                        "pillar": pillar,
+                        "target": target["target"],
+                        "internal_zar": target["internal_zar"],
+                        "predicted_share_pct": target["predicted_share_pct"],
+                        "predicted_total_wallet_zar_m": target["predicted_total_wallet_zar_m"],
+                        "predicted_gap_zar_m": target["predicted_gap_zar_m"],
+                    })
+
+        return pd.DataFrame(rows)
+
     def describe(self, entity_name: str) -> str:
         """
         Turns predict_for_client()'s numbers into a banker-readable narrative - this is the
@@ -233,26 +272,16 @@ class MLWalletPredictor:
 
 if __name__ == "__main__":
     predictor = MLWalletPredictor()
-    for client in ["Pepkor Holdings", "Glencore", "Valterra Platinum"]:
-        print(f"\n{client}:")
-        for pillar, targets in predictor.predict_for_client(client).items():
-            if not targets:
-                print(f"  {pillar}: no internal activity data available")
-                continue
-            print(f"  {pillar}:")
-            for t in targets:
-                if t["predicted_total_wallet_zar_m"] == t["predicted_total_wallet_zar_m"]:  # not NaN
-                    wallet_str = f"R{t['predicted_total_wallet_zar_m']:.1f}m"
-                    gap_str = f"R{t['predicted_gap_zar_m']:.1f}m"
-                else:
-                    wallet_str = "not computable (predicted share <= 0)"
-                    gap_str = "n/a"
-                print(f"    {t['target']}: predicted share={t['predicted_share_pct']:.1f}%, total wallet={wallet_str}, gap={gap_str}")
 
-    print("\n\nAd-hoc prediction demo (no gold-CSV lookup, values supplied directly):")
-    demo = predictor.predict_from_inputs(
-        trade_receivables=15_000_000, trade_payables=8_000_000,
-        collections=40_000_000, supplier_payments=12_000_000,
-        cross_border_inflows=5_000_000,
-    )
-    print(predictor.describe_predictions(demo, "Demo Client"))
+    # Predict across every client available in the medallion gold-layer inputs.
+    predictions_df = predictor.predict_all_clients()
+
+    # Keep the output judge-friendly when the script is run directly.
+    display_df = predictions_df.copy()
+    display_df["internal_zar"] = display_df["internal_zar"].round(2)
+    display_df["predicted_share_pct"] = display_df["predicted_share_pct"].round(2)
+    display_df["predicted_total_wallet_zar_m"] = display_df["predicted_total_wallet_zar_m"].round(2)
+    display_df["predicted_gap_zar_m"] = display_df["predicted_gap_zar_m"].round(2)
+
+    print("\nElasticNet predictions for all clients\n")
+    print(display_df.to_string(index=False))

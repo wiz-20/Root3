@@ -343,13 +343,6 @@ best = {
 
 for alpha in alphas:
     for l1 in l1_ratios:
-        print(
-            "\n---------------- Testing alpha =",
-            alpha,
-            "and l1_ratio =",
-            l1,
-            "----------------",
-        )
 
         # ----------------------- TRADE -----------------------
         receivables_predictions = logo_elastic_net_predictions(
@@ -402,8 +395,6 @@ for alpha in alphas:
                 "l1_ratio": l1,
             }
 
-        print("Trade receivables R²:", receivables_r2)
-        print("Trade payables R²:", payables_r2)
 
         # ------------------- TRANSACTIONAL -------------------
         revenue_predictions = logo_elastic_net_predictions(
@@ -444,8 +435,6 @@ for alpha in alphas:
                 "l1_ratio": l1,
             }
 
-        print("Transactional revenue R²:", revenue_r2)
-        print("Transactional cost R²:", cost_r2)
 
         # ------------------------- FX ------------------------
         fx_predictions = logo_elastic_net_predictions(
@@ -467,7 +456,6 @@ for alpha in alphas:
                 "l1_ratio": l1,
             }
 
-        print("FX foreign revenue R²:", fx_r2)
 
 
 # ============================================================

@@ -46,17 +46,62 @@ cross_border = (
 cross_border["date"] = pd.to_datetime(cross_border["date"])
 
 # Per-entity fiscal-year windows are derived directly from each company's disclosed
-# fiscal_year_end (hackathon-finreports/_extracted/financials_multiyear.csv) rather than a
-# hand-typed, position-indexed list - a hardcoded list keyed by list position silently breaks
-# the moment its order doesn't exactly match the alphabetically-sorted entity list it's zipped
-# against (7/20 entities - Clicks, Glencore, OUTsurance, Pepkor, Prosus, Sanlam, Shoprite - were
-# getting another company's fiscal-year window under the old hardcoded lists, contaminating the
-# internal/external pairing used for ML training).
+# fiscal_year_end (hackathon-finreports/_extracted/financials_multiyear.csv).
+#
+# For brand-new entities not already present in the extracted financial-report data,
+# optional fallback fiscal-year metadata can be supplied in client_fiscal_years.csv
+# in the project root.
 _financials = pd.read_csv(
     REPO_ROOT / "hackathon-finreports" / "_extracted" / "financials_multiyear.csv"
 )
-_financials["fye"] = pd.to_datetime(_financials["fiscal_year_end"], format="%d %B %Y")
-_financials["window_start"] = _financials["fye"] - pd.DateOffset(years=1) + pd.Timedelta(days=1)
+
+_client_fiscal_years_path = REPO_ROOT / "client_fiscal_years.csv"
+
+if _client_fiscal_years_path.exists():
+    _client_fiscal_years = pd.read_csv(_client_fiscal_years_path)
+
+    _required_columns = {"entity_name", "fiscal_year", "fiscal_year_end"}
+    _missing_columns = _required_columns - set(_client_fiscal_years.columns)
+
+    if _missing_columns:
+        raise ValueError(
+            "client_fiscal_years.csv is missing required columns: "
+            + ", ".join(sorted(_missing_columns))
+        )
+
+    # Only add fallback rows for entity/year combinations that do not already
+    # exist in financials_multiyear.csv.
+    _existing_keys = set(
+        zip(
+            _financials["entity_name"],
+            _financials["fiscal_year"]
+        )
+    )
+
+    _client_fiscal_years = _client_fiscal_years[
+        ~_client_fiscal_years.apply(
+            lambda row: (
+                row["entity_name"],
+                row["fiscal_year"]
+            ) in _existing_keys,
+            axis=1
+        )
+    ]
+
+    _financials = pd.concat(
+        [_financials, _client_fiscal_years],
+        ignore_index=True
+    )
+
+_financials["fye"] = pd.to_datetime(
+    _financials["fiscal_year_end"],
+    format="%d %B %Y"
+)
+_financials["window_start"] = (
+    _financials["fye"]
+    - pd.DateOffset(years=1)
+    + pd.Timedelta(days=1)
+)
 
 
 def _date_ranges_for_year(fiscal_year: int) -> dict:
@@ -318,6 +363,7 @@ collections = (
     .loc[:, ["entity_name", "year", "amount_zar"]]
     .groupby(["entity_name", "year"], as_index=False)["amount_zar"]
     .sum()
+    .rename(columns={"amount_zar": "collections"})
 )
 
 
@@ -328,6 +374,7 @@ supplier_payments = (
     .loc[:, ["entity_name", "year", "amount_zar"]]
     .groupby(["entity_name", "year"], as_index=False)["amount_zar"]
     .sum()
+    .rename(columns={"amount_zar": "supplier_payments"})
 )
 
 
