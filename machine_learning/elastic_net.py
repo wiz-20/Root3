@@ -79,8 +79,8 @@ trade_external_data = external_data[
     ]
 ].copy()
 
-trade_external_data["trade_receivables_zar_m"] *= 1_000_000.0
-trade_external_data["trade_payables_zar_m"] *= 1_000_000.0
+trade_external_data["trade_receivables_zar_m"] *= 1000000.0
+trade_external_data["trade_payables_zar_m"] *= 1000000.0
 
 trade_external_data.columns = [
     "entity_name",
@@ -113,8 +113,8 @@ transactional_external_data = external_data[
 
 transactional_external_data = transactional_external_data.dropna()
 
-transactional_external_data["revenue_zar_m"] *= 1_000_000.0
-transactional_external_data["cost_of_sales_zar_m"] *= 1_000_000.0
+transactional_external_data["revenue_zar_m"] *= 1000000.0
+transactional_external_data["cost_of_sales_zar_m"] *= 1000000.0
 
 transactional_external_data.columns = [
     "entity_name",
@@ -142,7 +142,6 @@ fx_external_data = external_data[
         "foreign_revenue_pct",
     ]
 ].copy()
-
 fx_external_data = fx_external_data.dropna()
 
 print(
@@ -153,7 +152,7 @@ print(
 
 fx_external_data["foreign_revenue"] = (
     fx_external_data["revenue_zar_m"]
-    * 1_000_000.0
+    * 1000000.0
     * (fx_external_data["foreign_revenue_pct"] / 100.0)
 )
 
@@ -253,6 +252,7 @@ fx = pd.merge(
     on=("year", "entity_name"),
 )
 
+
 fx["share_of_foreign_revenue"] = (
     fx["cross_border_inflows"] / fx["foreign_revenue"]
 )
@@ -263,6 +263,8 @@ fx = fx.dropna(subset=["share_of_foreign_revenue"])
 X_fx = fx[["cross_border_inflows"]]
 y_fx = fx["share_of_foreign_revenue"]
 groups_fx = fx["entity_name"]
+
+print(fx[fx["entity_name"] == "Sanlam"].head(10))
 
 print("\n------------------------------ FX ----------------------------------")
 print("FX observations:", len(fx))
@@ -447,6 +449,7 @@ for alpha in alphas:
 
         fx_r2 = r2_score(y_fx, fx_predictions)
         fx_mse = mean_squared_error(y_fx, fx_predictions)
+
 
         if fx_r2 > best["fx_foreign_revenue"]["r2"]:
             best["fx_foreign_revenue"] = {

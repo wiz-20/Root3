@@ -659,15 +659,6 @@ with col_right:
         )
         st.plotly_chart(fig2, width="stretch")
 
-    if not anomalies.empty:
-        with st.container(border=True):
-            section("Anomalies by type", "Rule-based detection")
-            rule_counts = anomalies["rule"].value_counts().rename_axis("rule").reset_index(name="count")
-            fig3 = px.bar(rule_counts, x="count", y="rule", orientation="h", color_discrete_sequence=[TEAL])
-            plotly_dark_layout(fig3, height=240, yaxis_title="", xaxis_title="Instances")
-            fig3.update_traces(marker_line_width=0)
-            st.plotly_chart(fig3, width="stretch")
-
 st.write("")
 with st.container(border=True):
     section("Client drill-down", "Per-client view")

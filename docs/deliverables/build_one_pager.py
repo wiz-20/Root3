@@ -178,8 +178,8 @@ def header_band():
 def stat_strip():
     stats = [
         ("20", "JSE-listed clients\nanalyzed (43 company-years)"),
-        ("5.8%", "avg. blended Share of\nWallet, actionable-tier clients"),
-        ("R2.4tn", "combined addressable gap,\n10 highest-confidence clients"),
+        ("3.6%", "predicted avg. blended Share of\nWallet"),
+        ("R3.4tn", "predicted combined addressable gap"),
         ("0.24\u20130.39", "ElasticNet R\u00b2, 4/5 targets\n(honest LOGO cross-validation)"),
         ("3/3", "GenAI use cases built:\nbriefing notes, NL query, anomalies"),
     ]
@@ -290,13 +290,13 @@ def build():
     story.append(Spacer(1, 6))
 
     findings = bullets([
-    "<b>Top opportunity:</b> Shoprite Holdings — 2.4% transactional share, R437bn gap on a R448bn wallet (literal, ZAR-reporter).",
+        "<b>Top ML opportunities:</b> Naspers leads the current ElasticNet portfolio with a R468.3bn predicted gap at 0.4% predicted Syn Bank share, followed by Prosus (R294.7bn), The Bidvest Group (R253.4bn), Aspen Pharmacare (R253.1bn), and MTN Group (R242.4bn).",
 
-    "<b>Sharpest anomaly:</b> Valterra Platinum — near-zero share (0.0–0.2%) despite being a <i>domestic</i> reporter, not a scale artifact — flagged for immediate relationship review.",
+        "<b>Portfolio-wide white space:</b> across 20 current clients, the ElasticNet models estimate an average Syn Bank share of 3.6% and a combined predicted wallet gap of R3,423.4bn, highlighting substantial cross-sell potential across the portfolio.",
 
-    "<b>ML performance:</b> after target-specific ElasticNet hyperparameter tuning, out-of-sample R² reached 0.394 for transactional revenue, 0.340 for trade receivables, 0.269 for transactional cost, and 0.241 for trade payables. FX remained weak (R² = −0.264), reflecting the particularly sparse 17-observation FX training set.",
+        "<b>Pillar-level signal:</b> the ML opportunity heatmap shows consistently low predicted penetration across Trade &amp; Working Capital, while Transactional Banking varies more meaningfully by client, helping bankers identify both the client and product pillar to prioritise.",
 
-    "<b>Model self-awareness:</b> reliability tiering catches the naive-model trap before it reaches a banker — a raw calculation would report Glencore's global consolidated revenue as a fictional R9.5 trillion \"gap\"; explicitly flagged low-reliability/directional-only instead.",
+        "<b>FX limitation remains visible:</b> the current FX model produces a uniform 12.7% predicted share across clients, consistent with its weak out-of-sample performance; FX should therefore be treated as directional until additional training data improves the signal.",
     ])
     story += section("Key Findings", findings)
     story.append(Spacer(1, 5))

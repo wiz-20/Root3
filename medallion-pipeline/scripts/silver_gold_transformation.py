@@ -121,9 +121,9 @@ date_ranges_2026 = _date_ranges_for_year(2026)
 # 1. Extract Features from Cross-Border Data
 ############################################
 
-cross_border_2024 = cross_border
-cross_border_2025 = cross_border
-cross_border_2026 = cross_border
+cross_border_2024 = cross_border.copy()
+cross_border_2025 = cross_border.copy()
+cross_border_2026 = cross_border.copy()
 
 
 # 2024 financial year data
@@ -254,9 +254,9 @@ cross_border_summary.to_csv(
 # 2. Extract Features from Transactional Data
 ############################################
 
-transactional_banking_2024 = transactional_banking
-transactional_banking_2025 = transactional_banking
-transactional_banking_2026 = transactional_banking
+transactional_banking_2024 = transactional_banking.copy()
+transactional_banking_2025 = transactional_banking.copy()
+transactional_banking_2026 = transactional_banking.copy()
 
 
 # 2024 financial year data
