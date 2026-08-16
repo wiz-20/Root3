@@ -177,11 +177,11 @@ def header_band():
 
 def stat_strip():
     stats = [
-        ("20", "JSE-listed clients\nanalyzed (43 company-years)"),
-        ("3.6%", "predicted avg. blended Share of\nWallet"),
-        ("R3.4tn", "predicted combined addressable gap"),
-        ("0.24\u20130.39", "ElasticNet R\u00b2, 4/5 targets\n(honest LOGO cross-validation)"),
-        ("3/3", "GenAI use cases built:\nbriefing notes, NL query, anomalies"),
+        ("20", "current clients\nanalyzed"),
+        ("1.9%", "predicted avg. blended Share of\nWallet"),
+        ("R8.83tn", "predicted combined wallet gap"),
+        ("20", "top-down benchmarks\navailable"),
+        ("100", "ML wallet components\npredicted"),
     ]
     cells = []
     for num, label in stats:
@@ -290,13 +290,11 @@ def build():
     story.append(Spacer(1, 6))
 
     findings = bullets([
-        "<b>Top ML opportunities:</b> Naspers leads the current ElasticNet portfolio with a R468.3bn predicted gap at 0.4% predicted Syn Bank share, followed by Prosus (R294.7bn), The Bidvest Group (R253.4bn), Aspen Pharmacare (R253.1bn), and MTN Group (R242.4bn).",
+        "<b>Top ML opportunities:</b> Glencore leads with a R3.75tn predicted gap at 0.1% predicted Syn Bank share, followed by BHP Group (R1.19tn, 1.0%) and Naspers (R601.1bn, 0.3%).",
 
-        "<b>Portfolio-wide white space:</b> across 20 current clients, the ElasticNet models estimate an average Syn Bank share of 3.6% and a combined predicted wallet gap of R3,423.4bn, highlighting substantial cross-sell potential across the portfolio.",
+        "<b>Portfolio-wide white space:</b> across 20 clients, the ElasticNet models estimate an average blended Syn Bank share of 1.9% and a combined predicted wallet gap of R8.83tn.",
 
-        "<b>Pillar-level signal:</b> the ML opportunity heatmap shows consistently low predicted penetration across Trade &amp; Working Capital, while Transactional Banking varies more meaningfully by client, helping bankers identify both the client and product pillar to prioritise.",
-
-        "<b>FX limitation remains visible:</b> the current FX model produces a uniform 12.7% predicted share across clients, consistent with its weak out-of-sample performance; FX should therefore be treated as directional until additional training data improves the signal.",
+        "<b>Pillar-level signal:</b> Trade &amp; Working Capital is consistently underpenetrated, while Transactional Banking and Foreign/Cross-Border show greater client-level variation, helping bankers target both the client and pillar with the most white space.",
     ])
     story += section("Key Findings", findings)
     story.append(Spacer(1, 5))

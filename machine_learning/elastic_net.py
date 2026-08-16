@@ -280,8 +280,6 @@ X_fx = np.log(fx[["cross_border_inflows", "txn_count", "n_countries"]].clip(lowe
 y_fx = np.log(fx["share_of_foreign_revenue"])
 groups_fx = fx["entity_name"]
 
-print(fx[fx["entity_name"] == "Sanlam"].head(10))
-
 print("\n------------------------------ FX ----------------------------------")
 print("FX observations:", len(fx))
 print("FX companies:", groups_fx.nunique())
