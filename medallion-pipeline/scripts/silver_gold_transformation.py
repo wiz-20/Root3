@@ -209,6 +209,19 @@ expense_df = (
 )
 
 
+# Per-client inbound transaction shape (count + spread of counterparty countries) -
+# extra internal-only signal for the FX ElasticNet target, which a single summed-value
+# feature (cross_border_inflows) doesn't carry: two clients can have the same total
+# inflow but very different transaction counts/country spread.
+inbound_activity_df = (
+    cross_border[cross_border["direction"] == "inbound"]
+    .groupby(["entity_name", "year"], as_index=False)
+    .agg(
+        txn_count=("value_zar", "count"),
+        n_countries=("counterparty_country", "nunique"),
+    )
+)
+
 
 cross_border_base = (
     cross_border[["entity_name", "year"]]
@@ -227,19 +240,26 @@ cross_border_summary = (
         on=["entity_name", "year"],
         how="left"
     )
+    .merge(
+        inbound_activity_df,
+        on=["entity_name", "year"],
+        how="left"
+    )
 )
 
 cross_border_summary.columns = [
     "entity_name",
     "year",
     "cross_border_inflows",
-    "cross_border_outflows"
+    "cross_border_outflows",
+    "txn_count",
+    "n_countries",
 ]
 
 cross_border_summary[
-    ["cross_border_inflows", "cross_border_outflows"]
+    ["cross_border_inflows", "cross_border_outflows", "txn_count", "n_countries"]
 ] = cross_border_summary[
-    ["cross_border_inflows", "cross_border_outflows"]
+    ["cross_border_inflows", "cross_border_outflows", "txn_count", "n_countries"]
 ].fillna(0)
 
 

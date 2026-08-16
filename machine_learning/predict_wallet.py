@@ -82,12 +82,21 @@ class MLWalletPredictor:
         self.trade_scaler = joblib.load(models_dir / "trade_scaler.pkl")
         self.transactional_bundle = joblib.load(models_dir / "transactional_model.pkl")
         self.transactional_scaler = joblib.load(models_dir / "transactional_scaler.pkl")
-        self.fx_model = joblib.load(models_dir / "fx_model.pkl")
+        self.fx_bundle = joblib.load(models_dir / "fx_model.pkl")
+        self.fx_model = self.fx_bundle["model"]
+        self.fx_feature_columns = self.fx_bundle["feature_columns"]
         self.fx_scaler = joblib.load(models_dir / "fx_scaler.pkl")
 
         self.trade_internal = pd.read_csv(gold_dir / "trade_finance_gold.csv")
         self.transactional_internal = pd.read_csv(gold_dir / "transactional_banking_gold.csv")
         self.fx_internal = pd.read_csv(gold_dir / "cross_border_gold.csv")
+
+        # Fallback for the ad-hoc "what-if" path when a caller only supplies
+        # cross_border_inflows: median transaction shape observed across the training
+        # portfolio, rather than requiring every caller to know a hypothetical client's
+        # transaction count / country spread up front.
+        self._fx_txn_count_median = float(self.fx_internal["txn_count"].median())
+        self._fx_n_countries_median = float(self.fx_internal["n_countries"].median())
 
     # ---- shared prediction logic (both pillars need both of their features together) ----
 
@@ -111,10 +120,30 @@ class MLWalletPredictor:
             _target_result_from_value("Cost of sales (supplier payments)", supplier_payments, cost_share),
         ]
 
-    def _predict_fx(self, cross_border_inflows: float) -> list[dict]:
-        X = pd.DataFrame([[cross_border_inflows]], columns=["cross_border_inflows"])
+    def _predict_fx(
+        self,
+        cross_border_inflows: float,
+        txn_count: float | None = None,
+        n_countries: float | None = None,
+    ) -> list[dict]:
+        if txn_count is None:
+            txn_count = self._fx_txn_count_median
+        if n_countries is None:
+            n_countries = self._fx_n_countries_median
+
+        raw = {
+            "cross_border_inflows": cross_border_inflows,
+            "txn_count": txn_count,
+            "n_countries": n_countries,
+        }
+        X = pd.DataFrame([[raw[c] for c in self.fx_feature_columns]], columns=self.fx_feature_columns)
+
+        if self.fx_bundle.get("log_transform"):
+            X = np.log(X.clip(lower=1))
+
         X_scaled = self.fx_scaler.transform(X)
-        fx_share = float(self.fx_model.predict(X_scaled)[0])
+        raw_prediction = float(self.fx_model.predict(X_scaled)[0])
+        fx_share = float(np.exp(raw_prediction)) if self.fx_bundle.get("log_transform") else raw_prediction
         return [_target_result_from_value("Foreign revenue (cross-border inflows)", cross_border_inflows, fx_share)]
 
     # ---- public entry points ----
@@ -145,7 +174,11 @@ class MLWalletPredictor:
 
         fx_row = _latest_row(self.fx_internal, entity_name)
         result["Foreign/Cross-Border"] = (
-            self._predict_fx(float(fx_row["cross_border_inflows"]))
+            self._predict_fx(
+                float(fx_row["cross_border_inflows"]),
+                float(fx_row["txn_count"]),
+                float(fx_row["n_countries"]),
+            )
             if fx_row is not None else []
         )
 
@@ -158,6 +191,8 @@ class MLWalletPredictor:
         collections: float | None = None,
         supplier_payments: float | None = None,
         cross_border_inflows: float | None = None,
+        txn_count: float | None = None,
+        n_countries: float | None = None,
     ) -> dict:
         """
         Same output shape as predict_for_client(), but takes internal-activity figures
@@ -168,7 +203,10 @@ class MLWalletPredictor:
         Trade receivables/payables are both needed together to predict either trade target
         (the model was trained on both as joint features), and likewise for collections/
         supplier payments - so each pillar is only predicted when its full feature pair is
-        supplied. FX needs only cross_border_inflows.
+        supplied. FX needs cross_border_inflows; txn_count/n_countries are optional and
+        fall back to the training portfolio's median transaction shape when omitted, since
+        a hypothetical not-yet-onboarded client's transaction count/country spread is
+        rarely known any more precisely than its inflow total is.
         """
         result: dict[str, list[dict]] = {"Trade & Working Capital": [], "Transactional Banking": [], "Foreign/Cross-Border": []}
 
@@ -179,7 +217,7 @@ class MLWalletPredictor:
             result["Transactional Banking"] = self._predict_transactional(collections, supplier_payments)
 
         if cross_border_inflows is not None:
-            result["Foreign/Cross-Border"] = self._predict_fx(cross_border_inflows)
+            result["Foreign/Cross-Border"] = self._predict_fx(cross_border_inflows, txn_count, n_countries)
 
         return result
 

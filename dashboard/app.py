@@ -797,6 +797,25 @@ with st.container(border=True):
         with fc3:
             st.markdown("**Foreign/Cross-Border**")
             in_cross_border = st.number_input("Cross-border inflows (ZAR)", min_value=0.0, value=0.0, step=1_000_000.0, format="%.0f")
+            in_txn_count = st.number_input(
+                "Cross-border transaction count (optional)",
+                min_value=0, value=0, step=1,
+                help="Training portfolio ranges ~160-7,000 transactions per company-year. "
+                     "Leave at 0 to fall back to the typical value - entering a count wildly "
+                     "inconsistent with the inflow amount above (e.g. 50 txns for a R1bn+ inflow) "
+                     "will extrapolate outside the model's training range and produce an unreliable share.",
+            )
+            in_n_countries = st.number_input(
+                "Number of counterparty countries (optional)",
+                min_value=0, value=0, step=1,
+                help="Training portfolio ranges ~10-22 countries per company-year. Leave at 0 to "
+                     "fall back to the typical value.",
+            )
+            st.markdown(
+                f'<p style="font-size:0.75rem;color:{MUTED};margin-top:-6px;">Leave the last two at 0 to '
+                "fall back to the training portfolio's typical transaction shape.</p>",
+                unsafe_allow_html=True,
+            )
         predict_clicked = st.form_submit_button("Predict")
 
     if predict_clicked:
@@ -806,6 +825,8 @@ with st.container(border=True):
             collections=in_collections or None,
             supplier_payments=in_supplier_payments or None,
             cross_border_inflows=in_cross_border or None,
+            txn_count=in_txn_count or None,
+            n_countries=in_n_countries or None,
         )
         if not any(inputs.values()):
             st.warning("Enter at least one pillar's figures (both fields for Trade or Transactional, or Cross-border inflows alone) to get a prediction.")

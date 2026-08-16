@@ -259,9 +259,25 @@ fx["share_of_foreign_revenue"] = (
 
 fx = fx.replace([np.inf, -np.inf], np.nan)
 fx = fx.dropna(subset=["share_of_foreign_revenue"])
+# A zero share (no inflows this fiscal year) can't be log-transformed and carries no
+# ratio information anyway - excluded the same way non-computable rows are excluded
+# everywhere else in this project (see wallet_math.py).
+fx = fx[fx["share_of_foreign_revenue"] > 0]
 
-X_fx = fx[["cross_border_inflows"]]
-y_fx = fx["share_of_foreign_revenue"]
+# Single-feature (cross_border_inflows only), raw-value ElasticNet on this target
+# collapses to an intercept-only model: only 17 usable company-years, one feature that
+# barely correlates with the ratio label in raw space, so every alpha/l1_ratio in the
+# search grid scores negative out-of-fold R^2 and the "best" pick is just the most
+# regularised one, whose only coefficient goes to exactly zero. Two fixes applied:
+#   1. Model in log-space. share_of_foreign_revenue spans ~1000x across companies
+#      (0.0008 to 1.0), so a raw-value squared-error fit is dominated by the one or two
+#      largest-share companies; log-space makes the loss scale-fair.
+#   2. Add txn_count and n_countries (both derived purely from Syn Bank's own inbound
+#      transaction log - see silver_gold_transformation.py) - internal-only signal a
+#      single summed-value feature can't carry, since two clients can have the same
+#      total inflow with very different transaction shape.
+X_fx = np.log(fx[["cross_border_inflows", "txn_count", "n_countries"]].clip(lower=1))
+y_fx = np.log(fx["share_of_foreign_revenue"])
 groups_fx = fx["entity_name"]
 
 print(fx[fx["entity_name"] == "Sanlam"].head(10))
@@ -577,6 +593,19 @@ fx_model = ElasticNet(
 )
 fx_model.fit(X_fx_scaled, y_fx)
 
+# Bundled (not the bare estimator) so predict_wallet.py knows the feature order and that
+# both X and y were fit in log-space, without hardcoding that assumption on the inference
+# side.
+fx_model_bundle = {
+    "model": fx_model,
+    "feature_columns": list(X_fx.columns),
+    "log_transform": True,
+    "hyperparameters": {
+        "alpha": best["fx_foreign_revenue"]["alpha"],
+        "l1_ratio": best["fx_foreign_revenue"]["l1_ratio"],
+    },
+}
+
 
 # ============================================================
 # SAVE THREE BUSINESS-PILLAR MODEL FILES + THEIR SCALERS
@@ -601,7 +630,7 @@ joblib.dump(
 )
 
 joblib.dump(
-    fx_model,
+    fx_model_bundle,
     MODELS_DIR / "fx_model.pkl",
 )
 joblib.dump(
