@@ -54,7 +54,24 @@ st.markdown(
     @import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@500;700&display=swap');
 
     html, body, [class*="css"] {{ font-family: 'Inter', sans-serif; }}
-    .stApp {{ background: {PAGE_BG}; }}
+
+    /* ---- Animated background (subtle aurora glow, purely decorative) ----
+       Painted as .stApp's own background layers - by spec this is always the
+       bottom-most paint layer of the element, so it can never sit above real
+       content the way a separate positioned/z-indexed div unpredictably can. */
+    .stApp {{
+        background:
+            radial-gradient(650px circle at 12% -8%, rgba(51,184,222,0.16), transparent 60%),
+            radial-gradient(560px circle at 96% 22%, rgba(216,180,74,0.13), transparent 60%),
+            radial-gradient(600px circle at 38% 112%, rgba(51,184,222,0.11), transparent 60%),
+            {PAGE_BG};
+        background-repeat: no-repeat;
+        animation: auroraShift 30s ease-in-out infinite;
+    }}
+    @keyframes auroraShift {{
+        0%, 100% {{ background-position: 12% -8%, 96% 22%, 38% 112%, 0 0; }}
+        50% {{ background-position: 20% 6%, 86% 12%, 44% 96%, 0 0; }}
+    }}
     .block-container {{ padding-top: 2rem; max-width: 1300px; }}
 
     @keyframes fadeInUp {{
@@ -373,10 +390,8 @@ with st.sidebar:
 st.markdown(
     """
     <div class="hero-banner">
-      <div class="hero-tag">// Team ROOT3 &mdash; Standard Bank Data School Hackathon 2026</div>
       <div class="hero-title">Syn Bank Share of Wallet Intelligence Engine</div>
-      <div class="hero-subtitle">Luke Naidoo &middot; Wisdom Ejiro Peru &middot; Fatan Saud &nbsp;|&nbsp;
-      Numerator (internal share) &times; Denominator (top-down wallet) &times; GenAI synthesis,
+      <div class="hero-subtitle">Numerator (internal share) &times; Denominator (top-down wallet) &times; GenAI synthesis,
       across 20 JSE-listed clients</div>
     </div>
     """,
@@ -405,6 +420,83 @@ st.markdown(
     f'<b style="color:{TEXT};">insufficient</b> = Group financials not disclosed at all.</p>',
     unsafe_allow_html=True,
 )
+
+st.write("")
+with st.container(border=True):
+    section("Opportunity heatmap", "White-space view - unclaimed share of wallet, by client and pillar")
+    heat_pillars = [
+        ("share_pct_pillar2", "gap_zar_m_pillar2", "Trade & Working Capital"),
+        ("share_pct_pillar1", "gap_zar_m_pillar1", "Transactional Banking"),
+        ("share_pct_pillar3", "gap_zar_m_pillar3", "Foreign/Cross-Border"),
+    ]
+    heat_df = wallet_model.sort_values("total_gap_zar_m", ascending=False, na_position="last")
+    heat_clients = heat_df["entity_name"].tolist()
+
+    # Median share captured across this portfolio is under 1% - on a flat 0-100 scale nearly every
+    # cell would pin near 100% unclaimed and the map would read as a single gold block. The color
+    # axis is instead stretched to COLOR_FLOOR-100, the band where the real variation actually lives,
+    # so differences between clients are visible; the true % is always shown as the on-cell label.
+    COLOR_FLOOR = 75
+
+    z, labels, hover = [], [], []
+    for share_col, gap_col, _ in heat_pillars:
+        z_row, label_row, hover_row = [], [], []
+        for _, r in heat_df.iterrows():
+            share, gap = r[share_col], r[gap_col]
+            if pd.isna(share):
+                z_row.append(None)
+                label_row.append("")
+                hover_row.append(f"<b>{r['entity_name']}</b><br>Not estimated for this pillar")
+            elif share >= 100:
+                z_row.append(COLOR_FLOOR)
+                label_row.append("full")
+                hover_row.append(
+                    f"<b>{r['entity_name']}</b><br>Share captured: {share:.0f}% (proxy estimate below "
+                    f"internal activity)<br>Treated as fully captured - no gap shown<br>Reliability: {r['reliability_tier']}"
+                )
+            else:
+                z_row.append(max(COLOR_FLOOR, 100 - share))
+                label_row.append(f"{share:.1f}%")
+                gap_str = f"R{gap / 1000:,.1f}bn" if abs(gap) >= 1000 else f"R{gap:,.1f}m"
+                hover_row.append(
+                    f"<b>{r['entity_name']}</b><br>Share captured: {share:.1f}%"
+                    f"<br>Gap: {gap_str}<br>Reliability: {r['reliability_tier']}"
+                )
+        z.append(z_row)
+        labels.append(label_row)
+        hover.append(hover_row)
+
+    heat_fig = go.Figure(
+        data=go.Heatmap(
+            z=z, x=heat_clients, y=[p[2] for p in heat_pillars],
+            text=labels, texttemplate="%{text}", textfont=dict(color=PAGE_BG, size=10, family="Inter, sans-serif"),
+            hovertext=hover, hoverinfo="text",
+            colorscale=[[0, TEAL], [1, GOLD]],
+            colorbar=dict(
+                title="Unclaimed<br>share (%)", tickfont=dict(color=MUTED),
+                tickvals=[COLOR_FLOOR, 100], ticktext=[f"≤{COLOR_FLOOR}%", "100%"],
+            ),
+            xgap=3, ygap=6, zmin=COLOR_FLOOR, zmax=100,
+        )
+    )
+    plotly_dark_layout(heat_fig, height=300)
+    heat_fig.update_xaxes(tickangle=-45, tickfont=dict(size=10))
+    heat_fig.update_yaxes(tickfont=dict(size=12))
+    st.plotly_chart(heat_fig, width="stretch")
+    st.markdown(
+        f'<p style="font-size:0.78rem;color:{MUTED};margin-top:-8px;">Each cell shows Syn Bank\'s actual '
+        f"captured share for that client and pillar. Color is the same figure, inverted to unclaimed share "
+        f'and rescaled to the {COLOR_FLOOR}-100% band where this portfolio\'s real variation sits - captured '
+        f"share rarely exceeds a few percent even for Syn Bank's strongest relationships, so a flat 0-100% "
+        f"scale would show one solid color. Gold = the largest relative opportunity, teal = comparatively "
+        f'better penetrated. Colored by percentage rather than Rand gap so low-reliability, foreign-currency '
+        f"reporters (e.g. Glencore) don't visually dominate on global-consolidated figures. \"full\" cells "
+        f"(Sanlam, OUTsurance, The Bidvest Group on one pillar each) mean the external proxy estimate came in "
+        f"below Syn Bank's own internal activity for that pillar - treated as no gap rather than a fabricated "
+        "negative one. Blank cells were not estimated for that pillar. Hover any cell for the exact share, "
+        "Rand gap, and reliability tier.</p>",
+        unsafe_allow_html=True,
+    )
 
 st.write("")
 col_left, col_right = st.columns([3, 2])
