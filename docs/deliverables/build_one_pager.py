@@ -250,22 +250,22 @@ def build():
         Paragraph(
             "<b>Learned angle:</b> ElasticNet regression (5 targets, Leave-One-Group-Out CV) predicts share % "
             "directly from the internal activity volume; useful precisely where the top-down external "
-            "benchmark is thin or missing (when the company's public financial statements do not disclose"
-            "enough reliable information to construct the external top-down wallet estimate).",
+            "benchmark is thin or missing (when the company's public financial statements do not disclose "
+            "enough reliable information to construct the external top-down wallet estimate). ",
             styles["body"],
         ),
     ])
 
     right_col = section("GenAI Layer (3/3 use cases)", [
         Paragraph(
-            "<b>Client briefing notes</b> \u2014 Converts each client’s Share of Wallet, estimated wallet"
-            "gaps, reliability indicators and model signals into a concise briefing, helping relationship managers"
+            "<b>Client briefing notes</b> \u2014 Converts each client’s Share of Wallet, estimated wallet "
+            "gaps, reliability indicators and model signals into a concise briefing, helping relationship managers "
             "quickly understand where the biggest opportunities lie and what to discuss with the client.",
             styles["body"],
         ),
         Paragraph(
-            "<b>Anomaly explanations</b> \u2014 Automatically identifies unusual or high-opportunity"
-            "wallet signals and uses GenAI to explain why they matter, while keeping the underlying"
+            "<b>Anomaly explanations</b> \u2014 Automatically identifies unusual or high-opportunity "
+            "wallet signals and uses GenAI to explain why they matter, while keeping the underlying "
             "detection and calculations deterministic to reduce hallucination risk.",
             styles["body"],
         ),
